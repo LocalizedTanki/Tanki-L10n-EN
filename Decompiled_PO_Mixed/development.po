@@ -1,0 +1,1214 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mir tankov\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "additionalRewards/credits"
+msgstr "%(value)d кредитов"
+
+msgid "additionalRewards/crystal"
+msgstr "%(value)d бон"
+
+msgid "additionalRewards/customizations/3d_style"
+msgstr "3D-стиль «%(value)s»"
+
+msgid "additionalRewards/customizations/camouflage"
+msgstr "Камуфляж «%(value)s»"
+
+msgid "additionalRewards/customizations/decal"
+msgstr "Декаль «%(value)s»"
+
+msgid "additionalRewards/customizations/emblem"
+msgstr "Эмблема «%(value)s»"
+
+msgid "additionalRewards/customizations/inscription"
+msgstr "Надпись «%(value)s»"
+
+msgid "additionalRewards/customizations/modification"
+msgstr "Эффект «%(value)s»"
+
+msgid "additionalRewards/customizations/paint"
+msgstr "Краска «%(value)s»"
+
+msgid "additionalRewards/customizations/projectionDecal"
+msgstr "Декаль «%(value)s»"
+
+msgid "additionalRewards/customizations/style"
+msgstr "Стиль «%(value)s»"
+
+msgid "additionalRewards/dossier_achievement"
+msgstr "Медаль: «%(value)s»"
+
+msgid "additionalRewards/dossier_badge"
+msgstr "Нашивка: «%(value)s»"
+
+msgid "additionalRewards/freeXP"
+msgstr "%(value)s свободного опыта"
+
+msgid "additionalRewards/gold"
+msgstr "%(value)d золота"
+
+msgid "additionalRewards/levelHeader"
+msgstr "Дополнительно за уровень %(count)d"
+
+msgid "additionalRewards/premium"
+msgstr "Дней Общего премиум аккаунта: %(daysCount)s"
+
+msgid "additionalRewards/premium_plus"
+msgstr "Дней Танкового премиум аккаунта: %(daysCount)s"
+
+msgid "additionalRewards/questsDescription"
+msgstr "Complete %(count)d quests to unlock the bonus quests"
+
+msgid "additionalRewards/tankmenXP"
+msgstr "%(value)s опыта экипажа"
+
+msgid "additionalRewards/xp"
+msgstr "%(value)s боевого опыта"
+
+msgid "bots/buttons/add"
+msgstr "Add"
+
+msgid "bots/buttons/close"
+msgstr "Выйти"
+
+msgid "bots/labels/teamOne"
+msgstr "Первая команда"
+
+msgid "bots/labels/teamTwo"
+msgstr "Вторая команда"
+
+msgid "bots/labels/vehicleClass"
+msgstr "Vehicle Type"
+
+msgid "bots/title"
+msgstr "Добавление ботов"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "%d день"
+msgstr[1] "%d дня"
+msgstr[2] "%d дней"
+
+msgid "dialogTemplates/button/accept"
+msgstr "Подтвердить"
+
+msgid "dialogTemplates/button/buy"
+msgstr "Purchase"
+
+msgid "dialogTemplates/button/cancel"
+msgstr "Отменить"
+
+msgid "dialogTemplates/button/longText"
+msgstr "Очень длинный текст на кнопке"
+
+msgid "dialogTemplates/button/no"
+msgstr "Нет"
+
+msgid "dialogTemplates/button/remove"
+msgstr "Удалить"
+
+msgid "dialogTemplates/error/description"
+msgstr ""
+"Причина: рассинхронизация инвентаря, связанная с компонетом\n"
+"«Техника (код 1001)»"
+
+msgid "dialogTemplates/error/title"
+msgstr "Связь с сервером потеряна"
+
+msgid "dialogTemplates/info/description"
+msgstr ""
+"Доступно получение не более двух машин в сезоне 2019 года.\n"
+"Вы уверены, что хотите получить именно {gold_Open}VII{gold_Close} уровня {gold_Open}ST Emil{gold_Close}"
+
+msgid "dialogTemplates/info/title"
+msgstr "Подтвердите покупку {cream_Open}VII ST Emil{cream_Close}"
+
+msgid "dialogTemplates/warning/description"
+msgstr ""
+"При выборе задачи «Союз 2. Уходя гасите свет» прогресс по задаче «Союз-1.\n"
+"Полное содействие» будет сброшен."
+
+msgid "dialogTemplates/warning/title"
+msgstr "Перевыбор задачи"
+
+msgid "editor/Pause"
+msgstr "Pause (Ctrl+P)"
+
+msgid "editor/Resume"
+msgstr "Resume (Ctrl+P)"
+
+msgid "editor/contextMenu/close_editor"
+msgstr "Close Editor"
+
+msgid "editor/contextMenu/copy"
+msgstr "Copy"
+
+msgid "editor/contextMenu/cut"
+msgstr "Cut"
+
+msgid "editor/contextMenu/new"
+msgstr "New"
+
+msgid "editor/contextMenu/open"
+msgstr "Open"
+
+msgid "editor/contextMenu/paste"
+msgstr "Paste"
+
+msgid "editor/contextMenu/save"
+msgstr "Save"
+
+msgid "editor/contextMenu/save_as"
+msgstr "Save as"
+
+msgid "editor/contextMenu/undo"
+msgstr "Undo"
+
+msgid "editor/focus"
+msgstr "To focus (Ctrl+F): %(name)s"
+
+msgid "editor/goto"
+msgstr "goto"
+
+msgid "editor/search"
+msgstr "search"
+
+msgid "editor/title"
+msgstr "Inspector"
+
+msgid "editor/trackFocus/off"
+msgstr "Track focus OFF (ctrl+T)"
+
+msgid "editor/trackFocus/on"
+msgstr "Track focus ON (ctrl+T)"
+
+msgid "gfViewer/content/chainDescription"
+msgstr "Chains:"
+
+msgid "gfViewer/content/createBlockTitle"
+msgstr "New preset:"
+
+msgid "gfViewer/content/editorTitle"
+msgstr "Transaction content:"
+
+msgid "gfViewer/content/invalidModelMessage"
+msgstr "Model is invalid"
+
+msgid "gfViewer/content/invalidViewMessage"
+msgstr "View is invalid"
+
+msgid "gfViewer/content/listBlockTitle"
+msgstr "Presets:"
+
+msgid "gfViewer/content/modelLabel"
+msgstr "Model:"
+
+msgid "gfViewer/content/presetDescription"
+msgstr "Preset:"
+
+msgid "gfViewer/content/presetLabel"
+msgstr "Preset Name:"
+
+msgid "gfViewer/content/transactionDescription"
+msgstr "Transactions:"
+
+msgid "gfViewer/content/transactionTitle"
+msgstr "Transaction name:"
+
+msgid "gfViewer/content/viewLabel"
+msgstr "View (R class):"
+
+msgid "gfViewer/controls/add"
+msgstr "Add"
+
+msgid "gfViewer/controls/addBase"
+msgstr "Add base"
+
+msgid "gfViewer/controls/addEmpty"
+msgstr "Add empty"
+
+msgid "gfViewer/controls/addTransaction"
+msgstr "Add transaction"
+
+msgid "gfViewer/controls/back"
+msgstr "Back"
+
+msgid "gfViewer/controls/cancel"
+msgstr "Cancel"
+
+msgid "gfViewer/controls/change"
+msgstr "Change"
+
+msgid "gfViewer/controls/create"
+msgstr "Create"
+
+msgid "gfViewer/controls/createChain"
+msgstr "Create chain"
+
+msgid "gfViewer/controls/load"
+msgstr "Load"
+
+msgid "gfViewer/controls/remove"
+msgstr "Remove"
+
+msgid "gfViewer/controls/save"
+msgstr "Save"
+
+msgid "gfViewer/controls/saveAsNew"
+msgstr "Save as new"
+
+msgid "messenger/contacts/addGroup/body"
+msgstr "Click to create a group."
+
+msgid "messenger/contacts/addGroup/header"
+msgstr "Create Group"
+
+msgid "messenger/contacts/externalSearch/body"
+msgstr "Нажмите, чтобы запустить поиск игрока по всему региону."
+
+msgid "messenger/contacts/externalSearch/header"
+msgstr "Найти вне контактов"
+
+msgid "messenger/contacts/searchContact/body"
+msgstr "Click to find and add a player to your Contact list."
+
+msgid "messenger/contacts/searchContact/header"
+msgstr "Player Search"
+
+msgid "messenger/contacts/settings/body"
+msgstr "Click to change the Contact list settings."
+
+msgid "messenger/contacts/settings/header"
+msgstr "Настройка"
+
+msgid "messenger/contacts/settings/view/applyBtn/body"
+msgstr "Click to save the selected settings."
+
+msgid "messenger/contacts/settings/view/applyBtn/header"
+msgstr "Apply"
+
+msgid "messenger/contacts/settings/view/cancelBtn/body"
+msgstr "Click to cancel the changes and return to your Contact list."
+
+msgid "messenger/contacts/settings/view/cancelBtn/header"
+msgstr "Cancel"
+
+msgid "mttv/AppearanceView/camouflage"
+msgstr "Камуфляж"
+
+msgid "mttv/AppearanceView/camouflageOptions/adAstra"
+msgstr "Ad Astra"
+
+msgid "mttv/AppearanceView/camouflageOptions/alfa"
+msgstr "Alfa"
+
+msgid "mttv/AppearanceView/camouflageOptions/amway921"
+msgstr "Amway921, наградной"
+
+msgid "mttv/AppearanceView/camouflageOptions/c_1918"
+msgstr "1918"
+
+msgid "mttv/AppearanceView/camouflageOptions/c_23"
+msgstr "23"
+
+msgid "mttv/AppearanceView/camouflageOptions/removeAll"
+msgstr "Удалить всё"
+
+msgid "mttv/AppearanceView/camouflageOptions/standard"
+msgstr "Стандарт"
+
+msgid "mttv/AppearanceView/camouflageOptions/tankolet"
+msgstr "#tankolet"
+
+msgid "mttv/AppearanceView/cleanFromDirt"
+msgstr "Очистить от грязи"
+
+msgid "mttv/AppearanceView/modulesHeader"
+msgstr "Модули танка"
+
+msgid "mttv/AppearanceView/resetModules"
+msgstr "Сбросить модули"
+
+msgid "mttv/AppearanceView/selectEngine"
+msgstr "Выбрать двигатель"
+
+msgid "mttv/AppearanceView/selectGun"
+msgstr "Выбрать орудие"
+
+msgid "mttv/AppearanceView/selectRadio"
+msgstr "Выбрать радиостанцию"
+
+msgid "mttv/AppearanceView/selectSuspension"
+msgstr "Выбрать ходовую"
+
+msgid "mttv/AppearanceView/selectTurret"
+msgstr "Выбрать башню"
+
+msgid "mttv/AppearanceView/showClan"
+msgstr "Показывать клановые иконки"
+
+msgid "mttv/AppearanceView/showDirt"
+msgstr "Показывать грязь"
+
+msgid "mttv/AppearanceView/showModel"
+msgstr "Показывать модель"
+
+msgid "mttv/AppearanceView/showStickers"
+msgstr "Показывать стикеры"
+
+msgid "mttv/CameraView/cameraCheckboxOverrideArrows"
+msgstr "Перехват стрелок (для поворота камеры в аркадном режиме)"
+
+msgid "mttv/CameraView/cameraCheckboxShaker"
+msgstr "Пошатывание камеры в движении"
+
+msgid "mttv/CameraView/cameraCheckboxVerticalFixation"
+msgstr "Закрепить высоту камеры"
+
+msgid "mttv/CameraView/cameraCheckboxVerticalFixationCurrent"
+msgstr "текущее"
+
+msgid "mttv/CameraView/cameraCheckboxVerticalFixationTerrain"
+msgstr "Закрепить высоту камеры над землей"
+
+msgid "mttv/CameraView/cameraCheckboxVerticalFixationValue"
+msgstr "Высота камеры (в см)"
+
+msgid "mttv/CameraView/cameraDataProviderFov1"
+msgstr "Выбрать значение"
+
+msgid "mttv/CameraView/cameraDataProviderFov2"
+msgstr "3,6 mm - 81°"
+
+msgid "mttv/CameraView/cameraDataProviderFov3"
+msgstr "4,8 mm - 67°"
+
+msgid "mttv/CameraView/cameraDataProviderFov4"
+msgstr "6 mm - 56°"
+
+msgid "mttv/CameraView/cameraDataProviderFov5"
+msgstr "8 mm - 44°"
+
+msgid "mttv/CameraView/cameraDataProviderFov6"
+msgstr "12 mm - 30°"
+
+msgid "mttv/CameraView/cameraDataProviderFov7"
+msgstr "16 mm - 23°"
+
+msgid "mttv/CameraView/cameraDataProviderFov8"
+msgstr "24 mm - 11°"
+
+msgid "mttv/CameraView/cameraLabelCameraBoost"
+msgstr "Множитель ускорения камеры"
+
+msgid "mttv/CameraView/cameraLabelFovPreset"
+msgstr "Дискретные значения фокусного расстояния"
+
+msgid "mttv/CameraView/cameraLabelFovSensitivity"
+msgstr "Чувствительность зума"
+
+msgid "mttv/CameraView/cameraLabelMovementInertia"
+msgstr "Коэффициент движения в инертном режиме (множитель)"
+
+msgid "mttv/CameraView/cameraLabelRotationInertia"
+msgstr "Коэффициент поворота в инертном режиме (множитель)"
+
+msgid "mttv/CameraView/cameraLabelVerticalFov"
+msgstr "Вертикальный FOV (в градусах)"
+
+msgid "mttv/CameraView/cameraLockRollCheckbox"
+msgstr "Лок крена свободной камеры"
+
+msgid "mttv/CameraView/cameraView"
+msgstr "Камера"
+
+msgid "mttv/CameraView/shakerAmplitude"
+msgstr "Амплитуда (в см)"
+
+msgid "mttv/CameraView/shakerFieldsetHorizontal"
+msgstr "Горизонтальное"
+
+msgid "mttv/CameraView/shakerFieldsetVertical"
+msgstr "Вертикальное"
+
+msgid "mttv/CameraView/shakerSpeed"
+msgstr "Скорость"
+
+msgid "mttv/Entity/applyToAll"
+msgstr "Применить ко всем"
+
+msgid "mttv/Entity/applyToTeam"
+msgstr "Применить к команде"
+
+msgid "mttv/EntityTabs/appearance"
+msgstr "Вид"
+
+msgid "mttv/EntityTabs/default"
+msgstr "Обычный"
+
+msgid "mttv/EntityTabs/destroyed"
+msgstr "Уничтожен"
+
+msgid "mttv/EntityTabs/marker"
+msgstr "Маркер"
+
+msgid "mttv/EntityTabs/vehicle"
+msgstr "Конфигурация"
+
+msgid "mttv/FrameEditView/addFrame"
+msgstr "Add Frame"
+
+msgid "mttv/FrameEditView/apply"
+msgstr "Apply"
+
+msgid "mttv/FrameEditView/cancel"
+msgstr "Cancel"
+
+msgid "mttv/FrameEditView/currentTime"
+msgstr "Current Time"
+
+msgid "mttv/FrameEditView/delete"
+msgstr "Delete"
+
+msgid "mttv/FrameEditView/fov"
+msgstr "FOV"
+
+msgid "mttv/FrameEditView/frameEdit"
+msgstr "Frame Edit"
+
+msgid "mttv/FrameEditView/groupDeletion"
+msgstr "Delete group"
+
+msgid "mttv/FrameEditView/play"
+msgstr "Play"
+
+msgid "mttv/FrameEditView/position"
+msgstr "Position"
+
+msgid "mttv/FrameEditView/rotation"
+msgstr "Rotation"
+
+msgid "mttv/FrameEditView/speed"
+msgstr "Speed"
+
+msgid "mttv/FrameEditView/time"
+msgstr "Time"
+
+msgid "mttv/InterfaceView/anotherStaff"
+msgstr "Отображать шестое чувство, осадный режим и остальное"
+
+msgid "mttv/InterfaceView/battleMessenger"
+msgstr "Отображать панель игрового чата"
+
+msgid "mttv/InterfaceView/calloutPanel"
+msgstr "Отображать панель подтверждения"
+
+msgid "mttv/InterfaceView/clanTags"
+msgstr "Отображать клан теги игроков"
+
+msgid "mttv/InterfaceView/consumablesPanel"
+msgstr "Отображать панель снарядов"
+
+msgid "mttv/InterfaceView/crosshair"
+msgstr "Отображать прицел"
+
+msgid "mttv/InterfaceView/damageIndicator"
+msgstr "Отображать индикатор обстрела"
+
+msgid "mttv/InterfaceView/damageLog"
+msgstr "Отображать лог и счётчики урона"
+
+msgid "mttv/InterfaceView/damagePanel"
+msgstr "Отображать панель урона"
+
+msgid "mttv/InterfaceView/debugPanel"
+msgstr "Отображать дебаг панель (FPS/ping)"
+
+msgid "mttv/InterfaceView/debugText"
+msgstr "Отображать дебаг информацию камеры"
+
+msgid "mttv/InterfaceView/dualGunPanel"
+msgstr "Отображать панель двустволок"
+
+msgid "mttv/InterfaceView/fragCorrelationBar"
+msgstr "Отображать панель команд"
+
+msgid "mttv/InterfaceView/gunMarker"
+msgstr "Отображать маркер орудия"
+
+msgid "mttv/InterfaceView/highlight"
+msgstr "Отображать контуры танков"
+
+msgid "mttv/InterfaceView/highlightFreeCam"
+msgstr "Отображать контуры танков при свободной камере"
+
+msgid "mttv/InterfaceView/interfaceView"
+msgstr "Интерфейс"
+
+msgid "mttv/InterfaceView/markers"
+msgstr "Отображать маркеры [все]"
+
+msgid "mttv/InterfaceView/markersHovering"
+msgstr "Ховеринг маркеров"
+
+msgid "mttv/InterfaceView/markersPluginArea"
+msgstr "Отображать маркеры [площадь]"
+
+msgid "mttv/InterfaceView/markersPluginTeamAndControlPoints"
+msgstr "Отображать маркеры [контрольные точки]"
+
+msgid "mttv/InterfaceView/markersPluginVehiclesTargets"
+msgstr "Отображать маркеры [автоприцел]"
+
+msgid "mttv/InterfaceView/markersVehicles"
+msgstr "Отображать маркеры [техника]"
+
+msgid "mttv/InterfaceView/messages"
+msgstr "Отображать боевые сообщения"
+
+msgid "mttv/InterfaceView/minimap"
+msgstr "Отображать миникарту"
+
+msgid "mttv/InterfaceView/playerMessageList"
+msgstr "Отображать сообщения об убийствах"
+
+msgid "mttv/InterfaceView/playersNames"
+msgstr "Отображать имена игроков"
+
+msgid "mttv/InterfaceView/playersPanel"
+msgstr "Отображать панели игроков"
+
+msgid "mttv/InterfaceView/questProgress"
+msgstr "Отображать прогресс ЛБЗ"
+
+msgid "mttv/InterfaceView/recordState"
+msgstr "Отображать индикатор записи камеры"
+
+msgid "mttv/InterfaceView/ribbons"
+msgstr "Отображать ленточки"
+
+msgid "mttv/InterfaceView/selectPreset"
+msgstr "Выбрать настройки"
+
+msgid "mttv/InterfaceView/switchAll"
+msgstr "Переключить все"
+
+msgid "mttv/InterfaceView/timeline"
+msgstr "Отображать таймлайн"
+
+msgid "mttv/InterfaceView/timers"
+msgstr "Отображать боевые таймеры"
+
+msgid "mttv/Interpolate/bezierControl"
+msgstr "Bezier Control"
+
+msgid "mttv/Interpolate/bezierHard"
+msgstr "Bezier Hard"
+
+msgid "mttv/Interpolate/clampedCubicSpline"
+msgstr "Clamped Cubic Spline"
+
+msgid "mttv/Interpolate/cubicSpline"
+msgstr "Cubic Spline"
+
+msgid "mttv/Interpolate/linear"
+msgstr "Linear"
+
+msgid "mttv/Interpolate/monotoneSpline"
+msgstr "Monotone Spline"
+
+msgid "mttv/Interpolate/placeholder"
+msgstr "Выбрать интерполяцию"
+
+msgid "mttv/Interpolate/source"
+msgstr "Source"
+
+msgid "mttv/MarkerView/healthIndicatorOption/dontShow"
+msgstr "Не показывать"
+
+msgid "mttv/MarkerView/healthIndicatorOption/hpLeft"
+msgstr "Осталось прочности"
+
+msgid "mttv/MarkerView/healthIndicatorOption/hpLeftAll"
+msgstr "Осталось прочности / всего"
+
+msgid "mttv/MarkerView/healthIndicatorOption/percents"
+msgstr "Осталось прочности в процентах"
+
+msgid "mttv/MarkerView/healthIndicatorType"
+msgstr "Тип индикатора прочности"
+
+msgid "mttv/MarkerView/markerType"
+msgstr "Тип маркера"
+
+msgid "mttv/MarkerView/markerTypeOptions/ally"
+msgstr "Союзник"
+
+msgid "mttv/MarkerView/markerTypeOptions/default"
+msgstr "Стандартный"
+
+msgid "mttv/MarkerView/markerTypeOptions/enemy"
+msgstr "Враг"
+
+msgid "mttv/MarkerView/markerTypeOptions/squadman"
+msgstr "Взвод"
+
+msgid "mttv/MarkerView/markerTypeOptions/teamkiller"
+msgstr "Тимкиллер"
+
+msgid "mttv/MarkerView/showActionMarker"
+msgstr "Показывать действия"
+
+msgid "mttv/MarkerView/showDamageType"
+msgstr "Показывать тип урона"
+
+msgid "mttv/MarkerView/showHealth"
+msgstr "Показывать полоску прочности"
+
+msgid "mttv/MarkerView/showMarker"
+msgstr "Показывать маркер"
+
+msgid "mttv/MarkerView/showPlayerName"
+msgstr "Показывать имя игрока"
+
+msgid "mttv/MarkerView/showReceivedDamage"
+msgstr "Показывать полученный урон"
+
+msgid "mttv/MarkerView/showStatusContainer"
+msgstr "Показывать статусы"
+
+msgid "mttv/MarkerView/showVehicleIcon"
+msgstr "Показывать иконку"
+
+msgid "mttv/MarkerView/showVehicleLevel"
+msgstr "Показывать уровень"
+
+msgid "mttv/MarkerView/showVehicleName"
+msgstr "Показывать название"
+
+msgid "mttv/MarkerView/showVehicleType"
+msgstr "Показывать иконку класса"
+
+msgid "mttv/OptionsView/hotkeysList"
+msgstr "Сохраненные настройки горячих клавиш"
+
+msgid "mttv/OptionsView/optionsView"
+msgstr "Настройки"
+
+msgid "mttv/OptionsView/timeWarpShift"
+msgstr "Перемотка при нажатом Shift (сек.)"
+
+msgid "mttv/RecordsView/InterpolationStep"
+msgstr "шаг выборки интерполяции(кол-во фреймов в 1 с)"
+
+msgid "mttv/RecordsView/bezierControlTension"
+msgstr "Жёсткость контрольных точек:"
+
+msgid "mttv/RecordsView/clear"
+msgstr "Очистить точки"
+
+msgid "mttv/RecordsView/dump"
+msgstr "Дамп"
+
+msgid "mttv/RecordsView/inertialFinish"
+msgstr "Инерция после завершения пути"
+
+msgid "mttv/RecordsView/play"
+msgstr "Запустить"
+
+msgid "mttv/RecordsView/preset"
+msgstr "Preset:"
+
+msgid "mttv/RecordsView/profile"
+msgstr "Profile:"
+
+msgid "mttv/RecordsView/rebuild"
+msgstr "Пересобрать отсюда"
+
+msgid "mttv/RecordsView/record"
+msgstr "Запись"
+
+msgid "mttv/RecordsView/recordInterval"
+msgstr "Интервал записи (мс):"
+
+msgid "mttv/RecordsView/recordsView"
+msgstr "Записи"
+
+msgid "mttv/RecordsView/showPath"
+msgstr "Отрисовка пути"
+
+msgid "mttv/RecordsView/showStatus"
+msgstr "Показывать окно обработчика"
+
+msgid "mttv/RecordsView/stop"
+msgstr "Остановить"
+
+msgid "mttv/RecordsView/tune"
+msgstr "Tune:"
+
+msgid "mttv/SnapshotsView/autoPause"
+msgstr "Автопауза при загрузке"
+
+msgid "mttv/SnapshotsView/create"
+msgstr "Создать"
+
+msgid "mttv/SnapshotsView/restore"
+msgstr "Загрузить"
+
+msgid "mttv/SnapshotsView/restoreFOV"
+msgstr "Восстанавливать FOV камеры"
+
+msgid "mttv/SnapshotsView/restorePosition"
+msgstr "Восстанавливать положение камеры"
+
+msgid "mttv/SnapshotsView/restoreTime"
+msgstr "Восстанавливать время реплея"
+
+msgid "mttv/SnapshotsView/restoreToCurrentBinding"
+msgstr "Восстанавливать к текущей привязке"
+
+msgid "mttv/SnapshotsView/snapshotsView"
+msgstr "Снепшоты"
+
+msgid "mttv/VehicleSelection/SPG"
+msgstr "САУ"
+
+msgid "mttv/VehicleSelection/allNations"
+msgstr "Все нации"
+
+msgid "mttv/VehicleSelection/allTiers"
+msgstr "Все уровни"
+
+msgid "mttv/VehicleSelection/allTypes"
+msgstr "Все классы"
+
+msgid "mttv/VehicleSelection/atSPG"
+msgstr "ПТ САУ"
+
+msgid "mttv/VehicleSelection/china"
+msgstr "Китай"
+
+msgid "mttv/VehicleSelection/czech"
+msgstr "Чехословакия"
+
+msgid "mttv/VehicleSelection/france"
+msgstr "Франция"
+
+msgid "mttv/VehicleSelection/germany"
+msgstr "Германия"
+
+msgid "mttv/VehicleSelection/heavyTank"
+msgstr "Тяжёлый танк"
+
+msgid "mttv/VehicleSelection/italy"
+msgstr "Италия"
+
+msgid "mttv/VehicleSelection/japan"
+msgstr "Япония"
+
+msgid "mttv/VehicleSelection/lightTank"
+msgstr "Лёгкий танк"
+
+msgid "mttv/VehicleSelection/mediumTank"
+msgstr "Средний танк"
+
+msgid "mttv/VehicleSelection/poland"
+msgstr "Польша"
+
+msgid "mttv/VehicleSelection/sweden"
+msgstr "Швеция"
+
+msgid "mttv/VehicleSelection/tier"
+msgstr "Уровень"
+
+msgid "mttv/VehicleSelection/uk"
+msgstr "Великобритания"
+
+msgid "mttv/VehicleSelection/usa"
+msgstr "США"
+
+msgid "mttv/VehicleSelection/ussr"
+msgstr "СССР"
+
+msgid "mttv/commonContextmenuClean"
+msgstr "Очистить"
+
+msgid "mttv/commonContextmenuDefault"
+msgstr "По умолчанию"
+
+msgid "mttv/commonEntityEditorTitle"
+msgstr "MTTV Entity Editor"
+
+msgid "mttv/commonWindowTitle"
+msgstr "MTTV - помощник"
+
+msgid "mttv/hotkeys/activateFreeCamera"
+msgstr "Свободная камера"
+
+msgid "mttv/hotkeys/camAngularVelocityDecrement"
+msgstr "Камера: Уменьшить угловую скорость"
+
+msgid "mttv/hotkeys/camAngularVelocityIncrement"
+msgstr "Камера: Увеличить угловую скорость"
+
+msgid "mttv/hotkeys/camBindToVehicle"
+msgstr "Камера: Прицепить к машине"
+
+msgid "mttv/hotkeys/camLinearVelocityDecrement"
+msgstr "Камера: Уменьшить линейную скорость"
+
+msgid "mttv/hotkeys/camLinearVelocityIncrement"
+msgstr "Камера: Увеличить линейную скорость"
+
+msgid "mttv/hotkeys/camLookAt"
+msgstr "Камера: Смотреть на машину или точку"
+
+msgid "mttv/hotkeys/camMoveBackward"
+msgstr "Камера: Двигаться назад"
+
+msgid "mttv/hotkeys/camMoveDown"
+msgstr "Камера: Двигаться вниз"
+
+msgid "mttv/hotkeys/camMoveForward"
+msgstr "Камера: Двигаться вперёд"
+
+msgid "mttv/hotkeys/camMoveLeft"
+msgstr "Камера: Двигаться влево"
+
+msgid "mttv/hotkeys/camMoveRight"
+msgstr "Камера: Двигаться вправо"
+
+msgid "mttv/hotkeys/camMoveUp"
+msgstr "Камера: Двигаться вверх"
+
+msgid "mttv/hotkeys/camRevertVerticalVelocity"
+msgstr "Камера: Вернуть вертикальную скорость"
+
+msgid "mttv/hotkeys/camRotateCClockwise"
+msgstr "Камера: Повернуть против часовой стрелки"
+
+msgid "mttv/hotkeys/camRotateClockwise"
+msgstr "Камера: Повернуть по часовой стрелке"
+
+msgid "mttv/hotkeys/camRotateDown"
+msgstr "Камера: Повернуть вниз"
+
+msgid "mttv/hotkeys/camRotateLeft"
+msgstr "Камера: Повернуть влево"
+
+msgid "mttv/hotkeys/camRotateRight"
+msgstr "Камера: Повернуть вправо"
+
+msgid "mttv/hotkeys/camRotateUp"
+msgstr "Камера: Повернуть вверх"
+
+msgid "mttv/hotkeys/camSetDefaultFov"
+msgstr "Камера: Установить стандартный FOV"
+
+msgid "mttv/hotkeys/camSetDefaultRoll"
+msgstr "Камера: Установить стандартный наклон"
+
+msgid "mttv/hotkeys/camShowGunMarker"
+msgstr "Камера: Показать маркер"
+
+msgid "mttv/hotkeys/camSwitchInertia"
+msgstr "Камера: Переключить инерцию"
+
+msgid "mttv/hotkeys/camSwitchLandCamera"
+msgstr "Камера: Переключить наземную камеру"
+
+msgid "mttv/hotkeys/camSwitchRotateAroundPoint"
+msgstr "Камера: Переключить поворот вокруг точки"
+
+msgid "mttv/hotkeys/camTargetRadiusDecrement"
+msgstr "Камера: Уменьшение целевого радиуса"
+
+msgid "mttv/hotkeys/camTargetRadiusIncrement"
+msgstr "Камера: Увеличение целевого радиуса"
+
+msgid "mttv/hotkeys/camZoomGrowDown"
+msgstr "Камера: Уменьшить зум"
+
+msgid "mttv/hotkeys/camZoomGrowUp"
+msgstr "Камера: Увеличить зум"
+
+msgid "mttv/hotkeys/camZoomVelocityDecrement"
+msgstr "Камера: Уменьшить скорость зума"
+
+msgid "mttv/hotkeys/camZoomVelocityIncrement"
+msgstr "Камера: Увеличить скорость зума"
+
+msgid "mttv/hotkeys/cleaningFromDirt"
+msgstr "Очистить машины от грязи"
+
+msgid "mttv/hotkeys/interfaceMarkers"
+msgstr "Отображать маркеры танков"
+
+msgid "mttv/hotkeys/interfaceTimers"
+msgstr "Отображать боевые таймеры"
+
+msgid "mttv/hotkeys/replayAddCircle"
+msgstr "Добавить сегмент круг"
+
+msgid "mttv/hotkeys/replayAddPoint"
+msgstr "Добавить точку"
+
+msgid "mttv/hotkeys/replayDebugToggle"
+msgstr "Включить/отключить отрисовку"
+
+msgid "mttv/hotkeys/replayDeleteAll"
+msgstr "Удалить все точки"
+
+msgid "mttv/hotkeys/replayDeleteLast"
+msgstr "Удалить последнюю точку"
+
+msgid "mttv/hotkeys/replayFillBezierControl"
+msgstr "Заполнить bezier control"
+
+msgid "mttv/hotkeys/replayFillBezierHard"
+msgstr "Заполнить bezier hard"
+
+msgid "mttv/hotkeys/replayFillCubicSpline"
+msgstr "Заполнить cubic spline"
+
+msgid "mttv/hotkeys/replayFillLinear"
+msgstr "Заполнить linear"
+
+msgid "mttv/hotkeys/replayFillSource"
+msgstr "Не заполнять"
+
+msgid "mttv/hotkeys/replayPlay"
+msgstr "Начать/остановить проигрывание"
+
+msgid "mttv/hotkeys/replayRecord"
+msgstr "Начать/остановить запись"
+
+msgid "mttv/hotkeys/showPlayerMarker"
+msgstr "Маркер над танком игрока"
+
+msgid "mttv/hotkeys/snapshotCreate"
+msgstr "Создать снапшот"
+
+msgid "mttv/hotkeys/snapshotRestore"
+msgstr "Загрузить снапшот"
+
+msgid "mttv/hotkeys/switchGui"
+msgstr "Показать/Скрыть меню"
+
+msgid "mttv/hotkeys/timelineSwitchVisibility"
+msgstr "Переключить видимость таймлайна"
+
+msgid "mttv/selectOption"
+msgstr "Выбрать значение"
+
+msgid "mttv/watchers/warning"
+msgstr ""
+"Опасная зона: изменения могут вызвать неожиданные эффекты, даже сбой! "
+"Доступно только на гибридном клиенте."
+
+msgid "mttv/watchersView"
+msgstr "Watchers"
+
+msgid "piercingDebugPanel/header/dispersion"
+msgstr "Разброс БП: "
+
+msgid "piercingDebugPanel/header/piercingPower"
+msgstr "Бронепробитие: "
+
+msgid "piercingDebugPanel/header/shellType"
+msgstr "Тип снаряда: "
+
+msgid "piercingDebugPanel/ricochet"
+msgstr "рикошет"
+
+msgid "piercingDebugPanel/table/angle"
+msgstr "Угол"
+
+msgid "piercingDebugPanel/table/armor"
+msgstr ""
+"Броня \n"
+"номинальная"
+
+msgid "piercingDebugPanel/table/penetrationArmor"
+msgstr ""
+"Броня \n"
+"приведенная"
+
+msgid "piercingDebugPanel/table/piercingPercent"
+msgstr ""
+"Оценка\n"
+"брони"
+
+msgid "piercingDebugPanel/table/piercingPowerLeft"
+msgstr "Остаток БП"
+
+msgid "piercingDebugPanel/table/vehPart"
+msgstr "Часть танка"
+
+msgid "piercingDebugPanel/vehPart/armor"
+msgstr "броня"
+
+msgid "piercingDebugPanel/vehPart/screen"
+msgstr "экран"
+
+msgid "piercingDebugPanel/vehPart/tracks"
+msgstr "гусеница"
+
+msgid "piercingDebugPanel/vehPart/wheels"
+msgstr "колесо"
+
+msgid "premium/buying/success"
+msgid_plural "plural/premium/buying/success"
+msgstr[0] "Премиум аккаунт куплен на %(period)s день. Потрачено %(money)s."
+msgstr[1] "Премиум аккаунт куплен на %(period)s дня. Потрачено %(money)s."
+msgstr[2] "Премиум аккаунт куплен на %(period)s дней. Потрачено %(money)s."
+
+msgid "selectableRewardDemoView/subTitle"
+msgstr "SELECT YOUR REWARD"
+
+msgid "wulf/buttons/buy"
+msgstr "Buy"
+
+msgid "wulf/buttons/cancel"
+msgstr "Cancel"
+
+msgid "wulf/buttons/contacts"
+msgstr "Contacts"
+
+msgid "wulf/buttons/toggle"
+msgstr "Toggle"
+
+msgid "wulf/content/pager"
+msgstr "{current}/{total}"
+
+msgid "wulf/debugOff"
+msgstr "Hide GF zones (Ctrl+G)"
+
+msgid "wulf/debugOn"
+msgstr "Display GF zones (Ctrl+G)"
+
+msgid "wulf/demoWindow/title"
+msgstr "Demo Window"
+
+msgid "wulf/dialogExamples/testArgs/cancel"
+msgstr "Cancel"
+
+msgid "wulf/dialogExamples/testArgs/message"
+msgstr "Сообщение с аргументами: Раз: {} Два: {} Три: {}"
+
+msgid "wulf/dialogExamples/testArgs/submit"
+msgstr "OK"
+
+msgid "wulf/dialogExamples/testArgs/title"
+msgstr "Заголовок с аргументами. Раз: {} Два: {} Три: {}"
+
+msgid "wulf/dialogExamples/testFmtArgs/cancel"
+msgstr "Cancel"
+
+msgid "wulf/dialogExamples/testFmtArgs/message"
+msgstr ""
+"Сообщение с форматируемыми аргументами: Раз: {one} Два: {two} Три: {three}"
+
+msgid "wulf/dialogExamples/testFmtArgs/submit"
+msgstr "OK"
+
+msgid "wulf/dialogExamples/testFmtArgs/title"
+msgstr ""
+"Заголовок с форматируемыми аргументами. Раз: {one} Два: {two} Три: {three}"
+
+msgid "wulf/listExamplesEmptyRenderWindow/title"
+msgstr "List Examples Empty Render"
+
+msgid "wulf/listExamplesWindow/rendererLabel"
+msgstr "Array item"
+
+msgid "wulf/listExamplesWindow/title"
+msgstr "List Examples"
+
+msgid "wulf/props/title"
+msgstr "Пример structural binding:"
+
+msgid "wulf/serviceWindowDemo/title"
+msgstr "Service Window Demo"
+
+msgid "wulf/standartWindowDemo/title"
+msgstr "Standard Window Demo"
+
+msgid "wulf/uiKitWindow/CheckBox"
+msgstr "CheckBox"
+
+msgid "wulf/uiKitWindow/CheckBoxLabel"
+msgstr "Чекбокс"
+
+msgid "wulf/uiKitWindow/Input"
+msgstr "Input Examples"
+
+msgid "wulf/uiKitWindow/List"
+msgstr "List"
+
+msgid "wulf/uiKitWindow/PrimaryBtn"
+msgstr "PrimaryBtn"
+
+msgid "wulf/uiKitWindow/ProgressBarBig"
+msgstr "ProgressBarBig"
+
+msgid "wulf/uiKitWindow/ProgressBarSmall"
+msgstr "ProgressBarSmall"
+
+msgid "wulf/uiKitWindow/ProgressBarUB"
+msgstr "ProgressBarUB"
+
+msgid "wulf/uiKitWindow/Slider"
+msgstr "Slider"
+
+msgid "wulf/uiKitWindow/SlotBtn"
+msgstr "SlotButton"
+
+msgid "wulf/uiKitWindow/header"
+msgstr "Header drag and drop(text from po)"
+
+msgid "wulf/unboundInjectionWindow/title"
+msgstr "Unbound component test"
+
+msgid "wulf/wTypesDemo/contextMenu/openConfirmDialog"
+msgstr "Open confirmation dialog"
+
+msgid "wulf/wTypesDemo/contextMenu/openDialogs"
+msgstr "Open dialogs"
+
+msgid "wulf/wTypesDemo/contextMenu/openInfoDialog"
+msgstr "Open info dialog"
+
+msgid "wulf/wTypesDemo/contextMenu/openOverlay"
+msgstr "Open overlay"
+
+msgid "wulf/wTypesDemo/contextMenu/openServiceWindow"
+msgstr "Open service window"
+
+msgid "wulf/wTypesDemo/contextMenu/openStandardWindow"
+msgstr "Open standard window"
+
+msgid "wulf/wTypesDemo/contextMenu/openWindows"
+msgstr "Open windows"
+
+msgid "wulf/wTypesDemo/tooltip/body"
+msgstr "Body and header are defined in po file."
+
+msgid "wulf/wTypesDemo/tooltip/header"
+msgstr "Demo Header"
+
+msgid "wulf/windowTypesDemo/title"
+msgstr "Window Types Demo"

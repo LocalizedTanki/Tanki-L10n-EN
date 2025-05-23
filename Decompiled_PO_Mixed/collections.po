@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mir tankov\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "collection/error/description"
+msgstr ""
+"We are wiping the dust off your Collection. In the meantime, head into "
+"battle."
+
+msgid "collection/error/title"
+msgstr "Collection Under Restoration"
+
+msgid "collection/tooltip/completed"
+msgstr "\"%(name)s, %(season)s / %(year)s\" Collection completed."
+
+msgid "collection/tooltip/progress"
+msgstr ""
+"Number of \"%(name)s, %(season)s / %(year)s\" Collection Elements gathered."
+
+msgid "footer/buttonText"
+msgstr "To Collection"
+
+msgid "footer/collectionCompleted"
+msgstr "Collection completed!"
+
+msgid "footer/okButtonText"
+msgstr "Так точно!"
+
+msgid "footer/progressbar/activeState/receivedElements/text"
+msgstr "Elements collected: %(received)s / %(total)s"
+
+msgid "footer/progressbar/tooltip/body"
+msgstr ""
+"Increase your Collection progress by obtaining the corresponding Elements "
+"during or after the event, if possible. Hover your cursor over a Collection "
+"Element to learn how to get it."
+
+msgid "footer/progressbar/tooltip/note"
+msgstr ""
+"The Collection can contain Elements that are awarded for gathering Elements "
+"of this Collection. They are not added to the Element counter and do not "
+"increase the Collection progress, but they reveal details of the story."
+
+msgid "footer/progressbar/tooltip/title"
+msgstr "Collection Elements Gathering"
+
+msgid "header/overhead"
+msgstr "COLLECTION"
+
+msgid "header/rewardScreen/completed/battle_pass_10"
+msgstr "КОЛЛЕКЦИЯ БОЕВОЙ ПРОПУСК X СЕЗОН"
+
+msgid "header/rewardScreen/completed/battle_pass_11"
+msgstr "КОЛЛЕКЦИЯ БОЕВОЙ ПРОПУСК XI СЕЗОН"
+
+msgid "header/rewardScreen/completed/mt_birthday2023"
+msgstr "КОЛЛЕКЦИЯ ДЕНЬ РОЖДЕНИЯ 12+1"
+
+msgid "header/seasonText/defaultConfig"
+msgstr "SEASON NAME"
+
+msgid "header/seasonText/mt_birthday2023"
+msgstr "2023"
+
+msgid "header/subtitle"
+msgstr "COLLECTION COMPLETED!"
+
+msgid "header/subtitle/active"
+msgstr "НАГРАДА ЗА СБОР КОЛЛЕКЦИИ"
+
+msgid "header/subtitle/completed"
+msgstr "КОЛЛЕКЦИЯ СОБРАНА"
+
+msgid "header/title/defaultConfig"
+msgstr "TEMPLATE COLLECTION"
+
+msgid "header/title/mt_birthday2023"
+msgstr "ДЕНЬ РОЖДЕНИЯ"
+
+msgid "intro/buttonClose/text"
+msgstr "To Collections"
+
+msgid "intro/content/description/text"
+msgstr ""
+"Collections are sets of unique elements that can be obtained in various "
+"events. Elements are exclusive styles, decals, and other items that cannot "
+"be received in standard gameplay."
+
+msgid "intro/header/text"
+msgstr "World of Tanks Collections"
+
+msgid "main/backText"
+msgstr "TO COLLECTIONS"
+
+msgid "mainLayout/header/title"
+msgstr "World of Tanks Collections"
+
+msgid "mainLayout/header/tooltip/body"
+msgstr ""
+"Collections are sets of unique elements that can be obtained in various "
+"events. Elements are exclusive styles, decals, and other items that cannot "
+"be received in standard gameplay."
+
+msgid "mainLayout/header/tooltip/header"
+msgstr "World of Tanks Collections"
+
+msgid "navigation/pageCounter"
+msgstr " / %(pageCount)s"
+
+msgid "notifications/button/goToCollection"
+msgstr "To Collection"
+
+msgid "notifications/button/goToCollections"
+msgstr "To Collections"
+
+msgid "notifications/button/goToReward"
+msgstr "To Reward"
+
+msgid "notifications/eventDisabled/text"
+msgstr "Collections are temporarily unavailable."
+
+msgid "notifications/eventEnabled/text"
+msgstr "Collections are available again. We apologize for the inconvenience."
+
+msgid "notifications/eventStart/text"
+msgstr ""
+"Commanders, we have prepared something new for you! Gather \"%(feature)s\" "
+"Collection Elements to receive unique rewards."
+
+msgid "notifications/eventStart/title"
+msgstr "\"%(feature)s\" Collection Available!"
+
+msgid "notifications/feature/battle_pass_10"
+msgstr "BATTLE PASS"
+
+msgid "notifications/feature/battle_pass_11"
+msgstr "BATTLE PASS"
+
+msgid "notifications/feature/battle_pass_12"
+msgstr "BATTLE PASS"
+
+msgid "notifications/feature/mt_birthday2023"
+msgstr "День рождения 12+1"
+
+msgid "notifications/finalReceived/text"
+msgstr "You have completed the \"%(feature)s: %(season)s\" Collection"
+
+msgid "notifications/newItemsReceived/text"
+msgstr ""
+"New Collection Elements received:\n"
+"\n"
+"%(items)s"
+
+msgid "notifications/newRewardsReceived/text"
+msgstr ""
+"Reward for gathering Collection Elements received:\n"
+"\n"
+"%(items)s"
+
+msgid "notifications/renew/text"
+msgstr "Collection Available"
+
+msgid "notifications/renew/title"
+msgstr "%(feature)s, %(season)s"
+
+msgid "notifications/season/battle_pass_10"
+msgstr "SEASON X"
+
+msgid "notifications/season/battle_pass_11"
+msgstr "SEASON XI"
+
+msgid "notifications/season/battle_pass_12"
+msgstr "SEASON XII"
+
+msgid "notifications/templates/featureSeason"
+msgstr "%(feature)s %(season)s"
+
+msgid "notifications/title/collectionName"
+msgstr "\"%(feature)s: %(season)s\" Collection"
+
+msgid "notifications/title/congratulation"
+msgstr "Congratulations!"
+
+msgid "notifications/updatedEntry/text"
+msgstr "World of Tanks Collections"
+
+msgid "notifications/updatedEntry/title"
+msgstr "Updating Service Record"
+
+msgid "overlays/preview/previewButton/text"
+msgstr "Preview"
+
+msgid "overlays/preview/style/title/text"
+msgstr "%(styleName)s for the %(vehicleInfo)"
+
+msgid "tooltips/item/achievement"
+msgstr "%(name)s medal"
+
+msgid "tooltips/receivedStatus"
+msgstr "Received"
+
+msgid "tooltips/title"
+msgstr "Collection Element"
+
+msgid "tooltips/unreceivedStatus"
+msgstr "Not received"

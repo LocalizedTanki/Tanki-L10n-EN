@@ -1,0 +1,82 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mir tankov\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "backButton/label"
+msgstr "BACK"
+
+msgid "backButton/to"
+msgstr "TO ACCOUNT STATUS"
+
+msgid "filteredMapsDisplayed"
+msgstr "Maps displayed: %(count) / %(total)"
+
+msgid "filtersTooltip/desc"
+msgstr "Show/hide maps of this type."
+
+msgid "filtersTooltip/header/desert"
+msgstr "Desert Maps"
+
+msgid "filtersTooltip/header/summer"
+msgstr "Summer Maps"
+
+msgid "filtersTooltip/header/winter"
+msgstr "Winter Maps"
+
+msgid "header/cooldown"
+msgstr "You can replace a map again in %(cooldownEndTime)."
+
+msgid "header/title"
+msgstr "Excluded Maps"
+
+msgid "mapTile/cooldownTooltipBody"
+msgstr "You can replace this map again after the cooldown."
+
+msgid "mapTile/cooldownTooltipHeader"
+msgstr "Replace Map Unavailable"
+
+msgid "mapTile/hoverExclude"
+msgstr "Exclude the %(mapName) map?"
+
+msgid "mapTile/hoverExcludeButton"
+msgstr "Exclude"
+
+msgid "mapTile/hoverInclude"
+msgstr "Include the %(mapName) map in Random Battles?"
+
+msgid "mapTile/hoverIncludeButton"
+msgstr "Include"
+
+msgid "mapsFilterLabel"
+msgstr "Map types:"
+
+msgid "notSelected"
+msgstr "Not Selected"
+
+msgid "slot/disabledTooltipBodyWotPlus"
+msgstr ""
+"Слот для исключения дополнительной карты доступен только при активном "
+"Танковом премиум аккаунте."
+
+msgid "slot/replaceTooltipBody"
+msgstr ""
+"Select a map from the list below to replace it and exclude it from Random "
+"Battles of the Standard Battle type."
+
+msgid "slot/selectTooltipBody"
+msgstr ""
+"Select a map from the list below to exclude it from Random Battles of the "
+"Standard Battle type."
+
+msgid "slot/selectTooltipHeader"
+msgstr "Slot Available"
+
+msgid "totalMapsDisplayed"
+msgstr "Maps displayed: %(count)"

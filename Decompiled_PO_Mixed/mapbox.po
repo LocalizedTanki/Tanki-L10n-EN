@@ -1,0 +1,798 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mir tankov\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "awardsView/button"
+msgstr "Affirmative!"
+
+msgid "awardsView/pick"
+msgstr "К выбору"
+
+msgid "awardsView/subTitle"
+msgstr "BATTLES FOUGHT: {number}"
+
+msgid "awardsView/title"
+msgstr "RECON MISSION"
+
+msgid "buttonDisable/tooltip"
+msgstr "Unavailable"
+
+msgid "calendarDay/serverName"
+msgstr "%(server)s"
+
+msgid "calendarDay/time"
+msgstr "%(start)s–%(end)s"
+
+msgid "entryPoint/endDateText"
+msgstr "До {day} {month}"
+
+msgid "entryPoint/statusText"
+msgstr "До {endDate}"
+
+msgid "entryPoint/title"
+msgstr "RECON MISSION"
+
+msgid "headerButtons/fightBtn/tooltip/disabled/header"
+msgstr "Unable to Enter Battle"
+
+msgid "headerButtons/fightBtn/tooltip/disabled/text"
+msgstr "Ceasefire is in effect on this server. Please select another server."
+
+msgid "headerButtons/fightBtn/tooltip/mapboxVehLevel/body"
+msgstr "You can only enter battle in %(levelSubStr)s."
+
+msgid "headerButtons/fightBtn/tooltip/mapboxVehLevel/header"
+msgstr "Incompatible Vehicle Tier"
+
+msgid "headerButtons/fightBtn/tooltip/mapboxVehLevel/levelSubStr"
+msgstr "Tier %(levels)s vehicles"
+
+msgid "intro/button"
+msgstr "Affirmative!"
+
+msgid "intro/interviewInfoDescription"
+msgstr ""
+"Your feedback helps us improve the battlefields. Leave your thoughts on the "
+"new map mechanics, and we will add the best ideas to the game."
+
+msgid "intro/interviewInfoTitle"
+msgstr "Crucial Feedback"
+
+msgid "intro/modeInfoDescription"
+msgstr ""
+"Fight in Tier VIII–X vehicles on maps with new mechanics, complete surveys, "
+"and receive rewards. In a week, the progression will be reset, and you can "
+"start earning rewards again."
+
+msgid "intro/modeInfoTitle"
+msgstr "Help Us Develop New Mechanics!"
+
+msgid "intro/startEvent"
+msgstr "Event starts in: "
+
+msgid "intro/taskInfoDescription"
+msgstr ""
+"When fighting in Recon Mission, you can complete daily and Battle Pass "
+"missions, and fulfill the conditions of progressive decals."
+
+msgid "intro/taskInfoTitle"
+msgstr "Fight Under Random Battles Rules"
+
+msgid "intro/time/period/day"
+msgstr "{day} d"
+
+msgid "intro/time/period/dayHour"
+msgstr "{day} d {hours} h"
+
+msgid "intro/time/period/hourMinute"
+msgstr "{hours} h {min} min"
+
+msgid "intro/time/period/minute"
+msgstr "{min} min"
+
+msgid "intro/title"
+msgstr "RECON MISSION"
+
+msgid "mapboxCarousel/lockedTooltip/vehClass/body"
+msgstr "%(forbiddenClass)s cannot fight in Recon Mission."
+
+msgid "mapboxCarousel/lockedTooltip/vehClass/header"
+msgstr "Incompatible Vehicle Type"
+
+msgid "mapboxCarousel/lockedTooltip/vehLvl/body"
+msgstr "Select a %(levelSubStr)s to participate in Recon Mission."
+
+msgid "mapboxCarousel/lockedTooltip/vehLvl/header"
+msgstr "Incompatible Vehicle Tier"
+
+msgid "mapboxCarousel/lockedTooltip/vehLvl/levelSubStr"
+msgstr "Tier %(levels)s vehicle"
+
+msgid "mapboxCarousel/lockedTooltip/vehType/body"
+msgstr "The %(forbiddenType)s cannot fight in Recon Mission."
+
+msgid "mapboxCarousel/lockedTooltip/vehType/header"
+msgstr "Incompatible Vehicle"
+
+msgid "mapboxTab"
+msgstr "Recon Mission"
+
+msgid "primeTimeView/endOfCycle"
+msgstr "The Stage on the %(server)s server has finished"
+
+msgid "primeTimeView/serverTooltip"
+msgstr ""
+"%(server)s server\n"
+"Battles will be available for another %(time)s"
+
+msgid "primeTimeView/serverUnavailableTooltip"
+msgstr ""
+"%(server)s server\n"
+"Battles will be available in %(time)s"
+
+msgid "primeTimeView/status/allServersDisabled"
+msgstr "Ceasefire is in effect on all servers"
+
+msgid "primeTimeView/status/disableFirst"
+msgstr "This mode is not available on the %(server)s server"
+
+msgid "primeTimeView/status/primeIsAvailable"
+msgstr ""
+"Battles on the %(server)s server will be available for another %(time)s"
+
+msgid "primeTimeView/status/primeWillBeAvailable"
+msgstr "Battles will start on the %(server)s server in %(time)s"
+
+msgid "primeTimeView/status/seasonDisabled"
+msgstr "Battles in this mode are unavailable: Season has finished."
+
+msgid "primeTimeView/status/untill"
+msgstr "Ceasefire is in effect on the %(server)s server until %(startTime)s"
+
+msgid "primeTimeView/title"
+msgstr "RECON MISSION"
+
+msgid "primeTimes/availableServer"
+msgstr "Available server:"
+
+msgid "primeTimes/availableServers"
+msgstr "Available servers:"
+
+msgid "progression/cardTitle/mapBattles"
+msgstr "Fight battles"
+
+msgid "progression/cardTitle/rating"
+msgstr "Be among the top {rating} players by XP earned"
+
+msgid "progression/changeAnswer"
+msgstr "Change Answer"
+
+msgid "progression/chooseBetter"
+msgstr "Пройти опрос"
+
+msgid "progression/chooseBetterTooltip"
+msgstr "Чтобы пройти опрос, выполните указанное выше условие."
+
+msgid "progression/counter"
+msgstr "%(current) / %(mapBattles)"
+
+msgid "progression/info/description"
+msgstr ""
+"Fight in Tier VIII–X vehicles on maps with new mechanics, complete surveys, "
+"and receive rewards."
+
+msgid "progression/info/restart"
+msgstr "The progress with rewards will be reset in %(leftTime)s"
+
+msgid "progression/info/title"
+msgstr ""
+"Be among the top %(rating) players by XP earned: %(current) / %(total)"
+
+msgid "progression/infoButton"
+msgstr "ABOUT THE EVENT"
+
+msgid "progression/map_01_karelia"
+msgstr "KARELIA"
+
+msgid "progression/map_02_malinovka"
+msgstr "MALINOVKA"
+
+msgid "progression/map_04_himmelsdorf_mb"
+msgstr "ХИММЕЛЬСДОРФ"
+
+msgid "progression/map_05_prohorovka"
+msgstr "PROKHOROVKA"
+
+msgid "progression/map_05_prohorovka_mb"
+msgstr "ПРОХОРОВКА"
+
+msgid "progression/map_08_ruinberg_mb"
+msgstr "РУИНБЕРГ"
+
+msgid "progression/map_127_japort_mb"
+msgstr "СТАРАЯ ГАВАНЬ"
+
+msgid "progression/map_14_siegfried_line"
+msgstr "ЗАТЕРЯННЫЙ ГОРОД"
+
+msgid "progression/map_17_munchen"
+msgstr "ХИММЕЛЬСДОРФ"
+
+msgid "progression/map_18_cliff"
+msgstr "WESTFIELD"
+
+msgid "progression/map_all"
+msgstr ""
+"GAME\n"
+"MECHANICS"
+
+msgid "progression/redirect"
+msgstr "Go to Mode"
+
+msgid "progression/startInterview"
+msgstr "Take Survey"
+
+msgid "progression/startInterviewDisableTooltip"
+msgstr "Превышен лимит одновременных опросов. Пройдите опрос позже."
+
+msgid "progression/startInterviewTooltip"
+msgstr "Fulfill the condition above to take a survey."
+
+msgid "progression/takeButton"
+msgstr "Забрать"
+
+msgid "progression/timeLeft/days"
+msgstr "%(day)s d"
+
+msgid "progression/timeLeft/hours"
+msgstr "%(hour)s h %(min)s min"
+
+msgid "progression/timeLeft/lessMin"
+msgstr "1 min"
+
+msgid "progression/timeLeft/min"
+msgstr "%(min)s min"
+
+msgid "progression/title"
+msgstr "RECON MISSION"
+
+msgid "progressionError/description/line1"
+msgstr "Your progress is saved. You can continue playing."
+
+msgid "progressionError/description/line2"
+msgstr "You will be able to see your progress and take a survey soon."
+
+msgid "progressionError/title"
+msgstr "Recon Mission details are temporarily unavailable"
+
+msgid "questFlag/complete"
+msgstr "All rewards received"
+
+msgid "questFlag/counter"
+msgstr "%(progress)s / %(total)s"
+
+msgid "questFlag/description"
+msgstr "Fight in %(highlightedText)s, complete surveys, and receive rewards."
+
+msgid "questFlag/frozen/header"
+msgstr "Recon Mission Unavailable"
+
+msgid "questFlag/frozen/text"
+msgstr "Recon Mission battles are unavailable for technical reasons."
+
+msgid "questFlag/highlightedText"
+msgstr "Tier VIII–X vehicles on maps with new mechanics"
+
+msgid "questFlag/incomplete"
+msgstr "Battles to be fought to receive the next reward: %(count)s"
+
+msgid "questFlag/progressTitle"
+msgstr "Battles fought:"
+
+msgid "questFlag/surveysTitle"
+msgstr "Surveys taken: %(count)s"
+
+msgid "rewardChoice/button/get"
+msgstr "Забрать"
+
+msgid "rewardChoice/button/getAndContinue"
+msgstr "Забрать и продолжить"
+
+msgid "rewardChoice/crewBook/rewardDescription"
+msgstr "опыта каждому члену экипажа выбранной машины %(nation)s"
+
+msgid "rewardChoice/effect"
+msgstr "Эффект:"
+
+msgid "rewardChoice/rewardType/brochure"
+msgstr "Учебная брошюра"
+
+msgid "rewardChoice/rewardType/guide"
+msgstr "Учебное руководство"
+
+msgid "rewardChoice/subTitle"
+msgstr "ВЫБЕРИТЕ НАГРАДУ"
+
+msgid "rewardChoice/title"
+msgstr "РАЗВЕДКА БОЕМ"
+
+msgid "rewardDescription/crewBook"
+msgstr ""
+"{expTagOpen}+%(exp)s{expTagClose} опыта каждому члену экипажа выбранной "
+"машины %(nation)s"
+
+msgid "selectableCrewbook/brochure"
+msgstr "Учебная брошюра"
+
+msgid "selectableCrewbook/guide"
+msgstr "Учебное руководство"
+
+msgid "selector/startEvent"
+msgstr "The exploration of maps with new mechanics will start on %(day)s"
+
+msgid "selector/tooltip/body"
+msgstr "The exploration of maps with new mechanics will last until %(day)s"
+
+msgid "selector/tooltip/title"
+msgstr "Schedule"
+
+msgid "selectorTooltip/tillEnd"
+msgstr "Season ends in:"
+
+msgid "selectorTooltip/timeTable/empty"
+msgstr "—"
+
+msgid "selectorTooltip/timeTable/title"
+msgstr "Battle Schedule"
+
+msgid "selectorTooltip/timeTable/today"
+msgstr "Today"
+
+msgid "selectorTooltip/timeTable/tomorrow"
+msgstr "Tomorrow"
+
+msgid "serverAlertMessage"
+msgstr "Режим недоступен на сервере %(serverName)s"
+
+msgid "serverAlertMessage/button"
+msgstr "Select Another Server"
+
+msgid "survey/backBtn"
+msgstr "Back"
+
+msgid "survey/dynamicAllMaps/question/q1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q10"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q11"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q5"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q6"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q7"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q8"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/question/q9"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q10_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q10_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q10_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q10_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q10_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q11_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q11_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q11_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q11_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q1_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q1_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q1_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q2_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q2_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q2_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q2_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q2_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q3_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q3_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q3_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q3_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q4_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q4_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q4_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q4_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q5_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q5_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q5_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q5_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q5_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q6_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q6_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q6_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q7_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q7_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q7_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q8_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q8_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicAllMaps/response/q8_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q6_AT-SPG"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q6_SPG"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q6_heavyTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q6_lightTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q6_mediumTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_04_himmelsdorf_mb_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_04_himmelsdorf_mb_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_04_himmelsdorf_mb_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_04_himmelsdorf_mb_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_05_prohorovka_mb_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_05_prohorovka_mb_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_05_prohorovka_mb_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_05_prohorovka_mb_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_08_ruinberg_mb_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_08_ruinberg_mb_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_08_ruinberg_mb_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_127_japort_mb_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_127_japort_mb_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_127_japort_mb_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/option/q8_127_japort_mb_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q5"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q6"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q7"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q8"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/question/q9_13"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q1_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q1_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q1_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q1_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q1_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q2_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q2_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q2_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q2_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q2_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q3_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q3_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q3_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q3_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q4_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q4_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q4_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q4_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_AT-SPG"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_SPG"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_heavyTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_lightTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_mediumTank"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q5_unknown"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q6_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q6_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q6_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q6_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q7_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q7_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q7_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q7_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q7_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q8_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q8_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q8_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_1"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_10"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_11"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_12"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_2"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_3"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_4"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_5"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_6"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_7"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_8"
+msgstr "?empty?"
+
+msgid "survey/dynamicOneMap/response/q9_13_9"
+msgstr "?empty?"
+
+msgid "survey/listSeparator"
+msgstr ", "
+
+msgid "survey/nextBtn"
+msgstr "Next"
+
+msgid "survey/percentage"
+msgstr "%(percent)s%"
+
+msgid "survey/readyBtn"
+msgstr "Affirmative!"
+
+msgid "survey/required"
+msgstr "Answer the question to continue."
+
+msgid "survey/subTitle"
+msgstr ""
+"Thank you for taking the time to participate in this survey! It will take "
+"about two minutes. Your answers will be processed only for the purposes of "
+"conducting this survey, and any personal data will be deleted according to "
+"our Privacy Policy."
+
+msgid "survey/template/final/title"
+msgstr "Thank you for taking the time to participate in this survey!"
+
+msgid "survey/template/mapInteractive/hint0"
+msgstr "CLICK THE MAP TO SELECT A POSITION"
+
+msgid "survey/template/mapInteractive/hint1"
+msgstr "YOU CAN SELECT UP TO THREE POSITIONS ON THE MAP"
+
+msgid "survey/template/mapInteractive/point/description"
+msgstr "Detailed description (up to %(maxLength)s characters)"
+
+msgid "survey/template/mapInteractive/point/title"
+msgstr "Position"
+
+msgid "survey/template/mapInteractive/point/tooltip"
+msgstr "Remove position"
+
+msgid "survey/template/opened/description"
+msgstr "Detailed description of the issue (up to %(maxLength)s characters)"
+
+msgid "survey/title/common"
+msgstr "Please rate the new features"
+
+msgid "survey/title/map"
+msgstr "Evaluation of the %(map)s Map"

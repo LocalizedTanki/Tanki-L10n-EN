@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "april23"
+msgstr "Believer"
+
+msgid "april23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "august23"
+msgstr "Anchor Grip"
+
+msgid "august23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "december23"
+msgstr "Enforcer"
+
+msgid "december23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "february23"
+msgstr "Magnetic Pole"
+
+msgid "february23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "february24"
+msgstr "Desert Hero"
+
+msgid "february24_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "january24"
+msgstr "Hare Well"
+
+msgid "january24_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "july23"
+msgstr "Black Spot"
+
+msgid "july23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "june23"
+msgstr "The Spartan"
+
+msgid "june23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "march23"
+msgstr "Shamrock"
+
+msgid "march23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "march24"
+msgstr "Molten Cheese"
+
+msgid "march24_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "may23"
+msgstr "A Drop of Courage"
+
+msgid "may23_descr"
+msgstr "A unique medal included with Prime Gaming."
+
+msgid "september23"
+msgstr "Area Cleared"
+
+msgid "september23_descr"
+msgstr "A unique medal included with Prime Gaming."
