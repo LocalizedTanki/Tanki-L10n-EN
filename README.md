@@ -25,37 +25,26 @@ A tool to merge updated Russian `.po` files with the current English translation
 
 **Usage:**
 ```bash
-python merge_po.py ru-current.po all-translations.po -o merged.po
+python merger.po
 ```
 
 **Features:**
 - Preserves all existing English translations
-- Adds new strings from Russian `.po` to English `.po`
-- Outputs a fully merged file for translation
+- Adds new English `.po` strings to alrady existing Russian `.po` to reduce amount of translation needed
 
-### 2. `po_splitter.py` (Python)
-Splits a large `.po` file into multiple smaller `.po` files for collaborative translation work.
+### 2. `po_translator_gpt3.5` (Python)
+Uses chat GPT 3.5 Turbo to translate Russian exclusively lines. Program will ignore English lines itself
 
 **Usage:**
 ```bash
-python po_splitter.py all-translations.po -n 5
+python po_translator_gpt3.5
 ```
 
 **Features:**
 - Splits one `.po` into `n` smaller files
-- Useful for distributing translation work
+- Puts fragmented strings into batches to speed up the translation speed
+- Saving your time by reducing amount of Russian text you have to translate :)
 
-### 3. `po_combiner.py` (Python)
-Combines several split `.po` files back into a single file, ready for testing or use in-game.
-
-**Usage:**
-```bash
-python po_combiner.py split1.po split2.po split3.po -o combined.po
-```
-
-**Features:**
-- Merges multiple `.po` files
-- Maintains consistent formatting
 
 ---
 
@@ -84,7 +73,7 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or fix
 3. Submit a pull request with a clear description
 
-Please follow existing code style and add docstrings/comments if you add a new tool.
+Please follow existing code style and add docstrings/comments if you add or modify a  tool.
 
 ---
 
