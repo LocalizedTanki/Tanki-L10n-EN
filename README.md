@@ -3,22 +3,12 @@
 **English Localization Project for Mir Tankov**
 
 This repository contains:
-- English and Russian `.po` translation files for Mir Tankov / World of Tanks
-- Tools/scripts for managing, merging, and splitting `.po` files
-- Documentation and contribution instructions
+- English  `.po` translation files for Mir Tankov
+- Tools/scripts for managing, merging, splitting and translating `.po` files
 
 ---
 
-## Repository Structure
-
-- `ru-current.po` – Original Russian translation file
-- `all-translations.po` – Main English translation file (merged)
-- `Decompiled_PO_Mixed/` – Decompiled `.po` files extracted from the game client
-- `tools/` – Python scripts and utilities for translation management
-
----
-
-## External Tools
+## External Tools To Translate
 
 ### 🔗 [PO_AI_Translate](https://github.com/GtafanWRLD/PO_AI_Translate)
 A Python-based tool uses OpenAI's GPT-3.5 API to automatically translate `.po` files to other languages.
@@ -26,7 +16,7 @@ A Python-based tool uses OpenAI's GPT-3.5 API to automatically translate `.po` f
 **Features:**
 - Skips strings already in English or empty
 - Preserves placeholders and formatting (`\n`, `%d`, `{0}`, etc.)
-- Parallel batch processing for faster translation
+- Batch processing for faster translation
 
 ---
 
@@ -58,7 +48,7 @@ A utility to merge English and Russian `.po` files efficiently.
 
 ## Contributing
 
-Contributions are welcome! Open a pull request if you wanna contribute. You can edit .po files which have wrong translations.
+Contributions are welcome! Open a pull request if you wanna contribute. You can edit .po files which have wrong translations. Feel free to fork the repo to translate the repo to different languages!
 
 ---
 
