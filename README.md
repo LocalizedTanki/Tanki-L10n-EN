@@ -20,12 +20,11 @@ A Python-based tool uses OpenAI's GPT-3.5 API to automatically translate `.po` f
 
 ---
 
-### 🔗 [PO_En_Ru_Merger](https://github.com/GtafanWRLD/PO_En_Ru_Merger)
-A utility to merge English and Russian `.po` files efficiently.
+### 🔗 [PO/MO File Converter Tool](https://github.com/GtafanWRLD/PO_En_Ru_Merger)
+A utility to quickly compile and decompile `.po` files efficiently.
 
 **Features:**
-- Replaces Russian `msgstr` with counterparts in other languages.
-- Useful for syncing updated files to have less work.
+- Decompiles or compiles full folder of `.po` or `.mo` files.
 
 ---
 
