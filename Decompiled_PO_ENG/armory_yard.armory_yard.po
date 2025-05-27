@@ -1,0 +1,880 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-armory_yard.armory_yard\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "bundles/backCaption"
+msgstr ""
+"BACK|||WORKSHOP|||CONSTRUCTION|||Sets will still be available "
+"for|||BUY|||Any amount of construction tokens|||Go to|||Construction "
+"tokens|||Go to purchase any amount of construction tokens|||%(day)s "
+"d.|||%(day)s d %(hour)s h|||%(hour)s h.|||%(hour)s h %(min)s min|||%(min)s "
+"min.|||< 1 min|||Complete construction stages for gold and immediately "
+"receive progress bar fill and rewards for these stages.|||Current progress "
+"stage:|||You can only buy one set of tokens!|||Construction token sets|||At "
+"a fixed cost:|||ASSEMBLY SHOP|||You can only buy one set of tokens! Stage-"
+"by-stage purchase is available throughout the event.|||BACK|||TO SET "
+"SELECTION|||Back|||Buy|||You will immediately receive rewards for "
+"construction stages: |||Purchase cost:|||SET PURCHASE|||CONSTRUCTION "
+"TOKENS|||WORKSHOP|||TO PREVIEW HANGAR|||Buy|||Back|||for bonds|||for "
+"gold|||or|||Purchase cost: %(price)s|||And also: %(count)s|||Rewards|||You "
+"will immediately receive rewards for construction stages:  "
+"{cream_open}%(completedSteps)s{cream_close}|||You will immediately receive "
+"rewards for construction stages:  "
+"{cream_open}%(completedSteps)s{cream_close}|||Selected stages: "
+"%(amount)s|||ASSEMBLY SHOP|||PURCHASE CONSTRUCTION TOKENS|||You can progress"
+" through the vehicle construction progression by buying additional stages "
+"and receiving all rewards for them.|||Preview|||Click to go to vehicle "
+"preview.|||CLOSE|||Free token"
+
+msgid "bundles/backGoto"
+msgstr "В ЦЕХ"
+
+msgid "bundles/building"
+msgstr "СТРОИТЕЛЬСТВА"
+
+msgid "bundles/bundlesAvailable"
+msgstr "Наборы будут доступны ещё"
+
+msgid "bundles/buyBundle"
+msgstr "Купить"
+
+msgid "bundles/buyToken"
+msgstr "Любое количество жетонов строительства"
+
+msgid "bundles/buyTokenCaption"
+msgstr "Перейти"
+
+msgid "bundles/buyTokenShort"
+msgstr "Жетоны строительства"
+
+msgid "bundles/buyTokenTooltip"
+msgstr "Перейти к покупке любого количества жетонов строительства"
+
+msgid "bundles/countdown/days"
+msgstr "%(day)s д."
+
+msgid "bundles/countdown/daysWithHours"
+msgstr "%(day)s д  %(hour)s ч"
+
+msgid "bundles/countdown/hours"
+msgstr "%(hour)s ч."
+
+msgid "bundles/countdown/hoursWithMinutes"
+msgstr "%(hour)s ч %(min)s мин"
+
+msgid "bundles/countdown/min"
+msgstr "%(min)s мин."
+
+msgid "bundles/countdown/sec"
+msgstr "< 1 мин"
+
+msgid "bundles/discount"
+msgstr "-%(discount)s%"
+
+msgid "bundles/subtitleOne"
+msgstr ""
+"Завершайте этапы строительства за золото и сразу получайте заполнение шкалы "
+"прогрессии и награды за эти этапы."
+
+msgid "bundles/subtitleOptions"
+msgstr "%(firstSubtitle)s %(secondSubtitle)s %(thirdSubtitle)s"
+
+msgid "bundles/subtitleThree"
+msgstr "Текущий этап прогрессии:"
+
+msgid "bundles/subtitleTwo"
+msgstr "Купить можно только один набор жетонов!"
+
+msgid "bundles/title"
+msgstr "Наборы жетонов строительства"
+
+msgid "bundles/tokenPrice"
+msgstr "По фиксированной стоимости:"
+
+msgid "bundles/upperTitle"
+msgstr "СБОРОЧНЫЙ ЦЕХ"
+
+msgid "buyBundle/alert"
+msgstr ""
+"Купить можно только один набор жетонов! Поэтапная покупка доступна в течение"
+" всего события."
+
+msgid "buyBundle/backCaption"
+msgstr "НАЗАД"
+
+msgid "buyBundle/backGoto"
+msgstr "К ВЫБОРУ НАБОРОВ"
+
+msgid "buyBundle/controlBack"
+msgstr "Назад"
+
+msgid "buyBundle/controlBuy"
+msgstr "Купить"
+
+msgid "buyBundle/description"
+msgstr "Вам сразу будут начислены награды за этапы строительства: "
+
+msgid "buyBundle/descriptionLevels"
+msgstr "%(startLevel)d - %(endLevel)d"
+
+msgid "buyBundle/price"
+msgstr "%(label) %(price)"
+
+msgid "buyBundle/priceLabel"
+msgstr "Стоимость покупки:"
+
+msgid "buyBundle/subtitle"
+msgstr "ПОКУПКА НАБОРА"
+
+msgid "buyBundle/title"
+msgstr "ЖЕТОНЫ СТРОИТЕЛЬСТВА"
+
+msgid "buyView/backButton/mainView"
+msgstr "В ЦЕХ"
+
+msgid "buyView/backButton/vehiclePreview"
+msgstr "В АНГАР ПРЕДПРОСМОТРА"
+
+msgid "buyView/buyButton"
+msgstr "Купить"
+
+msgid "buyView/cancelButton"
+msgstr "Назад"
+
+msgid "buyView/crystal"
+msgstr "за боны"
+
+msgid "buyView/gold"
+msgstr "за золото"
+
+msgid "buyView/or"
+msgstr "или"
+
+msgid "buyView/price"
+msgstr "Стоимость покупки: %(price)s"
+
+msgid "buyView/reward/rest"
+msgstr "И ещё: %(count)s"
+
+msgid "buyView/reward/rest/tooltip/header"
+msgstr "Награды"
+
+msgid "buyView/rewards/fromToFormat"
+msgstr "{from} - {to}"
+
+msgid "buyView/rewards/manySteps"
+msgstr ""
+"Вам сразу будут начислены награды за этапы строительства:  "
+"{cream_open}%(completedSteps)s{cream_close}"
+
+msgid "buyView/rewards/singleStep"
+msgstr ""
+"Вам сразу будут начислены награды за этапы строительства:  "
+"{cream_open}%(completedSteps)s{cream_close}"
+
+msgid "buyView/selected"
+msgstr "Выбрано этапов: %(amount)s"
+
+msgid "buyView/title/h1"
+msgstr "СБОРОЧНЫЙ ЦЕХ"
+
+msgid "buyView/title/h2"
+msgstr "ПОКУПКА ЖЕТОНОВ СТРОИТЕЛЬСТВА"
+
+msgid "buyView/title/h3"
+msgstr ""
+"Вы можете продвинуться по прогрессии строительства машины, докупив этапы и "
+"получив за них все награды."
+
+msgid "buyView/vehiclePreview/label"
+msgstr "Предпросмотр"
+
+msgid "buyView/vehiclePreview/tooltip"
+msgstr "Нажмите, чтобы перейти к предпросмотру машины."
+
+msgid "closeBtn/label"
+msgstr "ЗАКРЫТЬ"
+
+msgid "currency/postProgression/titleCongrats"
+msgstr "Свободный жетон"
+
+msgid "entryPoint/tooltips/active/announce"
+msgstr "C %(day)d %(month)s %(year)d at %(time)s."
+
+msgid "entryPoint/tooltips/active/description"
+msgstr "Task in progress: %(cream_open)s%(questsInProgress)d%(cream_close)s"
+
+msgid "entryPoint/tooltips/active/endOfEventTime/hours"
+msgstr "Tasks available for %(hour)s h %(min)s min"
+
+msgid "entryPoint/tooltips/active/endOfEventTime/min"
+msgstr "Tasks available for %(min)s min"
+
+msgid "entryPoint/tooltips/active/endOfEventTime/sec"
+msgstr "Tasks available in less than 1 min"
+
+msgid "entryPoint/tooltips/active/header"
+msgstr "Assembly Shop Tasks"
+
+msgid "entryPoint/tooltips/active/justBeforeStart/hours"
+msgstr "Available in %(hour)s h %(min)s min"
+
+msgid "entryPoint/tooltips/active/justBeforeStart/min"
+msgstr "Available in %(min)s min"
+
+msgid "entryPoint/tooltips/active/justBeforeStart/sec"
+msgstr "Available in less than 1 min"
+
+msgid "entryPoint/tooltips/active/questsCompleted"
+msgstr "All chapter tasks completed."
+
+msgid "entryPoint/tooltips/active/questsDone"
+msgstr "Tasks completed:"
+
+msgid "entryPoint/tooltips/active/questsValue"
+msgstr ""
+"%(cream_open)s%(completedQuests)d%(cream_close)s%(par_Open)s / "
+"%(totalQuests)s%(par_Close)s"
+
+msgid "entryPoint/tooltips/active/tokensHeader"
+msgstr "Construction tokens received:"
+
+msgid "entryPoint/tooltips/active/tokensValue"
+msgstr ""
+"%(cream_open)s%(receivedTokens)d%(cream_close)s%(par_Open)s / "
+"%(totalTokens)s%(par_Close)s"
+
+msgid "entryPoint/tooltips/beforeProgression/body"
+msgstr ""
+"Here are all event tasks divided into IV chapters. Task blocks unlock "
+"sequentially every seven days."
+
+msgid "entryPoint/tooltips/beforeProgression/header"
+msgstr "Assembly Shop Tasks"
+
+msgid "entryPoint/tooltips/beforeProgression/info"
+msgstr "Will be available from %(day)d %(month)s %(year)d at %(time)s."
+
+msgid "entryPoint/tooltips/disabled/body"
+msgstr ""
+"Task execution is currently unavailable due to technical reasons. All "
+"progress made is saved."
+
+msgid "entryPoint/tooltips/disabled/header"
+msgstr "Tasks unavailable"
+
+msgid "entryPoint/tooltips/postProgression/body"
+msgstr "Assembly Shop event tasks are no longer issued."
+
+msgid "entryPoint/tooltips/postProgression/header"
+msgstr "Tasks completed"
+
+msgid "entryPoint/widget/tooltips/disabled/body"
+msgstr ""
+"The event is currently unavailable due to technical reasons. All progress "
+"will be saved."
+
+msgid "entryPoint/widget/tooltips/disabled/header"
+msgstr "Assembly Shop"
+
+msgid "entryPoint/widget/tooltips/disabled/warning"
+msgstr "Temporarily unavailable"
+
+msgid "featureName"
+msgstr "ASSEMBLY SHOP"
+
+msgid "introView/backButton"
+msgstr "LEARN MORE ABOUT THE ASSEMBLY SHOP"
+
+msgid "introView/continueButton"
+msgstr "Continue"
+
+msgid "introView/progress/descr"
+msgstr "Build a machine and watch your beast grow with parts."
+
+msgid "introView/quests/descr"
+msgstr "Earn tokens in two different ways."
+
+msgid "introView/season"
+msgstr "From %(from)s to %(to)s"
+
+msgid "introView/vehicle/descr"
+msgstr "Get your tank and head into battle!"
+
+msgid "mainView/banner/button"
+msgstr "Buy stages"
+
+msgid "mainView/banner/description"
+msgstr "By purchasing stages, you instantly receive rewards for them."
+
+msgid "mainView/banner/freeCoins/button"
+msgstr "Buy"
+
+msgid "mainView/banner/freeCoins/description"
+msgstr "By buying tokens, you can exchange them for unique goods."
+
+msgid "mainView/banner/freeCoins/title"
+msgstr "Purchase tokens"
+
+msgid "mainView/banner/freeCoins/tooltip/body"
+msgstr "By buying tokens, you can exchange them for unique goods."
+
+msgid "mainView/banner/freeCoins/tooltip/header"
+msgstr "Purchase tokens"
+
+msgid "mainView/banner/title"
+msgstr "Construction stages"
+
+msgid "mainView/banner/tooltip/body"
+msgstr ""
+"By purchasing stages, you instantly receive rewards for them and progress "
+"through the event progression."
+
+msgid "mainView/banner/tooltip/header"
+msgstr "Buy stages"
+
+msgid "mainView/chapter/index/1"
+msgstr "Design"
+
+msgid "mainView/chapter/index/2"
+msgstr "Main systems"
+
+msgid "mainView/chapter/index/3"
+msgstr "Armament and chassis"
+
+msgid "mainView/chapter/index/4"
+msgstr "Additional equipment"
+
+msgid "mainView/chapter/quests/label"
+msgstr "%(par_open)sTasks completed:%(par_close)s"
+
+msgid "mainView/chapter/quests/progress"
+msgstr "%(completed)s %(par_open)s/ %(total)s%(par_close)s"
+
+msgid "mainView/chapter/title"
+msgstr ""
+"%(cream_open)sChapter %(index)s:%(cream_close)s "
+"%(whiteSpanish_open)s%(text)s%(whiteSpanish_close)s"
+
+msgid "mainView/chapter/tokens/progress"
+msgstr "%(received)s %(par_open)s/ %(total)s%(par_close)s"
+
+msgid "mainView/dateFormat"
+msgstr "%(fromDate)s — %(toDate)s %(toTime)s"
+
+msgid "mainView/exit"
+msgstr "IN THE GARAGE"
+
+msgid "mainView/infoLink/info"
+msgstr "ABOUT THE EVENT"
+
+msgid "mainView/mainReward/completed"
+msgstr "Reward received"
+
+msgid "mainView/playerLink/animate/start"
+msgstr "REPEAT ANIMATION"
+
+msgid "mainView/playerLink/animate/stop"
+msgstr "STOP REPEAT"
+
+msgid "mainView/playerLink/tooltip/body"
+msgstr "Review of all construction progress achieved by you at the moment."
+
+msgid "mainView/playerLink/tooltip/header"
+msgstr "Animation replay"
+
+msgid "mainView/progress/future/tooltip/body"
+msgstr "Reward for completing the stage is unavailable."
+
+msgid "mainView/progress/future/tooltip/header"
+msgstr "Construction stage"
+
+msgid "mainView/progress/past/tooltip/body"
+msgstr "Reward for completing the stage received."
+
+msgid "mainView/progress/past/tooltip/header"
+msgstr "Construction stage"
+
+msgid "mainView/progress/present/tooltip/body"
+msgstr "Reward for completing the stage is available."
+
+msgid "mainView/progress/present/tooltip/header"
+msgstr "Construction stage"
+
+msgid "mainView/progress/title"
+msgstr "ASSEMBLY SHOP"
+
+msgid "mainView/quest/battleType/dot"
+msgstr "."
+
+msgid "mainView/quest/battleType/ellipsis"
+msgstr "..."
+
+msgid "mainView/quest/battleType/label"
+msgstr "In modes:"
+
+msgid "mainView/quest/battleType/separator"
+msgstr ","
+
+msgid "mainView/quest/battleType/tooltip/header"
+msgstr "Available modes:"
+
+msgid "mainView/quest/currencyToken/label"
+msgstr "Bonus reward:"
+
+msgid "mainView/quest/levelRangeSeparator"
+msgstr "-"
+
+msgid "mainView/quest/levelSeparator"
+msgstr ", "
+
+msgid "mainView/quest/progress"
+msgstr "%(current)s %(par_open)s/ %(total)s%(par_close)s"
+
+msgid "mainView/quest/vehicleType/AT-SPG"
+msgstr "SPG"
+
+msgid "mainView/quest/vehicleType/SPG"
+msgstr "SPG"
+
+msgid "mainView/quest/vehicleType/heavyTank"
+msgstr "Heavy tanks"
+
+msgid "mainView/quest/vehicleType/label"
+msgstr "On vehicles:"
+
+msgid "mainView/quest/vehicleType/level"
+msgstr "From %(from)s level"
+
+msgid "mainView/quest/vehicleType/levelsMultiple"
+msgstr "From %(from)s levels"
+
+msgid "mainView/quest/vehicleType/levelsRange"
+msgstr "%(from)s%(separator)s%(to)s"
+
+msgid "mainView/quest/vehicleType/lightTank"
+msgstr "Light tanks"
+
+msgid "mainView/quest/vehicleType/mediumTank"
+msgstr "Medium tanks"
+
+msgid "mainView/quests/title"
+msgstr "ASSEMBLY SHOP TASKS"
+
+msgid "mainView/shop/title"
+msgstr "ASSEMBLY SHOP STORE"
+
+msgid "mainView/state/postProgression"
+msgstr "PURCHASE STAGE"
+
+msgid "mainView/state/progression"
+msgstr "TASK COMPLETION STAGE"
+
+msgid "mainView/subtitle"
+msgstr "%(step)s CONSTRUCTION STAGE"
+
+msgid "mainView/takeRewards/animate"
+msgstr "CLAIM REWARDS"
+
+msgid "mainView/takeRewards/tooltip/body"
+msgstr "Click to claim rewards for completed construction stages."
+
+msgid "mainView/takeRewards/tooltip/header"
+msgstr "Claim rewards"
+
+msgid "mainView/title/step/0"
+msgstr "Creating a Technical Task"
+
+msgid "mainView/title/step/1"
+msgstr "Familiarization with the Technical Task"
+
+msgid "mainView/title/step/10"
+msgstr "Installation of control devices and fire extinguishing system"
+
+msgid "mainView/title/step/11"
+msgstr "Delivery of the gun"
+
+msgid "mainView/title/step/12"
+msgstr "Installation of internal turret equipment"
+
+msgid "mainView/title/step/13"
+msgstr "Installation of gun and turret"
+
+msgid "mainView/title/step/14"
+msgstr "Installation of HMG ammunition"
+
+msgid "mainView/title/step/15"
+msgstr "Installation of drive wheels"
+
+msgid "mainView/title/step/16"
+msgstr "Installation of support rollers"
+
+msgid "mainView/title/step/17"
+msgstr "Track laying"
+
+msgid "mainView/title/step/18"
+msgstr "Painting"
+
+msgid "mainView/title/step/19"
+msgstr "Installation of additional equipment"
+
+msgid "mainView/title/step/2"
+msgstr "Vehicle dimensions"
+
+msgid "mainView/title/step/20"
+msgstr "Vehicle rollout"
+
+msgid "mainView/title/step/3"
+msgstr "Turret and gun construction"
+
+msgid "mainView/title/step/4"
+msgstr "Armor thickness distribution"
+
+msgid "mainView/title/step/5"
+msgstr "Layout scheme"
+
+msgid "mainView/title/step/6"
+msgstr "Armor tempering"
+
+msgid "mainView/title/step/7"
+msgstr "Engine installation"
+
+msgid "mainView/title/step/8"
+msgstr "Transmission and drives assembly"
+
+msgid "mainView/title/step/9"
+msgstr "Installation of fuel tanks and cooling system"
+
+msgid "mainView/title/step/final"
+msgstr "Construction completed"
+
+msgid "notifications/active"
+msgstr ""
+"Fighters! The new event has already started. Hurry up to complete the entire"
+" path of building a unique vehicle: from sketches on the drawing board to a "
+"ready combat unit. During the process, you will be rewarded with many "
+"valuable prizes."
+
+msgid "notifications/announcement/chapter"
+msgstr ""
+"Chapter %(count)d: %(chapter_name)s will be available starting "
+"%(startDate)s."
+
+msgid "notifications/announcement/event"
+msgstr ""
+"Fighters! You have the opportunity to build a unique vehicle - the heavy "
+"premium VIII level tank WZ-57-I. The event starts on %(startDate)s."
+
+msgid "notifications/bundleOutTime"
+msgstr ""
+"An error occurred while crediting construction tokens. Don't worry, they "
+"will be credited to your account shortly."
+
+msgid "notifications/collectRewards"
+msgstr ""
+"Don't forget to claim rewards for completed stages of the Assembly Workshop "
+"progression!"
+
+msgid "notifications/payed/error"
+msgstr "An error occurred while purchasing stages. Please try again."
+
+msgid "notifications/payed/multiple"
+msgstr "Construction tokens (%(count)d pcs.) successfully purchased."
+
+msgid "notifications/payed/priceCrystal"
+msgstr "Deducted bonds: %(price)s"
+
+msgid "notifications/payed/priceGold"
+msgstr "Deducted gold: %(price)s"
+
+msgid "notifications/payed/single"
+msgstr "Construction token (%(count)d pcs.) successfully purchased."
+
+msgid "notifications/postPayed/multiple"
+msgstr "Free tokens (%(count)d pcs.) successfully purchased."
+
+msgid "notifications/postPayed/single"
+msgstr "Free token (%(count)d pcs.) successfully purchased."
+
+msgid "notifications/postProgression"
+msgstr ""
+"Event tasks are no longer available. Missing stages can be purchased on the "
+"event screen."
+
+msgid "notifications/rewards/title"
+msgstr "Stages completed"
+
+msgid "notifications/started/chapter"
+msgstr ""
+"Chapter %(count)d: %(chapter_name)s is available with new tasks and rewards."
+
+msgid "notifications/started/chapter/untitled"
+msgstr "Chapter available!"
+
+msgid "notifications/switcher/disabled"
+msgstr ""
+"The Assembly Workshop is temporarily unavailable. Cleaning and inventory are"
+" in progress."
+
+msgid "notifications/switcher/enabled"
+msgstr ""
+"The Assembly Workshop is back in operation. We apologize for any "
+"inconvenience caused. The event has been extended until %(endDate)s."
+
+msgid "notifications/title"
+msgstr "Assembly Workshop"
+
+msgid "postprogression/buyTokens/description/body"
+msgstr ""
+"Free tokens are used in the Assembly Workshop store and do not contribute to"
+" the construction progress of future seasons."
+
+msgid "postprogression/buyTokens/description/title"
+msgstr "DESCRIPTION"
+
+msgid "postprogression/buyTokens/footer/availableTokens"
+msgstr "Available for purchase once: %(tokens)s"
+
+msgid "postprogression/buyTokens/footer/buy"
+msgstr "Buy"
+
+msgid "postprogression/buyTokens/header/available"
+msgstr "In stock:"
+
+msgid "postprogression/buyTokens/header/title"
+msgstr "Free token"
+
+msgid "prevView/body"
+msgstr ""
+"This vehicle is a reward for completing the Assembly Workshop event "
+"progression."
+
+msgid "prevView/button"
+msgstr "In the Assembly Workshop"
+
+msgid "prevView/title"
+msgstr "Purchase unavailable"
+
+msgid "rewardsView/button"
+msgstr "Affirmative!"
+
+msgid "rewardsView/getAllRewards"
+msgstr ""
+"These are not all the event rewards. Complete Assembly Workshop tasks or "
+"purchase construction tokens to claim the main reward."
+
+msgid "rewardsView/subTitle/style"
+msgstr "You have received a reward for a combat task"
+
+msgid "rewardsView/title/stage/many"
+msgstr "STAGES COMPLETED!"
+
+msgid "rewardsView/title/stage/one"
+msgstr "STAGE COMPLETED!"
+
+msgid "rewardsView/title/style"
+msgstr "CONGRATULATIONS!"
+
+msgid "rewardsView/vehicle/button"
+msgstr "View in the Garage"
+
+msgid "rewardsView/vehicle/title"
+msgstr "Thank you for your purchase!"
+
+msgid "shopRewardsView/button"
+msgstr "Affirmative!"
+
+msgid "shopRewardsView/subTitle"
+msgstr "%(description): %(count)"
+
+msgid "shopRewardsView/title"
+msgstr "Thank you for your purchase"
+
+msgid "tabs/label/0"
+msgstr "Workshop"
+
+msgid "tabs/label/1"
+msgstr "Tasks"
+
+msgid "tabs/label/2"
+msgstr "Store"
+
+msgid "tooltip/chapter/disabled/doFuture/note"
+msgstr "Will be available: %(startText)s"
+
+msgid "tooltip/chapter/disabled/doFuture/noteDate"
+msgstr "%(color_open)sfrom %(startDate)s%(color_close)s"
+
+msgid "tooltip/chapter/disabled/doPrevious/body"
+msgstr ""
+"Complete %(count)d more tasks from the previous chapter to access the "
+"current one"
+
+msgid "tooltip/chapter/disabled/header"
+msgstr "Chapter unavailable"
+
+msgid "tooltip/currency/availabilityPeriod"
+msgstr ""
+"Available: %(brown_open)sfrom %(startDay)d %(startMonth)s %(startYear)d "
+"%(startTime)s to %(endDay)d %(endMonth)s %(endYear)d "
+"%(endTime)s%(brown_close)s"
+
+msgid "tooltip/currency/availabilityPeriodShort"
+msgstr ""
+"Available: %(brown_open)sfrom %(startDay)d %(startMonth)s %(startTime)s to "
+"%(endDay)d %(endMonth)s %(endYear)d %(endTime)s%(brown_close)s"
+
+msgid "tooltip/currency/description"
+msgstr ""
+"A special resource available during the event "
+"%(whiteSpanish_open)s\"Assembly Workshop\"%(whiteSpanish_close)s. Used to "
+"progress through construction stages."
+
+msgid "tooltip/currency/gain/currency"
+msgstr "construction tokens"
+
+msgid "tooltip/currency/gain/description"
+msgstr ""
+"Complete tasks in chapters to receive "
+"%(yellow_open)s%(token)s%(yellow_close)s. Note that the number of tokens in "
+"each chapter is limited."
+
+msgid "tooltip/currency/gain/title"
+msgstr "How to obtain"
+
+msgid "tooltip/currency/info"
+msgstr "Automatically added to progression."
+
+msgid "tooltip/currency/postProgression/description"
+msgstr ""
+"Special resource available during the %(whiteSpanish_open)s\"Assembly "
+"Workshop\"%(whiteSpanish_close)s event. Used in the Assembly Workshop store."
+
+msgid "tooltip/currency/postProgression/gain/currency"
+msgstr "free tokens"
+
+msgid "tooltip/currency/postProgression/info"
+msgstr "Automatically added to the Store."
+
+msgid "tooltip/currency/postProgression/progress"
+msgstr "%(cream_open)s%(received)s%(cream_close)s"
+
+msgid "tooltip/currency/postProgression/title"
+msgstr "Free token"
+
+msgid "tooltip/currency/progress"
+msgstr "%(cream_open)s%(received)s%(cream_close)s / %(total)s"
+
+msgid "tooltip/currency/progressLabel"
+msgstr "Received"
+
+msgid "tooltip/currency/title"
+msgstr "Construction tokens"
+
+msgid "tooltip/quests/task/arcade"
+msgstr "Arcade"
+
+msgid "tooltip/quests/task/header"
+msgstr "Task in progress"
+
+msgid "tooltip/quests/task/separator"
+msgstr ", "
+
+msgid "tooltip/quests/task/subtitle/vehicleType"
+msgstr "On vehicle type:"
+
+msgid "tooltip/tab/progression/body"
+msgstr "View achieved progress in the \"Assembly Workshop\" event."
+
+msgid "tooltip/tab/progression/header"
+msgstr "Assembly Workshop"
+
+msgid "tooltip/tab/quests/body"
+msgstr "Assembly Workshop event tasks."
+
+msgid "tooltip/tab/quests/header"
+msgstr "Tasks"
+
+msgid "tooltip/tab/quests/note"
+msgstr "Available: %(periodText)s"
+
+msgid "tooltip/tab/quests/noteDate"
+msgstr "%(color_open)sfrom %(startDate)s to %(endDate)s%(color_close)s"
+
+msgid "tooltip/tab/shop/body"
+msgstr "Use free tokens to purchase unique items."
+
+msgid "tooltip/tab/shop/header"
+msgstr "Assembly Workshop Store"
+
+msgid "tooltip/tokenStepper/freedomTokens"
+msgstr "free tokens"
+
+msgid "tooltip/tokenStepper/main"
+msgstr ", to increase/decrease quantity"
+
+msgid "tooltip/tokenStepper/press"
+msgstr "Press"
+
+msgid "videoRewardView/back"
+msgstr "Back"
+
+msgid "videoRewardView/subTitle"
+msgstr "Vehicle built and put into motion. Great job!"
+
+msgid "videoRewardView/title"
+msgstr "CONGRATULATIONS!"
+
+msgid "videoRewardView/toHangar"
+msgstr "View in Garage"
+
+msgid "widget/active"
+msgstr "Until %(date)s"
+
+msgid "widget/beforeProgression"
+msgstr "%(countdown)s"
+
+msgid "widget/completed"
+msgstr "Until %(date)s"
+
+msgid "widget/countdown/hours"
+msgstr "%(hour)s h %(min)s min"
+
+msgid "widget/countdown/min"
+msgstr "%(min)s min."
+
+msgid "widget/countdown/sec"
+msgstr "< 1 min"
+
+msgid "widget/postProgression"
+msgstr "Purchase still available for %(countdown)s"
+
+msgid "widget/postProgressionShort"
+msgstr "Still available for %(countdown)s"
+
+msgid "widget/title"
+msgstr "ASSEMBLY WORKSHOP"
+
+msgid "widget/underTitle/disabled"
+msgstr "Coming soon"
+
+msgid "widget/underTitle/openSoon"
+msgstr "Opening soon"
+
+msgid "widget/underTitle/progressionCompleted"
+msgstr "All rewards received"
+
+msgid "widget/underTitle/takeRewards"
+msgstr "Claim reward"

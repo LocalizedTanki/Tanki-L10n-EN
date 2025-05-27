@@ -1,0 +1,46 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-birthday2023\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "intro/blocks/descr1"
+msgstr ""
+"Earn in-game property for achievements in battles, including containers with"
+" valuable contents."
+
+msgid "intro/blocks/descr2"
+msgstr ""
+"In the container, you will find in-game property, such as a Tank Premium "
+"Account and collection items."
+
+msgid "intro/blocks/descr3"
+msgstr ""
+"We have prepared a special holiday collection for you. Collect its items and"
+" receive rewards."
+
+msgid "intro/blocks/title1"
+msgstr "Receive special support"
+
+msgid "intro/blocks/title2"
+msgstr "Open containers and receive rewards"
+
+msgid "intro/blocks/title3"
+msgstr "Collect the entire collection \"Our game is...\""
+
+msgid "intro/button/accept"
+msgstr "Affirmative!"
+
+msgid "intro/header/subtitle"
+msgstr ""
+"The celebration of Mir Tankov' Birthday takes place from July 26 to "
+"September 5, 2023. This year, we have prepared a variety of interesting "
+"activities and gifts for you."
+
+msgid "intro/header/title"
+msgstr "BIRTHDAY 12+1"

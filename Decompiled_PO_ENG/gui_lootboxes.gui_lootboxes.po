@@ -1,0 +1,622 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-gui_lootboxes.gui_lootboxes\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "additionalRewardsTooltip/header"
+msgstr "Other rewards"
+
+msgid "compensationTooltip/contentDescription"
+msgstr "Compensation:"
+
+msgid "compensationTooltip/contentTitle"
+msgstr "Equipment:"
+
+msgid "compensationTooltip/description/collectionItem"
+msgstr "Compensation for a collection item"
+
+msgid "compensationTooltip/description/vehicles"
+msgstr "Compensation for a vehicle"
+
+msgid "compensationTooltip/footerDetails/collectionItem"
+msgstr "Compensation for a collection item that is already in stock."
+
+msgid "compensationTooltip/footerDetails/vehicles"
+msgstr "Compensation for a vehicle that is already in the Garage."
+
+msgid "compensationTooltip/title/credits"
+msgstr "Credits"
+
+msgid "compensationTooltip/title/gold"
+msgstr "Gold"
+
+msgid "entryPointWidget/count"
+msgstr "%(mult)s%(count)s"
+
+msgid "entryPointWidget/countHasInfinite"
+msgstr "%(mult)s%(count)s / %(infin)s"
+
+msgid "entryPointWidget/disabledTooltip/body"
+msgstr ""
+"Currently, the purchase and opening of containers are unavailable due to "
+"technical reasons. We apologize for the temporary inconvenience."
+
+msgid "entryPointWidget/disabledTooltip/header"
+msgstr "Purchase and opening are temporarily unavailable"
+
+msgid "entryPointWidget/hasInfiniteOnly"
+msgstr "%(mult)s%(infin)s"
+
+msgid "entryPointWidget/infin"
+msgstr "∞"
+
+msgid "entryPointWidget/maxBoxesCount"
+msgstr "999+"
+
+msgid "entryPointWidget/maxCount"
+msgstr "%(count)s+"
+
+msgid "entryPointWidget/maxCountHasInfinite"
+msgstr "%(count)s+ / %(infin)s"
+
+msgid "entryPointWidget/mult"
+msgstr "×"
+
+msgid "error/text"
+msgstr "Something went wrong, please try again later."
+
+msgid "error/title"
+msgstr "Failed to open container"
+
+msgid "footer/button/buy"
+msgstr "Buy containers"
+
+msgid "footer/restriction/disabled"
+msgstr "Containers can be purchased through %(date)"
+
+msgid "footer/restriction/left"
+msgstr "All containers have already been purchased"
+
+msgid "footer/restriction/leftCount"
+msgstr ""
+"You can buy up to %(count) containers within a day. You can open any number."
+
+msgid "footer/tooltip/buyBoxes/content"
+msgstr "{count} purchases per day"
+
+msgid "footer/tooltip/buyBoxes/title"
+msgstr ""
+"You have already purchased {count} containers today. The option to purchase "
+"will be available again on {date}"
+
+msgid "footer/tooltip/disabledBoxes/content"
+msgstr "Purchase unavailable"
+
+msgid "footer/tooltip/disabledBoxes/title"
+msgstr ""
+"Today is the last day of the event, and you have reached the purchase limit."
+
+msgid "footer/tooltip/restriction/left/content"
+msgstr "Purchase unavailable"
+
+msgid "footer/tooltip/restriction/left/title"
+msgstr ""
+"More containers until the guaranteed reward, if not obtained earlier: "
+
+msgid "guaranteedReward/boxesLeft/bonus"
+msgstr ""
+"More containers until the guaranteed level %(level)s vehicle, if not "
+"obtained earlier: "
+
+msgid "guaranteedReward/boxesLeft/vehicle"
+msgstr "Guaranteed reward in the next container!"
+
+msgid "guaranteedReward/next/bonus"
+msgstr "Guaranteed level %(level)s vehicle in the next container!"
+
+msgid "guaranteedReward/next/vehicle"
+msgstr ""
+"The guaranteed reward is the most valuable in-game asset from the list of "
+"possible container contents. The reward will be guaranteed to drop no later "
+"than the %(boxNumber)s-th container. If it drops earlier, the countdown will"
+" start over."
+
+msgid "guaranteedRewardTooltip/block1/bonus/text"
+msgstr "Mechanics of the guaranteed reward"
+
+msgid "guaranteedRewardTooltip/block1/bonus/title"
+msgstr ""
+"Guaranteed tank - a level %(level)s vehicle from the list of possible "
+"container contents. The tank will be guaranteed to drop no later than the "
+"%(boxNumber)s-th container. If you receive the vehicle earlier, the "
+"countdown will start over."
+
+msgid "guaranteedRewardTooltip/block1/vehicle/text"
+msgstr "Mechanics of the guaranteed tank"
+
+msgid "guaranteedRewardTooltip/block1/vehicle/title"
+msgstr ""
+"The counter for the guaranteed reward is shared for the following "
+"containers:"
+
+msgid "guaranteedRewardTooltip/block2/text"
+msgstr "Total reward counter:"
+
+msgid "guaranteedRewardTooltip/block2/title"
+msgstr ""
+"The assets are divided into three consecutive lists/stages. To move to the "
+"next list, you need to obtain all assets from the \"Main rewards\" of the "
+"current list."
+
+msgid "guaranteedRewardTooltip/block3/text"
+msgstr "Guaranteed rewards from stages"
+
+msgid "guaranteedRewardTooltip/block3/title"
+msgstr ""
+"The reward from the third list can be obtained an unlimited number of times."
+
+msgid "guaranteedRewardTooltip/block4/bonus/text"
+msgstr ""
+"If you already have all the vehicles from the list of possible container "
+"contents, then according to the mechanics of receiving the guaranteed tank, "
+"all subsequent vehicles obtained from containers will be compensated with "
+"the corresponding currency."
+
+msgid "guaranteedRewardTooltip/block4/vehicle/text"
+msgstr "When all vehicles are already obtained:"
+
+msgid "guaranteedRewardTooltip/block4/vehicle/title"
+msgstr ""
+"With the start of the \"Races: Restart\" event, an infinite number of "
+"containers of a new type will be credited to your account. They can only be "
+"opened with keys or lock picks throughout the game's Birthday celebration."
+
+msgid "keyWelcomeScreen/content/first/description"
+msgstr "New type of containers"
+
+msgid "keyWelcomeScreen/content/first/title"
+msgstr ""
+"Keys always open a container, while a lock pick may break during opening. "
+"Keys and lock picks are disposable."
+
+msgid "keyWelcomeScreen/content/second/description"
+msgstr "Keys and lock picks"
+
+msgid "keyWelcomeScreen/content/second/title"
+msgstr ""
+"Keys and lock picks can be obtained in various ways throughout the Birthday "
+"celebration. Keys can also be purchased in the Shop."
+
+msgid "keyWelcomeScreen/content/third/description"
+msgstr "How to get keys and lock picks?"
+
+msgid "keyWelcomeScreen/content/third/title"
+msgstr "Container \"Birthday 2024\""
+
+msgid "keyWelcomeScreen/header/titleMain"
+msgstr "%(idx)s. Probability of receiving one of the rewards: "
+
+msgid "lootBox/slot/description"
+msgstr "You can receive one of the rewards of the current stage"
+
+msgid "lootboxRotationTooltip/caption"
+msgstr ""
+"Collect the vehicles from the main rewards of the current stage to progress "
+"to the next one."
+
+msgid "lootboxRotationTooltip/description1"
+msgstr "Each stage includes unique vehicles and other in-game assets."
+
+msgid "lootboxRotationTooltip/description2"
+msgstr ""
+"A vehicle that reappears will be compensated in the corresponding currency."
+
+msgid "lootboxRotationTooltip/description3"
+msgstr ""
+"Повторно выпавшая машина будет компенсирована в соответствующей валюте."
+
+msgid "lootboxRotationTooltip/stage"
+msgstr "Stage"
+
+msgid "lootboxRotationTooltip/title"
+msgstr "Contents Lists"
+
+msgid "lootboxesWithKeys/about/default"
+msgstr "About the container"
+
+msgid "lootboxesWithKeys/availableLockpicks"
+msgstr "Lockpicks available for containers: %(icon) %(count)"
+
+msgid "lootboxesWithKeys/lockpickBrokeButton"
+msgstr "Affirmative!"
+
+msgid "lootboxesWithKeys/lockpickBrokeDesc"
+msgstr "Failed to open container {cream_Open}\"%(lootboxName)s\"{cream_Close}."
+
+msgid "lootboxesWithKeys/lockpickBrokeTitle"
+msgstr "LOCKPICK BROKE"
+
+msgid "lootboxesWithKeys/openAll"
+msgstr "Open all"
+
+msgid "lootboxesWithKeys/openLast"
+msgstr "Open the last one"
+
+msgid "lootboxesWithKeys/openMore"
+msgstr "Open %d more"
+
+msgid "lootboxesWithKeys/openOne"
+msgstr "Open 1 more"
+
+msgid "notification/lootBoxInvoiceReceived"
+msgstr "Accrued"
+
+msgid "openBoxScreen/about"
+msgstr "About stage containers"
+
+msgid "openBoxScreen/backBtn/0"
+msgstr "In the Garage"
+
+msgid "openBoxScreen/backBtn/1"
+msgstr "In the Shop"
+
+msgid "openBoxScreen/backBtn/2"
+msgstr "In the Square"
+
+msgid "openBoxScreen/backBtn/3"
+msgstr "To Shards"
+
+msgid "openBoxScreen/backBtn/4"
+msgstr "To the Referral Program"
+
+msgid "openBoxScreen/backBtnMain"
+msgstr "In the Garage"
+
+msgid "openBoxScreen/count/mult"
+msgstr "×%(count)s"
+
+msgid "openBoxScreen/noCurrentLootboxesMain"
+msgstr "You have not selected a container"
+
+msgid "openBoxScreen/noLootboxesMain"
+msgstr "You have no containers"
+
+msgid "openBoxScreen/noLootboxesSecondary"
+msgstr ""
+"To obtain containers, participate in specific events and complete related "
+"combat missions."
+
+msgid "openBoxScreen/noLootboxesShopSecondary"
+msgstr ""
+"To obtain containers, participate in specific events and complete related "
+"combat missions. Some containers can be purchased in the in-game Shop."
+
+msgid "optional/buy"
+msgstr "Buy"
+
+msgid "optional/buyBox"
+msgstr "Buy"
+
+msgid "optional/count"
+msgstr "Quantity: %(count)s pcs."
+
+msgid "optional/openBox"
+msgstr "Open"
+
+msgid "optional/openCount/all"
+msgstr "All"
+
+msgid "optional/openCount/numberCount"
+msgstr "%(count) шт."
+
+msgid "optional/openCount/one"
+msgstr "1 pc."
+
+msgid "optional/openProbabilityOverlay"
+msgstr "Drop chance"
+
+msgid "optional/possibleRewardsTitle"
+msgstr "POSSIBLE REWARDS"
+
+msgid "possibleRewards/accountCustomizations"
+msgstr "Profile"
+
+msgid "possibleRewards/boosters"
+msgstr "Development boost"
+
+msgid "possibleRewards/crew"
+msgstr "Crew"
+
+msgid "possibleRewards/currency"
+msgstr "Currency"
+
+msgid "possibleRewards/equipments"
+msgstr "Maintenance"
+
+msgid "possibleRewards/featureItems"
+msgstr "Event rewards"
+
+msgid "possibleRewards/lootboxStageRotation"
+msgstr "Main rewards"
+
+msgid "possibleRewards/premium"
+msgstr "Tank Premium Account"
+
+msgid "possibleRewards/vehicle"
+msgstr "Vehicles"
+
+msgid "possibleRewards/vehicleCustomizations"
+msgstr "Appearance"
+
+msgid "probabilitiesOverlay/blockedReward"
+msgstr "Collect the vehicle from the main reward of the previous stage"
+
+msgid "probabilitiesOverlay/boxAdditionalRewards"
+msgstr "Additional rewards"
+
+msgid "probabilitiesOverlay/boxDescription"
+msgstr ""
+"The property is divided into three consecutive lists/stages. To move to the "
+"next list, you need to obtain all the property from the \"Main rewards\" of "
+"the current list. In the third list, the Waffenträger auf E 100 appears, and"
+" you can get this vehicle. Each silver container drops one level V "
+"decoration, one level I-V decoration, and something from the list of "
+"valuable property. If all vehicles are already collected, subsequent drops "
+"will be compensated with in-game currency."
+
+msgid "probabilitiesOverlay/boxMainRewards"
+msgstr "Main rewards"
+
+msgid "probabilitiesOverlay/optional/header"
+msgstr "DROP CHANCE"
+
+msgid "probabilitiesOverlay/optional/procentProbability"
+msgstr "%(probability)s%"
+
+msgid "probabilitiesOverlay/optional/separator"
+msgstr ", "
+
+msgid "probabilitiesOverlay/tabTitle"
+msgstr "Stage %(stage)"
+
+msgid "probabilitiesOverlay/tabTooltip"
+msgstr "Rewards from the %(stage)s property list."
+
+msgid "probabilityGuaranteedRewardTooltip/text1"
+msgstr "Chance of getting an item from the specified group."
+
+msgid "probabilityGuaranteedRewardTooltip/text2"
+msgstr ""
+"A reward from this list will drop no later than the %(boxNumber)s-th "
+"container. If you receive a reward from the group earlier, the countdown "
+"will start over."
+
+msgid "probabilityGuaranteedRewardTooltip/title"
+msgstr "Probability and Guaranteed Rewards"
+
+msgid "rewards/controls/close"
+msgstr "CLOSE"
+
+msgid "rewards/controls/ok"
+msgstr "Roger that!"
+
+msgid "rewards/controls/showVehicle"
+msgstr "View in Hangar"
+
+msgid "rewards/header/subTitle"
+msgstr "Game assets from container {cream_Open}\"%(lootboxName)s\"{cream_Close}"
+
+msgid "rewards/header/title"
+msgstr "HERE'S WHAT'S INSIDE"
+
+msgid "shared/animationControlsOffText"
+msgstr "Turn off animation"
+
+msgid "shared/animationControlsText"
+msgstr "Turn on animation"
+
+msgid "tier/tier_1"
+msgstr "Regular container"
+
+msgid "tier/tier_2"
+msgstr "Bronze container"
+
+msgid "tier/tier_3"
+msgstr "Silver container"
+
+msgid "tier/tier_4"
+msgstr "Gold container"
+
+msgid "time/days"
+msgstr "d"
+
+msgid "time/hours"
+msgstr "h"
+
+msgid "time/lessThenMinute"
+msgstr "Minute"
+
+msgid "time/minutes"
+msgstr "min"
+
+msgid "time/seconds"
+msgstr "s"
+
+msgid "tooltips/bonusGroup/headerDescription"
+msgstr "You will receive one of the rewards from the list"
+
+msgid "tooltips/currencyKey/descriptionPart1/tanks_birthday_2024_key"
+msgstr ""
+"The key opens the container \"%(lootboxName)s\" with a probability of "
+"{cream_Open}100%{cream_Close}."
+
+msgid "tooltips/currencyKey/descriptionPart1/tanks_birthday_2024_lockpick"
+msgstr ""
+"The lockpick opens the container \"%(lootboxName)s\" with a probability of "
+"{cream_Open}%(count)s%{cream_Close}."
+
+msgid "tooltips/currencyKey/descriptionPart2/tanks_birthday_2024_key"
+msgstr "Keys can be obtained:"
+
+msgid "tooltips/currencyKey/descriptionPart2/tanks_birthday_2024_lockpick"
+msgstr "Lockpicks can be obtained:"
+
+msgid "tooltips/currencyKey/descriptionPart3/tanks_birthday_2024_key"
+msgstr ""
+"• in {cream_Open}in-game{cream_Close} or {cream_Open}Premium{cream_Close} stores;\n"
+"• for {cream_Open}completing stages{cream_Close} of the \"Races: Restart\" event."
+
+msgid "tooltips/currencyKey/descriptionPart3/tanks_birthday_2024_lockpick"
+msgstr "Available:"
+
+msgid "tooltips/currencyKey/footer/tanks_birthday_2024_key"
+msgstr "Available:"
+
+msgid "tooltips/currencyKey/footer/tanks_birthday_2024_lockpick"
+msgstr "Key for the \"Birthday 2024\" container."
+
+msgid "tooltips/currencyKey/title_v1/tanks_birthday_2024_key"
+msgstr "Lockpick for the \"Birthday 2024\" container."
+
+msgid "tooltips/currencyKey/title_v1/tanks_birthday_2024_lockpick"
+msgstr "Open with a key"
+
+msgid "tooltips/currencyKey/title_v2/tanks_birthday_2024_key"
+msgstr "Open with a lockpick"
+
+msgid "tooltips/currencyKey/title_v2/tanks_birthday_2024_lockpick"
+msgstr "No keys available"
+
+msgid "tooltips/currencyKey/title_v2_noKey/tanks_birthday_2024_key"
+msgstr "No lockpicks available"
+
+msgid "tooltips/currencyKey/title_v2_noKey/tanks_birthday_2024_lockpick"
+msgstr ""
+"Premium vehicles do not require research and earn more credits, as well as "
+"have other advantages."
+
+msgid "tooltips/infoType/premVehicle/body"
+msgstr "Premium vehicle"
+
+msgid "tooltips/infoType/premVehicle/header"
+msgstr "Container"
+
+msgid "tooltips/infoType/premium"
+msgstr ""
+"Special container that may contain premium vehicles, exterior elements, days"
+" of Tank Premium Account, and other valuable rewards."
+
+msgid "tooltips/infoType/premiumDescription"
+msgstr "Probability of receiving one reward from the list:"
+
+msgid "tooltips/infoType/probability"
+msgstr "Probability of receiving one of the premium vehicles:"
+
+msgid "tooltips/infoType/probabilityPremium"
+msgstr ""
+"(or in every %(guaranteed)s-th crate, if no vehicles in the previous "
+"%(fails)s)"
+
+msgid "tooltips/infoType/probabilityPremiumDetails"
+msgstr ""
+"This vehicle is issued for a certain number of battles or until a specified "
+"date. Endowed with all the features of premium vehicles."
+
+msgid "tooltips/infoType/rentVehicle/body"
+msgstr "Rental vehicle"
+
+msgid "tooltips/infoType/rentVehicle/header"
+msgstr "Contents"
+
+msgid "tooltips/infoType/title"
+msgstr "Chance of receiving an item from the specified group."
+
+msgid "tooltips/probability/body"
+msgstr "Probability"
+
+msgid "tooltips/probability/header"
+msgstr ""
+"All container rewards are divided into {cream_Open}categories{cream_Close}. "
+"Each category has its own {cream_Open}probability{cream_Close} of receiving "
+"{cream_Open}one{cream_Close} of its rewards. When opening a container, there"
+" is a chance to receive rewards from each category simultaneously."
+
+msgid "tooltips/probabilityButton/description"
+msgstr "Probability of receiving"
+
+msgid "tooltips/probabilityButton/title"
+msgstr ""
+"Assets are placed in three consecutive lists, named stages. To move to the "
+"next list, you need to obtain all assets from the \"Main Rewards\" category "
+"of the current stage."
+
+msgid "tooltips/probabilityStageButtons/description1"
+msgstr ""
+"The reward from the third list can be obtained an unlimited number of times."
+
+msgid "tooltips/probabilityStageButtons/description2"
+msgstr "Contents of Keys and Lockpicks for \"Birthday 2024\" containers"
+
+msgid "tooltips/probabilityStageButtons/title"
+msgstr "Списки содержимого"
+
+msgid "triggerHint/title"
+msgstr "Имеющиеся ключи и отмычки от контейнеров «День рождения 2024»"
+
+msgid "videoreward/button/title"
+msgstr "Continue"
+
+msgid "videoreward/description/commonText"
+msgstr "Guaranteed reward!"
+
+msgid "videoreward/description/vehicleText"
+msgstr "A guaranteed tank has arrived!"
+
+msgid "videoreward/header/title"
+msgstr "Guaranteed reward!"
+
+msgid "welcomeScreen/button/acceptButton"
+msgstr "Affirmative!"
+
+msgid "welcomeScreen/content/first/description"
+msgstr ""
+"The containers contain valuable in-game assets, including premium vehicles, "
+"styles, Premium Account for Tanks, and much more with a certain probability."
+
+msgid "welcomeScreen/content/first/title"
+msgstr "Valuable assets"
+
+msgid "welcomeScreen/content/second/description"
+msgstr ""
+"Play, win, and receive containers within seasonal events and for specific "
+"combat missions."
+
+msgid "welcomeScreen/content/second/title"
+msgstr "How to get a container?"
+
+msgid "welcomeScreen/content/third/description"
+msgstr ""
+"You can preview the full list of possible container contents in advance, as "
+"well as the probabilities of obtaining specific items."
+
+msgid "welcomeScreen/content/third/title"
+msgstr "Probability"
+
+msgid "welcomeScreen/header/titleMain"
+msgstr "Containers"
+
+msgid "welcomeScreen/header/titleSecond"
+msgstr ""
+"Each container contains valuable in-game assets. Familiarize yourself with "
+"the complete list of items and the probabilities of their drop."

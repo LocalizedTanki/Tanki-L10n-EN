@@ -1,0 +1,250 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_shop\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "booster/bonus/booster_credits"
+msgstr "%(effectValue)s to credits for %(effectTime)s"
+
+msgid "booster/bonus/booster_crew_xp"
+msgstr "%(effectValue)s to crew experience for %(effectTime)s"
+
+msgid "booster/bonus/booster_free_xp"
+msgstr "%(effectValue)s to free experience for %(effectTime)s"
+
+msgid "booster/bonus/booster_xp"
+msgstr "%(effectValue)s to combat experience for %(effectTime)s"
+
+msgid "booster_buy_dialog/composition"
+msgstr "Set composition"
+
+msgid "booster_buy_dialog/cost"
+msgstr "Purchase cost:"
+
+msgid "booster_buy_dialog/present"
+msgstr "Gift"
+
+msgid "booster_buy_dialog/title/master"
+msgstr "Buy \"Master Set\"?"
+
+msgid "booster_buy_dialog/title/newbie"
+msgstr "Buy \"More Points\" orders %(orderType)s (%(number)s pcs.)?"
+
+msgid "booster_buy_dialog/title/specialist"
+msgstr "Buy \"Specialist Set\" (%(number)s pcs.)?"
+
+msgid "boosters_shop/bundle/buyCount"
+msgstr "Available for purchase once: %(value)s"
+
+msgid "boosters_shop/footer"
+msgstr ""
+"{whiteSpanish_Open}\"More Points\" Orders{whiteSpanish_Close} increase the "
+"amount of {icon}{whiteSpanish_Open}victory points{whiteSpanish_Close} "
+"received by {whiteSpanish_Open}x5{whiteSpanish_Close}, "
+"{whiteSpanish_Open}x10{whiteSpanish_Close}, or "
+"{whiteSpanish_Open}x15{whiteSpanish_Close} times. The higher the order "
+"multiplier, the greater the reward for the battle, as well as the speed of "
+"progression and unit improvement."
+
+msgid "boosters_shop/subtitle"
+msgstr "Choose a set with orders:"
+
+msgid "boosters_shop/title"
+msgstr "MORE POINTS ORDERS"
+
+msgid "bundles/hb25FrontCouponsBundle1/systemMessage/purchased"
+msgstr "\"Recruit Set\" purchased."
+
+msgid "bundles/hb25FrontCouponsBundle1/title"
+msgstr "Recruit Set"
+
+msgid "bundles/hb25FrontCouponsBundle2/systemMessage/purchased"
+msgstr " \"Specialist Set\" purchased."
+
+msgid "bundles/hb25FrontCouponsBundle2/title"
+msgstr "Specialist Set"
+
+msgid "bundles/hb25FrontCouponsBundle3/systemMessage/purchased"
+msgstr " \"Master Set\" purchased."
+
+msgid "bundles/hb25FrontCouponsBundle3/title"
+msgstr "Master Set"
+
+msgid "coins_exchange/cost"
+msgstr "Exchange cost:"
+
+msgid "coins_exchange/inStock"
+msgstr "In stock:"
+
+msgid "coins_exchange/subTitle"
+msgstr "?empty?"
+
+msgid "coins_exchange/systemMessage/creditsSpent"
+msgstr "Credits spent: %(amount)s."
+
+msgid "coins_exchange/systemMessage/exchangeComplete"
+msgstr "?empty?"
+
+msgid "coins_exchange/title"
+msgstr "?empty?"
+
+msgid "coins_exchange/tooltip/noCoins/body"
+msgstr "?empty?"
+
+msgid "coins_exchange/tooltip/noCoins/header"
+msgstr "?empty?"
+
+msgid "coins_exchange/tooltip/noFront/body"
+msgstr "?empty?"
+
+msgid "coins_exchange/tooltip/turnedOff/body"
+msgstr "?empty?"
+
+msgid "common/button/back/caption"
+msgstr "BACK"
+
+msgid "common/button/back/goto"
+msgstr "IN GARAGE"
+
+msgid "common/button/buy"
+msgstr "Buy"
+
+msgid "common/button/get"
+msgstr "Get"
+
+msgid "common/pieces"
+msgstr "%(number)s pcs."
+
+msgid "common/priceFrom"
+msgstr "from %(price)"
+
+msgid "common/pricePerOne"
+msgstr "Cost per 1 pc.:"
+
+msgid "common/timeLeft/hours"
+msgstr "%(hour)s h."
+
+msgid "effects/name"
+msgstr "Effect:"
+
+msgid "errors/serverCooldownError"
+msgstr "Operation failed. Please try again later."
+
+msgid "errors/serverError"
+msgstr "Operation failed. Insufficient funds or technical error."
+
+msgid "mainPrize/hb22BundleMainPrizeModuleChassis/confirm_dialog_title"
+msgstr "Get Suspension"
+
+msgid "mainPrize/hb22BundleMainPrizeModuleEngine/confirm_dialog_title"
+msgstr "Get Engine"
+
+msgid "mainPrize/hb22BundleMainPrizeModuleGun/confirm_dialog_title"
+msgstr "Get Gun"
+
+msgid "mainPrize/hb22BundleMainPrizeModuleRadio/confirm_dialog_title"
+msgstr "Get Hull"
+
+msgid "mainPrize/hb22BundleMainPrizeModuleTurret/confirm_dialog_title"
+msgstr "Get Turret"
+
+msgid "mainPrize/partsCount/confirm_dialog_title/1"
+msgstr ", the first of five parts of the vehicle \"%(vehName)s\"?"
+
+msgid "mainPrize/partsCount/confirm_dialog_title/2"
+msgstr ", the second of five parts of the vehicle \"%(vehName)s\"?"
+
+msgid "mainPrize/partsCount/confirm_dialog_title/3"
+msgstr ", the third of five parts of the vehicle \"%(vehName)s\"?"
+
+msgid "mainPrize/partsCount/confirm_dialog_title/4"
+msgstr ", the fourth of five parts of the vehicle \"%(vehName)s\"?"
+
+msgid "mainPrize/partsCount/confirm_dialog_title/5"
+msgstr ", the fifth of five parts of the vehicle \"%(vehName)s\"?"
+
+msgid "opt_device_buy_dialog/cost"
+msgstr "Payment:"
+
+msgid "opt_device_buy_dialog/title"
+msgstr ""
+"Get equipment\n"
+"\"%(name)s\"?"
+
+msgid "shop/hb22ShowcaseBundle1/confirm_dialog_title"
+msgstr "Get decal set (10 pcs.)?"
+
+msgid "shop/hb22ShowcaseBundle1/descr"
+msgstr "Bright styles for transforming your favorite vehicles"
+
+msgid "shop/hb22ShowcaseBundle1/name"
+msgstr "Decal set (10 pcs.)"
+
+msgid "shop/hb22ShowcaseBundle2/confirm_dialog_title"
+msgstr ""
+"Get educational material\n"
+"\"Universal Study Guide\"?"
+
+msgid "shop/hb22ShowcaseBundle2/descr"
+msgstr ""
+"{whiteSpanish_Open}+250 000{whiteSpanish_Close} опыта каждому члену экипажа"
+
+msgid "shop/hb22ShowcaseBundle2/name"
+msgstr "Universal tutorial"
+
+msgid "shopLabel"
+msgstr "MILITARY STORE"
+
+msgid "showcase_confirm_dialog/crewbook/title"
+msgstr "Get the tutorial material for \"%(name)s\"?"
+
+msgid "showcase_confirm_dialog/equipment/title"
+msgstr "Get the equipment \"%(name)s\"?"
+
+msgid "showcase_confirm_dialog/instruction/title"
+msgstr "Get the pre-battle instruction \"%(name)s\"?"
+
+msgid "showcase_confirm_dialog/reserves/title"
+msgstr "Get personal reserve \"%(name)s\"?"
+
+msgid "systemMessage/bundleOrders/gift"
+msgstr "Gift: <b>Order \"More Points\" %(orderType)s (%(count)s pcs.)</b>."
+
+msgid "systemMessage/bundleOrders/purchase"
+msgstr "Awarded: <b>Order \"More Points\" %(orderType)s (%(count)s pcs.)</b>."
+
+msgid "systemMessage/mainPrize/giftVehicle"
+msgstr "Added vehicle: <b>%(vehName)s (crew 100%%)</b>."
+
+msgid "systemMessage/mainPrize/medal"
+msgstr "Achievement: <font color='#FFFFFF'>\"%(medalName)s\"</font>."
+
+msgid "systemMessage/mainPrize/slot"
+msgstr "Added garage slots: <font color='#E9E2BF'>1</font>."
+
+msgid "systemMessage/mainPrize/vehicle"
+msgstr "Vehicle \"%(vehName)s\" purchased."
+
+msgid "systemMessage/moneySpent"
+msgstr "Spent %(text)s."
+
+msgid "systemMessage/moneySpent/credits"
+msgstr "credits: %(amount)s"
+
+msgid "systemMessage/moneySpent/gold"
+msgstr "gold: %(amount)s"
+
+msgid "systemMessage/moneySpent/hb_coin_counterattack"
+msgstr "?empty?"
+
+msgid "systemMessage/moneySpent/hb_coin_defence"
+msgstr "?empty?"
+
+msgid "systemMessage/moneySpent/hb_coin_offence"
+msgstr "?empty?"

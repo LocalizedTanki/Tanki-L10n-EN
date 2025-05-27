@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-cosmic_eventde_selector.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "mode/cosmic_event/description"
+msgstr "Embark on a space journey\\nfor a scientific breakthrough"
+
+msgid "mode/cosmic_event/notStarted"
+msgstr "Mode unavailable"
+
+msgid "mode/cosmic_event/primeTime"
+msgstr "----"
+
+msgid "mode/cosmic_event/progression"
+msgstr "Progress:\\n%(current) / %(total)"
+
+msgid "mode/cosmic_event/title"
+msgstr "On Mars: Chaos"
+
+msgid "reward/equipCoin/name"
+msgstr "Components"
+
+msgid "reward/lootbox/description"
+msgstr "As you progress, you will receive containers with thematic content."
+
+msgid "reward/lootbox/name"
+msgstr "Containers"
+
+msgid "reward/prize/description"
+msgstr ""
+"Upon successful completion of the expedition, you will receive personal "
+"reserves, decals, bonuses, Tank Premium Account days, and \"Mars\" "
+"containers."
+
+msgid "reward/prize/name"
+msgstr "Other rewards"
+
+msgid "reward/style2D/description"
+msgstr ""
+"Participate in the \"On Mars!\" event to get a stylish 2D look in Martian "
+"tones."
+
+msgid "reward/style2D/name"
+msgstr "2D Style"
+
+msgid "reward/tankmen/description"
+msgstr "As you progress, you will encounter thematic crew members."
+
+msgid "reward/tankmen/name"
+msgstr "Astronauts"

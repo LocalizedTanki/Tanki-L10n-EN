@@ -1,0 +1,572 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.germany_vehicles.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Chassis_DickerMax_hb"
+msgstr "Dicker Max"
+
+msgid "Chassis_G101_StuG_III_2_SE22_Bot_PT2_hb"
+msgstr "StuG III Ausf. E"
+
+msgid "Chassis_Pz38_NA_2_SE22_Bot_LT2_hb"
+msgstr "Pz.Kpfw. 38 (t) n.A. verstärkteketten"
+
+msgid "Chassis_Pz38_NA_2_short_SE22_Bot_LT2_hb"
+msgstr ""
+"Pz.Kpfw. 38 (t) n.A.\n"
+"verstärkteketten"
+
+msgid "Chassis_Pz_IV_AusfD_2_SE22_Bot_MT2_hb"
+msgstr "Pz.Kpfw. IV Ausf. D"
+
+msgid "Chassis_Pz_IV_AusfD_2_SE22_Bot_MT5_att_hb"
+msgstr "Pz.Kpfw. IV Ausf. D"
+
+msgid "DickerMax_descr_hb"
+msgstr ""
+"Initially, the vehicle was designed for destroying fortified positions. Two "
+"prototypes were released in the spring of 1941. Later, it was reclassified "
+"as a heavy tank destroyer. Experimental models fought on the Eastern Front. "
+"It was not mass-produced."
+
+msgid "DickerMax_hb"
+msgstr "Dicker Max"
+
+msgid "DickerMax_short_hb"
+msgstr "Dicker Max"
+
+msgid "FuG12_SE22_Bot_HT2_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_SE22_Bot_MT3_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_SE22_Bot_MT4_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_SE22_Bot_MT6_att_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_SE22_Bot_MT7_att_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_hb"
+msgstr "FuG 12"
+
+msgid "FuG12_hb__0"
+msgstr "FuG 12"
+
+msgid "FuG5A_hb"
+msgstr "FuG5 mit 20 WS.E."
+
+msgid "FuG7_SE22_Bot_MT2_hb"
+msgstr "FuG 7"
+
+msgid "FuG7_SE22_Bot_MT5_att_hb"
+msgstr "FuG 7"
+
+msgid "FuG7_SE22_Bot_PT2_hb"
+msgstr "FuG 7"
+
+msgid "FuG8_SE22_Bot_LT2_hb"
+msgstr "FuG 8"
+
+msgid "G03_PzV_Panther_hb25_Elite"
+msgstr "Panther Elite"
+
+msgid "G03_PzV_Panther_hb25_Elite_short"
+msgstr "Panther Elite"
+
+msgid "G04_PzVI_Tiger_I_hb25_Elite"
+msgstr "Tiger I (Elite)"
+
+msgid "G04_PzVI_Tiger_I_hb25_Elite_short"
+msgstr "Tiger I (Elite)"
+
+msgid "G08_Pz38t_hb25_Elite"
+msgstr "Pz.Kpfw. 38 (t)(Elite)"
+
+msgid "G08_Pz38t_hb25_Elite_short"
+msgstr "Pz. 38 (t) (Elite)"
+
+msgid "G09_Hetzer_hb25_Elite"
+msgstr "Hetzer Elite"
+
+msgid "G09_Hetzer_hb25_Elite_short"
+msgstr "Hetzer Elite"
+
+msgid "G101_StuG_III_descr_SE22_Bot_PT2_hb"
+msgstr ""
+"In 1935, Erich von Manstein described the idea of assault artillery vehicles"
+" in a letter to General Beck, with the main task being direct support for "
+"attacking infantry units. In 1937, the first five prototypes of the so-"
+"called \"zero\" series were manufactured. Early modifications from Ausf.A to"
+" Ausf.F/8 were produced until December 1942."
+
+msgid "G101_StuG_III_hb25_Elite"
+msgstr "StuG III Ausf. B Elite"
+
+msgid "G101_StuG_III_hb25_Elite_short"
+msgstr "StuG III B Elite"
+
+msgid "G101_StuG_III_short_SE22_Bot_PT2_hb"
+msgstr "StuG III B"
+
+msgid "G107_PzKpfwIII_AusfKhb25_Elite"
+msgstr "Pz.Kpfw. III Ausf. K (Elite)"
+
+msgid "G107_PzKpfwIII_AusfKhb25_Elite_short"
+msgstr "Pz. III K (Elite)"
+
+msgid "G10_PzIII_AusfJ_hb25_Elite"
+msgstr "Pz.Kpfw. III Ausf. J (Elite)"
+
+msgid "G10_PzIII_AusfJ_hb25_Elite_short"
+msgstr "Pz. III J (Elite)"
+
+msgid "G158_VK2801_105_SPXXI_hb25_Elite"
+msgstr "VK 28.01 mit 10,5 cm L/28 Elite"
+
+msgid "G158_VK2801_105_SPXXI_hb25_Elite_short"
+msgstr "VK 28.01 105 Elite"
+
+msgid "G16_PzVIB_Tiger_II_hb25_Boss"
+msgstr "Tiger II Kommandant"
+
+msgid "G16_PzVIB_Tiger_II_hb25_Boss_short"
+msgstr "Tiger II Kommandant"
+
+msgid "G16_PzVIB_Tiger_II_hb25_Elite"
+msgstr "Tiger II Elite"
+
+msgid "G16_PzVIB_Tiger_II_hb25_Elite_short"
+msgstr "Tiger II Elite"
+
+msgid "G20_Marder_II_hb25_Elite"
+msgstr "Marder II (Elite)"
+
+msgid "G20_Marder_II_hb25_Elite_short"
+msgstr "Marder II (Elite)"
+
+msgid "G26_VK1602_hb25_Elite"
+msgstr "VK 16.02 Leopard Elite"
+
+msgid "G26_VK1602_hb25_Elite_short"
+msgstr "Leopard Elite"
+
+msgid "G37_Ferdinand_hb25_Elite"
+msgstr "Ferdinand Elite"
+
+msgid "G42_Maus_hb25_Boss"
+msgstr "Maus Kommandant"
+
+msgid "G42_Maus_hb25_Boss_short"
+msgstr "Maus Kommandant"
+
+msgid "G44_JagdTiger_hb25_Boss"
+msgstr "Jagdtiger Kommandant"
+
+msgid "G44_JagdTiger_hb25_Boss_short"
+msgstr "Jagdtiger Kommandant"
+
+msgid "G51_Lowe_hb25_Boss"
+msgstr "Löwe Kommandant"
+
+msgid "G58_VK4502P7_hb25_Boss"
+msgstr "VK 45.02 B7 Kommandant"
+
+msgid "G58_VK4502P7_hb25_Boss_short"
+msgstr "VK 45.02 B7 Kommandant"
+
+msgid "G80_Pz_IV_AusfD_hb25_Elite"
+msgstr "Pz.Kpfw. IV Ausf. D (Elite)"
+
+msgid "G80_Pz_IV_AusfD_hb25_Elite_short"
+msgstr "Pz. IV D (Elite)"
+
+msgid "G81_Pz_IV_AusfH_hb25_Elite"
+msgstr "Pz.Kpfw. IV Ausf. H Elite"
+
+msgid "G81_Pz_IV_AusfH_hb25_Elite_short"
+msgstr "Pz.Kpfw. IV H Elite"
+
+msgid "G85_Aufklarungspanzer_V_hb25_Elite"
+msgstr "Aufklärungspanzer V Elite"
+
+msgid "G85_Aufklarungspanzer_V_hb25_Elite_short"
+msgstr "Aufkl.Pz. V Elite"
+
+msgid "Grille_descr_hb"
+msgstr ""
+"German self-propelled howitzer of the Second World War. Created on the "
+"chassis of the Czechoslovak light tank Pz.Kpfw. 38(t). Production of this "
+"type of self-propelled artillery was carried out from 1943 to 1944. A total "
+"of 282 vehicles were produced."
+
+msgid "Grille_hb"
+msgstr "Grille"
+
+msgid "Grille_mod_1_hb"
+msgstr "Grille"
+
+msgid "Grille_short_hb"
+msgstr "Grille"
+
+msgid "Grilleketten_ausf_B_hb"
+msgstr "Grille verstärkteketten"
+
+msgid "Maybach_HL_120_TRM_SE22_Bot_MT2_hb"
+msgstr "Maybach HL 120 TRM"
+
+msgid "Maybach_HL_120_TRM_SE22_Bot_MT3_hb"
+msgstr "Maybach HL 120 TRM"
+
+msgid "Maybach_HL_120_TRM_SE22_Bot_MT5_att_hb"
+msgstr "Maybach HL 120 TRM"
+
+msgid "Maybach_HL_120_TRM_SE22_Bot_MT6_att_hb"
+msgstr "Maybach HL 120 TRM"
+
+msgid "Maybach_HL_120_TRM_SE22_Bot_PT2_hb"
+msgstr "Maybach HL 120 TRM"
+
+msgid "Maybach_HL_120_TR_A_hb"
+msgstr "Maybach HL 120 TRM 112"
+
+msgid "Maybach_HL_150_SE22_Bot_MT4_hb"
+msgstr "Maybach HL 150"
+
+msgid "Maybach_HL_150_SE22_Bot_MT7_att_hb"
+msgstr "Maybach HL 150"
+
+msgid "Maybach_HL_174_hb"
+msgstr "Maybach HL 174"
+
+msgid "Porsche_Typ_100_3_SE22_Bot_HT2_hb"
+msgstr "2x Porsche Typ 100/3"
+
+msgid "Praga_EPA_AC_hb"
+msgstr "Praga EPA AC"
+
+msgid "Praga_NR_SE22_Bot_LT2_hb"
+msgstr "Praga NR"
+
+msgid "Pz38_NA_SE22_Bot_LT2_hb"
+msgstr "Pz.Kpfw. 38 (t) n.A."
+
+msgid "Pz38_NA_descr_SE22_Bot_LT2_hb"
+msgstr ""
+"Development was carried out by BMM company from July 1940 as part of a "
+"program to create a new light reconnaissance tank. The basis for the project"
+" was the Pz.Kpfw. 38 (t). Welding of the hull, installation of a new engine,"
+" and a redesigned gearbox were applied. During tests, the vehicle reached a "
+"maximum speed of 64 km/h. The tank project was abandoned in favor of the VK "
+"1303. Five experimental models were produced."
+
+msgid "Pz38_NA_short_SE22_Bot_LT2_hb"
+msgstr "Pz. 38 nA"
+
+msgid "PzIII_AusfJ_SE22_Bot_MT3_hb"
+msgstr "Pz.Kpfw. III Ausf. J"
+
+msgid "PzIII_AusfJ_SE22_Bot_MT6_att_hb"
+msgstr "Pz.Kpfw. III Ausf. J"
+
+msgid "PzIII_AusfJ_descr_SE22_Bot_MT3_hb"
+msgstr ""
+"Production of the J modification began in March 1941. In addition to "
+"reinforced armor, the vehicle received a new successful 50mm gun KwK38, and "
+"1067 vehicles were armed with a gun with even greater penetration - KwK39. "
+"Attempts to install a 75mm gun (N modification) were unsuccessful, and the "
+"most mass-produced versions were J, L, and M with well-proven 50mm guns. A "
+"total of 5691 vehicles were produced, including 1969 with a long-barreled "
+"and 2391 with a short-barreled 50mm gun."
+
+msgid "PzIII_AusfJ_descr_SE22_Bot_MT6_att_hb"
+msgstr ""
+"Production of the J modification began in March 1941. In addition to "
+"reinforced armor, the vehicle received a new successful 50mm gun KwK38, and "
+"1067 vehicles were armed with a gun with even greater penetration - KwK39. "
+"Attempts to install a 75mm gun (N modification) were unsuccessful, and the "
+"most mass-produced versions were J, L, and M with well-proven 50mm guns. A "
+"total of 5691 vehicles were produced, including 1969 with a long-barreled "
+"and 2391 with a short-barreled 50mm gun."
+
+msgid "PzIII_AusfJ_short_SE22_Bot_MT3_hb"
+msgstr "Pz. III J"
+
+msgid "PzIII_AusfJ_short_SE22_Bot_MT6_att_hb"
+msgstr "Pz. III J"
+
+msgid "PzIII_Ausf_E_SE22_Bot_MT3_hb"
+msgstr "Pz.Kpfw. III Ausf. J"
+
+msgid "PzIII_Ausf_E_SE22_Bot_MT6_att_hb"
+msgstr "Pz.Kpfw. III Ausf. J"
+
+msgid "PzIII_Ausf_E_short_SE22_Bot_MT3_hb"
+msgstr ""
+"Pz.Kpfw. III\n"
+"Ausf. J"
+
+msgid "PzIII_Ausf_E_short_SE22_Bot_MT6_att_hb"
+msgstr ""
+"Pz.Kpfw. III\n"
+"Ausf. J"
+
+msgid "PzIIIketten_Ausf_L_SE22_Bot_MT3_hb"
+msgstr "Pz.Kpfw. III Ausf. L"
+
+msgid "PzIIIketten_Ausf_L_SE22_Bot_MT6_att_hb"
+msgstr "Pz.Kpfw. III Ausf. L"
+
+msgid "PzIIIketten_Ausf_L_short_SE22_Bot_MT3_hb"
+msgstr ""
+"Pz.Kpfw. III\n"
+"Ausf. L"
+
+msgid "PzIIIketten_Ausf_L_short_SE22_Bot_MT6_att_hb"
+msgstr ""
+"Pz.Kpfw. III\n"
+"Ausf. L"
+
+msgid "Pz_IV_AusfD_SE22_Bot_MT2_hb"
+msgstr "Pz.Kpfw. IV Ausf. D"
+
+msgid "Pz_IV_AusfD_SE22_Bot_MT5_att_hb"
+msgstr "Pz.Kpfw. IV Ausf. D"
+
+msgid "Pz_IV_AusfD_descr_SE22_Bot_MT2_hb"
+msgstr ""
+"Production of this modification of the Pz IV tank began in October 1939. The"
+" main differences were reinforced armor and an external placement of the gun"
+" mantlet. During the serial production, which lasted until May 1940, 229 "
+"vehicles of this type were produced."
+
+msgid "Pz_IV_AusfD_descr_SE22_Bot_MT5_att_hb"
+msgstr ""
+"Production of this modification of the Pz IV tank began in October 1939. The"
+" main differences were reinforced armor and an external placement of the gun"
+" mantlet. During the serial production, which lasted until May 1940, 229 "
+"vehicles of this type were produced."
+
+msgid "Pz_IV_AusfD_short_SE22_Bot_MT2_hb"
+msgstr "Pz. IV D"
+
+msgid "Pz_IV_AusfD_short_SE22_Bot_MT5_att_hb"
+msgstr "Pz. IV D"
+
+msgid "Turret_1_DickerMax_hb"
+msgstr "Dicker Max"
+
+msgid "Turret_1_Pz38_NA_SE22_Bot_LT2_hb"
+msgstr "Pz.Kpfw. 38 (t) Ausf. G"
+
+msgid "Turret_1_Pz_IV_AusfD_SE22_Bot_MT2_hb"
+msgstr "Pz.Kpfw. IV Ausf. C"
+
+msgid "Turret_1_Pz_IV_AusfD_SE22_Bot_MT5_att_hb"
+msgstr "Pz.Kpfw. IV Ausf. C"
+
+msgid "VK3001H_Eliteturm_SE22_Bot_MT4_hb"
+msgstr "VK 36.01 (H)"
+
+msgid "VK3001H_Eliteturm_SE22_Bot_MT7_att_hb"
+msgstr "VK 36.01 (H)"
+
+msgid "VK3001H_Eliteturm_short_SE22_Bot_MT4_hb"
+msgstr "VK 36.01 (H)"
+
+msgid "VK3001H_Eliteturm_short_SE22_Bot_MT7_att_hb"
+msgstr "VK 36.01 (H)"
+
+msgid "VK3001H_SE22_Bot_MT4_hb"
+msgstr "VK 30.01 (H)"
+
+msgid "VK3001H_SE22_Bot_MT7_att_hb"
+msgstr "VK 30.01 (H)"
+
+msgid "VK3001H_ausf_B_SE22_Bot_MT4_hb"
+msgstr "VK 30.01 (H) verstärkteketten"
+
+msgid "VK3001H_ausf_B_SE22_Bot_MT7_att_hb"
+msgstr "VK 30.01 (H) verstärkteketten"
+
+msgid "VK3001H_ausf_B_short_SE22_Bot_MT4_hb"
+msgstr ""
+"VK 30.01 (H)\n"
+"verstärkteketten"
+
+msgid "VK3001H_ausf_B_short_SE22_Bot_MT7_att_hb"
+msgstr ""
+"VK 30.01 (H)\n"
+"verstärkteketten"
+
+msgid "VK3001H_descr_SE22_Bot_MT4_hb"
+msgstr ""
+"The order for the tank was issued on September 9, 1939. During the "
+"development process, engineers from Henschel company actively used the "
+"developments from the DW II project. The first two prototypes were ready by "
+"March 1942, and two more were built by October. The prototypes were actively"
+" tested at the factory test range, but without a turret and armament. After "
+"the tests, two chassis were converted into heavy tank destroyers. Six "
+"turrets, manufactured by Krupp, were installed on the \"Atlantic Wall\"."
+
+msgid "VK3001H_descr_SE22_Bot_MT7_att_hb"
+msgstr ""
+"The order for the tank was issued on September 9, 1939. During the "
+"development process, engineers from Henschel company actively used the "
+"developments from the DW II project. The first two prototypes were ready by "
+"March 1942, and two more were built by October. The prototypes were actively"
+" tested at the factory test range, but without a turret and armament. After "
+"the tests, two chassis were converted into heavy tank destroyers. Six "
+"turrets, manufactured by Krupp, were installed on the \"Atlantic Wall\"."
+
+msgid "VK3001H_short_SE22_Bot_MT4_hb"
+msgstr "VK 30.01 H"
+
+msgid "VK3001H_short_SE22_Bot_MT7_att_hb"
+msgstr "VK 30.01 H"
+
+msgid "VK3001P_Porsche_turm_SE22_Bot_HT2_hb"
+msgstr "VK 30.01 (P) Krupp Turm"
+
+msgid "VK3001P_Porsche_turm_short_SE22_Bot_HT2_hb"
+msgstr ""
+"VK 30.01 (P)\n"
+"Krupp Turm"
+
+msgid "VK3001P_SE22_Bot_HT2_hb"
+msgstr "VK 30.01 (P)"
+
+msgid "VK3001P_ausf_B_SE22_Bot_HT2_hb"
+msgstr "VK 30.01 (P) verstärkteketten"
+
+msgid "VK3001P_ausf_B_short_SE22_Bot_HT2_hb"
+msgstr ""
+"VK 30.01 (P)\n"
+"verstärkteketten"
+
+msgid "VK3001P_descr_SE22_Bot_HT2_hb"
+msgstr ""
+"The idea of the new tank project by Porsche company emerged in 1939 when a "
+"new concept was developed. After numerous consultations, drawings were "
+"developed on March 5, 1941, and a hull made of soft steel was manufactured "
+"in July 1941. The hull and chassis underwent mobility tests, including with "
+"additional equipment for trench digging. Only one wooden model of the turret"
+" and a wooden model of the hull were made. In 1942, the project was closed "
+"in favor of new heavy tanks."
+
+msgid "VK3001P_short_SE22_Bot_HT2_hb"
+msgstr "VK 30.01 P"
+
+msgid "VK3601H_Grosseturm_hb"
+msgstr "Pz.Kpfw. VI H Ausf. H2"
+
+msgid "VK3601H_Grosseturm_short_hb"
+msgstr ""
+"Pz.Kpfw. VI H\n"
+"Ausf. H2"
+
+msgid "VK3601H_descr_hb"
+msgstr ""
+"German experimental heavy tank of the Second World War, developed by "
+"Henschel company, further development of the VK 30.01 (H) project. The "
+"project was one of the stages in the development of the \"Tiger\" tank. By "
+"early 1942, 8 chassis and 1 prototype were built. Many technical solutions "
+"were worked out during the prototype development, which later served as the "
+"basis for the development of Germany's heavy tanks in the Second World War. "
+"Later, the chassis were used as a base for recovery and evacuation vehicles."
+
+msgid "VK3601H_hb"
+msgstr "VK 36.01 (H)"
+
+msgid "VK3601H_henshelketten_ausf_B_hb"
+msgstr "VK 36.01 (H) verstärkteketten"
+
+msgid "VK3601H_henshelketten_ausf_B_short_hb"
+msgstr ""
+"VK 36.01 (H)\n"
+"verstärkteketten"
+
+msgid "VK3601H_short_hb"
+msgstr "VK 36.01 H"
+
+msgid "_105mm_K18_L52A_hb"
+msgstr "10,5 cm Kanone 18"
+
+msgid "_105mm_PzGrRot_hb"
+msgstr "PzGr rot"
+
+msgid "_105mm_Sprg_K_SE22_Bot_MT4_hb"
+msgstr "Sprgr K"
+
+msgid "_105mm_Sprg_K_SE22_Bot_MT7_att_hb"
+msgstr "Sprgr K"
+
+msgid "_105mm_StuH42_L28Pz_SE22_Bot_MT4_hb"
+msgstr "10,5 cm Kw.K. L/28"
+
+msgid "_105mm_StuH42_L28Pz_SE22_Bot_MT7_att_hb"
+msgstr "10,5 cm Kw.K. L/28"
+
+msgid "_150mm_Sprg_hb"
+msgstr "Sprgr 18"
+
+msgid "_150mm_sFH13_L17_hb"
+msgstr "15 cm s.F.H. 13 L/17"
+
+msgid "_37mm_KwK_38t_L47_SE22_Bot_LT2_hb"
+msgstr "3,7 cm Kw.K. 38 (t) L/47"
+
+msgid "_37mm_Pzgr39t_SE22_Bot_LT2_hb"
+msgstr "Pzgr 39 (t)"
+
+msgid "_50mm_KwK_38_L42_SE22_Bot_MT3_hb"
+msgstr "5 cm Kw.K. 38 L/42"
+
+msgid "_50mm_KwK_38_L42_SE22_Bot_MT6_att_hb"
+msgstr "5 cm Kw.K. 38 L/42"
+
+msgid "_50mm_Pzgr39_SE22_Bot_MT3_hb"
+msgstr "Pzgr 39"
+
+msgid "_50mm_Pzgr39_SE22_Bot_MT6_att_hb"
+msgstr "Pzgr 39"
+
+msgid "_75mm_APCBC_SE22_Bot_MT2_hb"
+msgstr "APCBC"
+
+msgid "_75mm_APCBC_SE22_Bot_MT5_att_hb"
+msgstr "APCBC"
+
+msgid "_75mm_APCBC_SE22_Bot_PT2_hb"
+msgstr "APCBC"
+
+msgid "_75mm_KwK_37_L24_SE22_Bot_MT2_hb"
+msgstr "7,5 cm Kw.K. 37 L/24"
+
+msgid "_75mm_KwK_37_L24_SE22_Bot_MT5_att_hb"
+msgstr "7,5 cm Kw.K. 37 L/24"
+
+msgid "_75mm_StuK_37_L24_SE22_Bot_PT2_hb"
+msgstr "7,5 cm Kanone L/24"
+
+msgid "_88mm_KwK_36_L56_SE22_Bot_HT2_hb"
+msgstr "8,8 cm Kw.K. 36 L/56"
+
+msgid "_88mm_KwK_36_L56_hb"
+msgstr "8,8 cm Kw.K. 36 L/56"
+
+msgid "_88mm_Pzgr39_SE22_Bot_HT2_hb"
+msgstr "Pzgr 39"
+
+msgid "_88mm_Pzgr39_hb"
+msgstr "Pzgr 39"

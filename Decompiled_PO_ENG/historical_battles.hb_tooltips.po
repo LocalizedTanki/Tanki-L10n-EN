@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_tooltips\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "awardScreen/specialVehiclesTooltip/base"
+msgstr ""
+"You have unlocked access to special elite vehicles, battles on which will "
+"bring"
+
+msgid "awardScreen/specialVehiclesTooltip/end"
+msgstr "in the \"Time of Heroes\" event."
+
+msgid "calendarTooltip/date"
+msgstr "%(day)s %(month)s, %(time)s"
+
+msgid "calendarTooltip/duration"
+msgstr ""
+"The event will last\n"
+"%(period)s."
+
+msgid "calendarTooltip/period"
+msgstr "from %(start)s to %(end)s"
+
+msgid "calendarTooltip/title"
+msgstr "Schedule"
+
+msgid "newVehiclesAvailableTooltip/body"
+msgstr ""
+"With the increase in unit level, new vehicles have become available to you "
+"in addition to those already owned."
+
+msgid "newVehiclesAvailableTooltip/header"
+msgstr "New available vehicles"
+
+msgid "quest/award"
+msgstr "Order \"More Points\" %(bonusName)s (%(count)d pcs.)"
+
+msgid "quest/tooltip/body/maintenance"
+msgstr "Task completion is unavailable for technical reasons"
+
+msgid "quest/tooltip/body/unavailable"
+msgstr ""
+"The selected vehicle is of too low level. To access tasks in the \"Time of "
+"Heroes\" event, select a vehicle of V-X level."
+
+msgid "quest/tooltip/header/cooldown/hours"
+msgstr "New tasks will appear in %(hours)s hours."
+
+msgid "quest/tooltip/header/endsIn"
+msgstr "Until the end of the event: %(hours)s hours."
+
+msgid "quest/tooltip/header/in_progress"
+msgstr "In progress"
+
+msgid "quest/tooltip/header/label"
+msgstr "Tasks of the \"Time of Heroes\" event:"
+
+msgid "quest/tooltip/header/maintenance"
+msgstr "Tasks are unavailable"
+
+msgid "quest/tooltip/header/unavailable"
+msgstr "No available tasks"
+
+msgid "specialVehiclesTooltip/bodyLocked"
+msgstr ""
+"By completing the conditions of stage 5 of progression, you will gain access to special elite vehicles, battles on which will bring\n"
+"%(multiplier) %(coin_icon) %(hbCoins) in the \"Time of Heroes\" event."
+
+msgid "specialVehiclesTooltip/bodyUnlocked"
+msgstr ""
+"You have unlocked access to special elite vehicles, battles on which will "
+"bring %(multiplier) %(coin_icon) %(hbCoins) in the \"Time of Heroes\" event."
+
+msgid "specialVehiclesTooltip/footerLocked"
+msgstr "The vehicle that will become available: %(value)s"
+
+msgid "specialVehiclesTooltip/footerUnlocked"
+msgstr "The vehicle that has become available: %(value)s"
+
+msgid "specialVehiclesTooltip/hbCoins"
+msgstr "victory points"
+
+msgid "specialVehiclesTooltip/header"
+msgstr "Access to elite vehicles"
+
+msgid "specialVehiclesTooltip/multiplier"
+msgstr "x2"
+
+msgid "teamList/assist/body"
+msgstr "Sort by damage dealt with your assistance."
+
+msgid "teamList/assist/header"
+msgstr "Assistance"
+
+msgid "teamList/blocked/body"
+msgstr "Sort by damage blocked by armor."
+
+msgid "teamList/blocked/header"
+msgstr "Damage blocked by armor"
+
+msgid "teamList/body/banned"
+msgstr ""
+"Players are prohibited from participating in the \"Time of Heroes\" event "
+"due to systematic inactivity or desertion."
+
+msgid "teamList/body/warned"
+msgstr ""
+"The player has been caught in inactivity or desertion. Recurrence leads to "
+"punishment."
+
+msgid "teamList/damage/body"
+msgstr ""
+"Sort by damage dealt,\n"
+"including damage from combat abilities."
+
+msgid "teamList/damage/header"
+msgstr "Damage dealt"
+
+msgid "teamList/header/banned"
+msgstr "Player is suspended"
+
+msgid "teamList/header/warned"
+msgstr "Warning"
+
+msgid "teamList/kills/body"
+msgstr "Sort by number of enemy vehicles destroyed."
+
+msgid "teamList/kills/header"
+msgstr "Destroyed enemy vehicles"
+
+msgid "teamList/role/body"
+msgstr "Sort by role in battle."
+
+msgid "teamList/role/header"
+msgstr "Role"
+
+msgid "teamList/vehicle/body"
+msgstr "Sort by vehicle name."
+
+msgid "teamList/vehicle/header"
+msgstr "Vehicle"
+
+msgid "vehicleInfoTooltip/AT-SPG"
+msgstr "Universal Tank Destroyer"
+
+msgid "vehicleInfoTooltip/SPG"
+msgstr "Universal Self-Propelled Artillery"
+
+msgid "vehicleInfoTooltip/heavyTank"
+msgstr "Universal Heavy Tank"
+
+msgid "vehicleInfoTooltip/lightTank"
+msgstr "Light Tank"
+
+msgid "vehicleInfoTooltip/mediumTank"
+msgstr "Universal Medium Tank"

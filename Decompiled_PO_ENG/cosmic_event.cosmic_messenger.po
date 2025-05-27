@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-cosmic_event.cosmic_messenger\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "serviceChannelMessages/cosmicAchievement"
+msgstr "Achievement \"%(achievement)s\""
+
+msgid "serviceChannelMessages/cosmicAchievementsMessage/body"
+msgstr ""
+"For completing personal tasks you have earned:\n"
+"%(achievements)s"
+
+msgid "serviceChannelMessages/cosmicAchievementsMessage/header"
+msgstr "Congratulations!"
+
+msgid "serviceChannelMessages/cosmicBattleResults/modeName"
+msgstr "Mode: \"On Mars: Chaos\""
+
+msgid "serviceChannelMessages/cosmicBattleResults/points"
+msgstr "Event Points"
+
+msgid "serviceChannelMessages/cosmicBattleResults/totalScore"
+msgstr "Points Earned"
+
+msgid "serviceChannelMessages/cosmicDailyMessage/body"
+msgstr ""
+"Your rewards:\n"
+"%(rewards)s"
+
+msgid "serviceChannelMessages/cosmicDailyMessage/header"
+msgstr "Personal task completed"
+
+msgid "serviceChannelMessages/cosmicEventEndedMessage/body"
+msgstr "Expedition \"On Mars: Chaos\" completed."
+
+msgid "serviceChannelMessages/cosmicEventResumedMessage/body"
+msgstr "Expedition \"On Mars: Chaos\" is available again."
+
+msgid "serviceChannelMessages/cosmicEventStartedMessage/body"
+msgstr "Expedition \"On Mars: Chaos\" has started. You are awaited!"
+
+msgid "serviceChannelMessages/cosmicEventStartedMessage/button"
+msgstr "For the event"
+
+msgid "serviceChannelMessages/cosmicEventSuspendedMessage/body"
+msgstr "Expedition \"On Mars: Chaos\" is unavailable due to technical reasons."
+
+msgid "serviceChannelMessages/cosmicProgressionMessage/body"
+msgstr ""
+"You have progressed to the next stage of the progression!\n"
+"Rewards received: \n"
+"%(rewards)s."
+
+msgid "serviceChannelMessages/cosmicProgressionMessage/button"
+msgstr "For progression"
+
+msgid "serviceChannelMessages/cosmicProgressionMessage/header"
+msgstr "Congratulations!"
+
+msgid "serviceChannelMessages/cosmicTankmanBonus"
+msgstr "Crew member added"
+
+msgid "serviceChannelMessages/eventName"
+msgstr "On Mars: Chaos"

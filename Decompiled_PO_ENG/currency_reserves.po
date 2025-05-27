@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-currency_reserves\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "back"
+msgstr "BACK"
+
+msgid "button/activate"
+msgstr "Activate"
+
+msgid "credits/description/active"
+msgstr ""
+"A place where reward credits are temporarily stored before being credited to"
+" the player"
+
+msgid "credits/description/inactive"
+msgstr ""
+"Activate Premium Account and receive up to %(maxCapacity) every 7 days"
+
+msgid "credits/status/suspended"
+msgstr "Activate Premium Account to continue accumulating credits"
+
+msgid "credits/status/suspendedFull"
+msgstr "Credit Reserve is replenished only with an active Premium Account"
+
+msgid "credits/subheader"
+msgstr "Premium Account Benefit"
+
+msgid "credits/title"
+msgstr "Credit Reserve"
+
+msgid "emptyString"
+msgstr "?empty?"
+
+msgid "footer/interval"
+msgstr "7 days"
+
+msgid "footer/text"
+msgstr ""
+"Both Credit and Gold Reserves open every %(interval) at the same time. This "
+"is called the \"opening day.\""
+
+msgid "gold/description/active"
+msgstr ""
+"A place where reward gold is temporarily stored before being credited to the"
+" player"
+
+msgid "gold/description/inactive"
+msgstr "Activate Subscription and receive up to %(maxCapacity) every 7 days"
+
+msgid "gold/status/suspended"
+msgstr "Activate Subscription to continue accumulating gold"
+
+msgid "gold/status/suspendedFull"
+msgstr ""
+"Gold Reserve is replenished only with an active Subscription subscription"
+
+msgid "gold/subheader"
+msgstr "Subscription Benefit"
+
+msgid "gold/title"
+msgstr "Gold Reserve"
+
+msgid "openTime"
+msgstr "Stock Reserves open in"
+
+msgid "reservesAward/affirmative"
+msgstr "Affirmative!"
+
+msgid "reservesAward/creditsSuspended"
+msgstr ""
+"Credit Reserve suspended. Upgrade to Premium Account to start accumulating "
+"credits. %(extendPremiumAccount)"
+
+msgid "reservesAward/goldAndCreditsSuspended"
+msgstr ""
+"Gold and Credit accumulation suspended. Extend Subscription "
+"%(extendSubscription) and Premium Account %(extendPremiumAccount) to "
+"continue replenishing your Reserves."
+
+msgid "reservesAward/goldSuspended"
+msgstr ""
+"Gold Reserve suspended. Subscribe to Subscription to start accumulating "
+"gold. %(extendSubscription)"
+
+msgid "reservesAward/heading"
+msgstr "Rewards Received"
+
+msgid "reservesAward/subheading"
+msgstr "Stock Reserves Are Open"
+
+msgid "toDashboard"
+msgstr "TO ACCOUNT STATUS"
+
+msgid "unavailable"
+msgstr "Temporarily unavailable"

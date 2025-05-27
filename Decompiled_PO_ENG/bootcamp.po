@@ -1,0 +1,1700 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-bootcamp\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Akeno  Kido"
+msgstr "Akeno Kido"
+
+msgid "Aleksandr Antonuk"
+msgstr "Tadeasz Vitek"
+
+msgid "Aleksandr Fesich"
+msgstr "Aleksandr Fesich"
+
+msgid "Aleksandr Ustinov"
+msgstr "Aleksandr Ustinov"
+
+msgid "Aleksey Egorov"
+msgstr "Alexey Egorov"
+
+msgid "Aleksey Kluchikov"
+msgstr "Alexey Kluchikov"
+
+msgid "Andrii Kozyra"
+msgstr "Andrey Kozyra"
+
+msgid "Benedikt Dresdner"
+msgstr "Benedict Dresdner"
+
+msgid "Bill Tenson"
+msgstr "Bill Tenson"
+
+msgid "Charles Baker"
+msgstr "Charles Baker"
+
+msgid "Claud Gault"
+msgstr "Claud Gault"
+
+msgid "Cornelius Holst"
+msgstr "Cornelius Holst"
+
+msgid "Cory Preston"
+msgstr "Chang Yu-sheng"
+
+msgid "Denis Gordienko"
+msgstr "Denis Gordienko"
+
+msgid "Elias Fredriksson"
+msgstr "Elias Fredriksson"
+
+msgid "Etien Asieos"
+msgstr "Herbert Feld"
+
+msgid "Fabian Haupt"
+msgstr "Fabier Haupt"
+
+msgid "Fedor Belkin"
+msgstr "Fyodor Belkin"
+
+msgid "Frank Dimmelton"
+msgstr "Frank Dimmelton"
+
+msgid "Fridrih Simann"
+msgstr "Friedrich Simann"
+
+msgid "Fudo Sugimoto"
+msgstr "Fudo Sugimoto"
+
+msgid "Gavril Stolbov"
+msgstr "Gavrila Stolbov"
+
+msgid "Gerhard Braun"
+msgstr "Gerhard Braun"
+
+msgid "Gunther Franke"
+msgstr "Gunther Franke"
+
+msgid "Hasso Mirato"
+msgstr "Hasso Mirato"
+
+msgid "Heiko Rihter"
+msgstr "Naiko Richter"
+
+msgid "Igor Goncharenko"
+msgstr "Igor Goncharenko"
+
+msgid "Isidzukuri Soma"
+msgstr "Isidzukuri Soma"
+
+msgid "James Brounge"
+msgstr "James Broungee"
+
+msgid "Jean-Christophe Morel"
+msgstr "Jean-Christoph Morel"
+
+msgid "Jing Jie"
+msgstr "Jing Jie"
+
+msgid "John Albert"
+msgstr "John Albert"
+
+msgid "John Dicker"
+msgstr "Pierre-Louis Dupont"
+
+msgid "John King"
+msgstr "Aleksandr Zhuk"
+
+msgid "John Lamb"
+msgstr "John Lamb"
+
+msgid "John Payne"
+msgstr "John Payne"
+
+msgid "Joseph ONeal"
+msgstr "Joseph O'Neil"
+
+msgid "Jurgen Wolf"
+msgstr "Jurgen Wolf"
+
+msgid "Karl Himmelsberg"
+msgstr "Karl Himmelsberg"
+
+msgid "Karl-Erik Olofsson"
+msgstr "Karl-Eric Olofsson"
+
+msgid "Keiko Simura"
+msgstr "Keiko Simura"
+
+msgid "Konrad Cerstvy"
+msgstr "Konrad Cherstvy"
+
+msgid "Lee Liang"
+msgstr "Lee Liang"
+
+msgid "Lev Shapiro"
+msgstr "Lev Shapiro"
+
+msgid "Lin Shin"
+msgstr "Lin Shin"
+
+msgid "Ludvik Benes"
+msgstr "Ludwig Benesch"
+
+msgid "Mark Litengen"
+msgstr "Mark Litengen"
+
+msgid "Matt Underlay"
+msgstr "Matt Anderley"
+
+msgid "Miron Nebaluiev"
+msgstr "Miron Nebaluev"
+
+msgid "Mitrofan Morda"
+msgstr "Mitrofan Morda"
+
+msgid "Nicholas Wilkinson"
+msgstr "Nicholas Willkinson"
+
+msgid "Oda Nisura"
+msgstr "Oda Nesura"
+
+msgid "Oliver Greene"
+msgstr "Nikolay Muravsky"
+
+msgid "Otto Von Valen"
+msgstr "Otto Von Valen"
+
+msgid "Pascal Raymond"
+msgstr "Pascal Raymond"
+
+msgid "Paul Boutin"
+msgstr "Paul Bouttin"
+
+msgid "Paul Davis"
+msgstr "Paul Davis"
+
+msgid "Paul Keller"
+msgstr "Thomas Koch"
+
+msgid "Petr Sergeev"
+msgstr "Petr Sergeev"
+
+msgid "Radosh Zrvecka"
+msgstr "Radosz Jrveczka"
+
+msgid "Ralf Hofer"
+msgstr "Raulph Hofer"
+
+msgid "Richard Bogelber"
+msgstr "Richard Boglber"
+
+msgid "Robert Beasley"
+msgstr "Robert Beasley"
+
+msgid "Samuel Bronn"
+msgstr "Samuel Bronn"
+
+msgid "Sheng En"
+msgstr "Sheng En"
+
+msgid "Siegward Eber"
+msgstr "Siegward Eber"
+
+msgid "Teodor Simmersbee"
+msgstr "Teodor Zimmersbee"
+
+msgid "Thomas Merritt"
+msgstr "Thomas Meritt"
+
+msgid "Valeriy Gayduchenko"
+msgstr "Valeriy Gaiduchenko"
+
+msgid "Veniamin Ragozin"
+msgstr "Veniamin Ragozin"
+
+msgid "Vitalii Romanov"
+msgstr "Vitaliy Romanov"
+
+msgid "Vladimir Kaidun"
+msgstr "Vladimir Kaidun"
+
+msgid "Yako Simamura"
+msgstr "Yako Shimamura"
+
+msgid "Yu Dan"
+msgstr "Yuri Dal'"
+
+msgid "Yuriy Krilo"
+msgstr "Yuri Krylo"
+
+msgid "arena/name"
+msgstr "Training Ground"
+
+msgid "award/options/description/china"
+msgstr ""
+"From the USSR to China, 1800 tanks T-34-76 and T-34-85 were exported. In "
+"1954, the government of the Celestial Empire decided to start serial "
+"production of the T-34-85 in the republic from 1958 under the name Type 58. "
+"However, production was never launched. In China, the T-34-85 tank was not "
+"produced, only modified."
+
+msgid "award/options/description/china_CN"
+msgstr ""
+"Further development of the medium tank project T 24. It was developed for "
+"the needs of the German army in 1942. A prototype was not built as the "
+"project was deemed outdated."
+
+msgid "award/options/description/czech"
+msgstr ""
+"Development of the vehicle began during the German occupation. It was an "
+"attempt to install more powerful armament on the old B1 bis chassis. The "
+"development was completed by the design bureau Atelier de Construction de "
+"Rueil. Although the vehicle was far from successful, 60 units were built."
+
+msgid "award/options/description/czech_CN"
+msgstr ""
+"German heavy experimental tank of World War II, developed by the company "
+"Henschel, further development of the project VK 30.01 (H). The vehicle "
+"became one of the stages in the development of the \"Tiger\" project, during"
+" which many technical solutions were worked out. Subsequently, they formed "
+"the basis of Germany's heavy tanks in World War II."
+
+msgid "award/options/description/france"
+msgstr ""
+"P.43 bis - one of the versions of the medium Italian tank, developed in the "
+"mid-1940s. This version of the vehicle was planned to be equipped with a "
+"90mm gun. According to the tank's specifications, it was not supposed to be "
+"inferior to modern analogues."
+
+msgid "award/options/description/france_CN"
+msgstr ""
+"Medium tank Type 4 Chi-To was developed from 1941. It was supposed to be the"
+" first vehicle aimed at combating enemy armored vehicles, but problems with "
+"raw materials and components prevented the start of serial production. Only "
+"six chassis were produced, and two tanks were assembled on their basis."
+
+msgid "award/options/description/germany"
+msgstr ""
+"In the mid-1939, under the leadership of engineer Edward Habich, original "
+"combat vehicle projects were being developed. One of them involved a "
+"suspension system similar to blocked bogies, rational sloping angle of armor"
+" plates up to 60mm thick, a compact turret of German design, and a high-"
+"armor-piercing gun with low recoil."
+
+msgid "award/options/description/germany_CN"
+msgstr ""
+"In the early 1950s, the Swedish army adopted the medium tank Centurion, but "
+"soon there was a need for more mobile vehicles. The decision was made to "
+"modernize the Strv m/42 tanks by installing a new turret and armament. From "
+"1957 to 1960, 225 vehicles were produced, which remained in service with the"
+" Swedish army until 1984."
+
+msgid "award/options/description/italy"
+msgstr ""
+"Modification of the A22 tank with reinforced armor protection. The first "
+"similar vehicles appeared on the eve of the Allied landing in Normandy. They"
+" also served as the basis for creating the Churchill Crocodile flamethrower "
+"tank."
+
+msgid "award/options/description/italy_CN"
+msgstr ""
+"The most advanced of the mass modifications of US tanks during World War II."
+" It featured a welded hull, carburetor engine, and a new improved "
+"suspension. The tank was produced by Fisher Tank Arsenal and Detroit Tank "
+"Arsenal in 1944-1945 and participated in many post-war conflicts."
+
+msgid "award/options/description/japan"
+msgstr ""
+"The final modification of the T-34 tank of the 1943 model. The new three-"
+"person gun turret allowed for the installation of a more powerful 85mm gun. "
+"Over 35,000 units of various modifications were produced. It is still in "
+"service with several countries."
+
+msgid "award/options/description/japan_CN"
+msgstr "Not available at the Training Ground"
+
+msgid "award/options/description/poland"
+msgstr "China"
+
+msgid "award/options/description/poland_CN"
+msgstr "China"
+
+msgid "award/options/description/sweden"
+msgstr "Czechoslovakia"
+
+msgid "award/options/description/sweden_CN"
+msgstr "C"
+
+msgid "award/options/description/uk"
+msgstr "France"
+
+msgid "award/options/description/uk_CN"
+msgstr "F"
+
+msgid "award/options/description/usa"
+msgstr "Germany"
+
+msgid "award/options/description/usa_CN"
+msgstr "G"
+
+msgid "award/options/description/ussr"
+msgstr "Italy"
+
+msgid "award/options/description/ussr_CN"
+msgstr "I"
+
+msgid "award/options/locked"
+msgstr "Japan"
+
+msgid "award/options/nation/china"
+msgstr "J"
+
+msgid "award/options/nation/china_CN"
+msgstr "Poland"
+
+msgid "award/options/nation/czech"
+msgstr "P"
+
+msgid "award/options/nation/czech_CN"
+msgstr "Sweden"
+
+msgid "award/options/nation/france"
+msgstr "S"
+
+msgid "award/options/nation/france_CN"
+msgstr "United Kingdom"
+
+msgid "award/options/nation/germany"
+msgstr "U"
+
+msgid "award/options/nation/germany_CN"
+msgstr "?empty?"
+
+msgid "award/options/nation/italy"
+msgstr "USA"
+
+msgid "award/options/nation/italy_CN"
+msgstr "USSR"
+
+msgid "award/options/nation/japan"
+msgstr "This vehicle is only available during training"
+
+msgid "award/options/nation/japan_CN"
+msgstr "Training {title}"
+
+msgid "award/options/nation/poland"
+msgstr "Historical background"
+
+msgid "award/options/nation/poland_CN"
+msgstr "YOUR FIRST VEHICLE!"
+
+msgid "award/options/nation/sweden"
+msgstr "Damage to your reconnaissance"
+
+msgid "award/options/nation/sweden_CN"
+msgstr "Blocked damage"
+
+msgid "award/options/nation/uk"
+msgstr "Damage"
+
+msgid "award/options/nation/uk_CN"
+msgstr "В"
+
+msgid "award/options/nation/usa"
+msgstr "США"
+
+msgid "award/options/nation/usa_CN"
+msgstr "?empty?"
+
+msgid "award/options/nation/ussr"
+msgstr "СССР"
+
+msgid "award/options/nation/ussr_CN"
+msgstr "?empty?"
+
+msgid "award/options/tankSubTitle"
+msgstr "Машина доступна только на время обучения"
+
+msgid "award/options/tankTitle"
+msgstr "Учебный {title}"
+
+msgid "award/options/textTitle"
+msgstr "Историческая справка"
+
+msgid "award/options/title"
+msgstr "ВАША ПЕРВАЯ МАШИНА!"
+
+msgid "battle/result/assisted"
+msgstr "Урон по вашим разведданным"
+
+msgid "battle/result/blocked"
+msgstr "Заблокированный урон"
+
+msgid "battle/result/damage"
+msgstr "Урон"
+
+msgid "battle/result/description/assisted"
+msgstr ""
+"Damage to your reconnaissance is taken into account, as well as damage after"
+" your shot that knocked out the tracks and immobilized the enemy."
+
+msgid "battle/result/description/blocked"
+msgstr ""
+"The total amount of damage blocked by your vehicle's armor, including hits "
+"to external modules, non-penetrations, and ricochets."
+
+msgid "battle/result/description/damage"
+msgstr "The total amount of damage dealt to enemy vehicles."
+
+msgid "battle/result/description/destroyed"
+msgstr "Number of enemy vehicles destroyed by you."
+
+msgid "battle/result/description/detected"
+msgstr "Number of enemy vehicles detected by you."
+
+msgid "battle/result/destroyed"
+msgstr "Destroyed"
+
+msgid "battle/result/detected"
+msgstr "Detected"
+
+msgid "battle/result/videoButton"
+msgstr "Tips for experienced players:"
+
+msgid "btn/cancel"
+msgstr "Cancel"
+
+msgid "btn/continue"
+msgstr "Continue"
+
+msgid "btn/continue/prebattle"
+msgstr "To battle!"
+
+msgid "btn/select"
+msgstr "Select"
+
+msgid "btn/skipVideo"
+msgstr "Skip"
+
+msgid "btn/tutorial/close"
+msgstr "LEAVE TRAINING GROUND"
+
+msgid "btn/tutorial/skip"
+msgstr "Skip training"
+
+msgid "btn/tutorial/start"
+msgstr "Start training"
+
+msgid "completionWithoutVictory/2"
+msgstr "You have destroyed the main target! The next stage is available."
+
+msgid "completionWithoutVictory/3"
+msgstr "You have successfully infiltrated the enemy base! Stage completed."
+
+msgid "completionWithoutVictory/4"
+msgstr "You performed repairs in battle! Stage completed."
+
+msgid "completionWithoutVictory/5"
+msgstr "You delivered a devastating blow to the enemy! Stage completed."
+
+msgid "cost/messageViewBuy"
+msgstr "Cost:"
+
+msgid "exitWindow/description"
+msgstr ""
+"By leaving the Training Ground, you will not receive a Tank Premium Account,"
+" in-game gold, and a vehicle with a 100% crew."
+
+msgid "exitWindow/leave"
+msgstr "Leave"
+
+msgid "exitWindow/referral/description"
+msgstr ""
+"You will continue to participate in the referral program with the commander,"
+" but you will not receive a Tank Premium Account, in-game gold, and a "
+"vehicle with a 100% crew."
+
+msgid "exitWindow/stay"
+msgstr "Stay"
+
+msgid "exitWindow/title"
+msgstr "Leave training?"
+
+msgid "finalReward/description"
+msgstr ""
+"Over 500 vehicles are available for research. Tanks of Tier III as a gift."
+
+msgid "finalReward/proceed"
+msgstr "Continue"
+
+msgid "finalReward/received/description"
+msgstr "Over 500 vehicles are available for research."
+
+msgid "finalReward/received/title"
+msgstr "Research Tree"
+
+msgid "finalReward/title"
+msgstr "Research Tree Unlocked"
+
+msgid "finish/bootcamp/referral"
+msgstr ""
+"You are now ready to sign a contract and become a recruit in the referral "
+"program."
+
+msgid "game/mode"
+msgstr "Game Mode"
+
+msgid "hint/advanced/sniper/before"
+msgstr "In sniper mode, it's easier to target weak spots in armor."
+
+msgid "hint/advanced/sniper/main"
+msgstr "A green marker indicates a high chance of penetrating armor."
+
+msgid "hint/ally/shoot"
+msgstr "Do not shoot at allies!"
+
+msgid "hint/camera/controls"
+msgstr ""
+"Inspect the vehicle from all sides by holding down the left mouse button."
+
+msgid "hint/exit/game/area"
+msgstr "You are leaving the battlefield. Return!"
+
+msgid "hint/heal/crew"
+msgstr "Gunner wounded, accuracy reduced. Use a medkit from the panel below."
+
+msgid "hint/low/hp"
+msgstr "Your vehicle is seriously damaged!"
+
+msgid "hint/message/avoid"
+msgstr "Outmaneuver and destroy the enemy, avoiding their fire."
+
+msgid "hint/mission3/capturebase"
+msgstr "Capturing the enemy base is one of the victory options."
+
+msgid "hint/mission3/capturehelp"
+msgstr "Return and help your ally capture."
+
+msgid "hint/mission3/captureinprogress"
+msgstr "Base capture in progress."
+
+msgid "hint/mission3/capturelost"
+msgstr "Taking damage disrupts base capture progress."
+
+msgid "hint/mission3/capturetogether"
+msgstr "Several vehicles capture the base faster."
+
+msgid "hint/mission3/fallback"
+msgstr "There are too many of them, get out of the line of fire!"
+
+msgid "hint/mission3/flankenemies"
+msgstr "Flank the enemy."
+
+msgid "hint/mission3/flankingfails"
+msgstr "You have been spotted! Remember: firing will reveal your position."
+
+msgid "hint/mission3/flankingfails2"
+msgstr "You have been spotted! Leaving the bushes will reveal your position."
+
+msgid "hint/mission3/flankingwait"
+msgstr "They are leaving! Keep observing"
+
+msgid "hint/mission3/foliageintroa"
+msgstr "Do not shoot, otherwise you will be detected"
+
+msgid "hint/mission3/foliageintrob"
+msgstr "Bushes will hide you from the enemy if you do not shoot"
+
+msgid "hint/mission3/playerdetected"
+msgstr "You have been detected! Prepare for battle"
+
+msgid "hint/move"
+msgstr "Vehicle control"
+
+msgid "hint/move/turret"
+msgstr "Turret and sight control"
+
+msgid "hint/no/move"
+msgstr "Vehicle movement control - WASD"
+
+msgid "hint/repair/track"
+msgstr "Track damaged, use repair kit\\nfrom the panel below."
+
+msgid "hint/secondary/sniper"
+msgstr "Enter sniper mode: rotate the mouse wheel"
+
+msgid "hint/shoot"
+msgstr "Aim at the enemy and shoot"
+
+msgid "hint/shoot/while/moving"
+msgstr "Accuracy is lower while moving"
+
+msgid "hint/sniper"
+msgstr "Enter sniper mode: rotate the mouse wheel"
+
+msgid "hint/sniper/on/distance/exit"
+msgstr "Exit sniper mode: rotate the mouse wheel"
+
+msgid "hint/sniper/on/distance/main"
+msgstr "Enter sniper mode: rotate the mouse wheel"
+
+msgid "hint/target/unlock"
+msgstr "Auto-aim. Cancel with right mouse button"
+
+msgid "hint/use/extinguisher"
+msgstr "Vehicle is on fire! Use the fire extinguisher\\nfrom the panel below."
+
+msgid "hint/useless/consumables"
+msgstr "Equipment usage not required"
+
+msgid "hint/wait/reload"
+msgstr "Gun is reloading"
+
+msgid "invitation/note/clan"
+msgstr "Clan battles will be available after completing training."
+
+msgid "invitation/note/clubs"
+msgstr "Team battles will be available after completing training."
+
+msgid "invitation/note/company"
+msgstr "Platoon battles will be available after completing training."
+
+msgid "invitation/note/event"
+msgstr "Teamplay will be available after completing training."
+
+msgid "invitation/note/external"
+msgstr "Raids will be available after completing training."
+
+msgid "invitation/note/fallout"
+msgstr "Teamplay will be available after completing training."
+
+msgid "invitation/note/fort/battle"
+msgstr "Assaults will be available after completing training."
+
+msgid "invitation/note/sortie"
+msgstr "Raids will be available after completing training."
+
+msgid "invitation/note/squad"
+msgstr "Teamplay will be available after completing training."
+
+msgid "invitation/note/tournament"
+msgstr "Tournaments will be available after completing training."
+
+msgid "invitation/note/training"
+msgstr "Training battle will be available after completing training."
+
+msgid "invitation/note/unit"
+msgstr "Team battles will be available after completing training."
+
+msgid "loading/tip/crosshair/header/1"
+msgstr "Large gun dispersion while moving"
+
+msgid "loading/tip/crosshair/header/2"
+msgstr "Minimal dispersion with full aiming"
+
+msgid "loading/tip/equipment/description/1"
+msgstr "Puts out fire"
+
+msgid "loading/tip/equipment/description/2"
+msgstr "Crew members healing"
+
+msgid "loading/tip/equipment/description/3"
+msgstr "Repairing damaged module"
+
+msgid "loading/tip/equipment/header/1"
+msgstr "Fire extinguisher"
+
+msgid "loading/tip/equipment/header/2"
+msgstr "Medkit"
+
+msgid "loading/tip/equipment/header/3"
+msgstr "Repair kit"
+
+msgid "loading/tip/modules/description/2"
+msgstr "Critical hit"
+
+msgid "loading/tip/modules/description/3"
+msgstr "Critical hit"
+
+msgid "loading/tip/modules/header/1"
+msgstr ""
+"Damaging external modules does not deal damage, but reduces enemy combat "
+"effectiveness"
+
+msgid "loading/tip/modules/header/2"
+msgstr "Shooting is impossible"
+
+msgid "loading/tip/modules/header/3"
+msgstr "Immobilized"
+
+msgid "loading/tip/penetration/description/1"
+msgstr "High penetration chance"
+
+msgid "loading/tip/penetration/description/2"
+msgstr "Contained hit"
+
+msgid "loading/tip/penetration/header/1"
+msgstr "Green marker"
+
+msgid "loading/tip/penetration/header/2"
+msgstr "Red marker"
+
+msgid "loading/tip/sniper/description/1"
+msgstr "High"
+
+msgid "loading/tip/sniper/description/2"
+msgstr "Low"
+
+msgid "loading/tip/sniper/header/1"
+msgstr "Sniper mode"
+
+msgid "loading/tip/sniper/header/2"
+msgstr "Armor penetration chance"
+
+msgid "loading/tip/victory/description/1"
+msgstr "Enemy base captured"
+
+msgid "loading/tip/victory/description/2"
+msgstr "All enemy vehicles destroyed"
+
+msgid "loading/tip/victory/header/1"
+msgstr "Victory!"
+
+msgid "loading/tip/victory/header/2"
+msgstr "OR"
+
+msgid "loading/tip/visibility/description/1"
+msgstr "Hidden behind object"
+
+msgid "loading/tip/visibility/description/2"
+msgstr "Hidden in bushes"
+
+msgid "loading/tip/visibility/description/3"
+msgstr "Detected by shot"
+
+msgid "loading/tip/visibility/description/4"
+msgstr "Moving in open terrain"
+
+msgid "loading/tip/visibility/header/1"
+msgstr "Invisible"
+
+msgid "loading/tip/visibility/header/2"
+msgstr "Visible"
+
+msgid "loading/tip/wasd/header/1"
+msgstr "Movement"
+
+msgid "loading/tip/wasd/header/2"
+msgstr "Firing"
+
+msgid "loading/tip/wasd/header/3"
+msgstr "Turret rotation"
+
+msgid "message/bonus/premium/days"
+msgstr "d"
+
+msgid "message/bonus/premium/hours"
+msgstr "h"
+
+msgid "message/bootcamp/graduate/label"
+msgstr "Congratulations!"
+
+msgid "message/bootcamp/graduate/referral/text"
+msgstr ""
+"You are now ready to sign a contract and become a recruit in the referral "
+"program."
+
+msgid "message/bootcamp/graduate/text"
+msgstr "Training successfully completed"
+
+msgid "message/bootcamp/referral/text"
+msgstr ""
+"You are now ready to join player %(username)s\n"
+"in their referral program"
+
+msgid "message/confirmBuyAndInstall/module/buttonLabel"
+msgstr "Buy"
+
+msgid "message/confirmBuyAndInstall/module/title"
+msgstr "Buy and install \"%(0)s\"?"
+
+msgid "message/consumables/label"
+msgstr "Received equipment"
+
+msgid "message/consumables/text"
+msgstr "Helps to combat damage in battle"
+
+msgid "message/credits/label"
+msgstr "Credits received"
+
+msgid "message/credits/text"
+msgstr "For purchasing and upgrading vehicles"
+
+msgid "message/equipment/label"
+msgstr "Received equipment"
+
+msgid "message/equipment/text"
+msgstr "Improves certain vehicle characteristics"
+
+msgid "message/experience/label"
+msgstr "Battle experience gained"
+
+msgid "message/experience/text"
+msgstr "For researching modules and vehicles"
+
+msgid "message/extra/award/options"
+msgstr "Change reward"
+
+msgid "message/fire/extinguisher/label"
+msgstr "Small fire extinguisher"
+
+msgid "message/first/aid/kit/label"
+msgstr "Large first aid kit"
+
+msgid "message/gold/label"
+msgstr "Gold"
+
+msgid "message/gold/premium/text"
+msgstr "For purchasing premium account and items"
+
+msgid "message/gold/premiumPlus/text"
+msgstr "For purchasing Tank Premium Account and in-game assets"
+
+msgid "message/goldReceived/label"
+msgstr "Gold received"
+
+msgid "message/intro/lesson/ii/label"
+msgstr "Vehicle upgrade"
+
+msgid "message/intro/lesson/iii/crew/label"
+msgstr "Crew"
+
+msgid "message/intro/lesson/iii/label"
+msgstr "Receiving a new vehicle"
+
+msgid "message/intro/lesson/iv/label"
+msgstr "Equipment and gear"
+
+msgid "message/intro/lesson/v/label"
+msgstr "Gold and premium"
+
+msgid "message/mission/accomplished/label"
+msgstr "Task completed"
+
+msgid "message/mission/accomplished/text"
+msgstr "Play Random Battle"
+
+msgid "message/missionBonusCount"
+msgstr "x{0}"
+
+msgid "message/new/module/label"
+msgstr "MODULE PURCHASED"
+
+msgid "message/new/module/text"
+msgstr "Module will be installed automatically"
+
+msgid "message/premium/label"
+msgstr "PREMIUM ACCOUNT"
+
+msgid "message/premium/text"
+msgstr "Increases experience and credit earnings"
+
+msgid "message/premiumPlus/label"
+msgstr "Tank Premium Account"
+
+msgid "message/premiumPlus/text"
+msgstr ""
+"Increases experience and credit earnings, and provides additional benefits"
+
+msgid "message/premiumPlusReceived/label"
+msgstr "Received Tank Premium Account"
+
+msgid "message/repair/kit/label"
+msgstr "Large Repair Kit"
+
+msgid "message/restart/cancel"
+msgstr "Cancel"
+
+msgid "message/restart/message"
+msgstr "No reward will be given upon re-completion of training. %(reward)s."
+
+msgid "message/restart/reward"
+msgstr "Reward has already been received"
+
+msgid "message/restart/submit"
+msgstr "Start"
+
+msgid "message/restart/title"
+msgstr "Repeat training"
+
+msgid "message/second/vehicle/text/nation/0"
+msgstr "Vehicle already in Garage"
+
+msgid "message/second/vehicle/text/nation/1"
+msgstr "Vehicle already in Garage"
+
+msgid "message/second/vehicle/text/nation/2"
+msgstr "Vehicle already in Garage"
+
+msgid "message/six/sense/perk/label"
+msgstr "Commander's skill \"Sixth Sense\""
+
+msgid "message/six/sense/perk/text"
+msgstr ""
+"An important feature that allows the commander to determine if his vehicle "
+"has been detected"
+
+msgid "message/skills/and/perks/label"
+msgstr "Skills"
+
+msgid "message/skills/and/perks/text"
+msgstr "The crew complements the vehicle's characteristics"
+
+msgid "message/start/cancel"
+msgstr "Cancel"
+
+msgid "message/start/message"
+msgstr ""
+"Upon completing the training, you will receive %(premium)s, %(gold)s, and "
+"%(crew)s."
+
+msgid "message/start/message/reward"
+msgstr "days of Tank Premium Account, gold, and the \"Worthy Student\" medal"
+
+msgid "message/start/submit"
+msgstr "Start"
+
+msgid "message/start/title"
+msgstr "Start training?"
+
+msgid "message/teaching/team/label"
+msgstr "Crew training"
+
+msgid "message/teaching/team/text"
+msgstr ""
+"The higher the crew members' level of mastery of their primary skill, the "
+"more effective the vehicle is in battle. Upon reaching 100% mastery, crew "
+"members can learn useful skills."
+
+msgid "message/unlock/module/buttonLabel"
+msgstr "Research"
+
+msgid "message/unlock/module/text"
+msgstr "Now the module can be purchased and installed"
+
+msgid "message/unlock/module/title"
+msgstr "Research \"%(0)s\"?"
+
+msgid "message/unlock/vehicle/buttonLabel"
+msgstr "Research"
+
+msgid "message/unlock/vehicle/label"
+msgstr "VEHICLE RESEARCHED"
+
+msgid "message/unlock/vehicle/text"
+msgstr "Now the vehicle can be purchased"
+
+msgid "message/unlock/vehicle/title"
+msgstr "Research vehicle %(0)s?"
+
+msgid "message/vehicle/awarded/label"
+msgstr "NEW TANK RECEIVED"
+
+msgid "message/vehicle/awarded/text"
+msgstr "Press \"Continue\" to proceed to the next lesson."
+
+msgid "prebattle/hint/consumables"
+msgstr "Equipment"
+
+msgid "prebattle/hint/crew"
+msgstr "Crew"
+
+msgid "prebattle/hint/hp"
+msgstr "Vehicle durability"
+
+msgid "prebattle/hint/minimap"
+msgstr "Mini-map"
+
+msgid "prebattle/hint/modules"
+msgstr "Modules"
+
+msgid "prebattle/hint/penetration/chance"
+msgstr "Penetration chance"
+
+msgid "prebattle/hint/penetration/chance/high"
+msgstr "High chance"
+
+msgid "prebattle/hint/penetration/chance/low"
+msgstr "Low chance"
+
+msgid "prebattle/hint/penetration/high"
+msgstr "High"
+
+msgid "prebattle/hint/penetration/low"
+msgstr "Low"
+
+msgid "prebattle/hint/score"
+msgstr "Team score"
+
+msgid "preview/china/preview_vehicle_1"
+msgstr ""
+"A prototype of a heavy tank developed based on the Soviet tanks IS-3 and "
+"T-10."
+
+msgid "preview/china/preview_vehicle_2"
+msgstr "Upgrade of the tank T-34-85, built at tank repair plants in China."
+
+msgid "preview/china/preview_vehicle_3"
+msgstr ""
+"Further development of the project WZ-132. It was intended to increase "
+"mobility and firepower. It was never put into production."
+
+msgid "preview/china/title"
+msgstr "Chinese vehicles"
+
+msgid "preview/czech/preview_vehicle_1"
+msgstr ""
+"A draft project of a heavy tank. The project was canceled due to weapon "
+"standardization in the Warsaw Pact countries."
+
+msgid "preview/czech/preview_vehicle_2"
+msgstr ""
+"Further development of the tank T 24. Developed for the needs of the German "
+"army. The project was considered outdated."
+
+msgid "preview/czech/preview_vehicle_3"
+msgstr ""
+"Further development of the post-war concept of a Czech general-purpose tank."
+" Only a prototype was built."
+
+msgid "preview/czech/title"
+msgstr "Czech vehicles"
+
+msgid "preview/france/preview_vehicle_1"
+msgstr ""
+"A variant of the heavy tank destroyer AMX 50 Foch with an autoloader. The "
+"project was canceled, and no prototype was built."
+
+msgid "preview/france/preview_vehicle_2"
+msgstr ""
+"Medium tank with a swinging turret and a 90mm gun. Two experimental samples "
+"were built."
+
+msgid "preview/france/preview_vehicle_3"
+msgstr ""
+"Project of a three-axle armored car. Developed since 1945, the prototype did"
+" not survive after testing."
+
+msgid "preview/france/title"
+msgstr "French vehicles"
+
+msgid "preview/germany/preview_vehicle_1"
+msgstr "Super-heavy tank, the largest in mass of all ever made of metal."
+
+msgid "preview/germany/preview_vehicle_2"
+msgstr ""
+"Germany's famous tank, the first representative of a new generation of "
+"medium tanks. Created as a replacement for the Pz.III."
+
+msgid "preview/germany/preview_vehicle_3"
+msgstr ""
+"The most famous German tank of World War II. Considered the most dangerous "
+"opponent for the Allies' vehicles."
+
+msgid "preview/germany/title"
+msgstr "German vehicles"
+
+msgid "preview/italy/preview_vehicle_1"
+msgstr ""
+"Project of a protected tank with an unmanned turret. Inspired by German "
+"developments."
+
+msgid "preview/italy/preview_vehicle_2"
+msgstr ""
+"One of the variants of the Italian medium tank. Envisaged the installation "
+"of a powerful 90mm gun."
+
+msgid "preview/italy/preview_vehicle_3"
+msgstr ""
+"An attempt by Italian designers to develop a light, mobile, yet well-"
+"protected vehicle."
+
+msgid "preview/italy/title"
+msgstr "Italian vehicles"
+
+msgid "preview/japan/preview_vehicle_1"
+msgstr ""
+"Further development of the idea of a super-heavy tank with improved armor "
+"protection and the ability for all-round firing. Was not built."
+
+msgid "preview/japan/preview_vehicle_2"
+msgstr ""
+"Medium tank intended to replace the Chi-Ha. Raw material shortages prevented"
+" production from starting."
+
+msgid "preview/japan/preview_vehicle_3"
+msgstr ""
+"Post-war prototype of a second-generation tank. Produced for running tests, "
+"participated in a parade."
+
+msgid "preview/japan/title"
+msgstr "Japanese vehicles"
+
+msgid "preview/poland/preview_vehicle_1"
+msgstr ""
+"Project of a heavy tank developed by cadet Richard Lewandowski of the "
+"Military Technical Academy in Warsaw."
+
+msgid "preview/poland/preview_vehicle_2"
+msgstr ""
+"Original project developed under the guidance of engineer Edward Habich "
+"before World War II."
+
+msgid "preview/poland/preview_vehicle_3"
+msgstr ""
+"Polish development of a medium tank to replace the T-34-85 with a more "
+"modern model. The project was closed in 1968."
+
+msgid "preview/poland/title"
+msgstr "Polish vehicles"
+
+msgid "preview/sweden/preview_vehicle_1"
+msgstr ""
+"Original Swedish tank with a turretless layout, modernization of Strv 103. "
+"290 vehicles were produced."
+
+msgid "preview/sweden/preview_vehicle_2"
+msgstr ""
+"Modification of the outdated tank Strv m/42, with a new turret and armament."
+
+msgid "preview/sweden/preview_vehicle_3"
+msgstr ""
+"Project based on the French AMX 50, developed for the Swedish armed forces."
+
+msgid "preview/sweden/title"
+msgstr "Swedish vehicles"
+
+msgid "preview/uk/preview_vehicle_1"
+msgstr ""
+"Conqueror tank with additional armor. Served as a target for testing anti-"
+"tank guided missiles."
+
+msgid "preview/uk/preview_vehicle_2"
+msgstr ""
+"Modification of the A22 tank with reinforced armor. The first machines "
+"appeared just before the Allied landing in Normandy."
+
+msgid "preview/uk/preview_vehicle_3"
+msgstr ""
+"Super-heavy assault tank with low mobility, designed to destroy heavily "
+"fortified areas."
+
+msgid "preview/uk/title"
+msgstr "British vehicles"
+
+msgid "preview/usa/preview_vehicle_1"
+msgstr ""
+"Project of a heavy tank with a swinging turret and a drum-type automatic "
+"loading system."
+
+msgid "preview/usa/preview_vehicle_2"
+msgstr ""
+"One of the most advanced modifications of a US medium tank, remaining in "
+"service after World War II."
+
+msgid "preview/usa/preview_vehicle_3"
+msgstr ""
+"Initially a heavy tank, later a medium tank, named after General John "
+"Pershing. Participated in several wars."
+
+msgid "preview/usa/title"
+msgstr "American vehicles"
+
+msgid "preview/ussr/preview_vehicle_1"
+msgstr ""
+"The most powerful Soviet tank, developed in the early years after World War "
+"II. Was not mass-produced."
+
+msgid "preview/ussr/preview_vehicle_2"
+msgstr ""
+"The most advanced serial modification of the T-34 tank, still in combat use."
+" Over 35,000 units were produced."
+
+msgid "preview/ussr/preview_vehicle_3"
+msgstr ""
+"Soviet mass-produced medium tank of the first post-war generation. Still in "
+"service in many countries."
+
+msgid "preview/ussr/title"
+msgstr "Soviet vehicles"
+
+msgid "progress/rewards/taken"
+msgstr "Awards received"
+
+msgid "progress/rewards/taken_short"
+msgstr "Received"
+
+msgid "progress/widget/title"
+msgstr "Current training progress:"
+
+msgid "progress/window/description"
+msgstr "Complete all training stages and receive rewards"
+
+msgid "progress/window/exit"
+msgstr "Return to the Garage"
+
+msgid "progress/window/title"
+msgstr "CURRENT PROGRESS"
+
+msgid "progression/label"
+msgstr "Training Stages"
+
+msgid "promo/vehicleBuyView"
+msgstr "Special offer!"
+
+msgid "quest/condition"
+msgstr ""
+"Win in Random Battle mode on a Tier VII vehicle. To win, you will need to "
+"apply all the skills you have acquired!"
+
+msgid "quest/name"
+msgstr "Random Battle"
+
+msgid "quest/title"
+msgstr "Battle Check"
+
+msgid "queue/cancel/queue"
+msgstr "Cancel"
+
+msgid "queue/message"
+msgstr "Forming teams..."
+
+msgid "queue/more/n/minutes"
+msgstr "more than %(minutes)s min"
+
+msgid "queue/player-waiting-time"
+msgstr "You are in the queue:"
+
+msgid "queue/queue/too/long"
+msgstr "The queue is full. You can continue waiting or skip the tutorial."
+
+msgid "queue/skip/tutorial"
+msgstr "Skip the tutorial"
+
+msgid "queue/title"
+msgstr "Please wait, a suitable server is being found for you"
+
+msgid "queue/units"
+msgstr "%(units)s away"
+
+msgid "request/bootcamp/finish"
+msgstr "Leave Training Ground"
+
+msgid "request/bootcamp/return"
+msgstr "Return to Training Ground"
+
+msgid "request/bootcamp/start"
+msgstr "Complete Training Ground"
+
+msgid "result/award/cadet/label"
+msgstr "\"Main Caliber Training\""
+
+msgid "result/award/cadet/text"
+msgstr "Deal the most damage in a training battle."
+
+msgid "result/award/crew/label"
+msgstr "Crew control available"
+
+msgid "result/award/crew/text"
+msgstr "You have gained access to control the crew of your vehicle."
+
+msgid "result/award/duel/label"
+msgstr "\"Apprentice Duelist\""
+
+msgid "result/award/duel/text"
+msgstr "Destroy at least 2 enemy vehicles in battle that have damaged you."
+
+msgid "result/award/extinguisher/label"
+msgstr "Small Fire Extinguisher"
+
+msgid "result/award/extinguisher/text"
+msgstr ""
+"Extinguish fire in your own vehicle. Can be used multiple times per battle. "
+"Equipment is consumed after the battle if used at least once."
+
+msgid "result/award/gold/label"
+msgstr "Gold"
+
+msgid "result/award/gold/text"
+msgstr ""
+"You have received some valuable in-game currency that can be spent on a wide"
+" range of purposes."
+
+msgid "result/award/invader/label"
+msgstr "Apprentice Capturer"
+
+msgid "result/award/invader/text"
+msgstr "Participate in a successful base capture in a training battle."
+
+msgid "result/award/medicalkit/label"
+msgstr "Large First Aid Kit"
+
+msgid "result/award/medicalkit/text"
+msgstr ""
+"Heal all wounded crew members and remove the disorientation effect. Can be "
+"used multiple times per battle. Equipment is consumed after the battle if "
+"used at least once."
+
+msgid "result/award/mission/label"
+msgstr "Combat Check"
+
+msgid "result/award/mission/text"
+msgstr "Task completed!"
+
+msgid "result/award/premium/label"
+msgstr "Tank Premium Account"
+
+msgid "result/award/premium/text"
+msgstr ""
+"Your account has received premium days. A tank premium account allows you to"
+" earn more experience and credits in each battle."
+
+msgid "result/award/premiumPlus/label"
+msgstr "Tank Premium Account"
+
+msgid "result/award/premiumPlus/text"
+msgstr ""
+"Your account has received premium days. A tank premium account allows you to"
+" earn more experience and credits in each battle."
+
+msgid "result/award/repairkit/label"
+msgstr "Large Repair Kit"
+
+msgid "result/award/repairkit/text"
+msgstr ""
+"Repair all damaged modules. Can be used multiple times per battle. Equipment"
+" is consumed after the battle if used at least once."
+
+msgid "result/award/shoot/label"
+msgstr "\"Training Fire for Destruction\""
+
+msgid "result/award/shoot/text"
+msgstr ""
+"Deal more damage to the enemy than the durability of your own vehicle."
+
+msgid "result/award/sniper/label"
+msgstr "Apprentice Sniper"
+
+msgid "result/award/sniper/text"
+msgstr ""
+"Hit the enemy at least 8 times in a training battle (non-penetrations and "
+"ricochets count)."
+
+msgid "result/award/tank/label"
+msgstr "Reinforcements have arrived!"
+
+msgid "result/award/tank/text"
+msgstr ""
+"Soldier! You have fought a successful battle and receive a new vehicle in "
+"your Garage. Remember that as you progress through the game, you will be "
+"able to significantly expand your vehicle fleet."
+
+msgid "resultlabel/alive"
+msgstr "Survived"
+
+msgid "resultlabel/complete"
+msgstr "BATTLE COMPLETED"
+
+msgid "resultlabel/dead"
+msgstr "Destroyed"
+
+msgid "resultlabel/ended"
+msgstr "BATTLE OVER"
+
+msgid "resultlabel/lose"
+msgstr "DEFEAT"
+
+msgid "resultlabel/techwin"
+msgstr "TECHNICAL VICTORY"
+
+msgid "resultlabel/tie"
+msgstr "DRAW"
+
+msgid "resultlabel/win"
+msgstr "VICTORY!"
+
+msgid "reward/label"
+msgstr "Reward"
+
+msgid "subtitles/vo_bc_hangar_congratulations"
+msgstr "Great! Training successfully completed."
+
+msgid "subtitles/vo_bc_hangar_equipment"
+msgstr "Equipment enhances specific vehicle characteristics."
+
+msgid "subtitles/vo_bc_hangar_equipment_and_kit"
+msgstr "Lesson Four. Equipment and Supplies."
+
+msgid "subtitles/vo_bc_hangar_experience"
+msgstr "Battle Experience. Required for researching vehicles and modules."
+
+msgid "subtitles/vo_bc_hangar_gold"
+msgstr "Gold. Required for purchasing premium accounts and items."
+
+msgid "subtitles/vo_bc_hangar_gold_premium"
+msgstr "Lesson Five. Gold and Premium."
+
+msgid "subtitles/vo_bc_hangar_kit"
+msgstr "Equipment helps to deal with damage in battle."
+
+msgid "subtitles/vo_bc_hangar_mission_accomplished"
+msgstr "The task has been successfully completed!"
+
+msgid "subtitles/vo_bc_hangar_module_investigated"
+msgstr ""
+"The module has been successfully researched. Now it can be purchased and "
+"installed."
+
+msgid "subtitles/vo_bc_hangar_module_purchased"
+msgstr "The module has been purchased and automatically installed."
+
+msgid "subtitles/vo_bc_hangar_new_tank_received"
+msgstr "Lesson two. Getting a new vehicle."
+
+msgid "subtitles/vo_bc_hangar_premium"
+msgstr ""
+"Premium account. Increases the amount of experience and credits earned."
+
+msgid "subtitles/vo_bc_hangar_random_battle"
+msgstr "Apply all the skills you have acquired and win in \"Random Battle\" mode."
+
+msgid "subtitles/vo_bc_hangar_silver"
+msgstr "Credits. Used in the game to purchase and upgrade vehicles."
+
+msgid "subtitles/vo_bc_hangar_skills_abilities"
+msgstr "Crew skills improve vehicle characteristics."
+
+msgid "subtitles/vo_bc_hangar_tank_improvement"
+msgstr "Lesson one. Vehicle upgrade."
+
+msgid "subtitles/vo_bc_hangar_tank_in_garage"
+msgstr "Congratulations! The new vehicle is already in the Garage."
+
+msgid "subtitles/vo_bc_hangar_tank_investigated"
+msgstr "Vehicle researched. Now it can be purchased."
+
+msgid "subtitles/vo_bc_hangar_team"
+msgstr "Lesson three. Crew."
+
+msgid "tooltip/bootcamp/achievement/label"
+msgstr "Reward for training"
+
+msgid "tooltip/bootcamp/achievement/text"
+msgstr ""
+"Awarded to players who have completed all the lessons at the Training "
+"Ground."
+
+msgid "tooltip/bootcamp/badge/label"
+msgstr "Deserving student"
+
+msgid "tooltip/bootcamp/badge/text"
+msgstr "The patch is awarded for completing the Training Ground."
+
+msgid "tooltip/progression/description/gold"
+msgstr ""
+"Valuable in-game currency. Does not provide advantages in battles, but "
+"significantly simplifies the gameplay. Used for expanding the Barracks, "
+"purchasing Tank Premium Account days and premium vehicles, dismantling "
+"equipment, converting combat experience to free experience, etc."
+
+msgid "tooltip/progression/description/lesson_1"
+msgstr ""
+"In battle:\n"
+"• Vehicle control\n"
+"• Turret rotation\n"
+"• Reloading\n"
+"\n"
+"In the Garage:\n"
+"• Choosing the first vehicle\n"
+"• Garage rotation"
+
+msgid "tooltip/progression/description/lesson_2"
+msgstr ""
+"In battle:\n"
+"• Enemy detection\n"
+"• Switching to sniper mode\n"
+"• Penetration indicator on the reticle\n"
+"• Enemy vulnerable zones\n"
+"\n"
+"In the Garage:\n"
+"• Obtaining in-game currency\n"
+"• Experience gain per battle\n"
+"• Vehicle modules\n"
+"• Module research and purchase"
+
+msgid "tooltip/progression/description/lesson_2_short"
+msgstr ""
+"In battle:\n"
+"• Enemy detection\n"
+"• Switching to sniper mode\n"
+"• Penetration indicator on the reticle\n"
+"• Enemy vulnerable zones\n"
+"\n"
+"In the Garage:\n"
+"• Obtaining in-game currency\n"
+"• Experience gain per battle\n"
+"• Vehicle modules\n"
+"• Module research and purchase\n"
+"• Vehicle outfitting\n"
+"• Premium currency\n"
+"• Progress acceleration"
+
+msgid "tooltip/progression/description/lesson_3"
+msgstr ""
+"In battle:\n"
+"• Camouflage and stealth movement\n"
+"• Base capture\n"
+"\n"
+"In the Garage:\n"
+"• Obtaining VII level vehicles\n"
+"• Research tree\n"
+"• Crew training"
+
+msgid "tooltip/progression/description/lesson_4"
+msgstr ""
+"In battle:\n"
+"• Module damage\n"
+"• Vehicle immobilization\n"
+"• Fire and critical hits\n"
+"• Module repair during battle\n"
+"\n"
+"In the Garage:\n"
+"• Improving vehicle performance through equipment\n"
+"• Vehicle maintenance\n"
+"• Equipment enhancing performance\n"
+"• Various battle modes"
+
+msgid "tooltip/progression/description/lesson_5"
+msgstr ""
+"In battle:\n"
+"• 15 vs 15 battle\n"
+"• Behavior of different vehicle types\n"
+"• Freedom of attack direction\n"
+"\n"
+"In the Garage:\n"
+"• Currency\n"
+"• Progress acceleration\n"
+"• Achievements"
+
+msgid "tooltip/progression/description/medal"
+msgstr "Reward for players who have completed all training stages."
+
+msgid "tooltip/progression/description/premium"
+msgstr ""
+"Your account will receive premium days. Tank Premium Account allows you to "
+"earn more experience and credits in each battle, as well as adds a range of "
+"other features."
+
+msgid "tooltip/progression/label/description1"
+msgstr ""
+"Valuable in-game currency. Does not provide advantages in battles, but "
+"significantly simplifies the gameplay. Used for expanding the Barracks, "
+"purchasing Tank Premium Account days and premium vehicles, dismantling "
+"equipment, converting combat experience to free experience, etc."
+
+msgid "tooltip/progression/label/description2"
+msgstr ""
+"Your account will receive premium days. Tank Premium Account allows you to "
+"earn more experience and credits in each battle, as well as adds a range of "
+"other features."
+
+msgid "tooltip/progression/label/description3"
+msgstr "Reward for players who have completed all training stages."
+
+msgid "tooltip/progression/label/gold"
+msgstr "Gold"
+
+msgid "tooltip/progression/label/header"
+msgstr "Reward for completing training"
+
+msgid "tooltip/progression/label/lesson_1"
+msgstr "Lesson 1. Beginning of training"
+
+msgid "tooltip/progression/label/lesson_2"
+msgstr "Lesson 2. Aiming"
+
+msgid "tooltip/progression/label/lesson_3"
+msgstr "Lesson 3. Camouflage"
+
+msgid "tooltip/progression/label/lesson_4"
+msgstr "Lesson 4. Modules"
+
+msgid "tooltip/progression/label/lesson_5"
+msgstr "Lesson 5. Into battle"
+
+msgid "tooltip/progression/label/medal"
+msgstr "Medal \"Deserving Student\""
+
+msgid "tooltip/progression/label/premium"
+msgstr "Tank Premium Account"
+
+msgid "tooltip/progression/label/subheader2"
+msgstr "Tank Premium Account"
+
+msgid "tooltip/progression/label/subheader3"
+msgstr "Medal \"Deserving Student\""
+
+msgid "tooltip/progression/status/completed"
+msgstr "Completed"
+
+msgid "tooltip/progression/status/got"
+msgstr "Reward received"
+
+msgid "tooltip/progression/status/in_progress"
+msgstr "In progress"
+
+msgid "tooltip/progression/status/wait"
+msgstr "Awarded at the %(lesson)s stage of training"
+
+msgid "tooltip/progression/status/wait/bc_completed"
+msgstr ""
+"Awarded at the %(lesson)s stage of training and only for the duration of the"
+" Training Ground completion."
+
+msgid "transition/title"
+msgstr "Connecting to the server"
+
+msgid "wellcome/bootcamp"
+msgstr "Mir Tankov"
+
+msgid "wellcome/bootcamp/description"
+msgstr "Welcome!"
+
+msgid "wellcome/bootcamp/referral"
+msgstr ""
+"Before joining the referral program as a recruit, complete the training."
+
+msgid "wellcome/bootcamp/rewards"
+msgstr "Complete all training stages and receive rewards"
+
+msgid "wellcome/bootcamp/rewards/gold"
+msgstr "Gold"
+
+msgid "wellcome/bootcamp/rewards/medal"
+msgstr "Medal \"Distinguished Student\""
+
+msgid "wellcome/bootcamp/rewards/premium"
+msgstr "Tank premium account"
+
+msgid "wellcome/bootcamp/wait"
+msgstr "Loading map..."
+
+msgid "with/premium"
+msgstr "With premium:"

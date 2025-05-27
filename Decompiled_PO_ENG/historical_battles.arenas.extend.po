@@ -1,0 +1,82 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.arenas.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "08_ruinberg_att/description"
+msgstr "?empty?"
+
+msgid "08_ruinberg_att/name"
+msgstr "Northwest direction"
+
+msgid "08_ruinberg_att/upperName"
+msgstr "NORTHWEST DIRECTION"
+
+msgid "105_germany_att/description"
+msgstr "?empty?"
+
+msgid "105_germany_att/name"
+msgstr "Berlin"
+
+msgid "105_germany_att/upperName"
+msgstr "BERLIN"
+
+msgid "114_czech_att/description"
+msgstr "?empty?"
+
+msgid "114_czech_att/name"
+msgstr "Northeast direction"
+
+msgid "114_czech_att/upperName"
+msgstr "NORTHEAST DIRECTION"
+
+msgid "13_erlenberg_se22_def/description"
+msgstr "?empty?"
+
+msgid "13_erlenberg_se22_def/name"
+msgstr "West direction"
+
+msgid "13_erlenberg_se22_def/upperName"
+msgstr "WEST DIRECTION"
+
+msgid "14_siegfried_line_att/description"
+msgstr "?empty?"
+
+msgid "14_siegfried_line_att/name"
+msgstr "Southwest direction"
+
+msgid "14_siegfried_line_att/upperName"
+msgstr "SOUTHWEST DIRECTION"
+
+msgid "222_er_clime_def/description"
+msgstr "?empty?"
+
+msgid "222_er_clime_def/name"
+msgstr "South direction"
+
+msgid "222_er_clime_def/upperName"
+msgstr "SOUTH DIRECTION"
+
+msgid "35_steppes_def/description"
+msgstr "?empty?"
+
+msgid "35_steppes_def/name"
+msgstr "East direction"
+
+msgid "35_steppes_def/upperName"
+msgstr "EAST DIRECTION"
+
+msgid "99_poland_se22_def/description"
+msgstr "?empty?"
+
+msgid "99_poland_se22_def/name"
+msgstr "North direction"
+
+msgid "99_poland_se22_def/upperName"
+msgstr "NORTH DIRECTION"

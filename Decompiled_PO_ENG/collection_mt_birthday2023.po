@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-collection_mt_birthday2023\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "anyCollectionItem/name"
+msgstr "Collection Items"
+
+msgid "anyCollectionItem/tooltip/body"
+msgstr "This item can be obtained during the \"12+1 Birthday\" event."
+
+msgid "anyCollectionItem/tooltip/header"
+msgstr "Collection item \"Our game is...\""
+
+msgid "collection/awardsView/header/name"
+msgstr "BIRTHDAY COLLECTION"
+
+msgid "collection/name"
+msgstr "BIRTHDAY"
+
+msgid "collection/season"
+msgstr "12+1"
+
+msgid "entry/completed"
+msgstr "Collection completed!"
+
+msgid "entry/disabled/big"
+msgstr "Collection temporarily unavailable"
+
+msgid "entry/disabled/thinExtraSmall"
+msgstr "Unavailable"
+
+msgid "entry/disabled/thinSmall"
+msgstr "Temporarily unavailable"
+
+msgid "entry/disabled/wideSmall"
+msgstr "Collection temporarily unavailable"
+
+msgid "entry/mainCollectionName"
+msgstr "12+1 Birthday Collection"
+
+msgid "entry/seasonDate/seasonLasts"
+msgstr "Until %(day)s %(month)s"
+
+msgid "item/condition/available/photo_31001_1"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_2"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_3"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_4"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_5"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_6"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/available/photo_31001_7"
+msgstr ""
+"This collection item can be obtained from \"12+1 Birthday\" containers, as "
+"well as for completing combat tasks of the event."
+
+msgid "item/condition/unavailable/photo_31001_1"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_2"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_3"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_4"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_5"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_6"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/condition/unavailable/photo_31001_7"
+msgstr ""
+"This collection item could be obtained during the \"12+1 Birthday\" event."
+
+msgid "item/description/photo_31001_1"
+msgstr ""
+"The best solutions, the boldest and most fundamental changes, constant "
+"improvements - all of this requires inspiration. And our constant source of "
+"it is you. Just as you are: critical and grateful, satisfied and "
+"disappointed. But all so beloved. For you, we work, and thanks to you, the "
+"game lives and will continue to live. Thank you!"
+
+msgid "item/description/photo_31001_2"
+msgstr ""
+"The master class of any \"firefly\" is to ensure victory in battle in the "
+"first seconds, taking a key position, control of which turns the battle into"
+" a one-way game. The main thing is not to shoot, not to jerk, not to make "
+"sudden movements... To achieve victory without firing a single shot? Easy! "
+"To take first place in experience without firing a single shot? Try it, it's"
+" really fun."
+
+msgid "item/description/photo_31001_3"
+msgstr ""
+"Our game is a real virtual museum that can initiate in-depth study of "
+"history and technology. Now you definitely know which tank stands on the "
+"pedestal at that very intersection, and what makes the village where it "
+"stands famous. It's much more interesting for you to visit thematic museums:"
+" you meet \"old friends\" who are waiting for battle in your Garage. You "
+"start doing stand modeling, find inconsistencies in art films... You have "
+"clearly become a more curious and immersed person, isn't that great?"
+
+msgid "item/description/photo_31001_4"
+msgstr ""
+"Well... To understand the enemy, you need to think like the enemy, right? "
+"How can I play this map to avoid artillery fire? Hm... When I was on SPG "
+"myself, this square was not penetrable, so we'll go here."
+
+msgid "item/description/photo_31001_5"
+msgstr ""
+"We still need to figure out from what cosmic paranormal alloy the French "
+"make wheels for their vehicles, if they can stop a 183mm shell. Clearly some"
+" forbidden magic. Or maybe it passed under the hull, and I didn't notice... "
+"Oh well, some nonsense, it's definitely black magic!"
+
+msgid "item/description/photo_31001_6"
+msgstr ""
+"There was supposed to be some funny text about a collection item here, but "
+"we never figured out how to present this metaphor properly. Go into battle, "
+"maybe this time the tank will bring more gold! Sooner or later it will "
+"happen, the system must obey. It must!"
+
+msgid "item/description/photo_31001_7"
+msgstr ""
+"Just in case, we'll remind you that styles or camouflage add a bonus to "
+"concealment. Critically important for light tanks. Paradoxically, but in "
+"this case, a \"dressed-up fir tree\" shines less than the literal meaning of"
+" this phrase implies."
+
+msgid "item/name/photo_31001_1"
+msgstr "Ah, players!"
+
+msgid "item/name/photo_31001_2"
+msgstr "Ah, top-1!"
+
+msgid "item/name/photo_31001_3"
+msgstr "Ah, history!"
+
+msgid "item/name/photo_31001_4"
+msgstr "Ah, arty!"
+
+msgid "item/name/photo_31001_5"
+msgstr "Ah, wheelies!"
+
+msgid "item/name/photo_31001_6"
+msgstr "Ah, Karachun!"
+
+msgid "item/name/photo_31001_7"
+msgstr "Ah, \"Fir Tree\"!"

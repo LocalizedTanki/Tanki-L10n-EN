@@ -1,0 +1,254 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_artefacts\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "afterburning/hangar/descr"
+msgstr "Improves the dynamics of the car's acceleration."
+
+msgid "afterburning_hb/descr"
+msgstr "Improves the dynamics of the car's acceleration."
+
+msgid "afterburning_hb/name"
+msgstr "Full throttle"
+
+msgid "ambush_fire_hb/descr"
+msgstr ""
+"When the car is stationary, the reload and aiming speed increases, as well "
+"as accuracy."
+
+msgid "ambush_fire_hb/longDescr"
+msgstr "?empty?"
+
+msgid "ambush_fire_hb/name"
+msgstr "Ambush fire"
+
+msgid "ambush_fire_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "artillery_on_yourself_hb/descr"
+msgstr ""
+"Marks the firing zone at your car's location. Deals damage to the car using "
+"the skill and to the enemy's vehicle. Allies do not receive damage."
+
+msgid "artillery_on_yourself_hb/longDescr"
+msgstr "?empty?"
+
+msgid "artillery_on_yourself_hb/name"
+msgstr "Fire on self"
+
+msgid "artillery_on_yourself_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "artillerymortar_hb/descr"
+msgstr ""
+"The mortar battery strikes the selected area, dealing damage to the vehicles"
+" there."
+
+msgid "artillerymortar_hb/longDescr"
+msgstr "?empty?"
+
+msgid "artillerymortar_hb/name"
+msgstr "Mortar barrage"
+
+msgid "artillerymortar_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "artilleryrocket_hb/descr"
+msgstr ""
+"The MLRS battery strikes the selected area, dealing damage and setting the "
+"enemy's vehicles on fire."
+
+msgid "artilleryrocket_hb/name"
+msgstr "Katyusha Salvo"
+
+msgid "artillerystrike_defence_hb/descr"
+msgstr ""
+"The artillery barrage covers the selected area, dealing damage to the "
+"vehicles there."
+
+msgid "artillerystrike_defence_hb/longDescr"
+msgstr "?empty?"
+
+msgid "artillerystrike_defence_hb/name"
+msgstr "Artillery barrage"
+
+msgid "artillerystrike_defence_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "artillerystrike_offence_hb/descr"
+msgstr ""
+"The artillery barrage covers the selected area, dealing damage to the "
+"vehicles there."
+
+msgid "artillerystrike_offence_hb/longDescr"
+msgstr "?empty?"
+
+msgid "artillerystrike_offence_hb/name"
+msgstr "Artillery barrage"
+
+msgid "artillerystrike_offence_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "attack_plane_hb/descr"
+msgstr ""
+"The attack aircraft performs a strafing run along the specified attack line."
+" Deals damage to the enemy and always destroys tracks."
+
+msgid "attack_plane_hb/name"
+msgstr "Attack run"
+
+msgid "berserk_hb/descr"
+msgstr ""
+"When the vehicle's durability is below 50%, the reload and aiming time of "
+"the gun are reduced."
+
+msgid "berserk_hb/longDescr"
+msgstr "?empty?"
+
+msgid "berserk_hb/name"
+msgstr "Desperate"
+
+msgid "berserk_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "bomber_hb/descr"
+msgstr ""
+"Diving bomber drops a bomb on the selected area, dealing damage to the "
+"vehicles there."
+
+msgid "bomber_hb/longDescr"
+msgstr "?empty?"
+
+msgid "bomber_hb/name"
+msgstr "Air strike"
+
+msgid "bomber_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "durationTime"
+msgstr "Duration of the effect: %(time)s sec."
+
+msgid "healpoint_hb/descr"
+msgstr ""
+"Creates a repair zone around the vehicle, restoring the durability of all "
+"vehicles in that area."
+
+msgid "healpoint_hb/name"
+msgstr "Field repair"
+
+msgid "incendiaryshot_hb/descr"
+msgstr ""
+"The next shell guarantees to set the enemy vehicle on fire if it penetrates "
+"the armor anywhere."
+
+msgid "incendiaryshot_hb/name"
+msgstr "Incendiary shell"
+
+msgid "last_stand_hb/descr"
+msgstr ""
+"Allows the vehicle with zero durability to continue shooting at the enemy "
+"for some time. Only shooting is available, movement is impossible."
+
+msgid "last_stand_hb/longDescr"
+msgstr "?empty?"
+
+msgid "last_stand_hb/name"
+msgstr "Call of Duty"
+
+msgid "last_stand_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "minefield_hb/descr"
+msgstr ""
+"On the specified area, after a delay, a minefield is deployed. When hit, the"
+" enemy receives damage and loses tracks. Allied vehicles do not receive "
+"damage from mines."
+
+msgid "minefield_hb/longDescr"
+msgstr "?empty?"
+
+msgid "minefield_hb/name"
+msgstr "Minefield"
+
+msgid "minefield_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "recon_hb/descr"
+msgstr ""
+"Calls a reconnaissance aircraft that detects enemy vehicles in the specified"
+" square and keeps them visible for a certain time."
+
+msgid "recon_hb/longDescr"
+msgstr "?empty?"
+
+msgid "recon_hb/name"
+msgstr "Reconnaissance aircraft"
+
+msgid "recon_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "resurrect/name"
+msgstr "Call of Duty"
+
+msgid "resurrect_black/descr"
+msgstr "Last combat mission! No more reinforcements will be available."
+
+msgid "resurrect_green/descr"
+msgstr ""
+"Allows the vehicle with zero durability to continue shooting at the enemy "
+"for some time. Only shooting is available, movement is impossible."
+
+msgid "resurrect_yellow/descr"
+msgstr ""
+"After destruction, the vehicle will return to battle if your team completes "
+"the current task."
+
+msgid "role/locked"
+msgstr ""
+"Skill blocked. To unblock the skill, deal 1000 damage to enemy vehicles."
+
+msgid "role/unlocked"
+msgstr "Commander's skill unlocked."
+
+msgid "stunshot_defence_hb/descr"
+msgstr ""
+"The next shell will guaranteed stun the enemy vehicle in a radius from the "
+"point of impact and knock off its tracks."
+
+msgid "stunshot_defence_hb/longDescr"
+msgstr "?empty?"
+
+msgid "stunshot_defence_hb/name"
+msgstr "Enhanced charge"
+
+msgid "stunshot_defence_hb/shortDescr"
+msgstr "?empty?"
+
+msgid "stunshot_hb/descr"
+msgstr ""
+"The next shell will guaranteed stun the enemy vehicle in a radius from the "
+"point of impact and knock off its tracks."
+
+msgid "stunshot_hb/name"
+msgstr "Enhanced charge"
+
+msgid "stunshot_offence_hb/descr"
+msgstr ""
+"The next shell will guaranteed stun the enemy vehicle in a radius from the "
+"point of impact and knock off its tracks."
+
+msgid "stunshot_offence_hb/longDescr"
+msgstr "?empty?"
+
+msgid "stunshot_offence_hb/name"
+msgstr "Enhanced charge"
+
+msgid "stunshot_offence_hb/shortDescr"
+msgstr "?empty?"

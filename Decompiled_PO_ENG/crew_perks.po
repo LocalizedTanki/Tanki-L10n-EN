@@ -1,0 +1,867 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-crew_perks\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "brotherhood/alt/description"
+msgstr ""
+"The crew efficiency bonus improves the crew member's effectiveness in "
+"battle, as well as the effectiveness of all their learned perks, except for "
+"this one. This parameter can be further increased by mounting equipment or "
+"consumables with a similar effect, or by using the Vent Purge directive. The"
+" Commander's Emergency perk, as well as the Radio Operator's Side By Side "
+"and Communications Expert perks, can also increase the parameter."
+
+msgid "brotherhood/alt/info"
+msgstr ""
+"For group perks, the average training level among all crew members is taken "
+"into account. It comes into effect when trained to at least 1% and increases"
+" its effectiveness with further training."
+
+msgid "brotherhood/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}crew efficiency bonus{greenBright_End} of the entire "
+"crew is increased by %(crewLevelIncrease)s&zwnbsp;."
+
+msgid "brotherhood/maxLvlDescription"
+msgstr ""
+"When fully trained for all crew members, increases the "
+"{greenBright_Start}crew efficiency bonus{greenBright_End} of the entire crew"
+" by %(crewLevelIncrease)s&zwnbsp;."
+
+msgid "brotherhood/name"
+msgstr "Brothers in Arms"
+
+msgid "brotherhood/shortDescription"
+msgstr "Increases general crew performance."
+
+msgid "brotherhood_offspring/name"
+msgstr "Of one blood"
+
+msgid "brotherhood_sabaton/name"
+msgstr "Of one blood"
+
+msgid "brotherhood_witches/name"
+msgstr "Shindig"
+
+msgid "brotherhood_yha/name"
+msgstr "Brotherhood of Hares"
+
+msgid "camouflage/alt/description"
+msgstr ""
+"This perk affects vehicle concealment. It can be further improved with the Natural Cover directive.\n"
+"\n"
+"In addition, vehicle concealment can be increased by applying a camouflage pattern or a style, as well as by mounting equipment with a similar effect."
+
+msgid "camouflage/alt/info"
+msgstr ""
+"For group perks, the average training level among all crew members is taken "
+"into account. It comes into effect when trained to at least 1% and increases"
+" its effectiveness with further training."
+
+msgid "camouflage/currentLvlDescription"
+msgstr ""
+"Vehicle {greenBright_Start}concealment{greenBright_End} is increased by "
+"%(maskingFactor)s&zwnbsp;."
+
+msgid "camouflage/maxLvlDescription"
+msgstr ""
+"When fully trained for all crew members, increases vehicle "
+"{greenBright_Start}concealment{greenBright_End} by "
+"%(maskingFactor)s&zwnbsp;."
+
+msgid "camouflage/name"
+msgstr "Concealment"
+
+msgid "camouflage/shortDescription"
+msgstr "Increases base vehicle concealment."
+
+msgid "commander_eagleEye/alt/description"
+msgstr ""
+"The view range can be further increased by training the Radio Operator's "
+"Situational Awareness perk or by mounting equipment with a similar effect. "
+"Using the Optical Calibration directive improves the effect."
+
+msgid "commander_eagleEye/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "commander_eagleEye/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}view range{greenBright_End} is increased by "
+"%(circularVisionRadius)s&zwnbsp;. The {greenBright_Start}penalty to damaged "
+"observation devices{greenBright_End} is reduced by "
+"%(penaltyToDamagedSurveyingDevice)s&zwnbsp;."
+
+msgid "commander_eagleEye/hudDescription"
+msgstr "The penalty to damaged observation devices is reduced."
+
+msgid "commander_eagleEye/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}view range{greenBright_End}"
+" by %(circularVisionRadius)s&zwnbsp; and reduces the "
+"{greenBright_Start}penalty to damaged observation devices{greenBright_End} "
+"by %(penaltyToDamagedSurveyingDevice)s&zwnbsp;."
+
+msgid "commander_eagleEye/name"
+msgstr "Recon"
+
+msgid "commander_eagleEye/shortDescription"
+msgstr ""
+"Increases the view range, especially when the observation devices are "
+"damaged."
+
+msgid "commander_enemyShotPredictor/alt/description"
+msgstr ""
+"An alert about enemy SPG fire is activated the moment it is shot but with some delay.\n"
+"\n"
+"The perk can be improved with the Heightened Vigilance directive."
+
+msgid "commander_enemyShotPredictor/alt/info"
+msgstr ""
+"A perk with a situational effect comes into effect when trained to at least "
+"1% and increases its effectiveness with further training. The situational "
+"effect triggers when certain conditions are met in battle."
+
+msgid "commander_enemyShotPredictor/currentLvlDescription"
+msgstr ""
+"An {yellow_Start}alert about enemy SPG fire{yellow_End} and the direction of"
+" its shot will be issued with a %(artNotificationDelayFactor)s delay. The "
+"{greenBright_Start}negative effect of stunning{greenBright_End} is decreased"
+" by %(stunResistanceEffectFactor)s&zwnbsp;."
+
+msgid "commander_enemyShotPredictor/maxLvlDescription"
+msgstr ""
+"When fully trained, issues an {yellow_Start}alert about enemy SPG "
+"fire{yellow_End} with a %(artNotificationDelayFactor)s delay and identifies "
+"the direction of the shot. Decreases the {greenBright_Start}negative effect "
+"of stunning{greenBright_End} by %(stunResistanceEffectFactor)s&zwnbsp;."
+
+msgid "commander_enemyShotPredictor/name"
+msgstr "Sound Detection"
+
+msgid "commander_enemyShotPredictor/shortDescription"
+msgstr "Indicates an enemy SPG shot."
+
+msgid "commander_expert/alt/description"
+msgstr ""
+"The determination of target module damage works for vehicles in the "
+"commander's line of sight both in direct aiming mode and in artillery aiming"
+" mode."
+
+msgid "commander_expert/alt/info"
+msgstr ""
+"A situational effect skill begins to take effect when studied by at least "
+"1%, increasing its effectiveness as it is studied."
+
+msgid "commander_expert/currentLvlDescription"
+msgstr ""
+"The commander can {yellow_Start}determine target module damage{yellow_End} "
+"with a delay of {yellow_Start}%(damageMonitoringDelay)s{yellow_End}."
+
+msgid "commander_expert/maxLvlDescription"
+msgstr ""
+"Full study will allow you to {yellow_Start}determine target module "
+"damage{yellow_End} with a delay of "
+"{yellow_Start}%(damageMonitoringDelay)s{yellow_End}."
+
+msgid "commander_expert/name"
+msgstr "Expert"
+
+msgid "commander_expert/shortDescription"
+msgstr "Allows you to determine target module damage."
+
+msgid "commander_sixthSense/alt/description"
+msgstr ""
+"An injured Commander does not affect Sixth Sense's effectiveness. Its "
+"activation can be accelerated with the Radio Operator's Signal Interception "
+"perk."
+
+msgid "commander_sixthSense/alt/info"
+msgstr ""
+"It is a special Commander feature that does not require training and is "
+"available to the Commander by default."
+
+msgid "commander_sixthSense/currentLvlDescription"
+msgstr ""
+"Enables the Commander to identify whether their vehicle has been spotted by "
+"the enemy. Activates %(delay)s after the vehicle is spotted."
+
+msgid "commander_sixthSense/maxLvlDescription"
+msgstr ""
+"Allows the commander to determine if his vehicle has been detected by the "
+"enemy. Takes effect after {greenBright_Start}%(delay)s{greenBright_End} from"
+" the moment of detection."
+
+msgid "commander_sixthSense/name"
+msgstr "Sixth Sense"
+
+msgid "commander_sixthSense/shortDescription"
+msgstr ""
+"Enables the Commander to identify whether their vehicle has been spotted by "
+"the enemy."
+
+msgid "commander_tutor/alt/description"
+msgstr ""
+"An injured Commander does not affect the perk's effectiveness. The bonus is applied only to the basic amount of Crew XP earned in battle.\n"
+"\n"
+"Additional Crew XP can be received by using Crew Books or converting Free XP to Crew XP."
+
+msgid "commander_tutor/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "commander_tutor/currentLvlDescription"
+msgstr ""
+"The amount of {greenBright_Start}XP{greenBright_End} earned is increased by "
+"%(xpBonusFactorPerLevel)s for all crew members. The Commander can "
+"{greenBright_Start}replace knocked-out members{greenBright_End} with "
+"%(woundedCrewEfficiency)s effectiveness."
+
+msgid "commander_tutor/maxLvlDescription"
+msgstr ""
+"When fully trained, increases the amount of "
+"{greenBright_Start}XP{greenBright_End} earned by %(xpBonusFactorPerLevel)s "
+"for all crew members. Enables the Commander to {greenBright_Start}replace "
+"knocked-out members{greenBright_End} with %(woundedCrewEfficiency)s "
+"effectiveness."
+
+msgid "commander_tutor/name"
+msgstr "Mentor"
+
+msgid "commander_tutor/shortDescription"
+msgstr "Knocked-out crew member is replaced by commander."
+
+msgid "commander_universalist/alt/description"
+msgstr ""
+"The Commander can replace only the major qualification of the knocked-out "
+"crew member. The replacement effect diminishes with each crew member knocked"
+" out."
+
+msgid "commander_universalist/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1%. Its effectiveness "
+"grows with further training."
+
+msgid "commander_universalist/currentLvlDescription"
+msgstr ""
+"The Commander can {greenBright_Start}replace knocked-out{greenBright_End} "
+"crew members with %(woundedCrewEfficiency)s effectiveness."
+
+msgid "commander_universalist/hudDescription"
+msgstr "The Commander performs the role of knocked-out crew member."
+
+msgid "commander_universalist/maxLvlDescription"
+msgstr ""
+"When fully trained, enables the Commander to {greenBright_Start}replace "
+"knocked-out{greenBright_End} crew members with %(woundedCrewEfficiency)s "
+"effectiveness."
+
+msgid "commander_universalist/name"
+msgstr "Jack of All Trades"
+
+msgid "commander_universalist/shortDescription"
+msgstr "Enables the Commander to replace knocked-out crew members."
+
+msgid "driver_badRoadsKing/alt/description"
+msgstr ""
+"Reduces penalties to vehicle maneuverability and acceleration when driving on moderately soft terrain. Significantly decreases these penalties when driving on soft terrain, bringing them in line with those of moderately soft terrain.\n"
+"Maneuverability on moderately soft and soft terrain cannot exceed maneuverability on hard terrain."
+
+msgid "driver_badRoadsKing/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "driver_badRoadsKing/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Speed loss on moderately soft terrain{greenBright_End} is"
+" reduced by %(mediumGroundFactor)s&zwnbsp;, {greenBright_Start}speed loss on"
+" soft terrain{greenBright_End} is reduced to %(softGroundFactor)s of the "
+"moderately soft terrain resulting value."
+
+msgid "driver_badRoadsKing/maxLvlDescription"
+msgstr ""
+"When fully trained, reduces {greenBright_Start}speed loss on moderately soft"
+" terrain{greenBright_End} by %(mediumGroundFactor)s&zwnbsp;, reduces "
+"{greenBright_Start}speed loss on soft terrain{greenBright_End} to "
+"%(softGroundFactor)s of the moderately soft terrain resulting value."
+
+msgid "driver_badRoadsKing/name"
+msgstr "Off-Road Driving"
+
+msgid "driver_badRoadsKing/shortDescription"
+msgstr "Reduces speed loss on sticky and medium terrain."
+
+msgid "driver_rammingMaster/alt/description"
+msgstr ""
+"The perk is only effective while your vehicle is in motion and is ineffective when two allied vehicles collide.\n"
+"\n"
+"Ramming damage to your vehicle can be further decreased by mounting equipment with a similar effect."
+
+msgid "driver_rammingMaster/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "driver_rammingMaster/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Ramming damage to enemy vehicles{greenBright_End} is "
+"increased by %(damageEnemiesByRamming)s&zwnbsp;. {greenBright_Start}Ramming "
+"damage to your vehicle{greenBright_End} is decreased by "
+"%(vehicleRamDamageResistance)s&zwnbsp; and to {greenBright_Start}your "
+"suspension{greenBright_End} by "
+"%(vehicleRamChassisDamageResistance)s&zwnbsp;."
+
+msgid "driver_rammingMaster/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}ramming damage to enemy "
+"vehicles{greenBright_End} by %(damageEnemiesByRamming)s&zwnbsp;. Reduces "
+"{greenBright_Start}ramming damage to your vehicle{greenBright_End} by "
+"%(vehicleRamDamageResistance)s&zwnbsp;, and to {greenBright_Start}your "
+"suspension{greenBright_End} by "
+"%(vehicleRamChassisDamageResistance)s&zwnbsp;."
+
+msgid "driver_rammingMaster/name"
+msgstr "Controlled Impact"
+
+msgid "driver_rammingMaster/shortDescription"
+msgstr ""
+"Decreases ramming damage to your vehicle and increases ramming damage to an "
+"enemy vehicle."
+
+msgid "driver_smoothDriving/alt/description"
+msgstr ""
+"Does not affect the accuracy of a stationary vehicle and the accuracy during hull traverse.\n"
+"\n"
+"The perk can be improved using the Gearbox Intricacy directive. Accuracy when firing on the move can be further increased by mounting equipment with a similar effect or using the Stabilizer Greasing directive."
+
+msgid "driver_smoothDriving/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "driver_smoothDriving/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Gun dispersion{greenBright_End} when firing on the move "
+"is decreased by %(vehicleGunShotDispersionChassisMovement)s&zwnbsp;."
+
+msgid "driver_smoothDriving/maxLvlDescription"
+msgstr ""
+"When fully trained, decreases {greenBright_Start}gun "
+"dispersion{greenBright_End} when firing on the move by "
+"%(vehicleGunShotDispersionChassisMovement)s&zwnbsp;."
+
+msgid "driver_smoothDriving/name"
+msgstr "Smooth Ride"
+
+msgid "driver_smoothDriving/shortDescription"
+msgstr "Improves accuracy when firing on the move."
+
+msgid "driver_tidyPerson/alt/description"
+msgstr ""
+"The fire resistance of the vehicle can be further increased by mounting "
+"equipment and consumables with similar effects. The Firefighting perk will "
+"speed up putting out a fire if there is one."
+
+msgid "driver_tidyPerson/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1%. Its effectiveness "
+"grows with further training."
+
+msgid "driver_tidyPerson/currentLvlDescription"
+msgstr ""
+"Decreased the {greenBright_Start}chance of engine fire{greenBright_End} by "
+"%(vehicleFireChance)s&zwnbsp;."
+
+msgid "driver_tidyPerson/maxLvlDescription"
+msgstr ""
+"When fully trained, decreases the {greenBright_Start}chance of engine "
+"fire{greenBright_End} by %(vehicleFireChance)s&zwnbsp;."
+
+msgid "driver_tidyPerson/name"
+msgstr "Preventative Maintenance"
+
+msgid "driver_tidyPerson/shortDescription"
+msgstr "Decreases the chance of engine fire."
+
+msgid "driver_virtuoso/alt/description"
+msgstr ""
+"Hull traverse speed can be further increased by mounting equipment or "
+"consumables with a similar effect."
+
+msgid "driver_virtuoso/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "driver_virtuoso/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Hull traverse speed{greenBright_End} is increased by "
+"%(vehicleAllGroundRotationSpeed)s&zwnbsp;."
+
+msgid "driver_virtuoso/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}hull traverse "
+"speed{greenBright_End} by %(vehicleAllGroundRotationSpeed)s."
+
+msgid "driver_virtuoso/name"
+msgstr "Clutch Braking"
+
+msgid "driver_virtuoso/shortDescription"
+msgstr "Increases hull traverse speed."
+
+msgid "fireFighting/alt/description"
+msgstr ""
+"This perk affects the damage received from fire and its duration.\n"
+"\n"
+"If two Radio Operators have this perk, the average value of its training level is applied.\n"
+"\n"
+"The perk can be improved with the Experienced Firefighters directive."
+
+msgid "fireFighting/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "fireFighting/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Fire extinguishing speed{greenBright_End} is increased by"
+" %(fireExtinguishingRate)s&zwnbsp;."
+
+msgid "fireFighting/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}fire extinguishing "
+"speed{greenBright_End} by %(fireExtinguishingRate)s&zwnbsp;."
+
+msgid "fireFighting/name"
+msgstr "Firefighting"
+
+msgid "fireFighting/shortDescription"
+msgstr "Enhances firefighting abilities."
+
+msgid "gunner_gunsmith/alt/description"
+msgstr ""
+"If the skill is acquired by two gunners, the effect is not cumulative."
+
+msgid "gunner_gunsmith/alt/info"
+msgstr ""
+"The skill begins to take effect when studied by at least 1%, increasing its "
+"effectiveness as it is studied."
+
+msgid "gunner_gunsmith/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Penalty to dispersion{greenBright_End} of a damaged gun "
+"is reduced by "
+"{greenBright_Start}%(vehicleGunShotDispersionWhileGunDamaged)s{greenBright_End}."
+
+msgid "gunner_gunsmith/hudDescription"
+msgstr "Reduced dispersion of a damaged gun."
+
+msgid "gunner_gunsmith/maxLvlDescription"
+msgstr ""
+"Full study will reduce the {greenBright_Start}penalty to "
+"dispersion{greenBright_End} of a damaged gun by "
+"{greenBright_Start}%(vehicleGunShotDispersionWhileGunDamaged)s{greenBright_End}."
+
+msgid "gunner_gunsmith/name"
+msgstr "Master Gunsmith"
+
+msgid "gunner_gunsmith/shortDescription"
+msgstr "Reduces penalty to accuracy of a damaged gun."
+
+msgid "gunner_rancorous/alt/description"
+msgstr ""
+"Identifies critically damaged modules on targeted vehicles within the Gunner's view range in both indirect and direct fire modes.\n"
+"The Gunner's viewing area is defined by the ±10° sector (20° in total) in front of the vehicle's gun and its view range.\n"
+"If two Gunners have this perk, the average value of its training level is applied.\n"
+"The perk can be further improved with the Focus on Target directive. Using Improved Radio Set will further increase the time before the enemy vehicle is no longer visible."
+
+msgid "gunner_rancorous/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "gunner_rancorous/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}time{greenBright_End} before an enemy "
+"{greenBright_Start}vehicle is no longer visible{greenBright_End} inside the "
+"Gunner's viewing area is increased by %(vehicleEnemySpottingTime)s. The time"
+" to {yellow_Start}identify damaged modules{yellow_End} is decreased to "
+"%(damageMonitoringDelay)s&zwnbsp;."
+
+msgid "gunner_rancorous/maxLvlDescription"
+msgstr ""
+"When fully trained, increases the {greenBright_Start}time{greenBright_End} "
+"before an enemy {greenBright_Start}vehicle is no longer "
+"visible{greenBright_End} inside the Gunner's viewing area by "
+"%(vehicleEnemySpottingTime)s. Enables the {yellow_Start}identification of "
+"damaged modules{yellow_End} with a %(damageMonitoringDelay)s delay."
+
+msgid "gunner_rancorous/name"
+msgstr "Designated Target"
+
+msgid "gunner_rancorous/shortDescription"
+msgstr ""
+"Increases the time before an enemy vehicle is no longer visible inside the "
+"Gunner's viewing area. Enables the identification of damaged modules."
+
+msgid "gunner_smoothTurret/alt/description"
+msgstr ""
+"If two Gunners have this perk, the average value of its training level is applied.\n"
+"\n"
+"The perk can be improved with the Steady Hand directive. Dispersion during turret rotation can be further decreased by mounting equipment with a similar effect or using the Stabilizer Greasing directive."
+
+msgid "gunner_smoothTurret/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "gunner_smoothTurret/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Gun dispersion{greenBright_End} during turret rotation is"
+" decreased by %(turretAimingDispersion)s&zwnbsp;."
+
+msgid "gunner_smoothTurret/maxLvlDescription"
+msgstr ""
+"When fully trained, decreases {greenBright_Start}gun "
+"dispersion{greenBright_End} during turret rotation by "
+"%(turretAimingDispersion)s&zwnbsp;."
+
+msgid "gunner_smoothTurret/name"
+msgstr "Snap Shot"
+
+msgid "gunner_smoothTurret/shortDescription"
+msgstr "Decreases gun dispersion during turret rotation."
+
+msgid "gunner_sniper/alt/description"
+msgstr ""
+"The effect works for all types of shells except in vehicles with autocannons.\n"
+"\n"
+"If two Gunners have this perk, the average value of its training level is applied."
+
+msgid "gunner_sniper/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "gunner_sniper/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}chance of critically damaging{greenBright_End} enemy "
+"{greenBright_Start}vehicle modules{greenBright_End} and injuring enemy "
+"{greenBright_Start}crew members{greenBright_End} with all types of shells is"
+" increased by %(enemyModulesCrewCritChance)s&zwnbsp;."
+
+msgid "gunner_sniper/maxLvlDescription"
+msgstr ""
+"When fully trained, increases the {greenBright_Start}chance of critically "
+"damaging{greenBright_End} enemy {greenBright_Start}vehicle "
+"modules{greenBright_End} and injuring enemy {greenBright_Start}crew "
+"members{greenBright_End} with all types of shells by "
+"%(enemyModulesCrewCritChance)s&zwnbsp;."
+
+msgid "gunner_sniper/name"
+msgstr "Deadeye"
+
+msgid "gunner_sniper/shortDescription"
+msgstr "Increases the chance of hitting enemy modules and crew."
+
+msgid "loader_desperado/alertDescription"
+msgstr ""
+"If the gun heating mechanic is present, the skill activation additionally "
+"reduces the rate of temperature accumulation by "
+"{yellow_Start}%(temperatureGunHeating)s{yellow_End}."
+
+msgid "loader_desperado/alt/description"
+msgstr ""
+"If two Loaders have this perk, the average value of its training level is applied.\n"
+"\n"
+"Gun loading time can be further decreased by training Loader's Close Combat perk or by mounting equipment with a similar effect. Using the Orderly Ammo Rack directive improves the effect."
+
+msgid "loader_desperado/alt/info"
+msgstr ""
+"A perk with a situational effect comes into effect when trained to at least "
+"1% and increases its effectiveness with further training. The situational "
+"effect triggers when certain conditions are met in battle."
+
+msgid "loader_desperado/currentLvlDescription"
+msgstr ""
+"{yellow_Start}Gun loading time{yellow_End} will be decreased by "
+"%(vehicleGunReloadTime)s if your vehicle has under 25% of its hit points "
+"left."
+
+msgid "loader_desperado/hudDescription"
+msgstr "Gun loading time is decreased (low vehicle durability)."
+
+msgid "loader_desperado/maxLvlDescription"
+msgstr ""
+"When fully trained, decreases {yellow_Start}gun loading time{yellow_End} by "
+"%(vehicleGunReloadTime)s if your vehicle has under 25% of its hit points "
+"left."
+
+msgid "loader_desperado/name"
+msgstr "Adrenaline Rush"
+
+msgid "loader_desperado/shortDescription"
+msgstr ""
+"Accelerates gun loading if the vehicle has under 25% of its hit points left."
+
+msgid "loader_intuition/alertDescription"
+msgstr ""
+"If the gun heating mechanic is present, the skill will only activate when "
+"the gun is fully cooled."
+
+msgid "loader_intuition/alt/description"
+msgstr ""
+"To activate the perk, the gun, both guns, or the magazine must be fully loaded. The minimum time of changing shell types for standard guns is 1 s; for double-barreled guns and magazine guns, it is 2.5 s.\n"
+"\n"
+"If two Loaders have this perk, the average value of its training level is applied."
+
+msgid "loader_intuition/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "loader_intuition/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}time of changing shell types{greenBright_End} in a "
+"loaded gun is decreased by %(vehicleReloadTimeAfterShellChange)s&zwnbsp;."
+
+msgid "loader_intuition/hudDescription"
+msgstr "The time of changing shell types in a loaded gun is decreased."
+
+msgid "loader_intuition/maxLvlDescription"
+msgstr ""
+"When fully trained, decreases the {greenBright_Start}time of changing shell "
+"types{greenBright_End} in a loaded gun by "
+"%(vehicleReloadTimeAfterShellChange)s&zwnbsp;."
+
+msgid "loader_intuition/name"
+msgstr "Intuition"
+
+msgid "loader_intuition/shortDescription"
+msgstr ""
+"Significantly increases the speed of changing shell types in a loaded gun."
+
+msgid "loader_pedant/alt/description"
+msgstr ""
+"An injured Loader does not affect the perk's efficiency.\n"
+"\n"
+"If two Loaders have this perk, the average value of its training level is applied.\n"
+"\n"
+"The perk can be improved using the Shell Organizer directive. Ammo rack durability can be further increased by mounting equipment with a similar effect."
+
+msgid "loader_pedant/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "loader_pedant/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Ammo rack durability{greenBright_End} is increased by "
+"%(vehicleAmmoBayStrength)s&zwnbsp;."
+
+msgid "loader_pedant/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}ammo rack "
+"durability{greenBright_End} by %(vehicleAmmoBayStrength)s&zwnbsp;."
+
+msgid "loader_pedant/name"
+msgstr "Safe Stowage"
+
+msgid "loader_pedant/shortDescription"
+msgstr "Increases ammo rack durability."
+
+msgid "measureType/meters"
+msgstr "%s m"
+
+msgid "measureType/mph"
+msgstr "%s km/h"
+
+msgid "measureType/percents"
+msgstr "%s%%"
+
+msgid "measureType/seconds"
+msgstr "%s s"
+
+msgid "perkRole/commander"
+msgstr "Commander"
+
+msgid "perkRole/common"
+msgstr "Group"
+
+msgid "perkRole/driver"
+msgstr "Driver"
+
+msgid "perkRole/gunner"
+msgstr "Gunner"
+
+msgid "perkRole/loader"
+msgstr "Loader"
+
+msgid "perkRole/radioman"
+msgstr "Radio Operator"
+
+msgid "radioman_finder/alt/description"
+msgstr ""
+"If two Radio Operators have this perk, the average value of its training level is applied.\n"
+"\n"
+"The view range can be further increased by training the Recon perk or by mounting equipment with a similar effect. Using the Optical Calibration directive improves the effect."
+
+msgid "radioman_finder/alt/info"
+msgstr ""
+"A perk comes into effect when trained to at least 1% and increases its "
+"effectiveness with further training."
+
+msgid "radioman_finder/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}View range{greenBright_End} is increased by "
+"%(vehicleCircularVisionRadius)s&zwnbsp;."
+
+msgid "radioman_finder/maxLvlDescription"
+msgstr ""
+"When fully trained, increases {greenBright_Start}view range{greenBright_End}"
+" by %(vehicleCircularVisionRadius)s&zwnbsp;."
+
+msgid "radioman_finder/name"
+msgstr "Situational Awareness"
+
+msgid "radioman_finder/shortDescription"
+msgstr "Increases view range."
+
+msgid "radioman_inventor/alt/description"
+msgstr ""
+"If the skill is acquired by two radio operators, the effect is not "
+"cumulative."
+
+msgid "radioman_inventor/alt/info"
+msgstr ""
+"The skill begins to take effect when studied by at least 1%, increasing its "
+"effectiveness as it is studied."
+
+msgid "radioman_inventor/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Communication range{greenBright_End} is increased by "
+"{greenBright_Start}%(radioDistance)s{greenBright_End}."
+
+msgid "radioman_inventor/hudDescription"
+msgstr "Crew efficiency is increased."
+
+msgid "radioman_inventor/maxLvlDescription"
+msgstr ""
+"Increases {greenBright_Start}communication range{greenBright_End} by "
+"{greenBright_Start}%(radioDistance)s{greenBright_End}."
+
+msgid "radioman_inventor/name"
+msgstr "Inventor"
+
+msgid "radioman_inventor/shortDescription"
+msgstr "Increases the communication range of the radio station."
+
+msgid "radioman_lastEffort/alt/description"
+msgstr ""
+"If two Radio Operators have the perk, only the higher value is applied. The effect is only active if the Radio Operator is uninjured when the vehicle is destroyed.\n"
+"\n"
+"The perk can be further improved with the Duty Comes First directive."
+
+msgid "radioman_lastEffort/alt/info"
+msgstr ""
+"A perk with a situational effect comes into effect when trained to at least "
+"1%. Its effectiveness grows with further training. The situational effect "
+"triggers when certain conditions are met in battle."
+
+msgid "radioman_lastEffort/currentLvlDescription"
+msgstr ""
+"The Radio Operator can {yellow_Start}report enemy positions{yellow_End} for "
+"another %(radiomanDurationPerLevel)s after your vehicle has been destroyed."
+
+msgid "radioman_lastEffort/hudDescription"
+msgstr "Reporting positions."
+
+msgid "radioman_lastEffort/maxLvlDescription"
+msgstr ""
+"When fully trained, allows to {yellow_Start}report enemy "
+"positions{yellow_End} for another %(radiomanDurationPerLevel)s after your "
+"vehicle has been destroyed."
+
+msgid "radioman_lastEffort/name"
+msgstr "Call for Vengeance"
+
+msgid "radioman_lastEffort/shortDescription"
+msgstr ""
+"For a short time after your vehicle has been destroyed, reports enemy "
+"positions."
+
+msgid "radioman_retransmitter/alt/description"
+msgstr ""
+"If the skill is acquired by two radio operators, the effect is not "
+"cumulative."
+
+msgid "radioman_retransmitter/alt/info"
+msgstr ""
+"The skill begins to take effect when studied by at least 1%, increasing its "
+"effectiveness as it is studied."
+
+msgid "radioman_retransmitter/currentLvlDescription"
+msgstr ""
+"{greenBright_Start}Communication range of allied vehicles{greenBright_End} "
+"within the range of your radio station is increased by "
+"{greenBright_Start}%(teamRadioBonusFactor)s{greenBright_End}."
+
+msgid "radioman_retransmitter/hudDescription"
+msgstr " "
+
+msgid "radioman_retransmitter/maxLvlDescription"
+msgstr ""
+"Full study will increase {greenBright_Start}communication range of allied "
+"vehicles{greenBright_End} within the range of your radio station by "
+"{greenBright_Start}%(teamRadioBonusFactor)s{greenBright_End}."
+
+msgid "radioman_retransmitter/name"
+msgstr "Relay"
+
+msgid "radioman_retransmitter/shortDescription"
+msgstr "Improves communication range of allies."
+
+msgid "repair/alt/description"
+msgstr ""
+"This perk affects the speed of internal and external module repairs from the \"red\" to the \"yellow\" state.\n"
+"\n"
+"This parameter can be further increased by mounting equipment or consumables with a similar effect."
+
+msgid "repair/alt/info"
+msgstr ""
+"For group perks, the average training level among all crew members is taken "
+"into account. It comes into effect when trained to at least 1% and increases"
+" its effectiveness with further training."
+
+msgid "repair/currentLvlDescription"
+msgstr ""
+"The {greenBright_Start}repair speed{greenBright_End} of the vehicle's "
+"damaged modules is increased by %(vehicleRepairSpeed)s&zwnbsp;."
+
+msgid "repair/maxLvlDescription"
+msgstr ""
+"When fully trained for all crew members, increases the "
+"{greenBright_Start}repair speed{greenBright_End} of the vehicle's damaged "
+"modules by %(vehicleRepairSpeed)s&zwnbsp;."
+
+msgid "repair/name"
+msgstr "Repairs"
+
+msgid "repair/shortDescription"
+msgstr "Increases the repair speed of damaged modules."
+
+msgid "sign/minus"
+msgstr "-"
+
+msgid "sign/plus"
+msgstr "+"

@@ -1,0 +1,1826 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-comp7\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "alertMessage/afterSeason"
+msgstr "The event \"Thunder Bear\" has ended"
+
+msgid "alertMessage/allNotAvailable"
+msgstr "Battles on servers will start in %(primeDelta)s"
+
+msgid "alertMessage/allNotAvailableEnd"
+msgstr "The event \"Thunder Bear\" has ended"
+
+msgid "alertMessage/allNotSet"
+msgstr "The mode is unavailable on all servers"
+
+msgid "alertMessage/betweenSeasons"
+msgstr "The event \"Thunder Bear\" has ended"
+
+msgid "alertMessage/button/changeServer"
+msgstr "Change server"
+
+msgid "alertMessage/button/moreInfo"
+msgstr "Learn more"
+
+msgid "alertMessage/modeOffline"
+msgstr "Mode unavailable: database error."
+
+msgid "alertMessage/notAvailable"
+msgstr "Battles are unavailable on server %(serverName)s"
+
+msgid "alertMessage/notAvailableEnd"
+msgstr "Battles are unavailable on server %(serverName)s"
+
+msgid "alertMessage/notSet"
+msgstr "Mode unavailable on server %(serverName)s"
+
+msgid "alertMessage/standaloneNotAvailable"
+msgstr "Battles on the server will start in %(primeDelta)s"
+
+msgid "alertMessage/standaloneNotAvailableEnd"
+msgstr "The event \"Thunder Bear\" has ended"
+
+msgid "alertMessage/standaloneNotSet"
+msgstr "Mode unavailable on server %(serverName)s"
+
+msgid "alertMessage/temporaryBan"
+msgstr "Participation in the mode is not possible. Unlock in: %(expiryTime)s"
+
+msgid "alertMessage/timeLeft/days"
+msgstr "%(day)s d"
+
+msgid "alertMessage/timeLeft/hours"
+msgstr "%(hour)s h %(min)s min"
+
+msgid "alertMessage/timeLeft/lessMin"
+msgstr "1 min"
+
+msgid "alertMessage/timeLeft/min"
+msgstr "%(min)s min"
+
+msgid "alertMessage/undefined"
+msgstr "?empty?"
+
+msgid "alertMessage/unsuitableVehicles"
+msgstr "No suitable vehicles of %(levels)s level in the Garage"
+
+msgid "banner/info/disabled"
+msgstr "Ceasefire mode"
+
+msgid "banner/info/seasonEnd"
+msgstr "%(season)s completed"
+
+msgid "banner/info/seasonEndSoon"
+msgstr "Last chance to show your skills!"
+
+msgid "banner/info/seasonJustStarted"
+msgstr "Show what you're capable of!"
+
+msgid "banner/infoSmall/disabled"
+msgstr "Awaiting prime time"
+
+msgid "banner/season"
+msgstr "The event \"Thunder Bear\""
+
+msgid "banner/seasonDate/seasonLasts"
+msgstr "Until %(day)s %(month)s"
+
+msgid "banner/seasonDate/seasonNotStarted"
+msgstr "From %(day)s %(month)s"
+
+msgid "banner/seasonDateSmall/seasonLasts"
+msgstr "Until %(day)s %(month)s"
+
+msgid "banner/seasonDateSmall/seasonNotStarted"
+msgstr "From %(day)s %(month)s"
+
+msgid "banner/timeLeft/hours"
+msgstr "%(hour)s h %(min)s min"
+
+msgid "banner/timeLeft/min"
+msgstr "%(min)s min"
+
+msgid "banner/title"
+msgstr "ONSLAUGHT"
+
+msgid "battleCarousel/filterButtonTooltip/body"
+msgstr "Vehicle display settings based on type, role, and nation."
+
+msgid "battleCarousel/filterButtonTooltip/header"
+msgstr "Filter by parameters"
+
+msgid "battleCarousel/filterPopover/desc"
+msgstr "Only suitable vehicles for the mode are displayed here."
+
+msgid "battleCarousel/noFilteredVehiclesMessage"
+msgstr "No vehicles suitable by parameters"
+
+msgid "battleMessages/enableVOIP"
+msgstr ""
+"Team formed. Choose a vehicle and go into battle!\n"
+"Enter voice chat (%(keyName)s)"
+
+msgid "battleMessages/specifyVOIP"
+msgstr ""
+"Team formed. Choose a vehicle and go into battle!\n"
+"Assign a hotkey for quick access to voice communication."
+
+msgid "battleMessages/withoutVOIP"
+msgstr ""
+"Team formed. Choose a vehicle and go into battle!\n"
+"Enable this function in the game settings to use voice communication."
+
+msgid "battlePage/rulesButtonLabel"
+msgstr "Mode information (F1)"
+
+msgid "battlePage/statusNotificationTimers/aggressiveDetection"
+msgstr "Vehicle overview enlarged"
+
+msgid "battlePage/statusNotificationTimers/allySupport"
+msgstr "Crew characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/aoeHeal/healed"
+msgstr "Hull restoration"
+
+msgid "battlePage/statusNotificationTimers/aoeHeal/healing"
+msgstr "Hull restoration"
+
+msgid "battlePage/statusNotificationTimers/aoeInspire/inspired"
+msgstr "Crew characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/aoeInspire/inspiring"
+msgstr "Crew characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/berserk"
+msgstr "Reload speed increased"
+
+msgid "battlePage/statusNotificationTimers/concentration"
+msgstr "Vehicle characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/hunter"
+msgstr "Hull restoration"
+
+msgid "battlePage/statusNotificationTimers/juggernaut"
+msgstr "Vehicle characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/march"
+msgstr "Vehicle characteristics improved"
+
+msgid "battlePage/statusNotificationTimers/riskyAttack/buff"
+msgstr "Vehicle mobility increased"
+
+msgid "battlePage/statusNotificationTimers/riskyAttack/heal"
+msgstr "Durability restored"
+
+msgid "battlePage/statusNotificationTimers/smoke/ally"
+msgstr "Concealed in smoke"
+
+msgid "battlePage/statusNotificationTimers/smoke/enemy"
+msgstr "In smoke. Crew visibility and effectiveness reduced."
+
+msgid "battlePage/statusNotificationTimers/smoke/enemyPostEffect"
+msgstr "Residual effect. Crew visibility and effectiveness reduced."
+
+msgid "battlePage/statusNotificationTimers/sniper"
+msgstr "Gun dispersion reduced"
+
+msgid "battlePage/statusNotificationTimers/sureShot"
+msgstr "Vehicle characteristics improved"
+
+msgid "battleResult/header/deserter"
+msgstr "Disciplinary action applied to you - rating points penalty"
+
+msgid "battleResult/header/deserterQualification"
+msgstr ""
+"Disciplinary action applied to you - rating will be lowered after "
+"qualification"
+
+msgid "battleResult/label/deserter"
+msgstr "Desertion"
+
+msgid "battleResult/message/deserter"
+msgstr ""
+"You have received disciplinary action.\n"
+"Rating points lost: %(penalty)s"
+
+msgid "battleResult/message/deserterQualification"
+msgstr ""
+"You fled the battlefield and received disciplinary action.\n"
+"Rating will be lowered after qualification."
+
+msgid "battleResult/message/header/deserter"
+msgstr "Disciplinary action"
+
+msgid "battleResult/personal/label"
+msgstr "Rating points"
+
+msgid "battleResult/personal/tooltip/descr"
+msgstr ""
+"Reflects player's current progress in the ranking system. Rating points can "
+"be gained or lost depending on performance in the mode."
+
+msgid "battleResult/personal/tooltip/loseDescr"
+msgstr ""
+"• defeats/draws in mode battles;\n"
+"• receiving disciplinary action;\n"
+"• rank inactivity."
+
+msgid "battleResult/personal/tooltip/loseTitle"
+msgstr "Rating points deducted for:"
+
+msgid "battleResult/personal/tooltip/title"
+msgstr "Rating points"
+
+msgid "battleResult/qualification/descr/main"
+msgstr "Qualification battle"
+
+msgid "battleResult/qualification/descr/stats"
+msgstr "%(battleNumber)s - %(battleResult)s"
+
+msgid "battleResult/qualification/title"
+msgstr "Qualification"
+
+msgid "battleResult/subTask/descr/getEliteRating"
+msgstr ""
+"Rating points earned. To maintain the \"Legend\" rank, stay in the top "
+"%(topPercentage)d%% of leaderboard players."
+
+msgid "battleResult/subTask/descr/getMasterRating"
+msgstr ""
+"Rating points earned. To achieve the \"Legend\" rank, enter the top "
+"%(topPercentage)d%% of leaderboard players."
+
+msgid "battleResult/subTask/descr/getRating"
+msgstr "Rating points earned"
+
+msgid "battleResult/subTask/descr/loseEliteRating"
+msgstr ""
+"Rating points lost. To maintain the \"Legend\" rank, stay in the top "
+"%(topPercentage)d%% of leaderboard players."
+
+msgid "battleResult/subTask/descr/loseMasterRating"
+msgstr ""
+"Rating points lost. To achieve the \"Legend\" rank, enter the top "
+"%(topPercentage)d%% of leaderboard players."
+
+msgid "battleResult/subTask/descr/loseRating"
+msgstr "Rating points lost"
+
+msgid "battleResult/subTask/rating"
+msgstr "Rating points: %(rating)d"
+
+msgid "battleResult/subTask/title/decrease"
+msgstr "You have been demoted to %(division)s. %(rank)s"
+
+msgid "battleResult/subTask/title/noRaise"
+msgstr "%(rank)s. %(division)s"
+
+msgid "battleResult/subTask/title/raise"
+msgstr "You have been promoted to %(division)s. %(rank)s!"
+
+msgid "battleResult/team/prestigePoints/body"
+msgstr ""
+"Sort by prestige points. Prestige points affect the amount of rating points "
+"gained or lost."
+
+msgid "battleResult/team/prestigePoints/header"
+msgstr "Prestige points"
+
+msgid "calendarDay/serverName"
+msgstr "%(server)s"
+
+msgid "calendarDay/time"
+msgstr "%(start)s – %(end)s"
+
+msgid "calendarDay/title"
+msgstr "Schedule"
+
+msgid "closeButtonLabel"
+msgstr "CLOSE"
+
+msgid "countDown/text"
+msgstr ""
+"Before the event starts:\n"
+"%(timeLeft)s"
+
+msgid "detailsHelp/mainTitle"
+msgstr "Tips for the \"Assault\" mode"
+
+msgid "detailsHelp/poi"
+msgstr ""
+"Capture key positions to gain tactical advantage. The mine depot provides "
+"the \"Minefield\" skill, placing mines on the map that damage vehicles and "
+"stun enemy crews. The smoke center offers the \"Smoke Screen\" skill, "
+"camouflaging allied vehicles and reducing enemy visibility and effectiveness"
+" in the area."
+
+msgid "detailsHelp/poi/title"
+msgstr "Key positions"
+
+msgid "detailsHelp/rework"
+msgstr ""
+"Now when using the \"Scout Plane\" role skill, the vehicle remains detected "
+"only within the skill's range. The skill indicator on the mini-map appears "
+"upon activation and disappears only when the skill ends."
+
+msgid "detailsHelp/rework/title"
+msgstr "Revised \"Scout Plane\" skill"
+
+msgid "detailsHelp/roleSkills"
+msgstr ""
+"Each vehicle has a unique role skill with three charge levels depending on "
+"the role. The higher the charge level at skill activation, the stronger its "
+"effect. Charge level increases with prestige points earned for combat "
+"actions, capturing key positions, and using tactical skills."
+
+msgid "detailsHelp/roleSkills/title"
+msgstr "Role skills"
+
+msgid "detailsHelp/rules"
+msgstr ""
+"Engage in the special \"Attack/Defense\" battle mode. The rules are simple: "
+"there are two bases. One team attacks them, the other defends. Some "
+"parameters of all participating vehicles are altered by the event modifier."
+
+msgid "detailsHelp/rules/title"
+msgstr "Assault: Thunder Bear"
+
+msgid "detailsHelp/seasonModifiers"
+msgstr ""
+"In Assault battles, a special modifier is active, changing some "
+"characteristics of all vehicles: increases durability, reduces equipment "
+"preparation time, and decreases standard visibility and armor penetration at"
+" a distance of 100 meters."
+
+msgid "detailsHelp/seasonModifiers/title"
+msgstr "Assault Modifier"
+
+msgid "detailsHelp/shop"
+msgstr ""
+"Rent more level X vehicles in the corresponding Assault store section. "
+"Exclusive vehicles, styles, and a beneficial discount system await you."
+
+msgid "detailsHelp/shop/title"
+msgstr "Rental vehicles and Assault store"
+
+msgid "detailsHelp/types"
+msgstr ""
+"Light, medium, heavy tanks, and Tank Destroyers can participate in battles.\n"
+"SPGs are not allowed to participate in battles."
+
+msgid "detailsHelp/types/title"
+msgstr "Types of Vehicles"
+
+msgid "division/A"
+msgstr "A"
+
+msgid "division/B"
+msgstr "B"
+
+msgid "division/C"
+msgstr "C"
+
+msgid "division/D"
+msgstr "D"
+
+msgid "division/E"
+msgstr "E"
+
+msgid "division/note"
+msgstr "Division"
+
+msgid "division/text"
+msgstr "Division %(division)s"
+
+msgid "divisionTooltip/description"
+msgstr ""
+"This division includes players who have earned {whiteSpanish_Open}from "
+"%(fromScore) to %(toScore){whiteSpanish_Close} rating points."
+
+msgid "divisionTooltip/heading"
+msgstr "Division %(divisionName)s"
+
+msgid "featureName"
+msgstr "ONSLAUGHT"
+
+msgid "featureNameCapitalized"
+msgstr "ONSLAUGHT"
+
+msgid "fifthRankTooltip/description"
+msgstr ""
+"The rank {whiteSpanish_Open}“Champion”{whiteSpanish_Close} is assigned to "
+"players who have earned at least "
+"{whiteSpanish_Open}%(fromScore){whiteSpanish_Close} rating points."
+
+msgid "generalRankTooltip/body/first"
+msgstr ""
+"Ранг {whiteSpanish_Open}«Железо»{whiteSpanish_Close} присваивается игрокам, "
+"набравшим {whiteSpanish_Open}от %(fromScore) до "
+"%(toScore){whiteSpanish_Close} очков рейтинга."
+
+msgid "generalRankTooltip/body/fourth"
+msgstr ""
+"Ранг {whiteSpanish_Open}«Золото»{whiteSpanish_Close} присваивается игрокам, "
+"набравшим {whiteSpanish_Open}от %(fromScore) до "
+"%(toScore){whiteSpanish_Close} очков рейтинга."
+
+msgid "generalRankTooltip/body/second"
+msgstr ""
+"Ранг {whiteSpanish_Open}«Бронза»{whiteSpanish_Close} присваивается игрокам, "
+"набравшим {whiteSpanish_Open}от %(fromScore) до "
+"%(toScore){whiteSpanish_Close} очков рейтинга."
+
+msgid "generalRankTooltip/body/third"
+msgstr ""
+"Ранг {whiteSpanish_Open}«Серебро»{whiteSpanish_Close} присваивается игрокам,"
+" набравшим {whiteSpanish_Open}от %(fromScore) до "
+"%(toScore){whiteSpanish_Close} очков рейтинга."
+
+msgid "generalRankTooltip/subheading"
+msgstr "Includes divisions: %(divisions)s"
+
+msgid "infoPageButtonLabel"
+msgstr "ABOUT THE EVENT"
+
+msgid "lastUpdateNote/info"
+msgstr "Updated: %(date)s"
+
+msgid "lastUpdateNote/lastBestUserPoints/description"
+msgstr ""
+"The rating points value of the last player in the “Legend” rank\n"
+"updates every %(count)s minutes."
+
+msgid "lastUpdateNote/lastBestUserPoints/update"
+msgstr "Updating data..."
+
+msgid "lastUpdateNote/ratingPositions/description"
+msgstr ""
+"Leaderboard\n"
+"updates every %(count)s minutes."
+
+msgid "lastUpdateNote/tooltip/info"
+msgstr "Last updated: %(date)s"
+
+msgid "leaderboard/currentPosition/body"
+msgstr "My Position"
+
+msgid "leaderboard/currentPosition/none"
+msgstr ""
+"To appear on the leaderboard, reach the ranks of “Champion” or “Legend”."
+
+msgid "leaderboard/error/buttonText"
+msgstr "Refresh"
+
+msgid "leaderboard/error/description"
+msgstr ""
+"We apologize for the temporary inconvenience, please try refreshing the page"
+" later."
+
+msgid "leaderboard/error/title"
+msgstr "Data loading error"
+
+msgid "leaderboard/noRecords/subtitle"
+msgstr ""
+"The leaderboard includes players with the ranks of “Champion” and “Legend”. "
+"Earn {whiteSpanish_Open}%(pointsCount)s{whiteSpanish_Close} rating points "
+"and be the first!"
+
+msgid "leaderboard/noRecords/title"
+msgstr "No player has entered the leaderboard of the current event yet."
+
+msgid "leaderboard/table/header/battlesCount"
+msgstr "Battles"
+
+msgid "leaderboard/table/header/order"
+msgstr "№"
+
+msgid "leaderboard/table/header/player"
+msgstr "Player Name"
+
+msgid "leaderboard/table/header/score"
+msgstr "Rating Points"
+
+msgid "leaderboard/table/tooltip/battlesCount/body"
+msgstr ""
+"Number of battles played by the player in the “Onslaught” mode in the "
+"current event."
+
+msgid "leaderboard/table/tooltip/battlesCount/header"
+msgstr "Battles"
+
+msgid "leaderboard/table/tooltip/order/body"
+msgstr "Position held by the player in the ranking."
+
+msgid "leaderboard/table/tooltip/order/header"
+msgstr "Position"
+
+msgid "leaderboard/table/tooltip/player/body"
+msgstr "Name of the player holding the position in the ranking."
+
+msgid "leaderboard/table/tooltip/player/header"
+msgstr "Player Name"
+
+msgid "leaderboard/table/tooltip/score/body"
+msgstr "Rating points earned by the player in the current event."
+
+msgid "leaderboard/table/tooltip/score/header"
+msgstr "Rating Points"
+
+msgid "listSeparator"
+msgstr ", "
+
+msgid "mainWidget/ratingCalculation"
+msgstr ""
+"Waiting for qualification results\n"
+"to assign the rank %(timer)s"
+
+msgid "mainWidget/status"
+msgstr "%(score)s / %(scoreToNextDivision)s"
+
+msgid "mainWidget/tooltip/inactive/body"
+msgstr ""
+"You will lose rating points if you do not engage in battles in the mode."
+
+msgid "mainWidget/tooltip/inactive/header"
+msgstr "Rank Inactivity"
+
+msgid "mainWidget/tooltip/inactive/note"
+msgstr "Days until rating decrease: %(days)s"
+
+msgid "mainWidget/warning"
+msgstr "Without participating in battles, your rating will decrease."
+
+msgid "mainWidgetTooltip/battlesCounter"
+msgstr ""
+"%(battleIcon)s{cream_Open}%(battlesCount)s{cream_Close} / "
+"%(maxBattlesCount)s"
+
+msgid "mainWidgetTooltip/division"
+msgstr "Division: %(divisionName)s"
+
+msgid "mainWidgetTooltip/divisionDescription"
+msgstr ""
+"This division includes players who have earned {whiteSpanish_Open}from "
+"%(fromScore) to %(toScore){whiteSpanish_Close} rating points."
+
+msgid "mainWidgetTooltip/info/fifth"
+msgstr ""
+"To achieve the “Legend” rank, enter the top %(topPercentage)% of players on "
+"the leaderboard."
+
+msgid "mainWidgetTooltip/info/sixth"
+msgstr ""
+"The “Legend” rank is assigned to the top %(topPercentage)% of players on the"
+" leaderboard."
+
+msgid "mainWidgetTooltip/qualificationName"
+msgstr "Qualification"
+
+msgid "mainWidgetTooltip/ratingScore"
+msgstr "Rating Points"
+
+msgid "membersWindow/memberCountDropdown/description"
+msgstr "Players in the Platoon"
+
+msgid "noVehicles/howTo/premium"
+msgstr "Use Tank Premium Account"
+
+msgid "noVehicles/howTo/reserves"
+msgstr "Activate Personal Reserves"
+
+msgid "noVehicles/howTo/tasks"
+msgstr "Complete Battle Tasks"
+
+msgid "noVehicles/howTo/title"
+msgstr "How to quickly obtain %(levels)s level vehicles?"
+
+msgid "noVehicles/text/vehicleAvailableForBuy"
+msgstr ""
+"To participate in Onslaught, you must have at least one %(levels)s level vehicle suitable for gameplay in the mode.\n"
+"You have researched, but not purchased, %(levels)s level vehicles."
+
+msgid "noVehicles/text/vehicleAvailableForRestore"
+msgstr ""
+"To participate in Natiske, you must have at least one %(levels)s level vehicle suitable for playing in this mode.\n"
+"You have %(levels)s level equipment available for restoration."
+
+msgid "noVehicles/text/vehicleUnavailable"
+msgstr ""
+"To participate in Natiske, you must have at least one %(levels)s level vehicle suitable for playing in this mode.\n"
+"The necessary equipment can be rented from the Natiske Store."
+
+msgid "page/heading/leaderboard"
+msgstr "LEADERBOARD"
+
+msgid "page/heading/progression"
+msgstr "RANKING SYSTEM"
+
+msgid "page/heading/qualification"
+msgstr "QUALIFICATION"
+
+msgid "page/heading/rankRewards"
+msgstr "REWARDS FOR RANKS"
+
+msgid "page/heading/weeklyQuests"
+msgstr "WEEKLY TASKS"
+
+msgid "page/heading/yearlyRewards"
+msgstr "ANNUAL REWARDS"
+
+msgid "page/heading/yearlyStatistics"
+msgstr "ANNUAL STATISTICS"
+
+msgid "pagination/dots"
+msgstr "…"
+
+msgid "pagination/next"
+msgstr "Forward"
+
+msgid "pagination/prev"
+msgstr "Back"
+
+msgid "player_errors/equipment/fastRecharge/vehicleIsNotRecharged"
+msgstr "Unavailable: vehicle is not recharging."
+
+msgid "player_errors/equipment/fastRecharge/vehicleIsOnFastRecharge"
+msgstr "Unavailable: recharge time has already been reduced."
+
+msgid "player_errors/equipment/hunter/noDamagedEnemyVehicles"
+msgstr "Unavailable: no enemy vehicles damaged by shots."
+
+msgid "player_errors/equipment/hunter/vehicleIsNotDamaged"
+msgstr "Unavailable: durability restoration is not required."
+
+msgid "player_errors/equipment/roleSkill/alreadyActivated"
+msgstr "Role skill \"%(name)s\" is already activated."
+
+msgid "player_errors/equipment/roleSkill/cooldown"
+msgstr "Role skill \"%(name)s\" is unavailable: recharging."
+
+msgid "player_errors/equipment/roleSkill/unavailable"
+msgstr "Role skill \"%(name)s\" is unavailable: no charge."
+
+msgid "player_messages/equipment/roleSkill/applied"
+msgstr "Role skill \"%(name)s\" activated!"
+
+msgid "player_messages/equipment/roleSkill/promoted"
+msgstr "Role skill \"%(name)s\" charge level increased!"
+
+msgid "player_messages/equipment/roleSkill/ready"
+msgstr "Role skill \"%(equipment)s\" is ready for activation."
+
+msgid "prebattleTimer/info/readyBtn/label"
+msgstr "Confirm selection"
+
+msgid "prebattleTimer/info/readyBtn/tooltip/body"
+msgstr "After confirmation, you will not be able to choose another vehicle."
+
+msgid "prebattleTimer/wait/additionalInfo"
+msgstr ""
+"Choose the vehicle that best suits the current map and your team "
+"composition."
+
+msgid "prebattleTimer/wait/header"
+msgstr "Waiting for players..."
+
+msgid "prebattleTimer/wait/selectVehicle"
+msgstr "Select a vehicle"
+
+msgid "primeTimeView/endOfCycle"
+msgstr "Stage on server %(server)s has ended"
+
+msgid "primeTimeView/server"
+msgstr "Available entry server: %(server)s."
+
+msgid "primeTimeView/serverTooltip"
+msgstr ""
+"Server %(server)s\n"
+"Battles will be available for %(time)s more."
+
+msgid "primeTimeView/serverUnavailableTooltip"
+msgstr ""
+"Server %(server)s\n"
+"Battles will be available in %(time)s."
+
+msgid "primeTimeView/servers"
+msgstr "Available entry servers:"
+
+msgid "primeTimeView/status/allServersDisabled"
+msgstr "Battles are unavailable on all servers"
+
+msgid "primeTimeView/status/disableFirst"
+msgstr "Mode on server %(server)s is unavailable"
+
+msgid "primeTimeView/status/primeIsAvailable"
+msgstr "Battles on server %(server)s will be available for %(time)s more."
+
+msgid "primeTimeView/status/primeWillBeAvailable"
+msgstr "Battles will start on server %(server)s in %(time)s"
+
+msgid "primeTimeView/status/seasonDisabled"
+msgstr "Event \"Thunder Bear\" on server %(server)s has ended."
+
+msgid "primeTimeView/status/untill"
+msgstr "Battles will be unavailable until %(startTime)s on server %(server)s"
+
+msgid "primeTimeView/title"
+msgstr "NATISKE"
+
+msgid "qualification/battlesCounter"
+msgstr ""
+"%(battleIcon)s{cream_Open}%(battlesCount)s{cream_Close} / "
+"%(maxBattlesCount)s"
+
+msgid "qualification/conditionTooltip/header"
+msgstr "Qualification Rules"
+
+msgid "qualification/counter"
+msgstr "%(battlesCount)s / %(maxBattlesCount)s"
+
+msgid "qualification/counterWithDescription"
+msgstr ""
+"%(counter)s\n"
+"Battles conducted"
+
+msgid "qualification/ratingCalculationDescription"
+msgstr "Waiting for qualification results to assign rank %(timerIcon)s"
+
+msgid "qualification/ratingCalculationTooltip"
+msgstr ""
+"Rating calculation based on qualification results may take up to five "
+"minutes. After that, you will be assigned a rank and can continue playing in"
+" Natiske."
+
+msgid "qualification/rewardsButton"
+msgstr "To rewards"
+
+msgid "qualification/rewardsDescription"
+msgstr ""
+"Upon completion of qualification, you will receive rewards for the achieved "
+"and all previous ranks."
+
+msgid "rank/achieved"
+msgstr "Achieved"
+
+msgid "rank/current"
+msgstr "Current"
+
+msgid "rank/fifth"
+msgstr "Champion"
+
+msgid "rank/first"
+msgstr "Iron"
+
+msgid "rank/fourth"
+msgstr "Gold"
+
+msgid "rank/qualification"
+msgstr "Qualification"
+
+msgid "rank/second"
+msgstr "Bronze"
+
+msgid "rank/sixth"
+msgstr "Legend"
+
+msgid "rank/text"
+msgstr "Rank %(rank)s"
+
+msgid "rank/third"
+msgstr "Silver"
+
+msgid "rankInactivityTooltip/description"
+msgstr ""
+"You will lose rating points if you do not participate in battles in this "
+"mode."
+
+msgid "rankInactivityTooltip/heading"
+msgstr "Rank Inactivity"
+
+msgid "rankInactivityTooltip/timeLeft"
+msgstr "Days until rating decrease: %(count)s"
+
+msgid "rankInfo/current/fifth"
+msgstr ""
+"The \"Champion\" rank is awarded to players who have earned "
+"{whiteSpanish_Open}at least %(fromScore){whiteSpanish_Close} rating points"
+
+msgid "rankInfo/current/sixth"
+msgstr ""
+"The \"Legend\" rank is awarded to "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard"
+
+msgid "rankItemStatus/current/description/fifth"
+msgstr ""
+"To achieve the \"Legend\" rank, enter the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points."
+
+msgid "rankItemStatus/current/description/sixth"
+msgstr ""
+"To maintain the \"Legend\" rank, stay in the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points."
+
+msgid "rankItemStatus/current/extendedDescription/fifth"
+msgstr ""
+"To achieve the \"Legend\" rank, enter the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points. The rating points of the last player in the "
+"\"Legend\" rank "
+"are&nbsp;—&nbsp;{whiteSpanish_Open}%(pointsCount){whiteSpanish_Close}"
+
+msgid "rankItemStatus/current/extendedDescription/sixth"
+msgstr ""
+"To maintain the \"Legend\" rank, stay in the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points. The rating points of the last player in the "
+"\"Legend\" rank "
+"are&nbsp;—&nbsp;{whiteSpanish_Open}%(pointsCount){whiteSpanish_Close}"
+
+msgid "rankItemStatus/future/description/fifth"
+msgstr ""
+"The \"Champion\" rank is awarded to players who have earned a minimum of "
+"{whiteSpanish_Open}%(fromScore){whiteSpanish_Close} rating points."
+
+msgid "rankItemStatus/future/description/first"
+msgstr ""
+"The \"Iron\" rank is awarded to players who have earned "
+"{whiteSpanish_Open}from %(fromScore) to %(toScore){whiteSpanish_Close} "
+"rating points."
+
+msgid "rankItemStatus/future/description/fourth"
+msgstr ""
+"The \"Gold\" rank is awarded to players who have earned "
+"{whiteSpanish_Open}from %(fromScore) to %(toScore){whiteSpanish_Close} "
+"rating points."
+
+msgid "rankItemStatus/future/description/second"
+msgstr ""
+"The \"Bronze\" rank is awarded to players who have earned "
+"{whiteSpanish_Open}from %(fromScore) to %(toScore){whiteSpanish_Close} "
+"rating points."
+
+msgid "rankItemStatus/future/description/sixth"
+msgstr ""
+"To achieve the \"Legend\" rank, enter the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points."
+
+msgid "rankItemStatus/future/description/third"
+msgstr ""
+"The \"Silver\" rank is awarded to players who have earned "
+"{whiteSpanish_Open}from %(fromScore) to %(toScore){whiteSpanish_Close} "
+"rating points."
+
+msgid "rankItemStatus/future/extendedDescription/sixth"
+msgstr ""
+"To achieve the \"Legend\" rank, enter the "
+"{whiteSpanish_Open}top-%(topPercentage)%{whiteSpanish_Close} players on the "
+"leaderboard by rating points. The rating points of the last player in the "
+"\"Legend\" rank "
+"are&nbsp;—&nbsp;{whiteSpanish_Open}%(pointsCount){whiteSpanish_Close}"
+
+msgid "rankItemStatus/previous/description/fifth"
+msgstr ""
+"The \"Champion\" rank is awarded to players who have earned a minimum of "
+"{whiteSpanish_Open}%(fromScore){whiteSpanish_Close} rating points."
+
+msgid "rankUpper/fifth"
+msgstr "CHAMPION"
+
+msgid "rankUpper/first"
+msgstr "IRON"
+
+msgid "rankUpper/fourth"
+msgstr "GOLD"
+
+msgid "rankUpper/second"
+msgstr "BRONZE"
+
+msgid "rankUpper/sixth"
+msgstr "LEGEND"
+
+msgid "rankUpper/third"
+msgstr "SILVER"
+
+msgid "ratingScore/title"
+msgstr "Rating Points"
+
+msgid "rewards/bonus/style_progress"
+msgstr "Camouflage \"%(name)s\""
+
+msgid "rewards/preview"
+msgstr "Preview"
+
+msgid "rewards/qualification/condition/first"
+msgstr ""
+"Complete the qualification to determine your mastery level and receive a "
+"rank."
+
+msgid "rewards/qualification/condition/second"
+msgstr ""
+"Upon completion of the qualification, you will receive rewards for the "
+"achieved rank and all previous ones."
+
+msgid "rewards/shopButton"
+msgstr "To Natiska Store"
+
+msgid "rewards/status/achieved"
+msgstr "Reward Received"
+
+msgid "rewards/subtitle/customizations"
+msgstr ""
+"{whiteSpanish_Open}Для %(vehicleLevel)s уровня техники{whiteSpanish_Close}"
+
+msgid "rewards/subtitle/styleProgress"
+msgstr "{whiteSpanish_Open}Для стиля «Грозовой медведь»{whiteSpanish_Close}"
+
+msgid "rewards/subtitle/vehicles_rent"
+msgstr "Level %(vehicleLevel)s"
+
+msgid "rewardsScreen/additionalRewards"
+msgstr "Also Received:"
+
+msgid "rewardsScreen/button"
+msgstr "Roger that!"
+
+msgid "rewardsScreen/buttonToRewards"
+msgstr "To Rewards"
+
+msgid "rewardsScreen/description/qualificationEnded"
+msgstr "NATISKA. QUALIFICATION COMPLETED"
+
+msgid "rewardsScreen/description/season"
+msgstr "NATISKA. EVENT \"STORMY BEAR\"."
+
+msgid "rewardsScreen/notice/subTitle"
+msgstr ""
+"At this rank, you may lose some rating points if you stop fighting in the "
+"\"Natiska\" mode."
+
+msgid "rewardsScreen/notice/title"
+msgstr "Rank Inactivity"
+
+msgid "rewardsScreen/subtitle/division"
+msgstr "{cream_Open}Rank \"%(rank)s\"{cream_Close}"
+
+msgid "rewardsScreen/subtitle/qualificationRewards"
+msgstr ""
+"Following the qualification, you received rewards for the following ranks: "
+"{cream_Open}%(ranks)s{cream_Close}"
+
+msgid "rewardsScreen/subtitle/qualificationRewardsSeparator"
+msgstr ", "
+
+msgid "rewardsScreen/subtitle/rankRewards"
+msgstr ""
+"You received a reward for advancing to the rank of "
+"{cream_Open}\"%(rank)s\"{cream_Close}"
+
+msgid "rewardsScreen/title/division"
+msgstr "REACHED DIVISION %(division)s"
+
+msgid "rewardsScreen/title/qualificationRank"
+msgstr "REACHED RANK {cream_Open}\"%(rankUpperName)s\"{cream_Close}"
+
+msgid "rewardsScreen/title/qualificationRewards"
+msgstr "REWARD FOR ACHIEVED RANKS"
+
+msgid "rewardsScreen/title/rank"
+msgstr "REACHED RANK {cream_Open}\"%(rankUpperName)s\"{cream_Close}"
+
+msgid "rewardsScreen/title/rankRewards"
+msgstr "REWARD FOR NEW RANK"
+
+msgid "rewardsScreen/title/tokensRewards"
+msgstr "COINS COLLECTED IN ONSLAUGHT"
+
+msgid "scoreTooltip/body"
+msgstr ""
+"Rank and division in \"Onslaught\" mode depend on the amount of earned "
+"rating points. Win battles to become the best."
+
+msgid "scoreTooltip/header"
+msgstr "Rating Points"
+
+msgid "season/daysLeft"
+msgstr "Until completion: %(totalDays)s d"
+
+msgid "season/hoursLeft"
+msgstr "Until completion: %(hours)s h"
+
+msgid "season/minutesLeft"
+msgstr "Until completion: %(minutes)s min"
+
+msgid "season/name"
+msgstr "Onslaught: Storm Bear"
+
+msgid "season/over"
+msgstr "Event \"Storm Bear\" has ended"
+
+msgid "season/range"
+msgstr "%(startDate)s – %(endDate)s"
+
+msgid "season/secondsLeft"
+msgstr "Until completion: %(seconds)s s"
+
+msgid "season/shortName"
+msgstr "Storm Bear"
+
+msgid "seasonModifier/title"
+msgstr "Onslaught Modifier"
+
+msgid "seasonPointTooltip/header"
+msgstr "Wolf Banner"
+
+msgid "seasonPointTooltip/status/achieved"
+msgstr "Received"
+
+msgid "seasonPointTooltip/status/notAchieved"
+msgstr "Not received"
+
+msgid "seasonPointTooltip/status/possible"
+msgstr "You are eligible for the banner"
+
+msgid "seasonPointTooltip/text/compensate"
+msgstr ""
+"Remaining banners are compensated with bonuses at a rate of "
+"{bond_Open}1%(seasonPointIcon)s{bond_Close} to "
+"{bond_Open}%(seasonPointExchangeRate)s%(bondsIcon)s{bond_Close}"
+
+msgid "seasonPointTooltip/text/season"
+msgstr ""
+"At the end of the event, you will receive banners according to your rank."
+
+msgid "seasonPointTooltip/text/year"
+msgstr ""
+"Every 3 banners enhance the reward you will receive at the end of the year."
+
+msgid "seasonalBattleSelector/tillEnd"
+msgstr "Until the end of the event:"
+
+msgid "seasonalBattleSelector/timeTable/empty"
+msgstr "—"
+
+msgid "seasonalBattleSelector/timeTable/interval"
+msgstr "%(start)s – %(end)s"
+
+msgid "seasonalBattleSelector/timeTable/title"
+msgstr "Match Schedule"
+
+msgid "seasonalBattleSelector/timeTable/today"
+msgstr "Today"
+
+msgid "seasonalBattleSelector/timeTable/tomorrow"
+msgstr "Tomorrow"
+
+msgid "selectorTooltip/desc"
+msgstr "Competitive mode. 7x7 | Level X"
+
+msgid "selectorTooltip/title"
+msgstr "Onslaught"
+
+msgid "selectorTooltip/unavailable/finished"
+msgstr ""
+"Follow the news on the game portal to not miss information about the start "
+"of a new event."
+
+msgid "selectorTooltip/unavailable/frozen"
+msgstr "The mode is temporarily disabled for technical reasons."
+
+msgid "selectorTooltip/unavailable/nextSeason"
+msgstr "The mode will be available again %(time)s"
+
+msgid "sidebar/tabs/tooltip/body/leaderboard"
+msgstr ""
+"Section contains information about the top players of the current "
+"\"Onslaught\" event."
+
+msgid "sidebar/tabs/tooltip/body/progression"
+msgstr ""
+"Section contains information about qualification, as well as your rank, "
+"division, and rating points after its completion."
+
+msgid "sidebar/tabs/tooltip/body/rankRewards"
+msgstr ""
+"Section contains information about rewards for achieving ranks in "
+"\"Onslaught\" mode."
+
+msgid "sidebar/tabs/tooltip/body/weeklyQuests"
+msgstr "Section contains information about weekly tasks in \"Onslaught\" mode."
+
+msgid "sidebar/tabs/tooltip/body/yearlyRewards"
+msgstr ""
+"Section contains information about annual rewards for obtaining Wolf "
+"banners."
+
+msgid "sidebar/tabs/tooltip/body/yearlyStatistics"
+msgstr ""
+"Section contains information about your achievements in each of the current "
+"year's Onslaught seasons."
+
+msgid "sidebar/tabs/tooltip/header/leaderboard"
+msgstr "Leaderboard"
+
+msgid "sidebar/tabs/tooltip/header/progression"
+msgstr "Ranking System"
+
+msgid "sidebar/tabs/tooltip/header/rankRewards"
+msgstr "Rank Rewards"
+
+msgid "sidebar/tabs/tooltip/header/weeklyQuests"
+msgstr "Weekly Tasks"
+
+msgid "sidebar/tabs/tooltip/header/yearlyRewards"
+msgstr "Annual Rewards"
+
+msgid "sidebar/tabs/tooltip/header/yearlyStatistics"
+msgstr "Annual Statistics"
+
+msgid "sixthRankTooltip/description"
+msgstr ""
+"Rank {whiteSpanish_Open}\"Legend\"{whiteSpanish_Close} is assigned to the "
+"top {whiteSpanish_Open}%(topPercentage)%{whiteSpanish_Close} of leaderboard "
+"players by the amount of rating points."
+
+msgid "system_messages/periodicReward/body"
+msgstr ""
+"Received daily reward for being in rank \"%(rank)s\".\n"
+"%(rewards)s"
+
+msgid "system_messages/periodicReward/title"
+msgstr "Daily Reward"
+
+msgid "system_messages/primeTime/end/body"
+msgstr ""
+"Battles in \"Onslaught\" mode are unavailable until the end of the ceasefire"
+" mode."
+
+msgid "system_messages/primeTime/end/title"
+msgstr "Ceasefire Mode"
+
+msgid "system_messages/primeTime/start/body"
+msgstr ""
+"Battles in \"Onslaught\" mode are available again. Ceasefire mode has ended."
+
+msgid "system_messages/primeTime/start/title"
+msgstr "Ceasefire Mode"
+
+msgid "system_messages/qualificationReward/body"
+msgstr ""
+"Congratulations! You have reached rank \"%(maxRank)s\".\n"
+"Received rewards for ranks %(ranks)s:\n"
+"%(rewards)s"
+
+msgid "system_messages/qualificationReward/title"
+msgstr "Qualification completed"
+
+msgid "system_messages/regularReward/body"
+msgstr ""
+"Date: %(at)s\n"
+"%(rewards)s"
+
+msgid "system_messages/regularReward/title"
+msgstr "Receipt"
+
+msgid "system_messages/temporaryBan/end/body"
+msgstr "Temporary ban lifted. You can now play in \"Assault\" mode."
+
+msgid "system_messages/temporaryBan/end/title"
+msgstr "Unlocking"
+
+msgid "system_messages/tokenWeeklyReward/body"
+msgstr ""
+"Date: %(at)s\n"
+"%(rewards)s"
+
+msgid "system_messages/tokenWeeklyReward/title"
+msgstr "Reward for collecting Assault coins"
+
+msgid "system_messages/weeklyReward/body"
+msgstr ""
+"Date: %(at)s\n"
+"%(rewards)s"
+
+msgid "system_messages/weeklyReward/title"
+msgstr "Reward for completing weekly task"
+
+msgid "system_messages/weeklyReward/tokens"
+msgstr "Assault coin"
+
+msgid "tournament/battleResult/personal/tooltip/descr"
+msgstr "You cannot gain or lose rating points in the tournament."
+
+msgid "unit/message/modeOffline"
+msgstr "Unable to enter battle: database error."
+
+msgid "unit/message/ratingRestriction"
+msgstr "Rating point difference between platoon players exceeds %(rating)s"
+
+msgid "voiceChat/active"
+msgstr "Exit voice chat"
+
+msgid "voiceChat/inactive"
+msgstr "Enter voice chat"
+
+msgid "waitingSpinner/message"
+msgstr "Loading content..."
+
+msgid "weeklyQuests/card/progress/counter"
+msgstr "%(current)s / %(total)s"
+
+msgid "weeklyQuests/card/status/active"
+msgstr "In progress"
+
+msgid "weeklyQuests/card/status/completed"
+msgstr "Completed"
+
+msgid "weeklyQuests/card/status/locked"
+msgstr "Unavailable"
+
+msgid "weeklyQuests/card/statusLockedTooltip/body/lockedByInactiveSeason"
+msgstr "Completion unavailable: mode inactive."
+
+msgid "weeklyQuests/card/statusLockedTooltip/body/lockedByNoXVehicles"
+msgstr "To unlock, explore and purchase a Level X vehicle."
+
+msgid "weeklyQuests/card/statusLockedTooltip/body/lockedByPreviousQuest"
+msgstr "To unlock, complete the previous task."
+
+msgid "weeklyQuests/card/statusLockedTooltip/header"
+msgstr "Task unavailable"
+
+msgid "weeklyQuests/resetStatus/ended/lastWeek/title"
+msgstr "All tasks for the last event week are completed."
+
+msgid "weeklyQuests/resetStatus/ended/subtitle"
+msgstr "Tasks will refresh in"
+
+msgid "weeklyQuests/resetStatus/ended/title"
+msgstr "Tasks for this week are completed."
+
+msgid "weeklyQuests/resetStatus/lastWeek"
+msgstr "Last week of the event! Tasks remaining to complete:"
+
+msgid "weeklyQuests/resetStatus/timer"
+msgstr "Tasks will refresh in"
+
+msgid "weeklyQuests/tokenProgress/description/done"
+msgstr "All rewards received"
+
+msgid "weeklyQuests/tokenProgress/description/normal"
+msgstr "Earn Assault coins to receive rewards"
+
+msgid "whatsNewView/banner/title/large"
+msgstr "Event \"Thunder Bear\""
+
+msgid "whatsNewView/button/ok"
+msgstr "I'm on it!"
+
+msgid "whatsNewView/confirmButton"
+msgstr "Roger that!"
+
+msgid "whatsNewView/deprecatedMaps"
+msgstr "EXCLUDED"
+
+msgid "whatsNewView/mapChanges/addedMaps"
+msgstr "Added maps:"
+
+msgid "whatsNewView/mapChanges/heading"
+msgstr "Maps"
+
+msgid "whatsNewView/mapChanges/removedMaps"
+msgstr "Excluded maps:"
+
+msgid "whatsNewView/newMaps"
+msgstr "NEW"
+
+msgid "whatsNewView/qualification/description"
+msgstr "Special equipment available in mode."
+
+msgid "whatsNewView/qualification/heading"
+msgstr "Special equipment"
+
+msgid "whatsNewView/rankingSystem/description"
+msgstr "Recalculation of Assault points earnings in battles."
+
+msgid "whatsNewView/rankingSystem/heading"
+msgstr "Ranking system"
+
+msgid "whatsNewView/slides/description/introQualification"
+msgstr ""
+"Complete 10 qualification battles to determine your mastery level and assign"
+" you a rank. Upon completion, you will receive a reward for the achieved "
+"rank and all previous ones. Desertion and draw in qualification are "
+"considered defeats."
+
+msgid "whatsNewView/slides/description/modificator"
+msgstr ""
+"The event features a special Assault modifier that increases the durability "
+"of all vehicles, reduces equipment preparation time, and decreases standard "
+"visibility."
+
+msgid "whatsNewView/slides/description/newSeason"
+msgstr ""
+"Fight in the special \"Attack/Defense\" battle mode. The rules are simple: "
+"there are two bases. One team attacks them, the other defends. At the same "
+"time, some parameters of all participating vehicles are changed due to the "
+"event modifier."
+
+msgid "whatsNewView/slides/description/newTypes"
+msgstr ""
+"Only light, medium, and heavy tanks and Tank Destroyers of X tier can participate in battles.\n"
+"SPGs are not allowed to participate."
+
+msgid "whatsNewView/slides/description/pointsOfInterest"
+msgstr ""
+"Capture key positions and gain tactical advantage. The mine depot provides "
+"the \"Minefield\" skill, placing mines on the map that damage vehicles and "
+"stun enemy crews. The smoke center offers the \"Smoke Screen\" skill, "
+"camouflaging allied vehicles, as well as reducing the enemy's visibility and"
+" effectiveness in the area."
+
+msgid "whatsNewView/slides/description/ranks"
+msgstr ""
+"Depending on battle results, your mastery will be evaluated by ranks: from "
+"Iron to Legend. At the event start, each player will need to complete 10 "
+"qualification battles to determine their initial rank. Fleeing the "
+"battlefield or a draw in qualification will be considered a loss."
+
+msgid "whatsNewView/slides/description/rework"
+msgstr ""
+"Now when using the \"Scout Plane\" role skill, the vehicle remains detected "
+"only within the skill's range. The skill indicator on the mini-map appears "
+"upon activation and disappears only when its effect ends."
+
+msgid "whatsNewView/slides/description/roleSkills"
+msgstr ""
+"Each vehicle has a special skill with three charge levels depending on the "
+"role. The higher the charge level at the skill's activation, the stronger "
+"its effect will be. Charge level increases through prestige points earned "
+"for combat actions, capturing key positions, and using tactical skills."
+
+msgid "whatsNewView/slides/description/seasonVehicles"
+msgstr ""
+"To participate in Assault, you can rent X tier vehicles. To do this, you "
+"need to complete the corresponding combat task on VIII, IX, and X tier "
+"vehicles."
+
+msgid "whatsNewView/slides/description/shop"
+msgstr ""
+"Rent X tier vehicles to participate in Assault in the corresponding section "
+"of the mode's Shop."
+
+msgid "whatsNewView/slides/description/shopIntro"
+msgstr ""
+"If you do not have X tier vehicles, you can rent them in the corresponding "
+"section of the Assault shop. Additionally, exclusive vehicles, styles, and a"
+" beneficial discount system await you."
+
+msgid "whatsNewView/slides/description/vehiclesOnMap"
+msgstr ""
+"In battles, light, medium, heavy tanks, and Tier X tank destroyers can "
+"participate. SPGs are not allowed to participate in battles. You can choose "
+"your vehicle both in the Garage and at the start of the battle, once you "
+"understand which map the battle will take place on."
+
+msgid "whatsNewView/slides/title/introQualification"
+msgstr "Qualification"
+
+msgid "whatsNewView/slides/title/maps"
+msgstr "Maps"
+
+msgid "whatsNewView/slides/title/modificator"
+msgstr "Event Modifier"
+
+msgid "whatsNewView/slides/title/newSeason"
+msgstr "\"Assault: Thunder Bear\""
+
+msgid "whatsNewView/slides/title/newTypes"
+msgstr "No SPGs Now"
+
+msgid "whatsNewView/slides/title/pointsOfInterest"
+msgstr "Key Positions"
+
+msgid "whatsNewView/slides/title/ranks"
+msgstr "Ranking System"
+
+msgid "whatsNewView/slides/title/rework"
+msgstr "Reworked \"Scout Plane\" Skill"
+
+msgid "whatsNewView/slides/title/roleSkills"
+msgstr "Role Skills"
+
+msgid "whatsNewView/slides/title/seasonVehicles"
+msgstr "Rental Vehicles"
+
+msgid "whatsNewView/slides/title/shop"
+msgstr "Rental Vehicles Now in Thunder Store"
+
+msgid "whatsNewView/slides/title/shopIntro"
+msgstr "Rental Vehicles and Thunder Store"
+
+msgid "whatsNewView/slides/title/vehiclesOnMap"
+msgstr "Vehicles: Types and Selection at Battle Start"
+
+msgid "whatsNewView/title"
+msgstr "THUNDER"
+
+msgid "whatsNewView/vehicleLimitations/description"
+msgstr ""
+"For participation in the \"Thunder Bear\" event, SPG vehicles are no longer "
+"available."
+
+msgid "whatsNewView/vehicleLimitations/heading"
+msgstr "Vehicle Restrictions"
+
+msgid "whatsNewView/vehiclesForRent/heading"
+msgstr "Rental Vehicles"
+
+msgid "yearlyRewards/banner/willReceived"
+msgstr "Rewards will be credited at the end of the ranking year"
+
+msgid "yearlyRewards/description"
+msgstr ""
+"At the end of the event, you will receive Wolf Emblems according to your "
+"rank"
+
+msgid "yearlyRewards/error/description"
+msgstr ""
+"We apologize for the temporary inconvenience, please try refreshing the page"
+" later."
+
+msgid "yearlyRewards/error/title"
+msgstr "Data Loading Error"
+
+msgid "yearlyRewards/main/fifth"
+msgstr "Champion Camouflage"
+
+msgid "yearlyRewards/main/first"
+msgstr "Iron Camouflage"
+
+msgid "yearlyRewards/main/fourth"
+msgstr "Gold Camouflage"
+
+msgid "yearlyRewards/main/second"
+msgstr "Bronze Camouflage"
+
+msgid "yearlyRewards/main/sixth"
+msgstr "Legend Camouflage"
+
+msgid "yearlyRewards/main/third"
+msgstr "Silver Camouflage"
+
+msgid "yearlyRewards/rank/achieved"
+msgstr "Achieved Rank: %(rank)s"
+
+msgid "yearlyRewards/rank/current"
+msgstr "Current Rank: %(rank)s"
+
+msgid "yearlyRewards/rewardsState/claimed"
+msgstr "Reward Received"
+
+msgid "yearlyRewards/rewardsState/guaranteed"
+msgstr "Reward Guaranteed"
+
+msgid "yearlyRewards/rewardsState/notAvailable"
+msgstr "Reward Not Received"
+
+msgid "yearlyRewards/rewardsState/possible"
+msgstr "You are eligible for the reward"
+
+msgid "yearlyRewards/rewardsState/tooltip/guaranteed"
+msgstr "You will receive this reward guaranteed at the end of the year."
+
+msgid "yearlyRewards/rewardsState/tooltip/notAvailable"
+msgstr ""
+"Earn the required number of Wolf Emblems to receive the reward at the end of"
+" the year."
+
+msgid "yearlyRewards/rewardsState/tooltip/possible"
+msgstr ""
+"You will receive this reward at the end of the year if you maintain your "
+"current rank or increase it by the end of the season."
+
+msgid "yearlyRewards/subtitle/styleProgress"
+msgstr "For the \"Stone Wolf\" Style"
+
+msgid "yearlyRewards/vehicle"
+msgstr "Hurricane"
+
+msgid "yearlyRewards/vehicleTooltip/body"
+msgstr ""
+"A vehicle with a unique appearance awarded for achievements in the Year of "
+"the Wolf."
+
+msgid "yearlyRewards/vehicleTooltip/header"
+msgstr "Hurricane"
+
+msgid "yearlyRewardsTooltip/additional/fifth_1/body"
+msgstr "A commemorative patch awarded for collecting 15 Wolf Emblems."
+
+msgid "yearlyRewardsTooltip/additional/fifth_1/header"
+msgstr "Thunder 2023-2024: Champion"
+
+msgid "yearlyRewardsTooltip/additional/fifth_2/body"
+msgstr ""
+"You can choose three units of enhanced equipment as a reward. Each item can only be claimed once:\n"
+" • Powder Gas Venting System\n"
+" • Stabilization Equipment Complex\n"
+" • Experimental Charging System\n"
+" • Wear-Resistant Gun Drives\n"
+" • Calibrated Optics\n"
+" • Enhanced Layout\n"
+" • Improved Compressor\n"
+" • Increased Shell Durability\n"
+" • Enhanced Hull Transmission"
+
+msgid "yearlyRewardsTooltip/additional/fifth_2/header"
+msgstr "Enhanced Equipment"
+
+msgid "yearlyRewardsTooltip/additional/fifth_3/body"
+msgstr ""
+"Special 2D Reward Style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/fifth_3/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/fifth_4/body"
+msgstr ""
+"Awarded in \"Thunder\" mode for collecting Wolf Emblems.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Gold Wolf\n"
+"15 - Champion of the Year of the Wolf\n"
+"18 - Legend of the Year of the Wolf\n"
+"\n"
+"Depending on the number of collected Wolf Emblems, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/fifth_4/header"
+msgstr "Medal \"Alpha\""
+
+msgid "yearlyRewardsTooltip/additional/first_1/body"
+msgstr ""
+"Special 2D Reward Style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/first_1/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/first_2/body"
+msgstr ""
+"Awarded in \"Assault\" mode for collecting Wolf banners.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Golden Wolf\n"
+"15 - Wolf Year Champion\n"
+"18 - Wolf Year Legend\n"
+"\n"
+"Depending on the number of collected Wolf banners, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/first_2/header"
+msgstr "Medal \"Alpha\""
+
+msgid "yearlyRewardsTooltip/additional/fourth_1/body"
+msgstr ""
+"Unique 100% crew with a \"zero\" skill \"Brotherhood in Arms\" and "
+"experience for learning two other skills of your choice."
+
+msgid "yearlyRewardsTooltip/additional/fourth_1/header"
+msgstr "Unique crew"
+
+msgid "yearlyRewardsTooltip/additional/fourth_2/body"
+msgstr ""
+"Special reward 2D style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/fourth_2/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/fourth_3/body"
+msgstr ""
+"Awarded in \"Assault\" mode for collecting Wolf banners.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Golden Wolf\n"
+"15 - Wolf Year Champion\n"
+"18 - Wolf Year Legend\n"
+"\n"
+"Depending on the number of collected Wolf banners, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/fourth_3/header"
+msgstr "Medal \"Alpha\""
+
+msgid "yearlyRewardsTooltip/additional/second_1/body"
+msgstr ""
+"You can choose one piece of enhanced equipment as a reward. Each item can only be claimed once:\n"
+" • Gas exhaust system\n"
+" • Stabilization equipment complex\n"
+" • Experimental charging system\n"
+" • Wear-resistant aiming drives\n"
+" • Calibrated optics\n"
+" • Enhanced layout\n"
+" • Improved compressor\n"
+" • Increased shell durability\n"
+" • Enhanced onboard transmission"
+
+msgid "yearlyRewardsTooltip/additional/second_1/header"
+msgstr "Enhanced equipment"
+
+msgid "yearlyRewardsTooltip/additional/second_2/body"
+msgstr ""
+"Special reward 2D style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/second_2/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/second_3/body"
+msgstr ""
+"Awarded in \"Assault\" mode for collecting Wolf banners.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Golden Wolf\n"
+"15 - Wolf Year Champion\n"
+"18 - Wolf Year Legend\n"
+"\n"
+"Depending on the number of collected Wolf banners, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/second_3/header"
+msgstr "Medal \"Alpha\""
+
+msgid "yearlyRewardsTooltip/additional/sixth_1/body"
+msgstr ""
+"Special mark awarded to the best of the best in the Year of the Wolf "
+"\"Assault\" mode."
+
+msgid "yearlyRewardsTooltip/additional/sixth_1/header"
+msgstr "Legend of the Wolf"
+
+msgid "yearlyRewardsTooltip/additional/sixth_2/body"
+msgstr "Commemorative patch awarded for collecting 18 Wolf banners."
+
+msgid "yearlyRewardsTooltip/additional/sixth_2/header"
+msgstr "Assault 2023-2024: Legend"
+
+msgid "yearlyRewardsTooltip/additional/sixth_3/body"
+msgstr ""
+"Special reward 2D style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/sixth_3/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/sixth_4/body"
+msgstr ""
+"Awarded in \"Assault\" mode for collecting Wolf banners.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Golden Wolf\n"
+"15 - Wolf Year Champion\n"
+"18 - Wolf Year Legend\n"
+"\n"
+"Depending on the number of collected Wolf banners, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/sixth_4/header"
+msgstr "Medal \"Legend of the Year of the Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/third_1/body"
+msgstr ""
+"You can choose two pieces of enhanced equipment as a reward. Each item can only be claimed once:\n"
+" • Gas exhaust system\n"
+" • Stabilization equipment complex\n"
+" • Experimental charging system\n"
+" • Wear-resistant aiming drives\n"
+" • Calibrated optics\n"
+" • Enhanced layout\n"
+" • Improved compressor\n"
+" • Increased shell durability\n"
+" • Enhanced onboard transmission"
+
+msgid "yearlyRewardsTooltip/additional/third_1/header"
+msgstr "Enhanced equipment"
+
+msgid "yearlyRewardsTooltip/additional/third_2/body"
+msgstr ""
+"Special reward 2D style awarded for achievements in the Year of the Wolf."
+
+msgid "yearlyRewardsTooltip/additional/third_2/header"
+msgstr "Style \"Stone Wolf\""
+
+msgid "yearlyRewardsTooltip/additional/third_3/body"
+msgstr ""
+"Awarded in \"Assault\" mode for collecting Wolf banners.\n"
+"\n"
+"3 - Iron Wolf\n"
+"6 - Bronze Wolf\n"
+"9 - Silver Wolf\n"
+"12 - Golden Wolf\n"
+"15 - Wolf Year Champion\n"
+"18 - Wolf Year Legend\n"
+"\n"
+"Depending on the number of collected Wolf banners, you will receive one of the medals."
+
+msgid "yearlyRewardsTooltip/additional/third_3/header"
+msgstr "Medal \"Alpha\""
+
+msgid "yearlyRewardsTooltip/main/fifth/body"
+msgstr "Reward camouflage for collecting 15 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/fifth/header"
+msgstr "Camouflage \"Champion\""
+
+msgid "yearlyRewardsTooltip/main/first/body"
+msgstr "Reward camouflage for collecting 3 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/first/header"
+msgstr "Camouflage \"Iron\""
+
+msgid "yearlyRewardsTooltip/main/fourth/body"
+msgstr "Reward camouflage for collecting 12 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/fourth/header"
+msgstr "Camouflage \"Gold\""
+
+msgid "yearlyRewardsTooltip/main/second/body"
+msgstr "Reward camouflage for collecting 6 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/second/header"
+msgstr "Camouflage \"Bronze\""
+
+msgid "yearlyRewardsTooltip/main/sixth/body"
+msgstr "Reward camouflage for collecting 18 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/sixth/header"
+msgstr "Camouflage \"Legend\""
+
+msgid "yearlyRewardsTooltip/main/third/body"
+msgstr "Reward camouflage for collecting 9 Wolf banners."
+
+msgid "yearlyRewardsTooltip/main/third/header"
+msgstr "Battles (single/platoon)"
+
+msgid "yearlyStatistics/battles"
+msgstr "Seasonal statistics calculation..."
+
+msgid "yearlyStatistics/dash"
+msgstr "—"
+
+msgid "yearlyStatistics/generationOfStatistics"
+msgstr "No rank"
+
+msgid "yearlyStatistics/rankStatus"
+msgstr "Rating points"
+
+msgid "yearlyStatistics/rating"
+msgstr "Event I. Fire Wolf"
+
+msgid "yearlyStatistics/seasonName/0"
+msgstr "Event II. Fire Wolf"
+
+msgid "yearlyStatistics/seasonName/1"
+msgstr "Event III. Fire Wolf"
+
+msgid "yearlyStatistics/seasonName/2"
+msgstr "Winter 2024"
+
+msgid "yearlyStatistics/seasonStatus/0"
+msgstr "%(start)s–%(end)s"
+
+msgid "yearlyStatistics/seasonStatus/1"
+msgstr "Spring 2024"
+
+msgid "yearlyStatistics/seasonStatus/2"
+msgstr "Весна 2024"
+
+msgid "yearlyStatistics/statisticsAvailability"
+msgstr ""
+"Statistics will be available\n"
+"after the end of the season"
+
+msgid "yearlyStatistics/superPlatoonBattles"
+msgstr "Battles (platoon)"
+
+msgid "yearlyStatistics/wins"
+msgstr "Win rate"

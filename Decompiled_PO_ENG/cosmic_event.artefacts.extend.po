@@ -1,0 +1,116 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-cosmic_event.artefacts.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "acceleration/descr"
+msgstr ""
+"Sudden increase in vehicle speed. Effective for ramming or quickly changing "
+"position."
+
+msgid "acceleration/name"
+msgstr "Acceleration"
+
+msgid "black_hole/descr"
+msgstr ""
+"Creates a special field that pulls in rovers, then throws them to a random "
+"location in the Collision Zone."
+
+msgid "black_hole/name"
+msgstr "Black Hole"
+
+msgid "cosmic/ability/tooltip/acceleration/descr"
+msgstr ""
+"Speeds up your vehicle for %(time)s seconds, allowing for stronger ramming "
+"of rovers and getting out of tough situations."
+
+msgid "cosmic/ability/tooltip/acceleration/name"
+msgstr "ACCELERATION"
+
+msgid "cosmic/ability/tooltip/shell/descr"
+msgstr ""
+"A projectile that explodes upon hitting a rover, knocking it back with a "
+"shockwave."
+
+msgid "cosmic/ability/tooltip/shell/name"
+msgstr "Impulse"
+
+msgid "cosmic/ability/tooltip/shield/descr"
+msgstr ""
+"Fixes your vehicle in place for the next %(time)s seconds, protecting it "
+"from ramming and impulse effects."
+
+msgid "cosmic/ability/tooltip/shield/name"
+msgstr "Anchor Shield"
+
+msgid "cosmic/ability/tooltip/stun_shot/descr"
+msgstr ""
+"Reduces the combat characteristics of a rover for %(time)s seconds upon "
+"hitting it."
+
+msgid "cosmic/ability/tooltip/stun_shot/name"
+msgstr "Stun"
+
+msgid "cosmic/ability/tooltip/wave/descr"
+msgstr "Knocks aside nearby rovers next to your vehicle. Works once."
+
+msgid "cosmic/ability/tooltip/wave/name"
+msgstr "Wave"
+
+msgid "overcharge/descr"
+msgstr ""
+"Creates a powerful energy field that protects your rover and repels other "
+"vehicles."
+
+msgid "overcharge/name"
+msgstr "Barrier"
+
+msgid "power_shot/descr"
+msgstr ""
+"Fires an extremely powerful projectile. Highly effective when hitting a "
+"cluster of vehicles."
+
+msgid "power_shot/name"
+msgstr "Plasma Beam"
+
+msgid "rapid_shelling/descr"
+msgstr ""
+"Fires several powerful shots in succession. Great for knocking rovers into "
+"lakes or out of the Collision Zone."
+
+msgid "rapid_shelling/name"
+msgstr "Salvo"
+
+msgid "shell/descr"
+msgstr ""
+"A projectile that explodes upon hitting a rover, knocking it back with a "
+"shockwave."
+
+msgid "shell/name"
+msgstr "Impulse"
+
+msgid "shield/descr"
+msgstr ""
+"Fixes your rover in place, protecting it from ramming or impulse hits."
+
+msgid "shield/name"
+msgstr "Anchor Shield"
+
+msgid "stun_shot/descr"
+msgstr ""
+"Temporarily reduces the combat characteristics of a rover upon hitting it."
+
+msgid "stun_shot/name"
+msgstr "Stun"
+
+msgid "wave/descr"
+msgstr "Knocks aside nearby rovers next to your vehicle."
+
+msgid "wave/name"
+msgstr "Wave"

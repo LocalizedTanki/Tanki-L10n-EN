@@ -1,0 +1,151 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-account_dashboard\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "bonusXp/description"
+msgstr ""
+"Allows you to increase the experience gained in the selected victorious "
+"battle."
+
+msgid "bonusXp/heading"
+msgstr "Manageable XP Multiplier"
+
+msgid "bonusXp/multiplier"
+msgstr "Managed experience bonus %(multiplierFactor)"
+
+msgid "bonusXp/multiplierFactor"
+msgstr "x%(multiplier)"
+
+msgid "close"
+msgstr "CLOSE"
+
+msgid "excludedMaps/cooldownTooltipBody"
+msgstr "You can replace this map in {cooldownStr}."
+
+msgid "excludedMaps/cooldownTooltipHeader"
+msgstr "Replace Map Unavailable"
+
+msgid "excludedMaps/disabledTooltipBody"
+msgstr ""
+"Unlock this slot with an active Premium Account or Subscription "
+"subscription."
+
+msgid "excludedMaps/disabledTooltipBodyWotPlus"
+msgstr ""
+"The slot for excluding an additional card is only available with an active "
+"Tank Premium account."
+
+msgid "excludedMaps/disabledTooltipHeader"
+msgstr "Slot Unavailable"
+
+msgid "excludedMaps/header"
+msgstr "Excluded Maps"
+
+msgid "excludedMaps/replaceTooltipBody"
+msgstr "You can replace this map."
+
+msgid "excludedMaps/replaceTooltipHeader"
+msgstr "Replace Map Available"
+
+msgid "excludedMaps/selectTooltipBody"
+msgstr "Exclude a map from your game rotation."
+
+msgid "excludedMaps/selectTooltipHeader"
+msgstr "Slot Available"
+
+msgid "header/badgeTooltip"
+msgstr ""
+"Click to select a badge that will be displayed next to your nickname in "
+"battle. You can earn badges for completing Personal Missions and for "
+"participating in game events."
+
+msgid "header/clanSubtitle"
+msgstr "%(position) in the clan [%(clanTag)]"
+
+msgid "parentalControl/important"
+msgstr "IMPORTANT!"
+
+msgid "parentalControl/limitEnabled"
+msgstr "Play time limit enabled"
+
+msgid "personalDogTag/heading"
+msgstr "Customizable Dog Tag"
+
+msgid "premiumAccount/WGPremium"
+msgstr "Lesta Premium"
+
+msgid "premiumAccount/WGPremiumAccount"
+msgstr "Lesta Premium Account"
+
+msgid "premiumAccount/WoTPremium"
+msgstr "Premium"
+
+msgid "premiumAccount/WoTPremiumAccount"
+msgstr "Premium Account"
+
+msgid "premiumAccount/days"
+msgstr "d"
+
+msgid "premiumAccount/minimumTimeLeft"
+msgstr "less than an hour"
+
+msgid "premiumAccount/otherBenefits"
+msgstr "And other unique benefits!"
+
+msgid "premiumAccount/standardAccount"
+msgstr "Standard Account"
+
+msgid "premiumAccount/tryWoTPremiumAccount"
+msgstr ""
+"Try\n"
+"Premium Account"
+
+msgid "premiumAccount/upgrade/creditReserve"
+msgstr "Credit Reserve"
+
+msgid "premiumAccount/upgrade/excludeMapSlot"
+msgstr "+1 slot to exclude a map"
+
+msgid "premiumAccount/upgrade/experience"
+msgstr "Manageable Bonus to Experience"
+
+msgid "premiumAccount/upgrade/platoonBonusCredits"
+msgstr "Platoon bonus to credits"
+
+msgid "premiumAccount/upgrade/premiumMissions"
+msgstr "Premium Missions"
+
+msgid "premiumAccount/upgrade/toWoTPremiumAccount"
+msgstr ""
+"Upgrade to\n"
+"Premium Account"
+
+msgid "premiumQuests/heading"
+msgstr "Premium Missions"
+
+msgid "reserveStock/blockTitle"
+msgstr "Credit storage"
+
+msgid "reserveStock/emptyDisabledSubtitle"
+msgstr "Brings up to %(creditMaxAmount) per week due to active gameplay."
+
+msgid "reserveStock/reserveFull"
+msgstr "Credit storage is full"
+
+msgid "reserveStock/suspended"
+msgstr ""
+"Accumulation of credits in the storage is paused: the Tank Premium account "
+"has expired."
+
+msgid "reserveStock/unavailable"
+msgstr "Temporarily unavailable"
+
+msgid "temporarilyUnavailable"
+msgstr "Temporarily unavailable"

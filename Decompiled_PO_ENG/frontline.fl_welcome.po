@@ -1,0 +1,64 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-frontline.fl_welcome\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "page/bottomBtn"
+msgstr "Affirmative!"
+
+msgid "page/closeBtn"
+msgstr "CLOSE"
+
+msgid "slide/map/description"
+msgstr "A new map has been added to the mode, designed in a desert style."
+
+msgid "slide/map/headerUpper"
+msgstr "NEW MAP"
+
+msgid "slide/map/title"
+msgstr "Mirage"
+
+msgid "slide/progression/bonus/description"
+msgstr ""
+"As soon as the \"general\" enters the battle, this player and allies receive"
+" a bonus to vehicle characteristics."
+
+msgid "slide/progression/bonus/title"
+msgstr "General's Bonus"
+
+msgid "slide/progression/headerUpper"
+msgstr "UPDATED PROGRESSION SYSTEM"
+
+msgid "slide/progression/reserves/description"
+msgstr ""
+"Upon reaching the ranks of \"captain\" and \"major,\" reserves increase "
+"their level, becoming more effective."
+
+msgid "slide/progression/reserves/title"
+msgstr "Reserve Levels"
+
+msgid "slide/randomReserves/description"
+msgstr "?empty?"
+
+msgid "slide/randomReserves/headerUpper"
+msgstr "?empty?"
+
+msgid "slide/randomReserves/title"
+msgstr "?empty?"
+
+msgid "slide/vehicles/description"
+msgstr ""
+"You can still go into battle only in vehicles of level %(vehiclesLevelFrom)s. When capturing any point in the 2nd square (D, E, F), vehicles of level %(vehiclesLevelTo)s will be unlocked synchronously for both teams.\n"
+"Don't forget to prepare vehicles of level %(vehiclesLevelTo)s in the Garage."
+
+msgid "slide/vehicles/headerUpper"
+msgstr "BATTLE RULES CHANGES"
+
+msgid "slide/vehicles/title"
+msgstr "Vehicle Levels in Battle"

@@ -1,0 +1,549 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_battle\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "battleLoading/hintAll_1/description"
+msgstr ""
+"After destruction, you will be able to return to battle in an available unit"
+" vehicle."
+
+msgid "battleLoading/hintAll_1/title"
+msgstr "Respawn System"
+
+msgid "battleLoading/hintAll_2/description"
+msgstr ""
+"Each unit has unique combat abilities that become more powerful as the unit "
+"level increases. Improve units and expand the potential of your vehicle."
+
+msgid "battleLoading/hintAll_2/title"
+msgstr "Use Abilities"
+
+msgid "battleLoading/hintAtt_1/description"
+msgstr ""
+"Advance on the enemy and destroy their vehicles defending key positions."
+
+msgid "battleLoading/hintAtt_1/title"
+msgstr "Attack!"
+
+msgid "battleLoading/hintAtt_2/description"
+msgstr ""
+"The enemy will organize counterattacks. Prepare to withstand their pressure."
+
+msgid "battleLoading/hintAtt_2/title"
+msgstr "Repel Counterattacks"
+
+msgid "battleLoading/hintAtt_3/description"
+msgstr ""
+"Stick together as a group and support allies. To win, focus on destroying "
+"enemy command vehicles before they call for reinforcements."
+
+msgid "battleLoading/hintAtt_3/title"
+msgstr "Enemy Commanders"
+
+msgid "battleLoading/hintDef_1/description"
+msgstr ""
+"Defend allied artillery - this is your main task. At least one artillery "
+"unit must remain alive."
+
+msgid "battleLoading/hintDef_1/title"
+msgstr "Defend Artillery"
+
+msgid "battleLoading/hintDef_2/description"
+msgstr ""
+"Save your strength to go on the counteroffensive and complete an additional "
+"task. You will earn more victory points for this."
+
+msgid "battleLoading/hintDef_2/title"
+msgstr "Counterattack"
+
+msgid "battleTimer/defend"
+msgstr "HEROES TIME"
+
+msgid "battleTimer/waiting"
+msgstr "Waiting for players..."
+
+msgid "confirmQuit/cancel"
+msgstr "Cancel"
+
+msgid "confirmQuit/confirm"
+msgstr "To Garage"
+
+msgid "confirmQuit/leaver/confirm"
+msgstr "Leave"
+
+msgid "confirmQuit/leaver/descriptionAlive"
+msgstr ""
+"You are needed by the team! Leaving the battle before your own vehicle is "
+"destroyed is considered desertion and may result in disciplinary action."
+
+msgid "confirmQuit/leaver/descriptionDead"
+msgstr ""
+"You are needed by the team! Even if your vehicle is destroyed, "
+"{E9E2BF_Open}you will return to battle{E9E2BF_Close} if the team moves to "
+"another phase. Fleeing the battlefield is considered desertion and may "
+"result in disciplinary action."
+
+msgid "confirmQuit/leaver/title"
+msgstr "Run from the battlefield?"
+
+msgid "confirmQuit/title"
+msgstr "Leave the battle?"
+
+msgid "dynamicSquad/receivedFromSquad"
+msgstr "Click to accept the invitation and join the platoon."
+
+msgid "efficiencyRibbons/HBDeathZone"
+msgstr "Damage from Forbidden Zone"
+
+msgid "efficiencyRibbons/TotalVehiclesHealApplied"
+msgstr "Field Repair of Allies"
+
+msgid "efficiencyRibbons/artillery"
+msgstr "Damage from Artillery Strike"
+
+msgid "efficiencyRibbons/artilleryMortar"
+msgstr "Damage from Mortar Strike"
+
+msgid "efficiencyRibbons/artilleryOnYourself"
+msgstr "Damage from \"Fire on Yourself\" Ability"
+
+msgid "efficiencyRibbons/artilleryRocket"
+msgstr "Damage from \"Katyusha\" Salvo"
+
+msgid "efficiencyRibbons/bombercas"
+msgstr "Damage from Stormtrooper Attack"
+
+msgid "efficiencyRibbons/bombers"
+msgstr "Damage from Air Strike"
+
+msgid "efficiencyRibbons/damageByHBMinefield"
+msgstr "Damage from Minefield"
+
+msgid "efficiencyRibbons/healSelfVehicleApplied"
+msgstr "Vehicle Repaired"
+
+msgid "efficiencyRibbons/healVehicleApplied"
+msgstr "Vehicle Repaired by Ally"
+
+msgid "efficiencyRibbons/receivedBombersDamage"
+msgstr "Damage from Artillery Barrage"
+
+msgid "eventStats/missionTask/defence"
+msgstr "Task: Defend allied artillery by repelling enemy attacks."
+
+msgid "eventStats/missionTask/offence"
+msgstr ""
+"Task: Advance on key positions, repel counterattacks, and destroy enemy "
+"commanders."
+
+msgid "eventStats/missionTitle/defence"
+msgstr "HEROES TIME: DEFENSE"
+
+msgid "eventStats/missionTitle/offence"
+msgstr "HEROES TIME: BREAKTHROUGH"
+
+msgid "eventStats/tableCaption"
+msgstr "Team Composition"
+
+msgid "finalStatistic/commonStats/resultlabel/lose"
+msgstr "OPERATION FAILED"
+
+msgid "finalStatistic/commonStats/resultlabel/tie"
+msgstr "BATTLE ENDED"
+
+msgid "finalStatistic/commonStats/resultlabel/win"
+msgstr "VICTORY!"
+
+msgid "finalStatistic/commonStats/win"
+msgstr "with"
+
+msgid "finish/lose/reason/1"
+msgstr "Troops defeated"
+
+msgid "finish/lose/reason/13"
+msgstr "Allied artillery battery destroyed"
+
+msgid "finish/lose/reason/3"
+msgstr "You did not complete the task within the allotted time"
+
+msgid "finish/lose/reason/5"
+msgstr "Battle stopped: technical failure"
+
+msgid "finish/tie/reason/1"
+msgstr "You completed the main task, but all allied vehicles were destroyed"
+
+msgid "finish/tie/reason/3"
+msgstr ""
+"You have completed the main task, but have not completed the additional one"
+
+msgid "finish/win/reason/12"
+msgstr "All tasks are completed, the enemy is completely defeated!"
+
+msgid "goals/description/ATT_goal_counter_attack"
+msgstr "Destroy %(left)s enemy vehicles."
+
+msgid "goals/description/ATT_goal_final_few_boss"
+msgstr "Destroy %(left)s enemy command vehicles."
+
+msgid "goals/description/ATT_goal_final_one_boss"
+msgstr "Destroy the enemy defense commander."
+
+msgid "goals/description/ATT_goal_main"
+msgstr "Destroy %(left)s enemy vehicles."
+
+msgid "goals/lose/ATT_goal_counter_attack/team_killed"
+msgstr "The enemy has destroyed all of our vehicles."
+
+msgid "goals/lose/ATT_goal_counter_attack/time_ended"
+msgstr "You did not complete the task within the allotted time."
+
+msgid "goals/lose/ATT_goal_final_few_boss/team_killed"
+msgstr "The enemy has destroyed all of our vehicles."
+
+msgid "goals/lose/ATT_goal_final_few_boss/time_ended"
+msgstr "You did not complete the task within the allotted time."
+
+msgid "goals/lose/ATT_goal_final_one_boss/team_killed"
+msgstr "The enemy has destroyed all of our vehicles."
+
+msgid "goals/lose/ATT_goal_final_one_boss/time_ended"
+msgstr "You did not complete the task within the allotted time."
+
+msgid "goals/lose/ATT_goal_main/team_killed"
+msgstr "The enemy has destroyed all of our vehicles."
+
+msgid "goals/lose/ATT_goal_main/time_ended"
+msgstr "You did not complete the task within the allotted time."
+
+msgid "goals/lose/SPG_def/team_killed"
+msgstr "The operation has failed"
+
+msgid "goals/lose/def_counter_attack/team_killed"
+msgstr ""
+"The counterattack was unsuccessful, but you saved the artillery battery!"
+
+msgid "goals/lose/def_counter_attack/time_ended"
+msgstr "The artillery battery is protected, but the enemy has escaped!"
+
+msgid "goals/progress/ATT_goal_counter_attack"
+msgstr "There are %(left)s enemy vehicles left."
+
+msgid "goals/progress/ATT_goal_final_few_boss"
+msgstr "Eliminate all commanders!"
+
+msgid "goals/progress/ATT_goal_final_one_boss"
+msgstr "Eliminate the commander!"
+
+msgid "goals/progress/ATT_goal_main"
+msgstr "There are %(left)s enemy vehicles left."
+
+msgid "goals/progress/SPG_def"
+msgstr "Hold on"
+
+msgid "goals/progress/SPG_def/new_wave"
+msgstr "Hold on"
+
+msgid "goals/progress/def_counter_attack"
+msgstr "Destroy all enemy vehicles!"
+
+msgid "goals/title/ATT_goal_counter_attack"
+msgstr "Repel the enemy counterattack"
+
+msgid "goals/title/ATT_goal_final_few_boss"
+msgstr "Here is our target!"
+
+msgid "goals/title/ATT_goal_final_one_boss"
+msgstr "Here is our target!"
+
+msgid "goals/title/ATT_goal_main"
+msgstr "Break the enemy defense"
+
+msgid "goals/title/SPG_def"
+msgstr "The enemy is advancing!"
+
+msgid "goals/title/SPG_def/new_wave"
+msgstr "The enemy has called for reinforcements!"
+
+msgid "goals/title/def_counter_attack"
+msgstr "Destroy all enemy vehicles!"
+
+msgid "goals/win/ATT_goal_counter_attack"
+msgstr "The enemy counterattack has been repelled!"
+
+msgid "goals/win/ATT_goal_final_few_boss"
+msgstr "All enemy commanders have been eliminated!"
+
+msgid "goals/win/ATT_goal_final_one_boss"
+msgstr "The enemy defense commander has been eliminated!"
+
+msgid "goals/win/ATT_goal_main"
+msgstr "The enemy defense is broken!"
+
+msgid "goals/win/def_counter_attack"
+msgstr "All tasks are completed, the enemy is completely defeated!"
+
+msgid "helpScreen/hint/description"
+msgstr "to view the mode features"
+
+msgid "helpScreen/missionTitle/101"
+msgstr "HEROES TIME: BREAKTHROUGH"
+
+msgid "helpScreen/missionTitle/102"
+msgstr "HEROES TIME: DEFENSE"
+
+msgid "helpScreen/missionTitle/103"
+msgstr "HEROES TIME"
+
+msgid "inbattle_markers/distance_str"
+msgstr " m"
+
+msgid "inbattle_markers/going_there"
+msgstr "Moving to "
+
+msgid "notification/SPGDefended"
+msgstr "Artillery battery protected!"
+
+msgid "notification/SPGKilled"
+msgstr "Artillery battery destroyed!"
+
+msgid "notification/SPGUnderAttack"
+msgstr "Artillery battery seriously damaged!"
+
+msgid "notification/SPGUnderAttack/description"
+msgstr "Protect the artillery battery!"
+
+msgid "notification/afkWarning"
+msgstr ""
+"Soldier, inaction is equated to desertion and mercilessly punished! Victory "
+"requires joint efforts!"
+
+msgid "notification/aimerSpawned"
+msgstr "Destroy enemy artillery spotters!"
+
+msgid "notification/aimerSpawned/description"
+msgstr "This will stop the artillery strikes!"
+
+msgid "notification/defenseArtillery"
+msgstr "Protect the artillery battery!"
+
+msgid "notification/oneSPGKilled"
+msgstr "The allied artillery battery has been destroyed!"
+
+msgid "notification/oneSPGKilled/description"
+msgstr "Defend the artillery battery!"
+
+msgid "notification/operationFailed"
+msgstr "Operation failed"
+
+msgid "notification/runnerSpawned"
+msgstr "Destroy enemy breakthrough tanks!"
+
+msgid "phaseIndicator/phase"
+msgstr "STAGE %(current)d OUT OF %(total)d: %(state)s"
+
+msgid "phaseIndicator/state/boss"
+msgstr "COMMANDER"
+
+msgid "phaseIndicator/state/defence"
+msgstr "DEFENSE"
+
+msgid "phaseIndicator/state/offence"
+msgstr "COUNTERATTACK"
+
+msgid "phaseIndicator/wave"
+msgstr "Wave %(current)d out of %(total)d"
+
+msgid "player_messages/ARTILLERY_EQ_ALLY_ENEMY"
+msgstr "Artillery strike by %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/ARTILLERY_MORTAR_ALLY_ENEMY"
+msgstr "Mortars by %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/ARTILLERY_ON_YOURSELF_ALLY_ENEMY"
+msgstr "Ability \"Fire on self\" by %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/ARTILLERY_ROCKET_ALLY_ENEMY"
+msgstr "Katyusha barrage by %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/BOMBER_EQ_ALLY_ENEMY"
+msgstr "Air strike by %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_AFTERBURNING_HB"
+msgstr "Full throttle activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_ARTILLERY_MORTAR_HB"
+msgstr "Mortar barrage activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_ARTILLERY_ON_YOURSELF_HB"
+msgstr "Fire on self called in."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_ARTILLERY_ROCKET_HB"
+msgstr "Katyusha barrage activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_ARTILLERY_STRIKE_HB"
+msgstr "Artillery strike activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_ATTACK_PLANE_HB"
+msgstr "Sturmovik attack activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_BOMBER_HB"
+msgstr "Air strike activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_HEAL_POINT_HB"
+msgstr "Field repair activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_INCENDIARY_SHOT_HB"
+msgstr "Incendiary shell activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_LARGE_REPAIR_KIT_HB"
+msgstr "Large repair kit activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_MINEFIELD_HB"
+msgstr "Minefield activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_RECON_PLANE_HB"
+msgstr "Recon plane has taken off."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_STUN_SHOT_HB"
+msgstr "Enhanced charge activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_ACTIVATED_SUPER_SHOT"
+msgstr "Enhanced charge activated."
+
+msgid "player_messages/COMBAT_EQUIPMENT_NOT_READY"
+msgstr ""
+"%(equipmentName)s unavailable: conditions for unlocking the ability are not "
+"met."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_AFTERBURNING_HB"
+msgstr "Full throttle ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_ARTILLERY_MORTAR_HB"
+msgstr "Mortar barrage ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_ARTILLERY_ON_YOURSELF_HB"
+msgstr "Fire on self ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_ARTILLERY_ROCKET_HB"
+msgstr "Katyusha barrage ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_ARTILLERY_STRIKE_HB"
+msgstr "Artillery strike ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_ATTACK_PLANE_HB"
+msgstr "Sturmovik attack ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_BOMBER_HB"
+msgstr "Air strike ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_HEAL_POINT_HB"
+msgstr "Field repair ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_INCENDIARY_SHOT_HB"
+msgstr "Incendiary shell ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_LARGE_REPAIR_KIT_HB"
+msgstr "Large repair kit ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_MINEFIELD_HB"
+msgstr "Minefield ready for deployment."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_RECON_PLANE_HB"
+msgstr "Recon plane ready for takeoff."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_STUN_SHOT_HB"
+msgstr "Enhanced charge ready for use."
+
+msgid "player_messages/COMBAT_EQUIPMENT_READY_SUPER_SHOT"
+msgstr "Enhanced charge ready for use."
+
+msgid "player_messages/DEATH_FROM_BOMBER_CAS_ALLY_ENEMY"
+msgstr "Sturmovik %(attacker)s destroyed %(target)s."
+
+msgid "player_messages/EVENT_DEATH_ALLY_ENEMY"
+msgstr "%(attacker)s destroyed %(target)s."
+
+msgid "player_messages/EVENT_DEATH_FROM_DEATH_ZONE_ALLY_SUICIDE"
+msgstr "%(target)s destroyed by restricted area."
+
+msgid "player_messages/EVENT_DEATH_FROM_STATIC_DEATH_ZONE_ALLY_SUICIDE"
+msgstr "%(target)s destroyed by artillery barrage."
+
+msgid "player_messages/EVENT_DEATH_SELF_ENEMY"
+msgstr "Enemy %(target)s destroyed."
+
+msgid "player_messages/MINEFIELD_EQ_ALLY_ENEMY"
+msgstr "On minefield %(attacker)s destroyed %(target)s."
+
+msgid "playersPanel/postmortem/select"
+msgstr "Tap to select this vehicle for battle observation."
+
+msgid "postmortem_messages/DEATH_FROM_DEATH_ZONE_ARTILLERY"
+msgstr "The vehicle was destroyed by artillery fire"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_DEATH_ZONE_ALLY_SELF"
+msgstr "The vehicle was destroyed by an ally in a restricted area"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_DEATH_ZONE_ENEMY_SELF"
+msgstr "The vehicle was destroyed by %(entity)s in a restricted area"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_DEATH_ZONE_SELF_SUICIDE"
+msgstr "The vehicle was destroyed by the restricted area"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_DEVICE_EXPLOSION_AT_SHOT"
+msgstr "Device [%(device)s] exploded by enemy fire"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_FIRE"
+msgstr "The vehicle was destroyed by fire"
+
+msgid "postmortem_messages/EVENT_DEATH_FROM_SHOT"
+msgstr "The vehicle was destroyed by enemy fire"
+
+msgid "postmortem_panel/no_respawns_message_descr"
+msgstr "Your battle is over"
+
+msgid "postmortem_panel/no_respawns_message_title"
+msgstr "No more available vehicles in the unit"
+
+msgid "postmortem_panel/respawn_timer_title"
+msgstr "Wait for the selection of a new vehicle"
+
+msgid "respawn/card/dead"
+msgstr "Disabled"
+
+msgid "respawn/card/pick"
+msgstr "Confirm selection"
+
+msgid "respawn/division"
+msgstr "DIVISION"
+
+msgid "respawn/goalTimer"
+msgstr "Until the end of the stage: %(time)s"
+
+msgid "respawn/timer/label/battleStart"
+msgstr "?empty?"
+
+msgid "respawn/timer/label/chooseVehicle"
+msgstr "Choose the vehicle you will use in battle"
+
+msgid "respawn/timer/title/battleStart"
+msgstr "Battle begins!"
+
+msgid "respawn/timer/title/chooseVehicle"
+msgstr "VEHICLE SELECTION"
+
+msgid "spgPanel/title"
+msgstr "Defend the artillery battery!"
+
+msgid "timersPanel/artilleryOnYourself"
+msgstr "Time until the bombardment begins!"
+
+msgid "timersPanel/deathZoneWarning"
+msgstr "Leave the dangerous area!"

@@ -1,0 +1,34 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-collective_goal\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "entryPoint/tooltip/billion"
+msgstr "%(value)s billion"
+
+msgid "entryPoint/tooltip/completed"
+msgstr "Discount available until %(date)s"
+
+msgid "entryPoint/tooltip/forbidden"
+msgstr "Functionality is currently unavailable"
+
+msgid "entryPoint/tooltip/million"
+msgstr "%(value)s million"
+
+msgid "entryPoint/tooltip/notStarted"
+msgstr "Event will start on %(date)s"
+
+msgid "entryPoint/tooltip/points"
+msgstr "%(currentPoints)s / %(totalPoints)s"
+
+msgid "entryPoint/tooltip/stage"
+msgstr "Current stage"
+
+msgid "entryPoint/tooltip/title"
+msgstr "Joint campaign \"%(title)s\""

@@ -1,0 +1,1689 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_lobby\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "abilityTooltip/action"
+msgstr "Action:"
+
+msgid "abilityTooltip/battle"
+msgstr "Commander's skill"
+
+msgid "abilityTooltip/role"
+msgstr "Commander's skill"
+
+msgid "banner/banText"
+msgstr "You are suspended until: %(date)s"
+
+msgid "banner/banTextSmall"
+msgstr "Until %(date)s"
+
+msgid "banner/countdown/end"
+msgstr "Until %(day)s %(month)s"
+
+msgid "banner/countdown/lastDay"
+msgstr "Until completion:"
+
+msgid "banner/countdown/start"
+msgstr "Until start:"
+
+msgid "banner/desc"
+msgstr "HEROES TIME"
+
+msgid "battleResults/applyBoosterButton"
+msgstr "Apply order"
+
+msgid "battleResults/battleInfo/dateAndDuration"
+msgstr "%(date)s, battle duration: %(duration)s"
+
+msgid "battleResults/boosterPromo/lostPoints/afk"
+msgstr "You lost points for inactivity"
+
+msgid "battleResults/boosterPromo/lostPoints/deserter"
+msgstr "You lost points for desertion"
+
+msgid "battleResults/boosterPromo/withBooster"
+msgstr "Without the %(booster)s order, it would be: %(currency)s"
+
+msgid "battleResults/boosterPromo/withMultiplyer"
+msgstr "x2 %(coins)s victory points for a battle in this vehicle"
+
+msgid "battleResults/boosterPromo/withoutBooster"
+msgstr "With the %(booster)s order, it would be: %(currency)s"
+
+msgid "battleResults/earnedText"
+msgstr "Received:"
+
+msgid "battleResults/getWithBooster"
+msgstr "Received with the %(booster)s order"
+
+msgid "battleResults/leftBoostersText"
+msgstr "%(left)s %(icon)s orders left"
+
+msgid "battleResults/missionProgress/allTasksLabel"
+msgstr "All tasks completed"
+
+msgid "battleResults/missionProgress/tasksLabel"
+msgstr "Current task"
+
+msgid "battleResults/missionProgress/wavesLabel"
+msgstr "Attacks repelled"
+
+msgid "battleResults/mode/defence"
+msgstr "HEROES TIME: DEFENSE"
+
+msgid "battleResults/mode/offence"
+msgstr "HEROES TIME: BREAKTHROUGH"
+
+msgid "battleResults/noBoosters"
+msgstr "There are no orders available to apply"
+
+msgid "battleResults/playerInfo/alive"
+msgstr "Survived"
+
+msgid "battleResults/playerInfo/nicknameInfo"
+msgstr "%(nickname)s • %(info)s"
+
+msgid "battleResults/playerInfo/reason/death_zone"
+msgstr "Vehicle destroyed by forbidden zone."
+
+msgid "battleResults/playerInfo/reason/division_vehicles_exterminated"
+msgstr "Unit destroyed."
+
+msgid "battleResults/playerInfo/reason/drowning"
+msgstr "Vehicle flooded."
+
+msgid "battleResults/playerInfo/reason/overturn"
+msgstr "Vehicle destroyed by overturning."
+
+msgid "battleResults/playerInfo/reason/personal_death_zone"
+msgstr "Vehicle destroyed by artillery barrage."
+
+msgid "battleResults/playerInfo/reason/premature_leave"
+msgstr "Exited before the end of the battle."
+
+msgid "battleResults/playerInfo/reason/shot"
+msgstr "Destroyed by a shot from %(vehicleName)s"
+
+msgid "battleResults/playerInfo/roleAndVehicle"
+msgstr "%(role)s, %(vehicleName)s"
+
+msgid "battleResults/playerInfo/vehicle"
+msgstr "%(vehicleName)s"
+
+msgid "battleResults/possibleEarnedText"
+msgstr "Applying the %(booster)s order will result in:"
+
+msgid "battleResults/stats/assist"
+msgstr ""
+"Assistance\n"
+"in destruction"
+
+msgid "battleResults/stats/blocked"
+msgstr ""
+"Use of\n"
+"armor"
+
+msgid "battleResults/stats/damage"
+msgstr ""
+"Damage\n"
+"inflicted"
+
+msgid "battleResults/stats/kills"
+msgstr ""
+"Vehicles\n"
+"destroyed"
+
+msgid "battleResults/subTitle/abandonedGame"
+msgstr "All allies have left the battle"
+
+msgid "battleResults/subTitle/allArtilleryKilled"
+msgstr "Allied artillery completely destroyed"
+
+msgid "battleResults/subTitle/allEnemiesKilled"
+msgstr "All enemy vehicles destroyed"
+
+msgid "battleResults/subTitle/allTasksCompleted"
+msgstr "All tasks completed"
+
+msgid "battleResults/subTitle/allTeamKilled"
+msgstr "Troops defeated"
+
+msgid "battleResults/subTitle/techFailure"
+msgstr "BATTLE INTERRUPTED: TECHNICAL FAILURE"
+
+msgid "battleResults/subTitle/timeEnded"
+msgstr "You did not complete the task within the allotted time"
+
+msgid "battleResults/tab/personalResult"
+msgstr "Personal result"
+
+msgid "battleResults/tab/teamResult"
+msgstr "Team result"
+
+msgid "battleResults/title/draw"
+msgstr "BATTLE ENDED"
+
+msgid "battleResults/title/lose"
+msgstr "OPERATION FAILED"
+
+msgid "battleResults/title/victory"
+msgstr "VICTORY!"
+
+msgid "battleResults/tooltip/description/counterattack"
+msgstr ""
+"The task is considered completed if all stage objectives were achieved "
+"within the allocated time."
+
+msgid "battleResults/tooltip/description/defence"
+msgstr ""
+"The task is considered completed if all stage objectives were achieved "
+"within the allocated time."
+
+msgid "battleResults/tooltip/description/offence"
+msgstr ""
+"The task is considered completed if all stage objectives were achieved "
+"within the allocated time."
+
+msgid "battleResults/tooltip/title/counterattack"
+msgstr "Task Completion"
+
+msgid "battleResults/tooltip/title/defence"
+msgstr "Task Completion"
+
+msgid "battleResults/tooltip/title/offence"
+msgstr "Task Completion"
+
+msgid "buyBundleConfirmationDialog/composition"
+msgstr "Set Composition"
+
+msgid "buyBundleConfirmationDialog/cost"
+msgstr "Purchase Cost:"
+
+msgid "buyBundleConfirmationDialog/present"
+msgstr "Gift"
+
+msgid "buyBundleConfirmationDialog/title/master"
+msgstr "Buy \"Master Set\"?"
+
+msgid "buyBundleConfirmationDialog/title/newbie"
+msgstr "Buy \"More Points\" orders x10 (%(number)s pcs.)?"
+
+msgid "buyBundleConfirmationDialog/title/specialist"
+msgstr "Buy \"Specialist Set\"?"
+
+msgid "coinExchangeWidget/exchangeBtn"
+msgstr "Exchange"
+
+msgid "divisionConfirmUpgrade/buyButton"
+msgstr "Buy"
+
+msgid "divisionConfirmUpgrade/cancelButton"
+msgstr "Cancel"
+
+msgid "divisionConfirmUpgrade/description"
+msgstr ""
+"This property will help improve the \"%(subDivisionName)s\" unit to "
+"%(firstHighlightText)s, receive %(secondHighlightText)s, and move faster "
+"%(thirdHighlightText)s."
+
+msgid "divisionConfirmUpgrade/errorText"
+msgstr "Purchase temporarily unavailable"
+
+msgid "divisionConfirmUpgrade/firstHighlightText"
+msgstr "maximum level"
+
+msgid "divisionConfirmUpgrade/mainText"
+msgstr "Upgrade unit to Level III?"
+
+msgid "divisionConfirmUpgrade/price"
+msgstr "Purchase Cost:"
+
+msgid "divisionConfirmUpgrade/rewardsText"
+msgstr "As a gift"
+
+msgid "divisionConfirmUpgrade/secondHighlightText"
+msgstr "additional rewards"
+
+msgid "divisionConfirmUpgrade/thirdHighlightText"
+msgstr "earn progression mode points"
+
+msgid "divisionPanel/navigate"
+msgstr "GO TO DIVISIONS"
+
+msgid "divisionUpgradeRewards/buttonText"
+msgstr "Affirmative!"
+
+msgid "divisionUpgradeRewards/subtitleLeft"
+msgstr "EVENT \"HEROES' TIME\""
+
+msgid "divisionUpgradeRewards/subtitleRight"
+msgstr "MODE \"%(frontName)s\""
+
+msgid "divisionUpgradeRewards/title"
+msgstr "DIVISION LEVEL %(level)s"
+
+msgid "divisionUpgradeRewards/unlockText"
+msgstr "Access Unlocked"
+
+msgid "divisionUpgradeRewards/vehiclesUnlock"
+msgstr "New equipment in the unit"
+
+msgid "division_1/name"
+msgstr "Heavy Tank Platoon"
+
+msgid "division_1/subdivisionTooltip/description"
+msgstr ""
+"Heavy tanks are the main striking force of the army, necessary for breaking "
+"through directions or engaging in prolonged positional battles. Excellent "
+"armor and decent firepower allow them to excel at close range."
+
+msgid "division_2/name"
+msgstr "Medium Tank Platoon"
+
+msgid "division_2/subdivisionTooltip/description"
+msgstr ""
+"Medium tanks are mobile, moderately armored vehicles that are great for "
+"maneuver warfare and flanking maneuvers. They perform effectively in groups "
+"or in a support role for stronger allies."
+
+msgid "division_3/name"
+msgstr "Self-Propelled Gun Platoon"
+
+msgid "division_3/subdivisionTooltip/description"
+msgstr ""
+"Self-propelled guns are long-range machines with a low profile, capable of "
+"keeping the enemy at a sufficient distance due to their excellent firepower."
+" They are effective on the second line due to their relatively low "
+"protection."
+
+msgid "division_4/name"
+msgstr "Heavy Tank Platoon"
+
+msgid "division_4/subdivisionTooltip/description"
+msgstr ""
+"Heavy tanks are the main striking force of the army, necessary for breaking "
+"through directions or engaging in prolonged positional battles. Excellent "
+"armor and decent firepower allow them to excel at close range."
+
+msgid "division_5/name"
+msgstr "Medium Tank Platoon"
+
+msgid "division_5/subdivisionTooltip/description"
+msgstr ""
+"Medium tanks are mobile, moderately armored vehicles that are great for "
+"maneuver warfare and flanking maneuvers. They perform effectively in groups "
+"or in a support role for stronger allies."
+
+msgid "division_6/name"
+msgstr "Self-Propelled Gun Platoon"
+
+msgid "division_6/subdivisionTooltip/description"
+msgstr ""
+"Self-propelled guns are long-range machines with a low profile, capable of "
+"keeping the enemy at a sufficient distance due to their excellent firepower."
+" They are effective on the second line due to their relatively low "
+"protection."
+
+msgid "division_capitalAll_1/name"
+msgstr "HEAVY TANK PLATOON"
+
+msgid "division_capitalAll_2/name"
+msgstr "MEDIUM TANK PLATOON"
+
+msgid "division_capitalAll_3/name"
+msgstr "SELF-PROPELLED GUN PLATOON"
+
+msgid "division_capitalAll_4/name"
+msgstr "HEAVY TANK PLATOON"
+
+msgid "division_capitalAll_5/name"
+msgstr "MEDIUM TANK PLATOON"
+
+msgid "division_capitalAll_6/name"
+msgstr "SELF-PROPELLED GUN PLATOON"
+
+msgid "division_capital_1/name"
+msgstr "Heavy Tank Platoon"
+
+msgid "division_capital_2/name"
+msgstr "Medium Tank Platoon"
+
+msgid "division_capital_3/name"
+msgstr "Platoon of self-propelled guns"
+
+msgid "division_capital_4/name"
+msgstr "Platoon of heavy tanks"
+
+msgid "division_capital_5/name"
+msgstr "Platoon of medium tanks"
+
+msgid "division_capital_6/name"
+msgstr "Platoon of self-propelled guns"
+
+msgid "entryPointTooltip/defence/description"
+msgstr ""
+"Defend the allied artillery, preventing enemy forces from reaching it."
+
+msgid "entryPointTooltip/defence/title"
+msgstr "Defense"
+
+msgid "entryPointTooltip/description"
+msgstr ""
+"An event consisting of two game modes that open alternately with a weekly "
+"interval. In the team mode, players battle against AI-controlled enemies. "
+"Each victory in the mode brings you closer to receiving the final reward."
+
+msgid "entryPointTooltip/length"
+msgstr ""
+"The event will last: {brown_Open}from %(startDate)s to "
+"%(endDate)s{brown_Close}."
+
+msgid "entryPointTooltip/offence/description"
+msgstr ""
+"Advance on the map by pushing the enemy out of their captured territory."
+
+msgid "entryPointTooltip/offence/title"
+msgstr "Breakthrough"
+
+msgid "entryPointTooltip/performance/description/highRisk"
+msgstr ""
+"Your computer's performance is insufficient for this mode. Graphics and "
+"vehicle movement issues may occur, and the game client may crash "
+"unexpectedly."
+
+msgid "entryPointTooltip/performance/description/mediumRisk"
+msgstr ""
+"The mode is demanding on your computer.\n"
+"The map may take a long time to load, and there may be graphics and vehicle movement issues in battle. If your performance is inadequate, try lowering the graphics settings."
+
+msgid "fairPlayWarningWindow/hb_afk/body"
+msgstr ""
+"Dear player, your actions are detrimental to the success of the entire operation in the {whiteSpanish_open}\"Time of Heroes\"{whiteSpanish_close} mode.\n"
+"This is completely unacceptable. If you repeat this behavior, you will be restricted from participating in this event."
+
+msgid "fairPlayWarningWindow/hb_afk/button"
+msgstr "Acknowledged"
+
+msgid "fairPlayWarningWindow/hb_afk/header"
+msgstr "Unacceptable behavior"
+
+msgid "fairPlayWarningWindow/hb_afk/reason"
+msgstr "%(icon)s{red_Open}Warning! Reason: inactivity in battle.{red_Close}"
+
+msgid "fairPlayWarningWindow/hb_deserter/body"
+msgstr ""
+"Dear player, your actions are detrimental to the success of the entire operation in the {whiteSpanish_Open}\"Time of Heroes\"{whiteSpanish_Close} mode.\n"
+"This is completely unacceptable. If you repeat this behavior, you will be restricted from participating in this event."
+
+msgid "fairPlayWarningWindow/hb_deserter/button"
+msgstr "Acknowledged"
+
+msgid "fairPlayWarningWindow/hb_deserter/header"
+msgstr "Unacceptable behavior"
+
+msgid "fairPlayWarningWindow/hb_deserter/reason"
+msgstr "%(icon)s{red_Open}Warning! Reason: desertion.{red_Close}"
+
+msgid "fairPlayWindow/ban/hb_afk/body"
+msgstr ""
+"Dear player, for systematic sabotage in the {whiteSpanish_open}\"Time of "
+"Heroes\"{whiteSpanish_close} mode, you are prohibited from participating in "
+"event battles until {brown_Open}%(date)s{brown_Close}. The restriction will "
+"be lifted automatically."
+
+msgid "fairPlayWindow/ban/hb_afk/button"
+msgstr "Acknowledged"
+
+msgid "fairPlayWindow/ban/hb_afk/header"
+msgstr "Suspension"
+
+msgid "fairPlayWindow/ban/hb_afk/reason"
+msgstr "%(icon)s{red_Open}Reason: inactivity in battle.{red_Close}"
+
+msgid "fairPlayWindow/ban/hb_deserter/body"
+msgstr ""
+"Dear player, for systematic sabotage in the {whiteSpanish_open}\"Time of "
+"Heroes\"{whiteSpanish_close} mode, you are prohibited from participating in "
+"event battles until {brown_Open}%(date)s{brown_Close}. The restriction will "
+"be lifted automatically."
+
+msgid "fairPlayWindow/ban/hb_deserter/button"
+msgstr "Acknowledged"
+
+msgid "fairPlayWindow/ban/hb_deserter/header"
+msgstr "Suspension"
+
+msgid "fairPlayWindow/ban/hb_deserter/reason"
+msgstr "%(icon)s{red_Open}Reason: desertion{red_Close}"
+
+msgid "fairPlayWindow/unban/body"
+msgstr ""
+"Dear player, your temporary suspension has been lifted. You can continue to "
+"participate in the {whiteSpanish_open}\"Time of Heroes\"{whiteSpanish_close}"
+" mode. Remember the unacceptable behavior and the consequences for "
+"violations."
+
+msgid "fairPlayWindow/unban/button"
+msgstr "Acknowledged"
+
+msgid "fairPlayWindow/unban/header"
+msgstr "Suspension lifted"
+
+msgid "front/name/capital/defence"
+msgstr "Defense"
+
+msgid "front/name/capital/offence"
+msgstr "Breakthrough"
+
+msgid "front/name/capitalAll/defence"
+msgstr "DEFENSE"
+
+msgid "front/name/capitalAll/offence"
+msgstr "BREAKTHROUGH"
+
+msgid "frontPanel/countDown"
+msgstr "Before start: %(icon)s%(time)s"
+
+msgid "generalHbCoinTooltip/description"
+msgstr ""
+"You earn victory points in battles of the {whiteSpanish_Open}\"Time of Heroes\"{whiteSpanish_Close} event.\n"
+"They are needed to progress through the event stages."
+
+msgid "generalHbCoinTooltip/header"
+msgstr "Victory points"
+
+msgid "generalHbCoinTooltip/info"
+msgstr "?empty?"
+
+msgid "generalHbCoinTooltip/subheader"
+msgstr "How to earn more points"
+
+msgid "hangar/buyOrders"
+msgstr "Buy"
+
+msgid "hangar/closeBtn/name"
+msgstr "LEAVE MODE"
+
+msgid "hangar/getOrders"
+msgstr "Get"
+
+msgid "hangar/infoBtn/body"
+msgstr "Detailed information about the \"Time of Heroes\" event."
+
+msgid "hangar/infoBtn/name"
+msgstr "ABOUT THE EVENT"
+
+msgid "hangar/itemCount"
+msgstr "%(count)s pcs."
+
+msgid "hangar/leaveMode"
+msgstr "EXIT MODE"
+
+msgid "hangar/orderPending"
+msgstr "Less than %(time)s"
+
+msgid "hangar/ordersLabel"
+msgstr "\"More Points\" orders available"
+
+msgid "hangar/startBtn/banned/body"
+msgstr ""
+"You cannot participate in battles of the \"Time of Heroes\" event until "
+"%(time)s."
+
+msgid "hangar/startBtn/banned/header"
+msgstr "You are suspended"
+
+msgid "hangar/startBtn/disabled/body"
+msgstr "Battle entry is temporarily unavailable due to technical reasons."
+
+msgid "hangar/startBtn/divisionNotReady/body"
+msgstr ""
+"To enter battle, wait for the commander to return from the previous battle."
+
+msgid "hangar/startBtn/notReady/body"
+msgstr "To enter battle, wait for the selected mode to become available."
+
+msgid "hangar/startBtn/notReady/header"
+msgstr "Unavailable"
+
+msgid "hangar/startBtn/queueNotReady/body"
+msgstr "You are in the queue to enter battle."
+
+msgid "hangar/startBtn/squadNotReady/tooltipBody"
+msgstr "To enter battle, select a division and confirm readiness."
+
+msgid "hangar/startBtn/vehicleNotInInventory/body"
+msgstr ""
+"To enter battle with this vehicle, reach the 5th stage of progression."
+
+msgid "hangar/startBtn/vehicleNotInInventory/header"
+msgstr "Unavailable"
+
+msgid "hbCoinExchangeTooltip/description"
+msgstr "?empty?"
+
+msgid "hbCoinExchangeTooltip/header"
+msgstr "?empty?"
+
+msgid "hbCoinExchangeTooltip/info"
+msgstr "?empty?"
+
+msgid "hbCoinTooltip/defence/score"
+msgstr "Defense points available"
+
+msgid "hbCoinTooltip/defence/title"
+msgstr "Victory points for \"Defense\" mode"
+
+msgid "hbCoinTooltip/description"
+msgstr "Victory points you earn in \"Time of Heroes\" events."
+
+msgid "hbCoinTooltip/offence/score"
+msgstr "Breakthrough points available"
+
+msgid "hbCoinTooltip/offence/title"
+msgstr "Victory points for \"Breakthrough\" mode"
+
+msgid "hbCoinTooltip/orders/text"
+msgstr ""
+"%(orderIcon) {whiteSpanish_Open}\"More Points\" Orders{whiteSpanish_Close} "
+"available in the \"Time of Heroes\" event allow you to earn an increased "
+"amount of %(coinIcon) victory points for battles in "
+"{whiteSpanish_Open}5{whiteSpanish_Close}, "
+"{whiteSpanish_Open}10{whiteSpanish_Close}, and "
+"{whiteSpanish_Open}15{whiteSpanish_Close} times."
+
+msgid "hbCoinTooltip/orders/title"
+msgstr "How to earn more points:"
+
+msgid "hbCoinTooltip/subtitle"
+msgstr "Time of Heroes"
+
+msgid "hbCoinTooltip/suggestions/actions"
+msgstr ""
+"{whiteSpanish_Open}•   Divisions{whiteSpanish_Close}. Victory points help "
+"upgrade the division you played with faster. The higher the division level, "
+"the more victory points you will receive as a reward."
+
+msgid "hbCoinTooltip/suggestions/defence/text"
+msgstr ""
+"{whiteSpanish_Open}•   Mode Progression{whiteSpanish_Close}. Play in "
+"\"Defense\" mode and perform useful actions to earn points for this mode."
+
+msgid "hbCoinTooltip/suggestions/offence/text"
+msgstr ""
+"{whiteSpanish_Open}•   Mode Progression{whiteSpanish_Close}. Play in "
+"\"Breakthrough\" mode and perform useful actions to earn points for this "
+"mode."
+
+msgid "hbCoinTooltip/suggestions/title"
+msgstr "Purpose of victory points:"
+
+msgid "hbMainDiscountTooltip/discount"
+msgstr "Your current discount: %(value)s"
+
+msgid "hbMainDiscountTooltip/discountText/long"
+msgstr "sum up the discount"
+
+msgid "hbMainDiscountTooltip/discountText/short"
+msgstr "discount"
+
+msgid "hbMainDiscountTooltip/freeText"
+msgstr "free"
+
+msgid "hbMainDiscountTooltip/fullDiscount"
+msgstr "Reward received"
+
+msgid "hbMainDiscountTooltip/noDiscount"
+msgstr "Personal discount on tank is not available"
+
+msgid "hbMainDiscountTooltip/percents"
+msgstr "%(value)s%"
+
+msgid "hbMainDiscountTooltip/progressText"
+msgstr ""
+"Can't complete progression and get all discount coupons in time? You can "
+"also purchase the vehicle in the Shop by buying it with your existing "
+"%(discount)s."
+
+msgid "hbMainDiscountTooltip/tankLevel"
+msgstr "VII"
+
+msgid "hbMainDiscountTooltip/tankName"
+msgstr "IS-3 Parade"
+
+msgid "hbMainDiscountTooltip/tankText"
+msgstr ""
+"Participate in the \"Time of Heroes\" event and earn defense and "
+"breakthrough progression points to sum up the discount and get the Soviet "
+"heavy tank of %(level)s level %(name)s for free."
+
+msgid "hbMainDiscountTooltip/title"
+msgstr "Vehicle discount"
+
+msgid "hbMetaView/division/button"
+msgstr "GO"
+
+msgid "hbMetaView/division/details/abilities"
+msgstr "DIVISION SKILLS"
+
+msgid "hbMetaView/division/details/button"
+msgstr "BUY III LEVEL"
+
+msgid "hbMetaView/division/details/experience"
+msgstr ""
+"Current division experience: %(whiteReal_Open)s%(exp)s%(whiteReal_Close)s "
+"%(par_Open)/ %(toExp)s%(par_Close)s%(icon)s"
+
+msgid "hbMetaView/division/details/experience_max"
+msgstr "%(icon)s Maximum division level"
+
+msgid "hbMetaView/division/details/experience_not_enough"
+msgstr "You need %(exp)s more points to reach level %(level)s"
+
+msgid "hbMetaView/division/details/level/tooltip/body/defence"
+msgstr ""
+"Play in \"Defense\" mode for this division or purchase the level to increase"
+" it."
+
+msgid "hbMetaView/division/details/level/tooltip/body/offence"
+msgstr ""
+"Play in \"Breakthrough\" mode for this division or purchase the level to "
+"increase it."
+
+msgid "hbMetaView/division/details/level/tooltip/header"
+msgstr "Division level not reached"
+
+msgid "hbMetaView/division/details/vehicles"
+msgstr "DIVISION VEHICLES"
+
+msgid "hbMetaView/division/division_1/descr"
+msgstr "Good armor and firepower. Suitable for pushing directions."
+
+msgid "hbMetaView/division/division_1/full_descr"
+msgstr ""
+"Heavy tanks are the main striking force of the troops, necessary for "
+"breaking through directions or for prolonged positional battles. Excellent "
+"armor and decent firepower allow them to excel at close range."
+
+msgid "hbMetaView/division/division_2/descr"
+msgstr ""
+"Good dynamic characteristics. Suitable for flanking maneuvers and rear "
+"attacks."
+
+msgid "hbMetaView/division/division_2/full_descr"
+msgstr ""
+"Medium tanks are mobile, moderately armored vehicles that are excellent for "
+"maneuver warfare and flanking maneuvers. They perform effectively in a group"
+" or in a supporting role for stronger allies."
+
+msgid "hbMetaView/division/division_3/descr"
+msgstr ""
+"Machines with formidable long-range guns. Suitable for supporting advancing "
+"forces."
+
+msgid "hbMetaView/division/division_3/full_descr"
+msgstr ""
+"Tank destroyers are long-range machines with a low profile, capable of "
+"keeping the enemy at a sufficient distance thanks to their excellent "
+"firepower. They are effective on the second line due to their relatively low"
+" protection."
+
+msgid "hbMetaView/division/division_4/descr"
+msgstr "Good armor and firepower. Suitable for pushing directions."
+
+msgid "hbMetaView/division/division_4/full_descr"
+msgstr ""
+"Heavy tanks are the main striking force of the troops, necessary for "
+"breaking through directions or for prolonged positional battles. Excellent "
+"armor and decent firepower allow them to excel at close range."
+
+msgid "hbMetaView/division/division_5/descr"
+msgstr ""
+"Good dynamic characteristics. Suitable for flanking maneuvers and rear "
+"attacks."
+
+msgid "hbMetaView/division/division_5/full_descr"
+msgstr ""
+"Medium tanks are mobile, moderately armored vehicles that are excellent for "
+"maneuver warfare and flanking maneuvers. They perform effectively in a group"
+" or in a supporting role for stronger allies."
+
+msgid "hbMetaView/division/division_6/descr"
+msgstr ""
+"Vehicles with formidable long-range weapons. Suitable for supporting "
+"advancing forces."
+
+msgid "hbMetaView/division/division_6/full_descr"
+msgstr ""
+"Self-propelled guns are long-range vehicles with a low profile, capable of "
+"keeping the enemy at a sufficient distance thanks to their excellent "
+"firepower. Effective on the second line due to relatively low protection."
+
+msgid "hbMetaView/division/footer"
+msgstr ""
+"The higher the level of %(whiteSpanish_Open)sunits%(whiteSpanish_Close)s, "
+"the more powerful %(whiteSpanish_Open)vehicles%(whiteSpanish_Close)s and "
+"%(whiteSpanish_Open)abilities%(whiteSpanish_Close)s become available to you."
+" You can earn %(icon)s %(whiteSpanish_Open)experience%(whiteSpanish_Close)s "
+"by playing with a specific unit in the \"Time of Heroes\" mode."
+
+msgid "hbMetaView/division/title"
+msgstr "UNITS"
+
+msgid "hbMetaView/division/tooltip/body"
+msgstr ""
+"Vehicle formations available for battle in the \"%(frontName)s\" event "
+"\"Time of Heroes\"."
+
+msgid "hbMetaView/division/tooltip/title"
+msgstr "Units"
+
+msgid "hbMetaView/label/division"
+msgstr "Units"
+
+msgid "hbMetaView/label/order"
+msgstr "Orders"
+
+msgid "hbMetaView/label/progress"
+msgstr "Progression"
+
+msgid "hbMetaView/order/tooltip/body"
+msgstr ""
+"Special orders for the \"Time of Heroes\" event, necessary to receive an "
+"increased amount of points per battle."
+
+msgid "hbMetaView/order/tooltip/title"
+msgstr "Orders"
+
+msgid "hbMetaView/progress/tooltip/body"
+msgstr "Progression in the \"%(frontName)s\" mode in the \"Time of Heroes\" event."
+
+msgid "hbMetaView/progress/tooltip/title"
+msgstr "Progression"
+
+msgid "interactiveObject/counter/1"
+msgstr "1 of 12"
+
+msgid "interactiveObject/counter/10"
+msgstr "10 of 12"
+
+msgid "interactiveObject/counter/11"
+msgstr "11 of 12"
+
+msgid "interactiveObject/counter/12"
+msgstr "12 of 12"
+
+msgid "interactiveObject/counter/13"
+msgstr "1 of 4"
+
+msgid "interactiveObject/counter/14"
+msgstr "2 of 4"
+
+msgid "interactiveObject/counter/15"
+msgstr "3 of 4"
+
+msgid "interactiveObject/counter/16"
+msgstr "4 of 4"
+
+msgid "interactiveObject/counter/2"
+msgstr "2 of 12"
+
+msgid "interactiveObject/counter/3"
+msgstr "3 of 12"
+
+msgid "interactiveObject/counter/4"
+msgstr "4 of 12"
+
+msgid "interactiveObject/counter/5"
+msgstr "5 of 12"
+
+msgid "interactiveObject/counter/6"
+msgstr "6 of 12"
+
+msgid "interactiveObject/counter/7"
+msgstr "7 of 12"
+
+msgid "interactiveObject/counter/8"
+msgstr "8 of 12"
+
+msgid "interactiveObject/counter/9"
+msgstr "9 of 12"
+
+msgid "interactiveObject/description/1"
+msgstr ""
+"“Just took a three-row fighter,\n"
+"Clearly a harmonist.\n"
+"For a start, for order\n"
+"Threw fingers from top to bottom...”\n"
+"\n"
+"Military correspondent Tvardovsky knew firsthand what this truly popular instrument meant for a frontline soldier. In every rifle platoon or artillery battery, in every aviation regiment, tank crew and self-propelled gun, sailors and submariners, there was their own \"Tyorkin\" harmonist. Witnesses of Victory share a common memory - the harmonica tunes. On that day, the whole country, the entire army, all of Europe sang and danced to the Russian harmonica.\n"
+"\n"
+"During the Great Patriotic War, harmonicas were specifically sent to the front to boost the morale of the soldiers. By the end of the summer of 1941, 12,000 of these musical instruments were sent to the front. In the fall of the same year, over 60,000 were sent. In 1942, at the request of the Political Administration of the Soviet Army, the local industry commissariat of the RSFSR obliged the Shuya and Tula factories to retool production for the production of harmonicas and bayans."
+
+msgid "interactiveObject/description/10"
+msgstr ""
+"The Second World War was the last war of cavalry. Soviet cavalry units "
+"successfully participated in all major offensives of 1942-1944. Some of the "
+"cavalrymen were fighters from the Don and Kuban regions - true Soviet "
+"Cossacks. Two Guards Cavalry Corps during the Great Patriotic War were "
+"officially named \"Cossack\". In 1945, the 5th Guards Don Cossack Corps "
+"reached Vienna in battles, while the 4th Guards Kuban Cossack Corps "
+"liberated Prague. Horses participated in the Great Patriotic War not only in"
+" the cavalry - by June 22, 1941, the number of horses in the Red Army was "
+"526,000, but by September 1, there were over 1,300,000 of these four-legged "
+"animals in the army. The Germans had even more military horses. Throughout "
+"the war, the Germans exploited over 3 million of these animals on the "
+"Eastern Front. Both the Soviet Army and the Wehrmacht used horses as a "
+"transport force."
+
+msgid "interactiveObject/description/11"
+msgstr ""
+"Cities of wartime... Streets barricaded, trenches dug. Houses painted with spots to resemble trees from the air. Parks with anti-aircraft guns aimed at the sky. Shop windows boarded up and filled with sand. Windows sealed with white crosses of paper strips. Darker and longer than nights, the sky filled with myriad stars, the impenetrable darkness of the cold autumn night occasionally pierced by the long knife of a searchlight, seeking enemy aircraft.\n"
+"\n"
+"Cross-shaped paper-taped windows of buildings - a precaution to protect against flying glass shards. Such windows became one of the symbols of the war. Interestingly, this simple safety technique is still in use: in auto and motorcycle sports, especially in rally racing, headlights are taped with crosses for the same reason - to protect spectators from flying debris in case of a possible accident."
+
+msgid "interactiveObject/description/12"
+msgstr ""
+"The Soviet 7.62mm submachine gun of the 1941 model, Shpagin system (PPSh, "
+"\"PapaSha\"), was adopted on December 21, 1940, along with the PPS-43, and "
+"was the main submachine gun of the Red Army in the Great Patriotic War and a"
+" distinctive symbol of the Soviet soldier of that time. The secret of the "
+"PPSh-41's success lies in its simplicity, high rate of fire, firepower, and "
+"accuracy. Designer Georgy Shpagin managed to create a maximally simplified "
+"and inexpensive design: the PPSh required only 87 parts, most of which were "
+"stamped, and assembly took only 5.6 machine-hours. Additionally, the PPSh "
+"did not require the creation of a separate cartridge. The drum magazine held"
+" 71 rounds of 7.62x25mm ammunition from the TT pistol. The stick magazine "
+"held half as many - 35 rounds, but it was easier to load. The PPSh's rate of"
+" fire was 900 rounds per minute, while its German competitor, the MP-40, "
+"produced about 500 rounds per minute. The Germans did not hesitate to use "
+"captured PPShs and even converted them to their 9x19mm \"Parabellum\" pistol"
+" cartridge. Their weapons were designated under the index Maschinenpistole "
+"717(r)."
+
+msgid "interactiveObject/description/13"
+msgstr ""
+"The most mass-produced aircraft of the Second World War. For its time, the "
+"Il-2 had a very solid armament that allowed it to destroy almost all types "
+"of targets. Due to its high combat qualities, the Germans nicknamed it the "
+"\"Black Death,\" \"Plague,\" \"Flying Tank,\" and \"Concrete Aircraft.\" The"
+" Il-2 pioneered a new type of frontline aviation, becoming an achievement of"
+" aviation science of its time, demonstrating high efficiency in combating "
+"ground and surface targets. The main targets for the Il-2 were enemy "
+"transport vehicles, bridges, crossings, naval artillery and ships, and of "
+"course, armored vehicles. Sorties of Il-2 squadrons posed a serious threat "
+"to the mobile armored units of the Wehrmacht. The moral factor was "
+"significant - with the appearance of Il-2 formations overhead, Red Army "
+"infantry felt reliable air support, which positively affected morale."
+
+msgid "interactiveObject/description/14"
+msgstr ""
+"Messerschmitt Bf 109 (or Me-109) - a single-engine piston fighter, in "
+"service with the Luftwaffe and air forces of various countries for almost 30"
+" years. The E modification (\"Emil\") became the first truly mass-produced "
+"version of the Bf 109. By the time it entered service, it was undoubtedly "
+"one of the best fighters in the world. This aircraft could compete on equal "
+"terms with the British Spitfire of the first modification, which the British"
+" positioned as an unrivaled aircraft in the air. In the conditions of war, "
+"when military equipment (including aircraft) began to develop rapidly, the "
+"advantages of the Bf 109E were quickly lost. By the start of the Great "
+"Patriotic War, the Bf 109E was gradually phased out, replaced by the more "
+"modern F modification. However, in 1941, the \"Emils\" still saw action, "
+"including in the skies of the Soviet Union."
+
+msgid "interactiveObject/description/15"
+msgstr ""
+"The German tank Pz.Kpfw. IV was in a constant process of modification. In the USSR, the tank was known as the T-4, under which it was listed in all documents - all due to the absence of Latin characters on typewriters and, as a result, the inability to use the tank's factory designation.\n"
+"\n"
+"Here is the Ausf.D modification, which made this tank truly combat-ready, unlike the previous A/B/C modifications, which were training-combat. The Ausf.D version appeared in the troops at the end of 1939. This tank managed to fight on almost all fronts - in Africa, Greece, and the Eastern Front. A total of 229 machines of this modification were produced, which were serially produced until May 1940 and remained in service until 1944. Tanks of this modification were mainly used in France, North Africa, the Balkans, and the USSR."
+
+msgid "interactiveObject/description/16"
+msgstr ""
+"A German medium tank project of the early 1940s. The idea of a new tank "
+"project by Porsche was born in 1939 when the new concept was developed. "
+"After numerous approvals, on March 5, 1941, it became a blueprint, and in "
+"July 1941, a hull was made of soft steel. The hull and chassis underwent "
+"field trials, including with additional equipment for trench digging. Only "
+"one wooden turret model and a wooden hull model without a roof were made. In"
+" 1942, the project was closed, switching to the VK 45.01 (P) - a prototype "
+"of the future \"Tiger Porsche.\""
+
+msgid "interactiveObject/description/2"
+msgstr ""
+"Field hospital - the last and perhaps the most important link in the primary"
+" medical base of the Red Army. Field hospitals were rightfully called the "
+"\"main surgical\" units: it was here that the wounded received qualified "
+"surgical care. According to post-war generalized data, almost three-quarters"
+" of all wounded were operated on in divisional medical stations. However, a "
+"field hospital was not and could not be a real hospital: its task was not to"
+" cure the wounded - only to provide qualified assistance and subsequent "
+"sorting, which determined in which hospital the soldiers would end up."
+
+msgid "interactiveObject/description/3"
+msgstr ""
+"By the beginning of the Great Patriotic War, skiing was extremely popular in"
+" the country. It was part of the pre-conscription training system for youth."
+" Within the framework of physical education and defense work, skiing was as "
+"important as motor training, bayonet fighting, gymnastics, and grenade "
+"launching. Typical ski equipment of the 1930s-1940s consisted of simple "
+"wooden skis coated with varnish, with a sliding surface resin-treated to "
+"reduce hygroscopicity. There were also strap bindings with a heel strap, "
+"bamboo ski poles equipped with wooden rings with leather or canvas diagonal "
+"weaves. The bindings of Soviet army skis were semi-rigid. They consisted of "
+"a toe clamp made of galvanized steel and canvas toe and heel straps with a "
+"buckle."
+
+msgid "interactiveObject/description/4"
+msgstr ""
+"Dogs fought side by side with humans, evacuating the wounded, throwing themselves under tanks, and blowing up enemy trains. They endured hunger, cold, and wetness in the trenches alongside our soldiers, helping them maintain mental strength and sound judgment during those harsh days of trials. In total, about 68,000 dogs fought for victory on the fronts of the Great Patriotic War in 168 units.\n"
+"\n"
+"Sanitary dog Mukhtar, like other dogs in the army medical service, was required to bring first aid kits to the wounded, but he became famous for evacuating over 400 injured soldiers from the battlefield. Among them was Mukhtar's handler - Corporal Zorin, who was concussed by a nearby bomb during battle.\n"
+"\n"
+"The dog carried the wounded soldier on himself, thus saving his life."
+
+msgid "interactiveObject/description/5"
+msgstr ""
+"One of the types of riding dogs was the sanitary service dogs, which soldiers rightfully called furry angels. Sanitary dog Mukhtar, like other dogs in the army medical service, was required to bring first aid kits to the wounded, but he became famous for evacuating over 400 injured soldiers from the battlefield. Among them was Mukhtar's handler - Corporal Zorin, who was concussed by a nearby bomb during battle.\n"
+"\n"
+"The dog carried the wounded soldier on himself, thus saving his life."
+
+msgid "interactiveObject/description/6"
+msgstr ""
+"Perhaps the word \"war\" is the most terrifying and destructive word in the world. And a cat, perhaps, is the most affectionate and cozy animal in the world. But history has shown how often, unfortunately, these two words find themselves side by side. When trouble comes to the human world, it inevitably affects cats as well. And it turns out that these pets are not only not a burden in times of great trials but can also help people. The psychotherapeutic effect of having a cat has been noted in many armies around the world. The hypersensitivity of these animals, allowing them to predict air raids long before it is possible with air defense, can also be of great service. During the siege of Leningrad, cats brought their prey to their owners, warmed children with their small bodies, and protected food stores from rats.\n"
+"\n"
+"Of course, cats did not play as active a role in the Great Patriotic War as dogs. But they, undoubtedly, also made their contribution to the cause of Victory. At least by helping people believe in it."
+
+msgid "interactiveObject/description/7"
+msgstr ""
+"Universal containers of various shapes and sizes, in which everything imaginable came to the front: ammunition, food, equipment, and even mail. Besides the contents, the containers themselves had considerable value. In addition to their intended use, the crates were disassembled. The planed boards could be used for a wide range of purposes - from building fortifications and repairing wooden structures to fuel for stoves and campfires.\n"
+"\n"
+"Similar crates were sent to the front with cargo under the lend-lease program. Small arms were supplied sparingly, some models were transferred to the USSR in single copies (for example, the M1 Garand rifle) for study by local design bureaus, but there were also large shipments: the Red Army received almost 138,000 Thompson submachine guns and 13,000 Colt M1911 pistols, 3,000 Bazooka rocket launchers, and so on. American canned goods and medicines were also desirable cargo at the front."
+
+msgid "interactiveObject/description/8"
+msgstr ""
+"The Maxim machine gun, created in 1883 in Britain, is one of the most popular and mass-produced in the world. No major armed conflict was without it. The appearance of the Maxim machine gun largely determined and changed the tactics of war - it turned into positional warfare. Hiram Maxim's machine guns were used during World War I and the Civil War, mounted as heavy machine guns, installed on armored cars and armored trains. The machine gun survived until World War II. The design of the Maxim machine gun was morally outdated by the late 1930s, but the machine gun continued to be produced until 1945, and until the end of production, it remained the main heavy machine gun of the Red Army. Defenders of the Brest Fortress met the enemy with a Maxim machine gun, and it was used in many defensive operations - it was fired by defenders of Moscow and Stalingrad.\n"
+"\n"
+"The last recorded use of the machine gun by the Soviet Army was in 1969."
+
+msgid "interactiveObject/description/9"
+msgstr ""
+"The black horn loudspeaker-reproducer is one of the symbols of the Great Patriotic War. During the war years, loudspeakers became a means of mass communication: people gathered around them to learn the latest news from the front. Often, the loudspeaker became the only window to the world: the radio brought news of tragedies and successes to the people. In photographs of those years, you can see the concern on the faces of people gathering around the loudspeakers when the enemy advanced, and the real joy when Yuri Levitan announced front victories and the liberation of another city.\n"
+"\n"
+"During the war years, wired broadcasting became widespread. Loudspeakers were sensitive, slightly crackling, but overall, it was a very successful device. The horn speaker housing was made of bent plywood, inside which the RD-10 or RD-100 speaker, similar in design but different in size, was placed."
+
+msgid "interactiveObject/header/1"
+msgstr "Accordion"
+
+msgid "interactiveObject/header/10"
+msgstr "Horses"
+
+msgid "interactiveObject/header/11"
+msgstr "Boarded-up windows"
+
+msgid "interactiveObject/header/12"
+msgstr "PPSh"
+
+msgid "interactiveObject/header/13"
+msgstr "IL-2"
+
+msgid "interactiveObject/header/14"
+msgstr "BF 109E"
+
+msgid "interactiveObject/header/15"
+msgstr "Pz.IV D"
+
+msgid "interactiveObject/header/16"
+msgstr "VK 30.01 (P)"
+
+msgid "interactiveObject/header/2"
+msgstr "Medics Battalion"
+
+msgid "interactiveObject/header/3"
+msgstr "Skis"
+
+msgid "interactiveObject/header/4"
+msgstr "Dogs on the Frontline"
+
+msgid "interactiveObject/header/5"
+msgstr "Sanitary Dogs"
+
+msgid "interactiveObject/header/6"
+msgstr "Cats"
+
+msgid "interactiveObject/header/7"
+msgstr "Crates"
+
+msgid "interactiveObject/header/8"
+msgstr "Machine Gun"
+
+msgid "interactiveObject/header/9"
+msgstr "Loudspeaker"
+
+msgid "mainReward/close"
+msgstr "CLOSE"
+
+msgid "mainReward/header"
+msgstr "MAIN AWARD RECEIVED!"
+
+msgid "mainReward/watchInHangar"
+msgstr "Show in Hangar"
+
+msgid "mainRewardTooltip/body"
+msgstr "?empty?"
+
+msgid "mainRewardTooltip/disc"
+msgstr "?empty?"
+
+msgid "mainRewardTooltip/footer"
+msgstr ""
+"%(infoIcon)Event duration: {brown_Open}from %(dateStart)s to "
+"%(dateEnd)s{brown_Close}."
+
+msgid "mainRewardTooltip/header"
+msgstr "Main award of the \"Time of Heroes\" event"
+
+msgid "mainRewardWidget/rewardInfo"
+msgstr "Reward for both progressions"
+
+msgid "mainRewardWidget/rewards/currentStage/title"
+msgstr "Current stage:"
+
+msgid "mainRewardWidget/rewards/currentStage/value"
+msgstr ""
+"%(whiteSpanish_Open)s%(current_level)s%(whiteSpanish_Close)s %(par_Open)s/ "
+"%(max_level)s%(par_Close)s"
+
+msgid "mainRewardWidget/rewards/defence/title"
+msgstr "DEFENSE"
+
+msgid "mainRewardWidget/rewards/notAvailable"
+msgstr "Before start:"
+
+msgid "mainRewardWidget/rewards/offence/title"
+msgstr "BREAKTHROUGH"
+
+msgid "mainRewardWidget/rewards/stageCompleted"
+msgstr "Progression completed"
+
+msgid "mainRewardWidget/stagesCompleted"
+msgstr "%(checkIcon)s Reward received"
+
+msgid "mainRewardWidget/title"
+msgstr "Georgy Zhukov"
+
+msgid "memberWindow/btnReady/footerMsg/frontDisable"
+msgstr "Mode unavailable"
+
+msgid "memberWindow/header/event"
+msgstr ": \"Time of Heroes\""
+
+msgid "memberWindow/header/tooltip/event/body"
+msgstr ""
+"A squad consists of 2-5 players, each of whom must choose a unit and confirm"
+" readiness."
+
+msgid "memberWindow/header/tooltip/event/header"
+msgstr "Squad Formation Rules"
+
+msgid "orderInfo/description"
+msgstr ""
+"{whiteSpanish_Open}\"More Points\" Orders{whiteSpanish_Close} increase the "
+"amount of {icon}{whiteSpanish_Open}victory points{whiteSpanish_Close} "
+"received by {whiteSpanish_Open}x5{whiteSpanish_Close}, "
+"{whiteSpanish_Open}x10{whiteSpanish_Close}, or "
+"{whiteSpanish_Open}x15{whiteSpanish_Close} times. The higher the order "
+"multiplier, the greater the reward for the battle, as well as the speed of "
+"progression and unit upgrades."
+
+msgid "orderInfo/okButton"
+msgstr "Affirmative!"
+
+msgid "orderInfo/subtitle"
+msgstr "Receive 5, 10, and 15 times more victory points for the battle!"
+
+msgid "orderInfo/title"
+msgstr "\"MORE POINTS\" ORDERS"
+
+msgid "orderInfo/x10/description"
+msgstr ""
+"Available for purchase individually for credits, as well as in special sets "
+"on the orders screen."
+
+msgid "orderInfo/x10/label"
+msgstr "Order x10"
+
+msgid "orderInfo/x15/description"
+msgstr ""
+"Issued at the start of modes, as a reward for completing defense and "
+"breakthrough progressions, as well as in sets in the in-game Store."
+
+msgid "orderInfo/x15/label"
+msgstr "Order x15"
+
+msgid "orderInfo/x5/description"
+msgstr "Issued once daily for free if the available order has been used."
+
+msgid "orderInfo/x5/label"
+msgstr "Order x5"
+
+msgid "orderTooltip/available"
+msgstr "Available"
+
+msgid "orderTooltip/content"
+msgstr ""
+"Special orders of the %(whiteSpanish_Open)\"Time of Heroes\" "
+"event%(whiteSpanish_Close), necessary to receive an increased amount of "
+"%(icon)s %(whiteSpanish_Open)victory points%(whiteSpanish_Close) for the "
+"battle."
+
+msgid "orderTooltip/count"
+msgstr "{whiteSpanish_Open}%(amount){whiteSpanish_Close} %(icon) В наличии"
+
+msgid "orderTooltip/description/x10"
+msgstr ""
+"%(orderIcon)s{whiteSpanish_Open}Orders for x10{whiteSpanish_Close} points "
+"can be purchased in special sets on the orders screen."
+
+msgid "orderTooltip/description/x15"
+msgstr ""
+"%(orderIcon)s{whiteSpanish_Open}Orders for x15{whiteSpanish_Close} points "
+"are issued at the start of modes, as a reward for progressing through "
+"defense and breakthrough mode progressions, as well as in sets in the in-"
+"game Store."
+
+msgid "orderTooltip/description/x5"
+msgstr ""
+"%(orderIcon)s{whiteSpanish_Open}Orders for x5{whiteSpanish_Close} points are"
+" issued once daily for free if the available order has been used."
+
+msgid "orderTooltip/header"
+msgstr "\"More Points\" Order %(orderType)s"
+
+msgid "orderTooltip/info"
+msgstr ""
+"After battle, the order with the highest bonus among those available is "
+"used."
+
+msgid "orderTooltip/notAvailable"
+msgstr "Not available"
+
+msgid "orderTooltip/subheader"
+msgstr "Acquisition Method"
+
+msgid "orderWidget/order/title/x10"
+msgstr "Orders x10"
+
+msgid "orderWidget/order/title/x15"
+msgstr "Orders x15"
+
+msgid "orderWidget/order/title/x5"
+msgstr "Orders x5"
+
+msgid "orderWidget/title"
+msgstr ""
+"SETS OF\n"
+"ORDERS X10"
+
+msgid "orderWidgetTooltip/description"
+msgstr ""
+"Orders are a special multiplier of experience gained in battle, used to "
+"progress and upgrade units."
+
+msgid "orderWidgetTooltip/inStock/count"
+msgstr "%(amount) %(icon)"
+
+msgid "orderWidgetTooltip/inStock/title"
+msgstr "Available:"
+
+msgid "orderWidgetTooltip/infoText"
+msgstr ""
+"The order can only be applied after the battle and only the largest one "
+"available."
+
+msgid "orderWidgetTooltip/title"
+msgstr "Purchase sets of orders x10"
+
+msgid "platoon/headerButton/tooltips/disabled/body"
+msgstr ""
+"Creating a platoon for the \"Time of Heroes\" event is temporarily "
+"unavailable due to technical reasons."
+
+msgid "platoon/headerButton/tooltips/disabled/header"
+msgstr "Unavailable"
+
+msgid "platoon/headerButton/tooltips/squad/body"
+msgstr ""
+"Creating a formation of 2-5 players for cooperative play in the \"Time of "
+"Heroes\" mode."
+
+msgid "platoon/headerButton/tooltips/squad/header"
+msgstr "Platoon"
+
+msgid "preBattle/exitButton"
+msgstr "Exit battle"
+
+msgid "preBattle/orders/applyOrderHint"
+msgstr "After the battle, you can apply the largest available order"
+
+msgid "preBattle/orders/itemCount"
+msgstr "%d pcs."
+
+msgid "preBattle/orders/orderWarning"
+msgstr ""
+"You do not have the \"More Points\" order, you will not be able to increase "
+"the number of points after the battle."
+
+msgid "preBattle/orders/x10"
+msgstr "In the sets on the orders screen"
+
+msgid "preBattle/orders/x15"
+msgstr "As a reward for completing progressions"
+
+msgid "preBattle/orders/x5"
+msgstr "Free once a day"
+
+msgid "preBattle/timer"
+msgstr "Wait time: %(time)s"
+
+msgid "progressionWidgetTooltip/completed/text"
+msgstr ""
+"Great job, commander! You have completed the hero's path in the current "
+"mode."
+
+msgid "progressionWidgetTooltip/completed/title"
+msgstr "%s PROGRESSION PASSED"
+
+msgid "progressionWidgetTooltip/currentStage"
+msgstr "Current level"
+
+msgid "progressionWidgetTooltip/defence/title"
+msgstr "Defense mode progression"
+
+msgid "progressionWidgetTooltip/offence/title"
+msgstr "Breakthrough mode progression"
+
+msgid "progressionWidgetTooltip/rewards/title"
+msgstr "Stage rewards"
+
+msgid "progressionWidgetTooltip/subtitle"
+msgstr "Time of Heroes"
+
+msgid "progressionWidgetTooltip/suggestions/actions"
+msgstr ""
+"{whiteSpanish_Open}•   Useful actions in battle.{whiteSpanish_Close} More "
+"points are awarded for destroying enemies, dealing damage, assisting in "
+"destruction, and blocking damage."
+
+msgid "progressionWidgetTooltip/suggestions/defence/text"
+msgstr ""
+"{whiteSpanish_Open}•   Play in \"Defense\" mode.{whiteSpanish_Close} Battles"
+" in this mode allow progression along the corresponding progression."
+
+msgid "progressionWidgetTooltip/suggestions/offence/text"
+msgstr ""
+"{whiteSpanish_Open}•   Play in \"Breakthrough\" mode.{whiteSpanish_Close} "
+"Battles in this mode allow progression along the corresponding progression."
+
+msgid "progressionWidgetTooltip/suggestions/title"
+msgstr "How to earn victory points:"
+
+msgid "role/artillery"
+msgstr "ARTILLERY"
+
+msgid "role/aviation"
+msgstr "SCOUT"
+
+msgid "role/engineer"
+msgstr "ENGINEER"
+
+msgid "role/none"
+msgstr "—"
+
+msgid "role/skill"
+msgstr "Commander's skill"
+
+msgid "role/skillDescription"
+msgstr ""
+"Special commander's skill that becomes available after dealing 1000 damage "
+"in battle."
+
+msgid "roleRegular/artillery"
+msgstr "Artillery"
+
+msgid "roleRegular/aviation"
+msgstr "Scout"
+
+msgid "roleRegular/engineer"
+msgstr "Engineer"
+
+msgid "roleRegular/none"
+msgstr "—"
+
+msgid "serviceChannelMessages/HBStartedMessage/button"
+msgstr "To the event"
+
+msgid "shop/backBtn"
+msgstr "BACK"
+
+msgid "shop/backTo"
+msgstr "To the Garage"
+
+msgid "shop/bought"
+msgstr "Purchased"
+
+msgid "shop/close"
+msgstr "CLOSE"
+
+msgid "shop/discount"
+msgstr "{discount}%"
+
+msgid "shop/equipments/descr"
+msgstr ""
+"Improves vehicle characteristics. More effective than standard equipment."
+
+msgid "shop/equipments/name"
+msgstr "Upgraded equipment"
+
+msgid "shop/forSale"
+msgstr "Available for purchase once: %(count)"
+
+msgid "shop/free"
+msgstr "Free"
+
+msgid "shop/getFree"
+msgstr "Get for free"
+
+msgid "shop/hardDisable"
+msgstr "Functionality temporarily unavailable. Please try again later."
+
+msgid "shop/inHangar"
+msgstr "In the Garage"
+
+msgid "shop/info"
+msgstr "?empty?"
+
+msgid "shop/menu/best"
+msgstr "Best"
+
+msgid "shop/menu/crewbook"
+msgstr "Manuals"
+
+msgid "shop/menu/equipment"
+msgstr "Equipment"
+
+msgid "shop/menu/instruction"
+msgstr "Instructions"
+
+msgid "shop/menu/reserves"
+msgstr "Personal Reserves"
+
+msgid "shop/optionalDevices/backBtn"
+msgstr "BACK"
+
+msgid "shop/optionalDevices/backTo"
+msgstr "SPECIAL OFFERS"
+
+msgid "shop/optionalDevices/close"
+msgstr "CLOSE"
+
+msgid "shop/optionalDevices/header"
+msgstr "ADVANCED EQUIPMENT"
+
+msgid "shop/optionalDevices/warning"
+msgstr "One type of equipment is available for purchase"
+
+msgid "shop/or"
+msgstr "or"
+
+msgid "shop/sold"
+msgstr "Vehicle sold, restoration available"
+
+msgid "shop/tankDescription"
+msgstr "Good single damage, excellent circular armor"
+
+msgid "shop/window"
+msgstr "SPECIAL OFFERS"
+
+msgid "shopPrize/back"
+msgstr "BACK"
+
+msgid "shopPrize/backLabel"
+msgstr "SPECIAL OFFERS"
+
+msgid "shopPrize/buttonBuyForGold"
+msgstr "Buy for gold"
+
+msgid "shopPrize/buttonGetFree"
+msgstr "Get for free"
+
+msgid "shopPrize/buttonGetVehicle"
+msgstr "Get equipment"
+
+msgid "shopPrize/buttonRestore"
+msgstr "Restore"
+
+msgid "shopPrize/buttonShowInHangar"
+msgstr "Show in Garage"
+
+msgid "shopPrize/buyFreeCount"
+msgstr "%(currCount)s / %(maxCount)s parts"
+
+msgid "shopPrize/buyTitle"
+msgstr "?empty?"
+
+msgid "shopPrize/close"
+msgstr "CLOSE"
+
+msgid "shopPrize/labelDoneDiscount"
+msgstr "20% discount received"
+
+msgid "shopPrize/labelVehicleReceived"
+msgstr "Vehicle received!"
+
+msgid "shopPrize/messageBuy"
+msgstr "?empty?"
+
+msgid "shopPrize/messageVehicleSold"
+msgstr "Vehicle sold, indefinite restoration available"
+
+msgid "shopPrize/orText"
+msgstr "or"
+
+msgid "shopPrize/preview"
+msgstr "Preview"
+
+msgid "shopPrize/subTitle"
+msgstr "Heavy breakthrough tank"
+
+msgid "shopPrize/title"
+msgstr "%(level)s %(type)s %(name)s"
+
+msgid "shopPrize/tooltipBody/counterattack"
+msgstr "?empty?"
+
+msgid "shopPrize/tooltipBody/defence"
+msgstr "?empty?"
+
+msgid "shopPrize/tooltipBody/offence"
+msgstr "?empty?"
+
+msgid "shopPrize/tooltipBody/text"
+msgstr "Component providing a 20% discount on the purchase of T-34M-54"
+
+msgid "shopPrize/tooltipHeaderChassis"
+msgstr "Chassis K-2"
+
+msgid "shopPrize/tooltipHeaderEngine"
+msgstr "Engine K-2"
+
+msgid "shopPrize/tooltipHeaderGun"
+msgstr "Gun K-2"
+
+msgid "shopPrize/tooltipHeaderRadio"
+msgstr "Hull K-2"
+
+msgid "shopPrize/tooltipHeaderTurret"
+msgstr "Turret K-2"
+
+msgid "shopWidget/title"
+msgstr "EVENT STORE"
+
+msgid "shopWidget/tooltip/body"
+msgstr "Tap to go to the event store and check out thematic offers."
+
+msgid "shopWidget/tooltip/header"
+msgstr "Event Store"
+
+msgid "status/inBattle"
+msgstr "In battle"
+
+msgid "status/inPlatoon"
+msgstr "In formation"
+
+msgid "statusMessage/ban/extraSmall"
+msgstr "Battle entry blocked until %(date)s %(icon)"
+
+msgid "statusMessage/ban/regular"
+msgstr "Battle entry blocked until %(date)s %(icon)"
+
+msgid "statusMessage/noActiveHint/extraSmall"
+msgstr ""
+"Without the \"More Points\" directive, you will receive the base amount of "
+"points."
+
+msgid "statusMessage/noActiveHint/regular"
+msgstr ""
+"Without the \"More Points\" directive, you will receive the base amount of "
+"points."
+
+msgid "subdivisionTooltip/currentExperience"
+msgstr ""
+"Current experience: %(whiteOrange_Open)s%(exp)s%(whiteOrange_Close)s / "
+"%(toExp)s%(icon)s"
+
+msgid "subdivisionTooltip/currentLevel"
+msgstr "%(whiteSpanish_Open)s%(level)s%(whiteSpanish_Close)s unit level"
+
+msgid "subdivisionTooltip/isMaxLevel"
+msgstr "Maximum level"
+
+msgid "subdivisionTooltip/vehicles"
+msgstr "Vehicles:"
+
+msgid "sysMessageFairPlayMsg/arenaBan/button"
+msgstr "More details"
+
+msgid "sysMessageFairPlayMsg/arenaBanStart/body"
+msgstr "Access to battles in \"Time of Heroes\" mode temporarily closed."
+
+msgid "sysMessageFairPlayMsg/arenaBanStart/header"
+msgstr "Lock"
+
+msgid "sysMessageFairPlayMsg/arenaBanStop/body"
+msgstr ""
+"Lock period expired. Access to battles in \"Time of Heroes\" mode restored."
+
+msgid "sysMessageFairPlayMsg/arenaBanStop/header"
+msgstr "Admittance to mode"
+
+msgid "sysMessageFairPlayMsg/arenaWarning/body"
+msgstr ""
+"You have received a warning for inactivity or fleeing from the battlefield "
+"in \"Time of Heroes\" mode."
+
+msgid "sysMessageFairPlayMsg/arenaWarning/button"
+msgstr "More details"
+
+msgid "sysMessageFairPlayMsg/arenaWarning/header"
+msgstr "Warning"
+
+msgid "system_messages/battleResults/badge"
+msgstr "Received: <font color='#FFFFFF'>Patch \"%(text)s\"</font>."
+
+msgid "system_messages/battleResults/coins/defence"
+msgstr "Received event points: <font color='#FFDD99'>%(amount)s</font>."
+
+msgid "system_messages/battleResults/coins/offence"
+msgstr "Received event points: <font color='#FFDD99'>%(amount)s</font>."
+
+msgid "system_messages/battleResults/division"
+msgstr "Platoon: %(name)s"
+
+msgid "system_messages/battleResults/event"
+msgstr "Event: \"Time of Heroes\""
+
+msgid "system_messages/battleResults/roleAbility"
+msgstr "Received: <font color='#FFFFFF'>Role skill \"%(text)s\"</font>."
+
+msgid "system_messages/hb_all_progressions_finished/body"
+msgstr "You have completed both progressions of the \"Time of Heroes\" event."
+
+msgid "system_messages/hb_event_ended/body"
+msgstr "The \"Time of Heroes\" event is completed."
+
+msgid "system_messages/roleQuestComplete/body"
+msgstr "Commander %(frontman)s received the role skill \"%(ability)s\""
+
+msgid "system_messages/roleQuestComplete/header"
+msgstr "Combat mission accomplished!"
+
+msgid "system_messages/second_front_opened/body"
+msgstr ""
+"The \"Breakthrough\" mode has been unlocked in the \"Time of Heroes\" event."
+" Choose a unit - and into battle!"
+
+msgid "system_messages/switched_off_battles/body"
+msgstr ""
+"Entering battle in the \"Time of Heroes\" event is temporarily unavailable. "
+"Please try again later."
+
+msgid "system_messages/switched_off_event/body"
+msgstr ""
+"Currently, this event is unavailable. Stay tuned for updates on the game's "
+"website."
+
+msgid "system_messages/switched_on_battles/body"
+msgstr ""
+"Battles of the \"Time of Heroes\" event are available again. Choose a unit -"
+" and into battle!"
+
+msgid "system_messages/switched_on_event/body"
+msgstr ""
+"The \"Time of Heroes\" event has begun. Don't let the enemy break through "
+"the defense. Choose a unit - and into battle!"
+
+msgid "teamList/teammates"
+msgstr "Allies"
+
+msgid "vehiclePreviewPanel/acceptBtn/label/buy"
+msgstr "Buy"
+
+msgid "vehiclePreviewPanel/acceptBtn/label/buyVehicle"
+msgstr "Buy a vehicle"
+
+msgid "vehiclePreviewPanel/acceptBtn/label/getVehicle"
+msgstr "Get equipment"
+
+msgid "vehiclePreviewPanel/secondaryBtn/label/restore"
+msgstr "Restore"
+
+msgid "vehiclePreviewPanel/secondaryBtn/label/showEvent"
+msgstr "To the game event"
+
+msgid "vehiclePreviewPanel/secondaryBtn/label/showEventShop"
+msgstr "Increase discount"
+
+msgid "vehiclePreviewPanel/title/eventFinished"
+msgstr "The \"Time of Heroes\" game event has ended."
+
+msgid "vehiclePreviewPanel/title/eventInProgress"
+msgstr ""
+"Participate in the \"Time of Heroes\" event to receive a vehicle for free or"
+" increase the discount on its purchase."

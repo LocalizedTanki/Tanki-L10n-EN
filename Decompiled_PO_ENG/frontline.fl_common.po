@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-frontline.fl_common\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr "nplurals=2; plural=(n != 1);"
+
+msgid "button/back"
+msgstr "BACK"
+
+msgid "button/close"
+msgstr "CLOSE"
+
+msgid "levelReservesTooltip/desc"
+msgstr "Combat Reserve Levels are increased upon reaching new ranks."
+
+msgid "levelReservesTooltip/info"
+msgstr ""
+"In the {whiteSpanish_Start}Twist of Fate{whiteSpanish_End} scenario, "
+"purchasing a Combat Reserve will increase its level by one and provide an "
+"opportunity to improve it to Level "
+"{whiteSpanish_Start}%(lvl)s{whiteSpanish_End}."
+
+msgid "levelReservesTooltip/level"
+msgstr ""
+"Increases upon reaching the following rank: "
+"{whiteSpanish_Start}%(lvl)s{whiteSpanish_End}"
+
+msgid "levelReservesTooltip/levelAvailable"
+msgstr ""
+"Available with the following rank: "
+"{whiteSpanish_Start}%(lvl)s{whiteSpanish_End}"
+
+msgid "levelReservesTooltip/levelTitle"
+msgstr "Level {whiteSpanish_Start}%(lvl)s{whiteSpanish_End}"
+
+msgid "levelReservesTooltip/optionalReserve"
+msgstr ""
+"For {whiteSpanish_Start}purchased Combat Reserves{whiteSpanish_End} in the "
+"{whiteSpanish_Start}Twist of Fate{whiteSpanish_End} scenario."
+
+msgid "levelReservesTooltip/title"
+msgstr "Combat Reserve Levels"
+
+msgid "loading"
+msgstr "Loading…"
+
+msgid "tab/info/description"
+msgstr "Frontline mode details."
+
+msgid "tab/info/name"
+msgstr "About Frontline"
+
+msgid "tab/progress/description"
+msgstr "Frontline Tier Progression."
+
+msgid "tab/progress/name"
+msgstr "Frontline Tier"
+
+msgid "tab/rewards/description"
+msgstr "Frontline rewards and conditions for receiving them."
+
+msgid "tab/rewards/name"
+msgstr "Rewards"
+
+msgid "tab/skills/description"
+msgstr "The list of available Combat Reserves used in Frontline mode."
+
+msgid "tab/skills/name"
+msgstr "Activating Reserves"

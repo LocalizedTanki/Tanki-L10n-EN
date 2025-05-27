@@ -1,0 +1,710 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-cosmic_event.cosmicevent\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "abilities/title"
+msgstr "Abilities"
+
+msgid "abilities/tooltip/activationEffect"
+msgstr "Activation effect:"
+
+msgid "abilities/tooltip/description"
+msgstr "Description:"
+
+msgid "abilities/tooltip/subTitle"
+msgstr "Projectile for shooting from a rover"
+
+msgid "aboutEvent"
+msgstr "ABOUT THE EVENT"
+
+msgid "arena_start_errors/prb/kick/timeout"
+msgstr ""
+"Battle wait time has expired, try changing servers or logging in later."
+
+msgid "artefact/actionList/abilityHit"
+msgstr "Applying enhancement"
+
+msgid "artefact/actionList/assist"
+msgstr "Assistance"
+
+msgid "artefact/actionList/boostMe"
+msgstr "Trampoline jump"
+
+msgid "artefact/actionList/firstBlood"
+msgstr "First elimination"
+
+msgid "artefact/actionList/kill"
+msgstr "Elimination"
+
+msgid "artefact/actionList/killStreak"
+msgstr "Series of eliminations"
+
+msgid "artefact/actionList/pickup"
+msgstr "Enhancement pickup"
+
+msgid "artefact/actionList/pickupMaster"
+msgstr "Enhancement master"
+
+msgid "artefact/actionList/ram"
+msgstr "Ram"
+
+msgid "artefact/actionList/revenge"
+msgstr "Revenge"
+
+msgid "artefact/actionList/scan"
+msgstr "Scanning"
+
+msgid "artefact/actionList/shot"
+msgstr "Pulse hit"
+
+msgid "artefact/actionsTitle"
+msgstr "Helpful actions"
+
+msgid "artefact/descShort"
+msgstr ""
+"Explore the Object, progressing through the mission, and help mission "
+"participants achieve the set goal."
+
+msgid "artefact/description"
+msgstr ""
+"An astronomical body unknown to science, named \"Object\" by our scientists."
+" Make every effort to perform as many helpful actions as possible in the "
+"immediate vicinity of the Object. The more energy produced in the process, "
+"the more data we will receive to decipher the message from Mars!"
+
+msgid "artefact/doneProgression"
+msgstr "Expedition successfully completed!"
+
+msgid "artefact/medalsTitle"
+msgstr "Memorable rewards"
+
+msgid "artefact/points"
+msgstr "{points} / {pointsLimit}"
+
+msgid "artefact/progressionTitle"
+msgstr "EXPEDITION PROGRESS"
+
+msgid "artefact/title"
+msgstr "OBJECT"
+
+msgid "artefact/titleTooltip"
+msgstr "Expedition goal"
+
+msgid "artefact/tooltip/currentRewards"
+msgstr "Stage rewards"
+
+msgid "artefact/tooltip/currentStep"
+msgstr "Current stage"
+
+msgid "artefact/tooltip/investigationDesc"
+msgstr ""
+"The space mission to study the Object's Core has returned to Earth. But you "
+"can continue to complete personal tasks and receive rewards."
+
+msgid "artefact/tooltip/investigationDone"
+msgstr "EXPEDITION COMPLETED"
+
+msgid "artefact/tooltip/newProgressionLevel"
+msgstr "What's inside the Object? We must find out..."
+
+msgid "artefact/tooltip/timeTillEnd"
+msgstr "Time until expedition completion: %(time)s"
+
+msgid "artefact/tooltip/title"
+msgstr "Mars: chaos"
+
+msgid "banner/info/disabled"
+msgstr "About to start."
+
+msgid "banner/infoSmall/disabled"
+msgstr "About to start."
+
+msgid "banner/title"
+msgstr "MARS: CHAOS"
+
+msgid "battle/abilityHint/overcharge"
+msgstr "Barrier enhancement activated for %(seconds) seconds"
+
+msgid "battle/abilityHint/rapid_shelling"
+msgstr "Salvo enhancement activated for %(seconds) seconds"
+
+msgid "battle/announcement/awaiting_players/title"
+msgstr "OPERATORS WAITING..."
+
+msgid "battle/announcement/infoPlate/command"
+msgstr "F1"
+
+msgid "battle/announcement/infoPlate/title"
+msgstr "Press %(command) to learn the race rules."
+
+msgid "battle/announcement/mission_completed/title"
+msgstr "RACE FINISHED"
+
+msgid "battle/announcement/pickups/title"
+msgstr "TIME UNTIL ENHANCEMENTS APPEAR:"
+
+msgid "battle/announcement/pre_battle/title"
+msgstr "RACE STARTS IN:"
+
+msgid "battle/announcement/prepare_to_scan/title"
+msgstr "SCANNING ZONE APPEARS IN:"
+
+msgid "battle/announcement/prepare_to_scan_final/title"
+msgstr "FINAL SCANNING ZONE APPEARS IN:"
+
+msgid "battle/announcement/respawn/title"
+msgstr "RACE CONTINUES IN:"
+
+msgid "battle/announcement/scanning/players_scanning"
+msgstr "Players scanned: "
+
+msgid "battle/announcement/scanning/time_left"
+msgstr "Scanning ends in: "
+
+msgid "battle/announcement/start_battle/subtitle"
+msgstr "ELIMINATE ROVERS AND SCAN THE OBJECT"
+
+msgid "battle/announcement/start_battle/title"
+msgstr "THE MORE POINTS - THE CLOSER TO THE REWARD"
+
+msgid "battle/battleHelp/ramEnemies"
+msgstr "ATTACK THE ENEMY"
+
+msgid "battle/battleHelp/ramEnemiesDescription"
+msgstr ""
+"Earn points for eliminating rovers and assisting in this, a series of "
+"eliminations, and eliminating those who destroyed your vehicle."
+
+msgid "battle/battleHelp/scanObject"
+msgstr "SCAN THE OBJECT"
+
+msgid "battle/battleHelp/scanObjectDescription"
+msgstr ""
+"But remember: the more players are in the Scanning Zone, the fewer points "
+"each of them will receive."
+
+msgid "battle/battleHelp/shootThem"
+msgstr "USE TRAMPOLINES"
+
+msgid "battle/battleHelp/shootThemDescription"
+msgstr ""
+"Trampolines launch your rover, allowing it to cover significant distances."
+
+msgid "battle/battleHelp/title"
+msgstr "EARN POINTS AND PROGRESS"
+
+msgid "battle/battleHelp/useAbilities"
+msgstr "ACTIVATE POWER-UPS"
+
+msgid "battle/battleHelp/useAbilitiesDescription"
+msgstr ""
+"Collect power-ups and use them based on the game situation. By collecting 3 "
+"power-ups, you will receive additional points."
+
+msgid "battle/crosshair/killStreak"
+msgstr "CONSECUTIVE ELIMINATIONS: %(count)d"
+
+msgid "battle/distanceUnit"
+msgstr "m"
+
+msgid "battle/f1hint"
+msgstr "Press %(key) to learn more about the event rules."
+
+msgid "battle/hint"
+msgstr "Press %(key) to use the handbrake."
+
+msgid "battle/loadingScreen/tip1"
+msgstr "Welcome, Expedition Operators of \"Mars: Chaos\"!"
+
+msgid "battle/loadingScreen/tip2"
+msgstr "?empty?"
+
+msgid "battle/loadingScreen/tip3"
+msgstr ""
+"Shoot, ram, use abilities and power-ups, and perform helpful actions — all "
+"of this will earn you points. Scan the Object Core in special zones — this "
+"will help bring the mission to a successful conclusion."
+
+msgid "battle/loadingScreen/tip4"
+msgstr "?empty?"
+
+msgid "battle/loadingScreen/tip5"
+msgstr "?empty?"
+
+msgid "cosmicEventName"
+msgstr "MARS: CHAOS"
+
+msgid "countUp/timer_hrs"
+msgstr "%H h %M min"
+
+msgid "countUp/timer_min"
+msgstr "%MM:%SS"
+
+msgid "exitMode"
+msgstr "LEAVE MODE"
+
+msgid "fightButton/tooltip/vehicleInBattle/body"
+msgstr "The rover will be available after completing the race."
+
+msgid "fightButton/tooltip/vehicleInBattle/header"
+msgstr "In Battle"
+
+msgid "fightButton/vehicleInBattle"
+msgstr "In Battle"
+
+msgid "headerButtons/battle/types/cosmicEvent"
+msgstr "Mars: Chaos"
+
+msgid "main/description"
+msgstr ""
+"Brave expedition participants! You are tasked with collecting and scanning "
+"the information dropped by the Object discovered by the scientists of the "
+"NPP \"Perspective\" on Mars. There is every reason to believe that this is a"
+" special message from our neighbors in the Solar System. According to the "
+"hypothesis of our space research department, the more energy you and other "
+"expedition participants generate with your actions near the Object, the more"
+" data it will eject, and the faster we can decipher the extraterrestrial "
+"message. Forward, space does not wait!"
+
+msgid "main/howToPlay/paragraph1"
+msgstr ""
+"Attack the rovers of other expedition participants to earn more points."
+
+msgid "main/howToPlay/paragraph2"
+msgstr "Collect and use power-ups to increase your efficiency."
+
+msgid "main/howToPlay/paragraph3"
+msgstr ""
+"Scan the Object in special zones to transmit more information to Earth."
+
+msgid "main/howToPlay/title"
+msgstr "What to Do"
+
+msgid "main/title"
+msgstr "TO MARS!"
+
+msgid "navigation/artefact"
+msgstr "OBJECT"
+
+msgid "navigation/main"
+msgstr "MAIN"
+
+msgid "navigation/pickups"
+msgstr "Power-Ups"
+
+msgid "navigation/rules"
+msgstr "Map"
+
+msgid "pickups/black_hole/description"
+msgstr ""
+"Creates a special field that pulls rovers in and then throws them to a "
+"random location in the Collision Zone."
+
+msgid "pickups/black_hole/label"
+msgstr "BLACK HOLE"
+
+msgid "pickups/black_hole/title"
+msgstr "BLACK HOLE"
+
+msgid "pickups/description"
+msgstr ""
+"From time to time, the Object will eject power-ups of four types. The day "
+"before their appearance, you will receive a corresponding notification. Each"
+" power-up will give your rover a special ability that can be used once. As "
+"long as you have any power-up, others will be unavailable."
+
+msgid "pickups/important"
+msgstr "IMPORTANT:"
+
+msgid "pickups/overcharge/description"
+msgstr ""
+"Creates a powerful energy field that protects your rover and repels other "
+"vehicles."
+
+msgid "pickups/overcharge/label"
+msgstr "BARRIER"
+
+msgid "pickups/overcharge/title"
+msgstr ""
+"Fires an extremely powerful projectile. Especially effective when hitting "
+"not the rover itself, but near it."
+
+msgid "pickups/power_shot/description"
+msgstr "PLASMA BEAM"
+
+msgid "pickups/power_shot/label"
+msgstr "PLASMA BEAM"
+
+msgid "pickups/power_shot/title"
+msgstr ""
+"Fires several powerful shots in a row. Great for pushing rovers into lakes "
+"or beyond the Scanning Zone."
+
+msgid "pickups/rapid_shelling/description"
+msgstr "SALVO"
+
+msgid "pickups/rapid_shelling/label"
+msgstr "SALVO"
+
+msgid "pickups/rapid_shelling/title"
+msgstr "POWER-UPS"
+
+msgid "pickups/title"
+msgstr "Helpful Actions"
+
+msgid "postBattleScreen/arenaScore/activeActions"
+msgstr "Applying a Power-Up"
+
+msgid "postBattleScreen/arenaScore/player/abilityHit"
+msgstr "Collecting a Power-Up"
+
+msgid "postBattleScreen/arenaScore/player/abilityPickups"
+msgstr "Подбор усиления"
+
+msgid "postBattleScreen/arenaScore/player/artefactScanning"
+msgstr "Scanning"
+
+msgid "postBattleScreen/arenaScore/player/assist"
+msgstr "Assistance"
+
+msgid "postBattleScreen/arenaScore/player/boosterJump"
+msgstr "Jump from the springboard"
+
+msgid "postBattleScreen/arenaScore/player/enemyKills"
+msgstr "Elimination"
+
+msgid "postBattleScreen/arenaScore/player/firstBlood"
+msgstr "First elimination"
+
+msgid "postBattleScreen/arenaScore/player/killStreak"
+msgstr "Series of eliminations"
+
+msgid "postBattleScreen/arenaScore/player/pickupMaster"
+msgstr "Enhancement master"
+
+msgid "postBattleScreen/arenaScore/player/players"
+msgstr "Race participants"
+
+msgid "postBattleScreen/arenaScore/player/pointsGained"
+msgstr "Points earned"
+
+msgid "postBattleScreen/arenaScore/player/ramming"
+msgstr "Ram"
+
+msgid "postBattleScreen/arenaScore/player/revenge"
+msgstr "Rematch"
+
+msgid "postBattleScreen/arenaScore/player/shots"
+msgstr "Impulse hit"
+
+msgid "postBattleScreen/arenaScore/tooltip/marsPoints/body"
+msgstr ""
+"Complete special tasks and perform useful actions in battle to earn points."
+
+msgid "postBattleScreen/arenaScore/tooltip/marsPoints/header"
+msgstr "Points"
+
+msgid "postBattleScreen/battleResults/button/affirmative"
+msgstr "Affirmative!"
+
+msgid "postBattleScreen/battleResults/button/close"
+msgstr "Close"
+
+msgid "postBattleScreen/battleResults/info/"
+msgstr "Close"
+
+msgid "postBattleScreen/battleResults/info/battleOver"
+msgstr "Race ended: %(date)"
+
+msgid "postBattleScreen/battleResults/info/heading"
+msgstr "ON MARS: CHAOS • COLLISION ZONE"
+
+msgid "postBattleScreen/battleResults/missionsCompleted"
+msgstr "All personal missions completed. New ones can be started tomorrow."
+
+msgid "postBattleScreen/battleResults/noQuestProgression"
+msgstr "You have not completed any personal missions. Shall we try again?"
+
+msgid "postBattleScreen/battleResults/player/abilityPickups"
+msgstr "Enhancements"
+
+msgid "postBattleScreen/battleResults/player/enemyKills"
+msgstr "Eliminations"
+
+msgid "postBattleScreen/battleResults/player/killStreak"
+msgstr "Series of eliminations"
+
+msgid "postBattleScreen/battleResults/player/marsPoints"
+msgstr "Points"
+
+msgid "postBattleScreen/battleResults/playersPlace"
+msgstr "PLACE: %(place)"
+
+msgid "postBattleScreen/dailyMission/heading"
+msgstr "Personal mission"
+
+msgid "postBattleScreen/dailyMission/status/active"
+msgstr "In progress"
+
+msgid "postBattleScreen/dailyMission/status/done"
+msgstr "Completed"
+
+msgid "postBattleScreen/desertersPoints"
+msgstr "--"
+
+msgid "postBattleScreen/tabs/arenaScore"
+msgstr "Leaderboard"
+
+msgid "postBattleScreen/tabs/battleResults"
+msgstr "Personal result"
+
+msgid "queue/cosmicEventName"
+msgstr "On Mars: chaos"
+
+msgid "queue/description"
+msgstr " "
+
+msgid "queue/leaveBattleButton"
+msgstr "Exit"
+
+msgid "queue/newRoverName"
+msgstr "Meteor"
+
+msgid "queue/oldRoverName"
+msgstr "Satellite"
+
+msgid "queue/playersInQueue"
+msgstr "Race participants in queue:"
+
+msgid "queue/vehicle"
+msgstr "Rover:"
+
+msgid "queue/vehicleName/new"
+msgstr "Meteor"
+
+msgid "queue/vehicleName/old"
+msgstr "Satellite"
+
+msgid "queue/waitingTime"
+msgstr "Wait time:"
+
+msgid "rewardsView/allDailyCompleted"
+msgstr "ALL PERSONAL MISSIONS OF THE DAY ARE COMPLETED"
+
+msgid "rewardsView/close"
+msgstr "CLOSE"
+
+msgid "rewardsView/conditionsFulfilledTitle"
+msgstr "REWARD RECEIVED"
+
+msgid "rewardsView/confirm"
+msgstr "Affirmative!"
+
+msgid "rewardsView/progressionComplete/text"
+msgstr " "
+
+msgid "rewardsView/progressionComplete/title"
+msgstr "EVENT PROGRESSION \"ON MARS: CHAOS\" COMPLETED"
+
+msgid "rewardsView/rewardReceived/text"
+msgstr " "
+
+msgid "rewardsView/rewardReceived/title"
+msgstr "REWARD RECEIVED"
+
+msgid "rewardsView/rewardsReceived/text"
+msgstr " "
+
+msgid "rewardsView/rewardsReceived/title"
+msgstr "YOU HAVE MET ALL THE EVENT REQUIREMENTS \"ON MARS: CHAOS\""
+
+msgid "rewardsView/stepCompleted"
+msgstr "STAGE %(stepNumber)s COMPLETED!"
+
+msgid "rewardsView/viewTitle"
+msgstr " "
+
+msgid "rules/artefact/description"
+msgstr ""
+"On the map, 3 small and 1 final Scanning Zones will be activated. Stay in "
+"them as long as possible."
+
+msgid "rules/artefact/title"
+msgstr "SCANNING ZONE"
+
+msgid "rules/geysers/description"
+msgstr ""
+"When approaching a geyser, your rover will be thrown up. Where it lands is a"
+" mystery. So it's a risky attraction!"
+
+msgid "rules/geysers/title"
+msgstr "GEYSERS"
+
+msgid "rules/jampers/description"
+msgstr ""
+"The ramp will transport your rover a significant distance. The main thing is"
+" to calculate the jump direction correctly."
+
+msgid "rules/jampers/title"
+msgstr "RAMPS"
+
+msgid "rules/powerups/description"
+msgstr ""
+"Power-ups appear several times during a race. Each one will give you a "
+"special ability that you can use once."
+
+msgid "rules/powerups/title"
+msgstr "POWER-UPS"
+
+msgid "rulesEntrypoint/tooltip/description"
+msgstr ""
+"Here are the main details about conducting research expeditions as part of "
+"the \"On Mars: Chaos\" mission."
+
+msgid "rulesEntrypoint/tooltip/footerDesc"
+msgstr ""
+"Computer genius. Has a strong character. Intelligent, self-sufficient, "
+"decisive. Always knows what she's talking about. So it's better to listen to"
+" her."
+
+msgid "rulesEntrypoint/tooltip/personDesc"
+msgstr "Coordinator of the new expedition"
+
+msgid "rulesEntrypoint/tooltip/personTitle"
+msgstr "Elena Vasilyeva"
+
+msgid "rulesEntrypoint/tooltip/title"
+msgstr "Expedition Highlights"
+
+msgid "shopEntry/title"
+msgstr "MARS GOODS"
+
+msgid "specifications/acceleration/desc"
+msgstr ""
+"Indicator of how quickly the rover can accelerate after starting to move."
+
+msgid "specifications/acceleration/title"
+msgstr "ACCELERATION"
+
+msgid "specifications/acceleration/tooltipTitle"
+msgstr "Acceleration"
+
+msgid "specifications/fireRate/desc"
+msgstr "Number of shots the rover can fire per minute."
+
+msgid "specifications/fireRate/title"
+msgstr "RATE OF FIRE"
+
+msgid "specifications/fireRate/tooltipTitle"
+msgstr "Rate of Fire"
+
+msgid "specifications/maxSpeed/desc"
+msgstr "Maximum speed the rover can reach."
+
+msgid "specifications/maxSpeed/title"
+msgstr "MAX. SPEED"
+
+msgid "specifications/maxSpeed/tooltipTitle"
+msgstr "Max. Speed"
+
+msgid "specifications/shotPower/desc"
+msgstr ""
+"The force with which rovers will be pushed back when hit by an impulse."
+
+msgid "specifications/shotPower/title"
+msgstr "FIREPOWER"
+
+msgid "specifications/shotPower/tooltipTitle"
+msgstr "Firepower"
+
+msgid "specifications/stability/desc"
+msgstr ""
+"The rover's ability to resist the impact of impulses. The lower the "
+"parameter, the further the vehicle will be pushed back upon impact."
+
+msgid "specifications/stability/title"
+msgstr "STABILITY"
+
+msgid "specifications/stability/tooltipTitle"
+msgstr "Stability"
+
+msgid "specifications/title"
+msgstr "CHARACTERISTICS"
+
+msgid "tooltip/marsPoints/description"
+msgstr ""
+"Complete personal tasks and perform useful actions during races to earn "
+"event points and progress through the progression."
+
+msgid "tooltip/marsPoints/header"
+msgstr "Event Points"
+
+msgid "tooltip/shopEntry/description"
+msgstr "Click to access special offers for the \"On Mars: Chaos\" expedition."
+
+msgid "vehicle/aspectList/aspect1/description"
+msgstr "Fires a projectile that explodes upon impact, pushing back the enemy."
+
+msgid "vehicle/aspectList/aspect1/title"
+msgstr "IMPULSE"
+
+msgid "vehicle/aspectList/aspect2/description"
+msgstr ""
+"Increases the vehicle's speed. Can be used for ramming or for a quick escape"
+" from dangerous situations."
+
+msgid "vehicle/aspectList/aspect2/title"
+msgstr "ACCELERATION"
+
+msgid "vehicle/aspectList/aspect3/description"
+msgstr ""
+"Anchors your rover in place, protecting it from enemy attacks and ramming."
+
+msgid "vehicle/aspectList/aspect3/title"
+msgstr "ANCHOR SHIELD"
+
+msgid "vehicle/description"
+msgstr ""
+"During the expedition, each participant is provided with armored vehicles "
+"developed by NPP \"Perspective\" and designed for movement on the sands of "
+"the Red Planet. Note: rovers are equipped with special technologies."
+
+msgid "vehicle/inBattle"
+msgstr "In Battle"
+
+msgid "vehicle/title/new"
+msgstr "METEOR"
+
+msgid "vehicle/title/old"
+msgstr "SATELLITE"
+
+msgid "vehicle/tooltip/newVehicle/longDesc"
+msgstr ""
+"A revolutionary model based on the \"Satellite\" rover. It boasts higher "
+"speed and maneuverability. \"Meteors\" are equipped with advanced "
+"instruments and designed for extreme operating conditions."
+
+msgid "vehicle/tooltip/newVehicle/shortDesc"
+msgstr "New Rover Model"
+
+msgid "vehicle/tooltip/newVehicle/title"
+msgstr "Meteor"
+
+msgid "vehicle/tooltip/oldVehicle/longDesc"
+msgstr ""
+"Experimental development. Designed to perform both research and combat tasks"
+" on Mars. Compared to the \"Meteor\" model machines, they are more stable "
+"and fire more powerful impulses."
+
+msgid "vehicle/tooltip/oldVehicle/shortDesc"
+msgstr "Rover from the previous expedition"
+
+msgid "vehicle/tooltip/oldVehicle/title"
+msgstr "Satellite"

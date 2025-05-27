@@ -1,0 +1,634 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-early_access\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "battleResults/tokenCompensation"
+msgstr "Additional reward:"
+
+msgid "buyConfirmationView/buttonText"
+msgstr "Roger that!"
+
+msgid "buyConfirmationView/infoText"
+msgstr "The purchase will be credited to your account shortly."
+
+msgid "buyConfirmationView/title"
+msgstr "Thank you for your purchase!"
+
+msgid "buyView/button/back"
+msgstr "Back"
+
+msgid "buyView/button/buy"
+msgstr "Buy"
+
+msgid "buyView/confirm/tokens"
+msgstr "EARLY ACCESS TOKEN PURCHASE"
+
+msgid "buyView/progress/balance"
+msgstr "+ %(balance)s"
+
+msgid "buyView/progress/count"
+msgstr "%(count)s /"
+
+msgid "buyView/progress/tokens"
+msgstr "Purchase cost:"
+
+msgid "buyView/tooltip/description"
+msgstr ""
+"Press %(controlsImage)s to increase/decrease the number of early access "
+"tokens by 1 %(tokenImage)s"
+
+msgid "buyView/vehiclePreview/endFooter"
+msgstr "You have received all early access vehicles currently available."
+
+msgid "buyView/vehiclePreview/footer"
+msgstr ""
+"If you fail to receive a vehicle, all tokens invested in it will be "
+"compensated."
+
+msgid "buyView/vehiclePreview/header/done"
+msgstr "All vehicles received"
+
+msgid "buyView/vehiclePreview/header/process"
+msgstr ""
+"Number of tokens needed to obtain early access vehicles: %(tokenNeed)s"
+
+msgid "clientNotifications/buy/fail/body"
+msgstr "Operation temporarily unavailable. Please try again later."
+
+msgid "clientNotifications/buy/success/allTokens/body"
+msgstr "All early access tokens received!"
+
+msgid "clientNotifications/buy/success/body"
+msgstr ""
+"Tokens purchased: %(tokenAmount)s\n"
+"Gold spent: %(goldAmount)s."
+
+msgid "clientNotifications/feature/state/available"
+msgstr ""
+"The event is back up and running. We apologize for any inconvenience caused.\n"
+"%(newEndDate)s"
+
+msgid "clientNotifications/feature/state/available/newEndDate"
+msgstr "Event extended until %(newDate)s."
+
+msgid "clientNotifications/feature/state/finished"
+msgstr "Early Access event has ended."
+
+msgid "clientNotifications/feature/state/paused"
+msgstr "Early Access temporarily unavailable."
+
+msgid "clientNotifications/header"
+msgstr "Early Access"
+
+msgid "clientNotifications/postprogression/finishSoon/body"
+msgstr ""
+"Access to the additional stage ends on %(endDate)s. Hurry up to claim your "
+"reward!"
+
+msgid "clientNotifications/progression/finishSoon/body"
+msgstr ""
+"Access to stages I-IV ends on %(endDate)s. Hurry to claim your reward!"
+
+msgid "clientNotifications/quests/nextchapter/available"
+msgstr "Chapter %(count)s: available on %(date)s"
+
+msgid "clientNotifications/quests/postprogression/completed"
+msgstr "Additional early access stage tasks completed!"
+
+msgid "clientNotifications/quests/progression/completed"
+msgstr "Stage %(count)s early access tasks completed!"
+
+msgid "clientNotifications/rewardHeader"
+msgstr "Congratulations!"
+
+msgid "clientNotifications/start/chapter/body"
+msgstr "Stage %(count)s available with new tasks and rewards."
+
+msgid "clientNotifications/start/chapter/button"
+msgstr "To tasks"
+
+msgid "clientNotifications/start/event/body"
+msgstr ""
+"Soldiers! Early access to new %(nation)s vehicles. Complete all tasks to "
+"obtain early access vehicles. Valuable rewards await you during the process."
+
+msgid "clientNotifications/start/event/button"
+msgstr "To early access vehicles"
+
+msgid "clientNotifications/start/postprogression/chapter/body"
+msgstr "Additional stage available with new tasks and rewards."
+
+msgid "compensationTooltip/compensationText"
+msgstr "Compensation course: %(count)s"
+
+msgid "compensationTooltip/compensationValue"
+msgstr "="
+
+msgid "compensationTooltip/content"
+msgstr ""
+"If you do not accumulate enough tokens by the end of the event to obtain a "
+"vehicle, all existing tokens will be deducted, and you will receive "
+"compensation in credits for each token invested."
+
+msgid "compensationTooltip/title"
+msgstr "Compensation"
+
+msgid "currencyToken"
+msgstr "Early access tokens"
+
+msgid "entryPoint/disabledTooltip/description"
+msgstr ""
+"Event unavailable due to technical reasons. All progress achieved is saved."
+
+msgid "entryPoint/disabledTooltip/iconLabel"
+msgstr "Temporarily unavailable"
+
+msgid "entryPoint/disabledTooltip/title"
+msgstr "Early Access"
+
+msgid "entryPoint/postProgressionDisabledTooltip/description"
+msgstr ""
+"Event unavailable due to technical reasons. Subsequent progress on "
+"additional stage tasks will not be counted until the event is restored."
+
+msgid "entryPoint/postProgressionDisabledTooltip/title"
+msgstr "Additional early access stage tasks"
+
+msgid "entryPoint/tooltip/chapter/allTasksResolved"
+msgstr "All stage tasks completed"
+
+msgid "entryPoint/tooltip/chapter/postProgressionSubTitle"
+msgstr "For %(text)"
+
+msgid "entryPoint/tooltip/chapter/postProgressionTitle"
+msgstr "Additional stage"
+
+msgid "entryPoint/tooltip/chapter/since"
+msgstr "C %(day)d %(month)s %(year)s, %(time)s."
+
+msgid "entryPoint/tooltip/chapter/subTitle"
+msgstr "Tasks completed:"
+
+msgid "entryPoint/tooltip/chapter/title"
+msgstr "Stage %(number)s"
+
+msgid "entryPoint/tooltip/chapter/waitForNext"
+msgstr "Access will open in %(time)s"
+
+msgid "entryPoint/tooltip/header/days"
+msgstr "%(day)s d."
+
+msgid "entryPoint/tooltip/header/daysWithHours"
+msgstr "%(day)s d %(hour)s h."
+
+msgid "entryPoint/tooltip/header/hours"
+msgstr "%(hour)s h."
+
+msgid "entryPoint/tooltip/header/hoursWithMinutes"
+msgstr "%(hour)s h %(min)s min"
+
+msgid "entryPoint/tooltip/header/min"
+msgstr "%(min)s min."
+
+msgid "entryPoint/tooltip/header/postProgressionCompletedSubTitle"
+msgstr "Until the event ends in %(days)s"
+
+msgid "entryPoint/tooltip/header/postProgressionSubTitle"
+msgstr "Additional stage tasks available for %(days)s more"
+
+msgid "entryPoint/tooltip/header/postProgressionTitle"
+msgstr "Early access additional stage tasks"
+
+msgid "entryPoint/tooltip/header/sec"
+msgstr "< 1 min"
+
+msgid "entryPoint/tooltip/header/subTitle"
+msgstr "Tasks of stages I-IV available for %(days)s more"
+
+msgid "entryPoint/tooltip/header/title"
+msgstr "Early access event tasks"
+
+msgid "entryPoint/tooltip/progress"
+msgstr "%(completed)s / %(total)s"
+
+msgid "entryPoint/tooltip/tokens/title"
+msgstr "Received early access tokens:"
+
+msgid "featureName/text"
+msgstr "Early access event"
+
+msgid "header/backLink/goToLabel/china"
+msgstr "TO CHINESE VEHICLES"
+
+msgid "header/backLink/goToLabel/czech"
+msgstr "TO CZECHOSLOVAKIAN VEHICLES"
+
+msgid "header/backLink/goToLabel/earlyAccess"
+msgstr "TO EARLY ACCESS VEHICLES"
+
+msgid "header/backLink/goToLabel/france"
+msgstr "TO FRENCH VEHICLES"
+
+msgid "header/backLink/goToLabel/germany"
+msgstr "TO GERMAN VEHICLES"
+
+msgid "header/backLink/goToLabel/italy"
+msgstr "TO ITALIAN VEHICLES"
+
+msgid "header/backLink/goToLabel/japan"
+msgstr "TO JAPANESE VEHICLES"
+
+msgid "header/backLink/goToLabel/poland"
+msgstr "TO POLISH VEHICLES"
+
+msgid "header/backLink/goToLabel/sweden"
+msgstr "TO SWEDISH VEHICLES"
+
+msgid "header/backLink/goToLabel/uk"
+msgstr "TO BRITISH VEHICLES"
+
+msgid "header/backLink/goToLabel/usa"
+msgstr "TO AMERICAN VEHICLES"
+
+msgid "header/backLink/goToLabel/ussr"
+msgstr "TO SOVIET VEHICLES"
+
+msgid "header/backLink/label"
+msgstr "BACK"
+
+msgid "header/closeLink"
+msgstr "TO GARAGE"
+
+msgid "header/dateFormat/between"
+msgstr "%(fromDate)s — %(toDate)s"
+
+msgid "header/dateFormat/until"
+msgstr "UNTIL %(toDate)s"
+
+msgid "header/featureName/active"
+msgstr "TASK EXECUTION PHASE"
+
+msgid "header/featureName/buy"
+msgstr "PURCHASE PHASE"
+
+msgid "header/featureName/completed"
+msgstr "TASKS COMPLETED"
+
+msgid "header/featureName/postProgression"
+msgstr "ADDITIONAL STAGE TASKS PHASE"
+
+msgid "header/infoLink"
+msgstr "ABOUT THE EVENT"
+
+msgid "header/title/buyView"
+msgstr "PURCHASE OF EARLY ACCESS TOKENS"
+
+msgid "header/title/introView"
+msgstr "EARLY ACCESS"
+
+msgid "header/title/questsView"
+msgstr "EARLY ACCESS TASKS"
+
+msgid "header/title/vehicleView"
+msgstr "EARLY ACCESS VEHICLES"
+
+msgid "introView/continueButtonText"
+msgstr "Continue"
+
+msgid "introView/description/first"
+msgstr ""
+"Tasks do not disappear at the end of the day: you can complete them all, no "
+"matter how many days you miss. Tasks are completed sequentially."
+
+msgid "introView/description/second"
+msgstr ""
+"All completed tasks contribute to overall progress. For a certain number of "
+"completed tasks, you receive tokens that can be used to obtain early access "
+"vehicles."
+
+msgid "introView/description/third"
+msgstr ""
+"For completing tasks of all four stages, as well as an additional fifth "
+"stage, you will receive various valuable rewards."
+
+msgid "introView/exitButtonText"
+msgstr "CLOSE"
+
+msgid "introView/infoText"
+msgstr ""
+"For all the details, read the \"About the Event\" page or visit the game's "
+"website."
+
+msgid "introView/title/first"
+msgstr "New stage every week"
+
+msgid "introView/title/second"
+msgstr "Vehicles for completing tasks"
+
+msgid "introView/title/third"
+msgstr "Additional rewards"
+
+msgid "questsView/chapter/disabled/cycleFinished/body"
+msgstr ""
+"No more tasks are given: time to complete the stage has expired. You can "
+"purchase the missing tokens."
+
+msgid "questsView/chapter/disabled/doFuture/body"
+msgstr "Complete tasks of the previous stage."
+
+msgid "questsView/chapter/disabled/doFuture/header"
+msgstr "Stage unavailable"
+
+msgid "questsView/chapter/disabled/doFuture/note"
+msgstr "Access will open %(startText)s"
+
+msgid "questsView/chapter/disabled/doFuture/noteDate"
+msgstr "%(color_open)sfrom %(startDate)s%(color_close)s"
+
+msgid "questsView/chapter/postProgression"
+msgstr "Additional stage"
+
+msgid "questsView/chapter/postprogression/disabled/doFuture/body"
+msgstr "Tasks of this stage are completed on %(text)s"
+
+msgid "questsView/chapter/postprogression/disabled/doFuture/samelvl/body"
+msgstr ""
+"Missions of this stage are completed on early access %(lvl)s level vehicles."
+
+msgid "questsView/chapter/quests/label"
+msgstr "Tasks completed:"
+
+msgid "questsView/chapter/quests/progress"
+msgstr "%(completed)s / %(total)s"
+
+msgid "questsView/chapter/title"
+msgstr "Stage %(index)s"
+
+msgid "questsView/chapter/tokens/progress"
+msgstr "%(received)s / %(total)s"
+
+msgid "questsView/quest/currencyToken/label"
+msgstr "Early access tokens:"
+
+msgid "questsView/quest/disabled/cycleFinished/body"
+msgstr ""
+"No more tasks are issued: the time to complete the stage has expired. You "
+"can buy the missing tokens."
+
+msgid "questsView/quest/disabled/doFuture/body"
+msgstr "Complete the previous task of this stage."
+
+msgid "questsView/quest/disabled/doFuture/header"
+msgstr "Task unavailable"
+
+msgid "questsView/quest/progress"
+msgstr "%(current)s / %(total)s"
+
+msgid "questsView/quest/vehicleType/AT-SPG"
+msgstr "SPG %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/SPG"
+msgstr "TD %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/any"
+msgstr "any vehicle %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/delimiter"
+msgstr ", "
+
+msgid "questsView/quest/vehicleType/heavyTank"
+msgstr "heavy tanks %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/label"
+msgstr "Performed on "
+
+msgid "questsView/quest/vehicleType/lightTank"
+msgstr "light tanks %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/mediumTank"
+msgstr "medium tanks %(minLvl)s-%(maxLvl)s levels"
+
+msgid "questsView/quest/vehicleType/names"
+msgstr "%(vehicles)s"
+
+msgid "questsView/vehicleButton/content"
+msgstr "EARLY ACCESS VEHICLES"
+
+msgid "questsView/vehicleButton/tooltip/body"
+msgstr "Main progression of the \"Early Access\" event."
+
+msgid "questsView/vehicleButton/tooltip/header"
+msgstr "Early access vehicles"
+
+msgid "rewardsView/footer/buttonText"
+msgstr "Affirmative!"
+
+msgid "rewardsView/footer/description"
+msgstr ""
+"These are not all the event rewards. Complete early access tasks and receive"
+" rewards for completing them."
+
+msgid "rewardsView/header/closeButtonText"
+msgstr "CLOSE"
+
+msgid "rewardsView/header/featureName"
+msgstr "EARLY ACCESS"
+
+msgid "rewardsView/header/subTitle"
+msgstr "Reward received for completing additional stage tasks."
+
+msgid "rewardsView/header/title"
+msgstr "TASK COMPLETED!"
+
+msgid "rewardsView/restRewardsTooltip/headerText"
+msgstr "Rewards"
+
+msgid "serviceChannelMessages/compensation/body"
+msgstr "Remaining early access tokens have been compensated with credits."
+
+msgid "serviceChannelMessages/compensation/credits"
+msgstr "Credits received: "
+
+msgid "serviceChannelMessages/compensation/title"
+msgstr "Compensation"
+
+msgid "serviceChannelMessages/compensation/tokens"
+msgstr "Tokens compensated: "
+
+msgid "serviceChannelMessages/obtainVehicle/text"
+msgstr ""
+"Date: %(date)s\n"
+"Added vehicles:\n"
+"%(vehicles)s"
+
+msgid "serviceChannelMessages/obtainVehicle/title"
+msgstr "Early access vehicles"
+
+msgid "serviceChannelMessages/questAchieves/text"
+msgstr "Early access tokens"
+
+msgid "serviceChannelMessages/questAchieves/title"
+msgstr "Early access task completed! Reward:"
+
+msgid "tankView/compare/label"
+msgstr "Add to comparison"
+
+msgid "tankView/preview/label"
+msgstr "Preview"
+
+msgid "tankView/questsWidget/body"
+msgstr "Completed in Random Battles and Onslaught."
+
+msgid "tankView/questsWidget/header"
+msgstr "Tasks"
+
+msgid "tankView/questsWidget/mainProgress/noteDate"
+msgstr "%(color_open)sfrom %(startDate)s to %(endDate)s %(color_close)s"
+
+msgid "tankView/questsWidget/postprogression/noteDate"
+msgstr "%(color_open)sto %(endDate)s %(color_close)s"
+
+msgid "tankView/questsWidget/progress"
+msgstr ""
+"Main stages:&nbsp;%(mainProgress)s\n"
+"Additional stage:&nbsp;%(postProgress)s"
+
+msgid "tankView/questsWidget/timeText/until"
+msgstr "Until %(time)s"
+
+msgid "tankView/questsWidget/timeText/untilLastHours/chapters"
+msgstr "Until the end of stages I - IV: %(time)s"
+
+msgid "tankView/questsWidget/timeText/untilLastHours/postProgression"
+msgstr "Until the end: %(time)s"
+
+msgid "tankView/questsWidget/title/chapters"
+msgstr ""
+"EARLY ACCESS TASKS\n"
+"STAGES I-IV"
+
+msgid "tankView/questsWidget/title/completed"
+msgstr "TASKS COMPLETED"
+
+msgid "tankView/questsWidget/title/postProgression"
+msgstr "ADDITIONAL TASKS"
+
+msgid "tankView/shopWidget/body"
+msgstr ""
+"By purchasing the missing tokens, you will immediately receive early access "
+"vehicles."
+
+msgid "tankView/shopWidget/content"
+msgstr "EARLY ACCESS TOKENS"
+
+msgid "tankView/shopWidget/header"
+msgstr "Early access tokens"
+
+msgid "tankView/vehicleCarousel/postProgressTooltip/body"
+msgstr ""
+"This vehicle can be used to complete\n"
+"additional stage tasks."
+
+msgid "tankView/vehicleCarousel/tokenTooltip/body"
+msgstr ""
+"Tokens can be obtained as a reward for completing early access tasks or "
+"purchased."
+
+msgid "tankView/vehicleCarousel/tokenTooltip/header"
+msgstr "Early access tokens"
+
+msgid "tankView/vehicleInfo/buyProgress/inInventory/buttonText"
+msgstr "Show in Hangar"
+
+msgid "tankView/vehicleInfo/buyProgress/inInventory/label"
+msgstr "In the Hangar"
+
+msgid "tankView/vehicleInfo/buyProgress/inProgress"
+msgstr "Early access tokens required: "
+
+msgid "tankView/vehicleInfo/buyProgress/locked"
+msgstr "Obtain the previous vehicle."
+
+msgid "tankView/vehicleInfo/buyProgress/purchasable/buttonText"
+msgstr "Buy"
+
+msgid "tankView/vehicleInfo/researchCondition/experienceText"
+msgstr "Research upon early access completion:"
+
+msgid "tankView/vehicleInfo/researchCondition/header"
+msgstr "CONDITIONS FOR OBTAINING TECHNICAL EQUIPMENT"
+
+msgid "tooltip/currency/availabilityPeriod"
+msgstr ""
+"Available from %(startDay)d %(startMonth)s %(startYear)d to %(endDay)d "
+"%(endMonth)s %(endYear)d%(brown_close)s"
+
+msgid "tooltip/currency/availabilityPeriodShort"
+msgstr ""
+"Available from %(startDay)d %(startMonth)s to %(endDay)d %(endMonth)s "
+"%(endYear)d%(brown_close)s"
+
+msgid "tooltip/currency/description"
+msgstr ""
+"Special currency available during the \"Early Access\" event. Used to obtain"
+" early access technical equipment."
+
+msgid "tooltip/currency/gain/currency"
+msgstr "%(whiteSpanish_open)sEarly access tokens%(whiteSpanish_close)s."
+
+msgid "tooltip/currency/gain/description"
+msgstr ""
+"Early access tokens can be earned by completing combat missions or purchased"
+" for in-game currency."
+
+msgid "tooltip/currency/gain/title"
+msgstr "How to obtain"
+
+msgid "tooltip/currency/info"
+msgstr ""
+"Automatically credited to the vehicle currently selected for acquisition."
+
+msgid "tooltip/currency/progress"
+msgstr "%(received)s / %(total)s"
+
+msgid "tooltip/currency/progressLabel"
+msgstr "Received"
+
+msgid "tooltip/currency/title"
+msgstr "Early access tokens"
+
+msgid "vehicleInfo/body"
+msgstr "%(nation)s %(minLvl)s-%(maxLvl)s levels."
+
+msgid "vehicleInfo/postprogression/vehicleType/AT-SPG"
+msgstr "TD-SPG %(vehicleInfo)s"
+
+msgid "vehicleInfo/postprogression/vehicleType/SPG"
+msgstr "SPG %(vehicleInfo)s"
+
+msgid "vehicleInfo/postprogression/vehicleType/heavyTank"
+msgstr "heavy tanks %(vehicleInfo)s"
+
+msgid "vehicleInfo/postprogression/vehicleType/lightTank"
+msgstr "light tanks %(vehicleInfo)s"
+
+msgid "vehicleInfo/postprogression/vehicleType/mediumTank"
+msgstr "medium tanks %(vehicleInfo)s"
+
+msgid "vehiclePreview/backToVehicleScreen"
+msgstr "FOR EARLY ACCESS EQUIPMENT"
+
+msgid "vehiclePreview/bottomText"
+msgstr "Early access equipment"

@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-game_loading\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "client/status/load"
+msgstr "Loading the game client..."
+
+msgid "defaultSlide/1/description"
+msgstr ""
+"Three famous vehicles, known throughout the world without exaggeration. "
+"Different in type, characteristics, and purpose, but with the main common "
+"goal - to earn a place in history with their feat."
+
+msgid "defaultSlide/1/title"
+msgstr "TS-5"
+
+msgid "defaultSlide/10/description"
+msgstr ""
+"Artillery - an indispensable support capable of significantly influencing "
+"the outcome of a battle. Especially effective in positional battles, where a"
+" weighty argument is needed to drive the enemy out from behind cover."
+
+msgid "defaultSlide/10/title"
+msgstr "T110E5 and IS-7"
+
+msgid "defaultSlide/2/description"
+msgstr ""
+"The Soviet light tank X level with a low silhouette, which helps to "
+"camouflage the vehicle almost in tall grass. Excellently performs the "
+"function of both a scout and a fire support tank."
+
+msgid "defaultSlide/2/title"
+msgstr "Kpz 07 RH"
+
+msgid "defaultSlide/3/description"
+msgstr ""
+"Three classic heavy tanks, very easy to master, with clearly defined and "
+"easily memorable strengths and weaknesses without any unexpected surprises "
+"\"under the hood.\" Perfect for beginners."
+
+msgid "defaultSlide/3/title"
+msgstr "Caernarvon Action X"
+
+msgid "defaultSlide/4/description"
+msgstr ""
+"The pinnacle of French wheeled engineering - a fast and maneuverable level X"
+" scout, capable of quickly changing flanks and ending up where the enemy "
+"least expects it."
+
+msgid "defaultSlide/4/title"
+msgstr "Italian Bersaglieri"
+
+msgid "defaultSlide/5/description"
+msgstr ""
+"Vehicles with unique game mechanics: the Progetto M40 mod. 65 is equipped "
+"with a magazine reload gun, the CS-63 has a gas turbine engine with two "
+"operating modes, and the Object 268/4 is a rammer breaking through "
+"directions on its own. What could be more unique mechanics?"
+
+msgid "defaultSlide/5/title"
+msgstr "Panhard EBR 75 (FL 10)"
+
+msgid "defaultSlide/6/description"
+msgstr ""
+"IS-3 - the famous \"Pike\" - a tank that has not lost its relevance over all"
+" the years of existence in the game. It is still as effective, beautiful, "
+"and friendly to newcomers. A true classic."
+
+msgid "defaultSlide/6/title"
+msgstr "K-91 and Object 277"
+
+msgid "defaultSlide/7/description"
+msgstr ""
+"In the category of \"heavy tanks,\" there are completely different machines "
+"that not only differ in appearance but also in their role in battle, game "
+"mechanics, and tactics of use depending on the situations."
+
+msgid "defaultSlide/7/title"
+msgstr "AMX 30 B"
+
+msgid "defaultSlide/8/description"
+msgstr ""
+"A British light tank with excellent camouflage and a quite impressive gun "
+"for such a vehicle. Truly shines on open maps, allowing to approach the "
+"enemy almost unnoticed at close range."
+
+msgid "defaultSlide/8/title"
+msgstr "Leopard 1"
+
+msgid "defaultSlide/9/description"
+msgstr ""
+"Soviet premium flamethrower SPG of VIII level. A true support fighter for "
+"advancing allied forces, with excellent frontal armor and high speed. "
+"Effective at a distance closer than 150 meters from the target."
+
+msgid "defaultSlide/9/title"
+msgstr "Leopard 1 and AMX 30 B"
+
+msgid "gameInfo"
+msgstr ""
+"This game is designed for {open}'players aged 12 and older'{close}\n"
+"and should not be played by anyone younger."
+
+msgid "player/status/bootcampEnqueued"
+msgstr "Please wait, a suitable server is being selected for you..."
+
+msgid "player/status/download/discounts"
+msgstr "Synchronizing discounts..."
+
+msgid "player/status/download/dossier"
+msgstr "Synchronizing Personal File..."
+
+msgid "player/status/download/inventory"
+msgstr "Synchronizing equipment and consumables..."
+
+msgid "player/status/download/playerData"
+msgstr "Synchronizing personal data..."
+
+msgid "player/status/download/recycleBin"
+msgstr "Synchronizing vehicles in the Garage..."
+
+msgid "player/status/download/shop"
+msgstr "Synchronizing the Store..."
+
+msgid "player/status/enter"
+msgstr "Logging in..."
+
+msgid "player/status/hangarReady"
+msgstr "Updating the Garage..."
+
+msgid "player/status/hangarUIReady"
+msgstr "Updating the Garage..."
+
+msgid "player/status/loadContent"
+msgstr "Loading interface..."
+
+msgid "player/status/loadHangarSpace"
+msgstr "Updating the Garage..."
+
+msgid "player/status/loadHangarSpaceVehicle"
+msgstr "Updating the Garage..."
+
+msgid "player/status/login"
+msgstr "Connecting..."
+
+msgid "player/status/onboardingEnqueued"
+msgstr "Please wait until a proper server is selected..."
+
+msgid "player/status/synchronize"
+msgstr "Synchronization..."
+
+msgid "player/status/updateVehicle"
+msgstr "Updating vehicles..."

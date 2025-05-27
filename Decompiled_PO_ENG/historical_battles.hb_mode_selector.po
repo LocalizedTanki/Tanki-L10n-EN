@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.hb_mode_selector\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "headerButtons/historicalBattles/availability/days"
+msgstr "%(day)s d."
+
+msgid "headerButtons/historicalBattles/availability/hours"
+msgstr "%(hour)s h."
+
+msgid "headerButtons/historicalBattles/availability/lessThanHour"
+msgstr "less than 1 h."
+
+msgid "headerButtons/historicalBattles/endsIn"
+msgstr "Time left until the end of the event: %(timeLeft)s"
+
+msgid "mode/historicalBattles/description"
+msgstr "A separate mode with battles against AI dedicated to Victory Day."
+
+msgid "mode/historicalBattles/name"
+msgstr "Time of Heroes"
+
+msgid "mode/historicalBattles/performance/description/highRisk"
+msgstr ""
+"Your computer's performance is insufficient for this mode.\n"
+"Issues with graphics and vehicle movement may occur, and the game client may crash unexpectedly."
+
+msgid "mode/historicalBattles/performance/description/mediumRisk"
+msgstr ""
+"The mode is demanding on your computer.\n"
+"The map may load slowly, there may be problems with graphics and vehicle movement in battle. If performance is insufficient, try lowering the graphics settings."
+
+msgid "mode/historicalBattles/performance/highRisk"
+msgstr "Low performance"
+
+msgid "mode/historicalBattles/performance/mediumRisk"
+msgstr "Performance decrease"
+
+msgid "mode/historicalBattles/squadName"
+msgstr "Platoon \"Time of Heroes\""
