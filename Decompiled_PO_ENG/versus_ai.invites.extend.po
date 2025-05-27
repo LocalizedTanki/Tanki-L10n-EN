@@ -1,0 +1,34 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-versus_ai.invites.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "invites/note/change_and_leave/PREBATTLE_VERSUS_AI"
+msgstr ""
+"By accepting the invitation, you will automatically be removed from the "
+"platoon lineup in \"Polygon\" mode and moved to server %(host)s."
+
+msgid "invites/note/change_and_leave/QUEUE_VERSUS_AI"
+msgstr ""
+"By accepting the invitation, you will leave the \"Polygon\" mode and be "
+"moved to server %(host)s."
+
+msgid "invites/note/leave/PREBATTLE_VERSUS_AI"
+msgstr ""
+"By accepting the invitation, you will automatically be removed from the "
+"platoon lineup in \"Polygon\" mode."
+
+msgid "invites/note/leave/QUEUE_VERSUS_AI"
+msgstr "By accepting the invitation, you will leave the \"Polygon\" mode."
+
+msgid "invites/prebattle/alreadyJoined/VERSUS_AI"
+msgstr "You have already joined this platoon."
+
+msgid "invites/text/VERSUS_AI"
+msgstr "Invitation to join the platoon lineup for \"Polygon\" mode"

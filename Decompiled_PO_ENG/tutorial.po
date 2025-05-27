@@ -1,0 +1,123 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-tutorial\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "blueprints/blueprintScreen/convertFormula"
+msgstr ""
+"BLUEPRINT FRAGMENT\n"
+"CREATION FORMULA"
+
+msgid "blueprints/blueprintScreen/fragmentItem"
+msgstr ""
+"COLLECT FRAGMENTS\n"
+"AND RECEIVE A DISCOUNT\n"
+"ON RESEARCH"
+
+msgid "blueprints/convertButton"
+msgstr ""
+"CREATE BLUEPRINT\n"
+"FRAGMENT"
+
+msgid "blueprints/research/blueprintButton"
+msgstr "PROCEED TO BLUEPRINT"
+
+msgid "blueprints/techtree/switchButton"
+msgstr "ABOUT BLUEPRINTS"
+
+msgid "carouselFilter/carousel/vehicle/vehicleFilters/paragonsFirstEnter"
+msgstr "Equipment with unassembled\\npoints of the \"Orbit\" project."
+
+msgid "collectibleVehicles/researchModules"
+msgstr "RESEARCH MODULES"
+
+msgid "collectibleVehicles/showModules"
+msgstr "MODULES"
+
+msgid "customization/autoprolongation"
+msgstr ""
+"AUTOMATIC RENT EXTENSION\n"
+"IS AVAILABLE"
+
+msgid "customization/carousel/editableStyle"
+msgstr "NOW YOU CAN\\nEDIT STYLES"
+
+msgid "customization/carousel/progressionDecal"
+msgstr "NUMBER OF EDITABLE\\nSTYLES INCREASED"
+
+msgid "customization/decal"
+msgstr "SELECT DECAL"
+
+msgid "customization/progression"
+msgstr "STAGE ELEMENTS"
+
+msgid "customization/slots"
+msgstr ""
+"CLICK\n"
+"GROUP SLOT"
+
+msgid "hangarTutorial/customization/image"
+msgstr "VARIANTS"
+
+msgid "hangarTutorial/customization/period"
+msgstr "DURATION"
+
+msgid "hangarTutorial/customization/totalCost"
+msgstr "TOTAL COST"
+
+msgid "hangarTutorial/customization/type"
+msgstr "SELECT ELEMENTS"
+
+msgid "hangarTutorial/personalCase/actionButtons"
+msgstr "ACTION BUTTONS"
+
+msgid "hangarTutorial/personalCase/addActions"
+msgstr "ADDITIONAL OPTIONS"
+
+msgid "hangarTutorial/personalCase/characteristics"
+msgstr "MAIN CREW MEMBER CHARACTERISTICS"
+
+msgid "hangarTutorial/personalCase/freeSkills"
+msgstr "CREW ZERO PERKS"
+
+msgid "hangarTutorial/personalCase/perks"
+msgstr "TRAINED CREW MEMBER PERKS"
+
+msgid "messengerBar/referralBtn"
+msgstr "UPDATED\\nREFERRAL PROGRAM"
+
+msgid "platoon/openBtn"
+msgstr ""
+"YOU CAN NOW SEARCH FOR PLAYERS\n"
+"TO FORM A PLATOON"
+
+msgid "sessionStat/openBtn"
+msgstr "SESSION STATISTICS"
+
+msgid "sessionStat/settingsBtn"
+msgstr "Session Statistics Parameters"
+
+msgid "techtree/nationDiscount/dateTime"
+msgstr "Until %(monthName)s %(day)s, %(year)s"
+
+msgid "techtree/nationDiscount/title"
+msgstr ""
+"%(name)s\n"
+"%(time)s"
+
+msgid "tradeIn/shop"
+msgstr ""
+"NEW OPTION\n"
+"FOR PREMIUM VEHICLES"
+
+msgid "vehicleTechtree/paragons/entryPoint"
+msgstr "Admission to\\nthe \"Orbit\" project obtained"
+
+msgid "vehicleTechtree/paragons/researchMenuItem"
+msgstr "ADMISSION TO THE \"ORBIT\" PROJECT OBTAINED"

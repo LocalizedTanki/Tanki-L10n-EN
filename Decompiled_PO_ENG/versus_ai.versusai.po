@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-versus_ai.versusai\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "headerButtons/fightBtn/tooltip/versusAIVehLevel/body"
+msgstr "You can only go into battle at %(levelSubStr)s"
+
+msgid "headerButtons/fightBtn/tooltip/versusAIVehLevel/header"
+msgstr "The vehicle level is not suitable"
+
+msgid "headerButtons/fightBtn/tooltip/versusAIVehLevel/levelSubStr"
+msgstr "for a %(levels)s level vehicle."
+
+msgid "prebattleTips/versusAI1"
+msgstr ""
+"In this mode, you pay a fixed amount for repairs regardless of whether your "
+"tank is damaged. Credit and experience earnings are reduced in this mode."
+
+msgid "versusAICarousel/lockedTooltip/vehLvl/body"
+msgstr ""
+"Select a %(levelSubStr)s level vehicle to participate in the \"Proving "
+"Grounds\" mode."
+
+msgid "versusAICarousel/lockedTooltip/vehLvl/header"
+msgstr "The vehicle level is not suitable"
+
+msgid "versusAICarousel/lockedTooltip/vehLvl/levelSubStr"
+msgstr "%(levels)s"

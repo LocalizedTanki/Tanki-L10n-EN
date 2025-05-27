@@ -1,0 +1,462 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-item_types\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "altShot/name"
+msgstr "Ammunition"
+
+msgid "ammoBay/name"
+msgstr "Ammo Rack"
+
+msgid "autoShootFlameGun/name"
+msgstr "Heavy flamethrowers"
+
+msgid "battleAbility/name"
+msgstr "Combat Reserve"
+
+msgid "battleBooster/name"
+msgstr "Directive"
+
+msgid "chassis/desc"
+msgstr "?empty?"
+
+msgid "chassis/name"
+msgstr "Suspension"
+
+msgid "chassis/tags"
+msgstr "?empty?"
+
+msgid "crewSkins/itemType/common"
+msgstr "Common crew skin"
+
+msgid "crewSkins/itemType/epic"
+msgstr "Unique crew skin"
+
+msgid "crewSkins/itemType/rare"
+msgstr "Rare crew skin"
+
+msgid "customization/camouflage"
+msgstr "Camouflage"
+
+msgid "customization/decal"
+msgstr "Decal"
+
+msgid "customization/emblem"
+msgstr "Emblem"
+
+msgid "customization/inscription"
+msgstr "Inscription"
+
+msgid "customization/modification"
+msgstr "Effect"
+
+msgid "customization/outfit"
+msgstr "?empty?"
+
+msgid "customization/paint"
+msgstr "Paint"
+
+msgid "customization/personalNumber_1"
+msgstr "One-digit Number"
+
+msgid "customization/personalNumber_2"
+msgstr "Two-digit Number"
+
+msgid "customization/personalNumber_3"
+msgstr "Three-digit number"
+
+msgid "customization/plural/camouflage"
+msgstr "Camouflage"
+
+msgid "customization/plural/decal"
+msgstr "Decals"
+
+msgid "customization/plural/emblem"
+msgstr "Emblems"
+
+msgid "customization/plural/inscription"
+msgstr "Inscriptions"
+
+msgid "customization/plural/modification"
+msgstr "Effects"
+
+msgid "customization/plural/outfit"
+msgstr "?empty?"
+
+msgid "customization/plural/paint"
+msgstr "Paints"
+
+msgid "customization/plural/personalNumber"
+msgstr "Three-digit numbers"
+
+msgid "customization/plural/projectionDecal"
+msgstr "Decals"
+
+msgid "customization/plural/style"
+msgstr "Styles"
+
+msgid "customization/projectionDecal"
+msgstr "Decal"
+
+msgid "customization/style"
+msgstr "Style"
+
+msgid "dualGun/name"
+msgstr "Double Gun"
+
+msgid "engine/desc"
+msgstr "?empty?"
+
+msgid "engine/name"
+msgstr "Engine"
+
+msgid "engine/tags"
+msgstr "?empty?"
+
+msgid "equipment/desc"
+msgstr "?empty?"
+
+msgid "equipment/name"
+msgstr "Consumables"
+
+msgid "equipment/tags"
+msgstr "?empty?"
+
+msgid "flameGun/name"
+msgstr "Flamethrower"
+
+msgid "fuelTank/name"
+msgstr "Fuel Tank"
+
+msgid "fuel_tank/desc"
+msgstr "?empty?"
+
+msgid "fuel_tank/name"
+msgstr "Fuel tank"
+
+msgid "fuel_tank/tags"
+msgstr "?empty?"
+
+msgid "gun/desc"
+msgstr "?empty?"
+
+msgid "gun/name"
+msgstr "Gun"
+
+msgid "gun/tags"
+msgstr "?empty?"
+
+msgid "marker/igr"
+msgstr "PC방 %(vehName)s"
+
+msgid "optionalDevice/desc"
+msgstr "?empty?"
+
+msgid "optionalDevice/name"
+msgstr "Equipment"
+
+msgid "optionalDevice/tags"
+msgstr "?empty?"
+
+msgid "radio/desc"
+msgstr "?empty?"
+
+msgid "radio/name"
+msgstr "Radio"
+
+msgid "radio/tags"
+msgstr "?empty?"
+
+msgid "shell/dimension/inch"
+msgstr "\""
+
+msgid "shell/dimension/mm"
+msgstr "mm"
+
+msgid "shell/dimension/sm"
+msgstr "cm"
+
+msgid "shell/kinds/ARMOR_PIERCING"
+msgstr "Armor-Piercing"
+
+msgid "shell/kinds/ARMOR_PIERCING_CR"
+msgstr "AP Composite-Rigid"
+
+msgid "shell/kinds/ARMOR_PIERCING_FSDS"
+msgstr "Armor-piercing sub-caliber"
+
+msgid "shell/kinds/ARMOR_PIERCING_FSDS_SHORT"
+msgstr "Armor-piercing"
+
+msgid "shell/kinds/ARMOR_PIERCING_HE"
+msgstr "AP High-Explosive"
+
+msgid "shell/kinds/FLAME"
+msgstr "Flamethrower mixture"
+
+msgid "shell/kinds/HIGH_EXPLOSIVE"
+msgstr "High-Explosive"
+
+msgid "shell/kinds/HOLLOW_CHARGE"
+msgstr "High-Explosive Anti-Tank"
+
+msgid "shell/kindsAbbreviation/ARMOR_PIERCING"
+msgstr "AP"
+
+msgid "shell/kindsAbbreviation/ARMOR_PIERCING_CR"
+msgstr "APCR"
+
+msgid "shell/kindsAbbreviation/ARMOR_PIERCING_FSDS"
+msgstr "APFSDS"
+
+msgid "shell/kindsAbbreviation/ARMOR_PIERCING_HE"
+msgstr "APHE"
+
+msgid "shell/kindsAbbreviation/FLAME"
+msgstr "OC"
+
+msgid "shell/kindsAbbreviation/HIGH_EXPLOSIVE"
+msgstr "HE"
+
+msgid "shell/kindsAbbreviation/HOLLOW_CHARGE"
+msgstr "HEAT"
+
+msgid "shell/kindsAbbreviation/SMOKE"
+msgstr "?empty?"
+
+msgid "shell/name"
+msgstr "%(caliber)s%(dimension)s %(kind)s %(name)s"
+
+msgid "shot/desc"
+msgstr "?empty?"
+
+msgid "shot/name"
+msgstr "Shell"
+
+msgid "shot/tags"
+msgstr "?empty?"
+
+msgid "surveyingDevice/name"
+msgstr "Observation Device"
+
+msgid "tankman/Skill_not_be_used"
+msgstr "Certain perks may cease to operate when a tanker changes vehicles."
+
+msgid "tankman/gender/man"
+msgstr "Male"
+
+msgid "tankman/gender/woman"
+msgstr "Female"
+
+msgid "tankman/roles/commander"
+msgstr "Commander"
+
+msgid "tankman/roles/driver"
+msgstr "Driver"
+
+msgid "tankman/roles/female/commander"
+msgstr "Commander"
+
+msgid "tankman/roles/female/driver"
+msgstr "Driver"
+
+msgid "tankman/roles/female/gunner"
+msgstr "Gunner"
+
+msgid "tankman/roles/female/loader"
+msgstr "Loader"
+
+msgid "tankman/roles/female/objectiveCase/commander"
+msgstr "Commander"
+
+msgid "tankman/roles/female/objectiveCase/driver"
+msgstr "Driver"
+
+msgid "tankman/roles/female/objectiveCase/gunner"
+msgstr "Gunner"
+
+msgid "tankman/roles/female/objectiveCase/loader"
+msgstr "Loader"
+
+msgid "tankman/roles/female/objectiveCase/radioman"
+msgstr "Radio Operator"
+
+msgid "tankman/roles/female/objectiveCase/upperCase/commander"
+msgstr "COMMANDER"
+
+msgid "tankman/roles/female/objectiveCase/upperCase/driver"
+msgstr "DRIVER"
+
+msgid "tankman/roles/female/objectiveCase/upperCase/gunner"
+msgstr "GUNNER"
+
+msgid "tankman/roles/female/objectiveCase/upperCase/loader"
+msgstr "LOADER"
+
+msgid "tankman/roles/female/objectiveCase/upperCase/radioman"
+msgstr "RADIO OPERATOR"
+
+msgid "tankman/roles/female/possessiveCase/commander"
+msgstr "Commander's perks"
+
+msgid "tankman/roles/female/possessiveCase/driver"
+msgstr "Driver's perks"
+
+msgid "tankman/roles/female/possessiveCase/gunner"
+msgstr "Gunner's perks"
+
+msgid "tankman/roles/female/possessiveCase/loader"
+msgstr "Loader's perks"
+
+msgid "tankman/roles/female/possessiveCase/radioman"
+msgstr "Radio Operator's perks"
+
+msgid "tankman/roles/female/radioman"
+msgstr "Radio Operator"
+
+msgid "tankman/roles/gunner"
+msgstr "Gunner"
+
+msgid "tankman/roles/loader"
+msgstr "Loader"
+
+msgid "tankman/roles/objectiveCase/commander"
+msgstr "Commander"
+
+msgid "tankman/roles/objectiveCase/driver"
+msgstr "Driver"
+
+msgid "tankman/roles/objectiveCase/gunner"
+msgstr "Gunner"
+
+msgid "tankman/roles/objectiveCase/loader"
+msgstr "Loader"
+
+msgid "tankman/roles/objectiveCase/radioman"
+msgstr "Radio Operator"
+
+msgid "tankman/roles/objectiveCase/upperCase/commander"
+msgstr "COMMANDER"
+
+msgid "tankman/roles/objectiveCase/upperCase/driver"
+msgstr "DRIVER"
+
+msgid "tankman/roles/objectiveCase/upperCase/gunner"
+msgstr "GUNNER"
+
+msgid "tankman/roles/objectiveCase/upperCase/loader"
+msgstr "LOADER"
+
+msgid "tankman/roles/objectiveCase/upperCase/radioman"
+msgstr "RADIO OPERATOR"
+
+msgid "tankman/roles/possessiveCase/commander"
+msgstr "Commander's perks"
+
+msgid "tankman/roles/possessiveCase/driver"
+msgstr "Driver's perks"
+
+msgid "tankman/roles/possessiveCase/gunner"
+msgstr "Gunner's perks"
+
+msgid "tankman/roles/possessiveCase/loader"
+msgstr "Loader's perks"
+
+msgid "tankman/roles/possessiveCase/radioman"
+msgstr "Radio Operator's perks"
+
+msgid "tankman/roles/radioman"
+msgstr "Radio Operator"
+
+msgid "tankman/roles/smallResolution/normalCase/driver"
+msgstr "Driver"
+
+msgid "tankman/roles/smallResolution/upperCase/driver"
+msgstr "DRIVER"
+
+msgid "tankman/skills/main"
+msgstr "Primary perk"
+
+msgid "tankman/skills/permanent_descr"
+msgstr ""
+" \n"
+"\n"
+"Skill cannot be reset."
+
+msgid "tankman/skills/type/perk"
+msgstr "Perk. Comes into effect after it reaches 100%."
+
+msgid "tankman/skills/type/perk_common"
+msgstr "Perk. Comes into effect after<br/>all crew members reach 100%."
+
+msgid "tankman/skills/type/perk_short"
+msgstr "Perk"
+
+msgid "tankman/skills/type/skill"
+msgstr ""
+"Perk. Comes into effect after training starts.<br/>The effect increases with"
+" perk level."
+
+msgid "tankman/skills/type/skill_short"
+msgstr "Perk"
+
+msgid "track/name"
+msgstr "Track"
+
+msgid "turret/desc"
+msgstr "?empty?"
+
+msgid "turret/name"
+msgstr "Turret"
+
+msgid "turret/tags"
+msgstr "?empty?"
+
+msgid "turretRotator/name"
+msgstr "Turret"
+
+msgid "vehicle/desc"
+msgstr "?empty?"
+
+msgid "vehicle/name"
+msgstr "Vehicle"
+
+msgid "vehicle/tags/at-spg/desc"
+msgstr "?empty?"
+
+msgid "vehicle/tags/at-spg/name"
+msgstr "Tank Destroyer"
+
+msgid "vehicle/tags/heavy_tank/desc"
+msgstr "?empty?"
+
+msgid "vehicle/tags/heavy_tank/name"
+msgstr "Heavy Tank"
+
+msgid "vehicle/tags/light_tank/desc"
+msgstr "?empty?"
+
+msgid "vehicle/tags/light_tank/name"
+msgstr "Light Tank"
+
+msgid "vehicle/tags/medium_tank/desc"
+msgstr "?empty?"
+
+msgid "vehicle/tags/medium_tank/name"
+msgstr "Medium Tank"
+
+msgid "vehicle/tags/spg/desc"
+msgstr "?empty?"
+
+msgid "vehicle/tags/spg/name"
+msgstr "SPG"
+
+msgid "wheel/name"
+msgstr "Suspension"

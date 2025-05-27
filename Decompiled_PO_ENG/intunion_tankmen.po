@@ -1,0 +1,1627 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-intunion_tankmen\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "names/Buffon"
+msgstr "Buffon"
+
+msgid "names/Gianluigi"
+msgstr "Gianluigi"
+
+msgid "names/bob20_commander1_asia"
+msgstr "Hu"
+
+msgid "names/bob20_commander1_eu"
+msgstr "Mailando"
+
+msgid "names/bob20_commander1_na"
+msgstr "Hu"
+
+msgid "names/bob20_commander1_ru"
+msgstr "?empty?"
+
+msgid "names/bob20_commander1n_asia"
+msgstr "Wo"
+
+msgid "names/bob20_commander1n_eu"
+msgstr "Milan"
+
+msgid "names/bob20_commander1n_na"
+msgstr "Wo"
+
+msgid "names/bob20_commander1n_ru"
+msgstr "LeBwa"
+
+msgid "names/bob20_commander2_asia"
+msgstr "Long"
+
+msgid "names/bob20_commander2_eu"
+msgstr "Baboon"
+
+msgid "names/bob20_commander2_na"
+msgstr "Long"
+
+msgid "names/bob20_commander2_ru"
+msgstr "?empty?"
+
+msgid "names/bob20_commander2n_asia"
+msgstr "Cang"
+
+msgid "names/bob20_commander2n_eu"
+msgstr "King"
+
+msgid "names/bob20_commander2n_na"
+msgstr "Cang"
+
+msgid "names/bob20_commander2n_ru"
+msgstr "Yusha"
+
+msgid "names/bob20_commander3_eu"
+msgstr "Nutz"
+
+msgid "names/bob20_commander3_ru"
+msgstr "?empty?"
+
+msgid "names/bob20_commander3n_eu"
+msgstr "Dez"
+
+msgid "names/bob20_commander3n_ru"
+msgstr "Amway921"
+
+msgid "names/bob20_commander4_eu"
+msgstr "Epic Guys"
+
+msgid "names/bob20_commander4_ru"
+msgstr "?empty?"
+
+msgid "names/bob20_commander4n_eu"
+msgstr "Awesome"
+
+msgid "names/bob20_commander4n_ru"
+msgstr "KorbenDaIlas"
+
+msgid "names/bob21_commander_asia1_Mastertortoise"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_asia1_Mastertortoise_n"
+msgstr "Kame"
+
+msgid "names/bob21_commander_asia2_Summertiger"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_asia2_Summertiger_n"
+msgstr "Summer"
+
+msgid "names/bob21_commander_asia3_Maharlika"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_asia3_Maharlika_n"
+msgstr "Conan"
+
+msgid "names/bob21_commander_eu1_Circon"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_eu1_Circon_n"
+msgstr "Circon"
+
+msgid "names/bob21_commander_eu2_Dakillzor"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_eu2_Dakillzor_n"
+msgstr "Dakillzor"
+
+msgid "names/bob21_commander_eu3_Newmulti2k"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_eu3_Newmulti2k_n"
+msgstr "NewMulti2k"
+
+msgid "names/bob21_commander_eu4_Orzanel"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_eu4_Orzanel_n"
+msgstr "Orzanel"
+
+msgid "names/bob21_commander_na1_Cabbagemechanic"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_na1_Cabbagemechanic_n"
+msgstr "CabMech"
+
+msgid "names/bob21_commander_na2_Tragicloss"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_na2_Tragicloss_n"
+msgstr "TragicLoss"
+
+msgid "names/bob21_commander_na3_Cmdraf"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_na3_Cmdraf_n"
+msgstr "Cmdr_AF"
+
+msgid "names/bob21_commander_ru1_Vspishka"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru1_Vspishka_n"
+msgstr "Vspishka"
+
+msgid "names/bob21_commander_ru1_Yusha"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru1_Yusha_n"
+msgstr "Yusha"
+
+msgid "names/bob21_commander_ru2_Amway921"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru2_Amway921_n"
+msgstr "Amway921"
+
+msgid "names/bob21_commander_ru2_Korbendailas"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru2_Korbendailas_n"
+msgstr "KorbenDaIlas"
+
+msgid "names/bob21_commander_ru3_Inspirer"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru3_Inspirer_n"
+msgstr "Inspirer"
+
+msgid "names/bob21_commander_ru3_Lebwa"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru3_Lebwa_n"
+msgstr "LeBwa"
+
+msgid "names/bob21_commander_ru4_Evilgranny"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru4_Evilgranny_n"
+msgstr "EviL_GrannY"
+
+msgid "names/bob21_commander_ru4_Nearyou"
+msgstr "?empty?"
+
+msgid "names/bob21_commander_ru4_Nearyou_n"
+msgstr "Near_You"
+
+msgid "names/bob25_commander_1"
+msgstr "?empty?"
+
+msgid "names/bob25_commander_1_n"
+msgstr "Jove"
+
+msgid "names/bob25_commander_2"
+msgstr "?empty?"
+
+msgid "names/bob25_commander_2_n"
+msgstr "LeBwa"
+
+msgid "names/bob25_commander_3"
+msgstr "?empty?"
+
+msgid "names/bob25_commander_3_n"
+msgstr "Near_You"
+
+msgid "names/bob25_commander_4"
+msgstr "?empty?"
+
+msgid "names/bob25_commander_4_n"
+msgstr "Yusha"
+
+msgid "names/commander_Nikolay_Kuznetsov"
+msgstr "Kuznetsov"
+
+msgid "names/commander_Nikolay_Kuznetsov_n"
+msgstr "Nikolai"
+
+msgid "names/commander_baroness"
+msgstr "?empty?"
+
+msgid "names/commander_baroness_n"
+msgstr "?empty?"
+
+msgid "names/commander_bingo"
+msgstr "Bingo"
+
+msgid "names/commander_bingo_n"
+msgstr "Johnny"
+
+msgid "names/commander_bjornson"
+msgstr "Bjornson"
+
+msgid "names/commander_bjornson_n"
+msgstr "Ragnar"
+
+msgid "names/commander_bp_BabaYaga"
+msgstr "Yaga"
+
+msgid "names/commander_bp_BabaYaga_n"
+msgstr "Baba"
+
+msgid "names/commander_bp_IvanCarevich"
+msgstr "Prince"
+
+msgid "names/commander_bp_IvanCarevich_n"
+msgstr "Ivan"
+
+msgid "names/commander_bp_Kashchei"
+msgstr "Immortal"
+
+msgid "names/commander_bp_Kashchei_n"
+msgstr "Koschei"
+
+msgid "names/commander_bp_Vasilisa"
+msgstr "Beautiful"
+
+msgid "names/commander_bp_Vasilisa_n"
+msgstr "Vasilisa"
+
+msgid "names/commander_cesare"
+msgstr "Cesare"
+
+msgid "names/commander_cesare_n"
+msgstr "Julia"
+
+msgid "names/commander_cobra"
+msgstr "Cobras"
+
+msgid "names/commander_cobra_n"
+msgstr "Commander"
+
+msgid "names/commander_cover_girl"
+msgstr "?empty?"
+
+msgid "names/commander_cover_girl_n"
+msgstr "?empty?"
+
+msgid "names/commander_duke"
+msgstr "?empty?"
+
+msgid "names/commander_duke_n"
+msgstr "Duke"
+
+msgid "names/commander_ferenc"
+msgstr "?empty?"
+
+msgid "names/commander_ferenc_n"
+msgstr "?empty?"
+
+msgid "names/commander_hillen"
+msgstr "?empty?"
+
+msgid "names/commander_hillen_n"
+msgstr "?empty?"
+
+msgid "names/commander_maeve"
+msgstr "Maeve"
+
+msgid "names/commander_maeve_n"
+msgstr "Queen"
+
+msgid "names/commander_marina"
+msgstr "Legran"
+
+msgid "names/commander_marina_n"
+msgstr "Mari"
+
+msgid "names/commander_mf_Balbes"
+msgstr "?empty?"
+
+msgid "names/commander_mf_Balbes_n"
+msgstr "Fool"
+
+msgid "names/commander_mf_Byvaly"
+msgstr "?empty?"
+
+msgid "names/commander_mf_Byvaly_n"
+msgstr "Experienced"
+
+msgid "names/commander_mf_Trus"
+msgstr "?empty?"
+
+msgid "names/commander_mf_Trus_n"
+msgstr "Coward"
+
+msgid "names/commander_nansen"
+msgstr "?empty?"
+
+msgid "names/commander_nansen_n"
+msgstr "?empty?"
+
+msgid "names/commander_natale"
+msgstr "Di Natale"
+
+msgid "names/commander_natale_n"
+msgstr "Angela"
+
+msgid "names/commander_omelia"
+msgstr "Hayworth"
+
+msgid "names/commander_omelia_n"
+msgstr "Omelia"
+
+msgid "names/commander_pumpkin"
+msgstr "O’Treat"
+
+msgid "names/commander_pumpkin_n"
+msgstr "Patrick"
+
+msgid "names/commander_quickybaby"
+msgstr "?empty?"
+
+msgid "names/commander_quickybaby_n"
+msgstr "?empty?"
+
+msgid "names/commander_rebranding"
+msgstr "Sharpshooter"
+
+msgid "names/commander_rebranding_n"
+msgstr "Oleg"
+
+msgid "names/commander_starlight"
+msgstr "Starlight"
+
+msgid "names/commander_starlight_n"
+msgstr "?empty?"
+
+msgid "names/commander_twitch_ermelinda"
+msgstr "Jung"
+
+msgid "names/commander_twitch_ermelinda_n"
+msgstr "Ermelinda"
+
+msgid "names/commander_twitch_mochizuki"
+msgstr "?empty?"
+
+msgid "names/commander_twitch_mochizuki_n"
+msgstr "Commander Mochizuki"
+
+msgid "names/commander_whiskers"
+msgstr "?empty?"
+
+msgid "names/commander_whiskers_n"
+msgstr "?empty?"
+
+msgid "names/cosm25_1"
+msgstr "Kotelnikov"
+
+msgid "names/cosm25_1_n"
+msgstr "Konstantin"
+
+msgid "names/cosm25_2"
+msgstr "Kruglova"
+
+msgid "names/cosm25_2_n"
+msgstr "Lydia"
+
+msgid "names/hw19_commander1"
+msgstr "Stansfield"
+
+msgid "names/hw19_commander1n"
+msgstr "Norman"
+
+msgid "names/hw19_commander2"
+msgstr "Barnes"
+
+msgid "names/hw19_commander2n"
+msgstr "Robert"
+
+msgid "names/hw19_commander3"
+msgstr "Beaumont"
+
+msgid "names/hw19_commander3n"
+msgstr "Josselin"
+
+msgid "names/hw19_commander4"
+msgstr "Lopakhin"
+
+msgid "names/hw19_commander4n"
+msgstr "Peter"
+
+msgid "names/hw19_commander5"
+msgstr "Grodin"
+
+msgid "names/hw19_commander5n"
+msgstr "Elias"
+
+msgid "names/hw21_commander1"
+msgstr "Stansfield"
+
+msgid "names/hw21_commander1n"
+msgstr "Norman"
+
+msgid "names/hw21_commander2"
+msgstr "Barnes"
+
+msgid "names/hw21_commander2n"
+msgstr "Robert"
+
+msgid "names/hw21_commander4"
+msgstr "Lopakhin"
+
+msgid "names/hw21_commander4n"
+msgstr "Peter"
+
+msgid "names/hw21_commander5"
+msgstr "Grodin"
+
+msgid "names/hw21_commander5n"
+msgstr "Elias"
+
+msgid "names/hw22_tailrius"
+msgstr "?empty?"
+
+msgid "names/hw22_tailrius_n"
+msgstr "Tailstar"
+
+msgid "names/hw22_witch_aurelia"
+msgstr "von Alden"
+
+msgid "names/hw22_witch_aurelia_n"
+msgstr "Aurelia"
+
+msgid "names/hw22_witch_deirdra"
+msgstr "Grimmhildt"
+
+msgid "names/hw22_witch_deirdra_n"
+msgstr "Deirdre"
+
+msgid "names/hw22_witch_kordelia"
+msgstr "Astra"
+
+msgid "names/hw22_witch_kordelia_n"
+msgstr "Cordelia"
+
+msgid "names/hw22_witch_sibilla"
+msgstr "Brennhart"
+
+msgid "names/hw22_witch_sibilla_n"
+msgstr "Sybilla"
+
+msgid "names/iunion1"
+msgstr "Oman"
+
+msgid "names/iunion10"
+msgstr "Kalem"
+
+msgid "names/iunion11"
+msgstr "Sin"
+
+msgid "names/iunion11001"
+msgstr "Leaf"
+
+msgid "names/iunion11002"
+msgstr "Shail"
+
+msgid "names/iunion11003"
+msgstr "Nand"
+
+msgid "names/iunion11004"
+msgstr "Shell"
+
+msgid "names/iunion11005"
+msgstr "Lagos"
+
+msgid "names/iunion11006"
+msgstr "Tar"
+
+msgid "names/iunion11007"
+msgstr "Amar"
+
+msgid "names/iunion11008"
+msgstr "Tsior"
+
+msgid "names/iunion12"
+msgstr "Tsior"
+
+msgid "names/iunion13"
+msgstr "Nova"
+
+msgid "names/iunion14"
+msgstr "Santo"
+
+msgid "names/iunion15"
+msgstr "Bris"
+
+msgid "names/iunion16"
+msgstr "Viss"
+
+msgid "names/iunion17"
+msgstr "Merkot"
+
+msgid "names/iunion18"
+msgstr "Zhil"
+
+msgid "names/iunion19"
+msgstr "Rein"
+
+msgid "names/iunion2"
+msgstr "Rain"
+
+msgid "names/iunion20"
+msgstr "Lir"
+
+msgid "names/iunion21"
+msgstr "Shell"
+
+msgid "names/iunion22"
+msgstr "Zhan"
+
+msgid "names/iunion23"
+msgstr "Avi"
+
+msgid "names/iunion24"
+msgstr "Entar"
+
+msgid "names/iunion25"
+msgstr "Lavis"
+
+msgid "names/iunion26"
+msgstr "Ria"
+
+msgid "names/iunion27"
+msgstr "Rami"
+
+msgid "names/iunion28"
+msgstr "Tarin"
+
+msgid "names/iunion29"
+msgstr "Tar"
+
+msgid "names/iunion3"
+msgstr "Kar"
+
+msgid "names/iunion30"
+msgstr "Shais"
+
+msgid "names/iunion31"
+msgstr "Nand"
+
+msgid "names/iunion32"
+msgstr "Solar"
+
+msgid "names/iunion33"
+msgstr "Lars"
+
+msgid "names/iunion34"
+msgstr "Ksion"
+
+msgid "names/iunion35"
+msgstr "Eolin"
+
+msgid "names/iunion36"
+msgstr "Kain"
+
+msgid "names/iunion37"
+msgstr "Rivery"
+
+msgid "names/iunion38"
+msgstr "Tomir"
+
+msgid "names/iunion39"
+msgstr "Lanes"
+
+msgid "names/iunion4"
+msgstr "Vara"
+
+msgid "names/iunion40"
+msgstr "Solin"
+
+msgid "names/iunion41"
+msgstr "Otar"
+
+msgid "names/iunion42"
+msgstr "Evander"
+
+msgid "names/iunion43"
+msgstr "Lem"
+
+msgid "names/iunion5"
+msgstr "Osan"
+
+msgid "names/iunion6"
+msgstr "Vans"
+
+msgid "names/iunion7"
+msgstr "Amar"
+
+msgid "names/iunion8"
+msgstr "Carmin"
+
+msgid "names/iunion9"
+msgstr "Shaiv"
+
+msgid "names/iunionn1"
+msgstr "Fadj"
+
+msgid "names/iunionn10"
+msgstr "Neri"
+
+msgid "names/iunionn11"
+msgstr "Iolve"
+
+msgid "names/iunionn11001"
+msgstr "Miko"
+
+msgid "names/iunionn11002"
+msgstr "Tea"
+
+msgid "names/iunionn11003"
+msgstr "Lia"
+
+msgid "names/iunionn11004"
+msgstr "Nia"
+
+msgid "names/iunionn11005"
+msgstr "Sau"
+
+msgid "names/iunionn11006"
+msgstr "Ina"
+
+msgid "names/iunionn11007"
+msgstr "Nora"
+
+msgid "names/iunionn11008"
+msgstr "Koi"
+
+msgid "names/iunionn12"
+msgstr "Yarel"
+
+msgid "names/iunionn13"
+msgstr "Lior"
+
+msgid "names/iunionn14"
+msgstr "Mado"
+
+msgid "names/iunionn15"
+msgstr "Io"
+
+msgid "names/iunionn16"
+msgstr "Gabi"
+
+msgid "names/iunionn17"
+msgstr "Kin"
+
+msgid "names/iunionn18"
+msgstr "Lei"
+
+msgid "names/iunionn19"
+msgstr "Arion"
+
+msgid "names/iunionn2"
+msgstr "Sami"
+
+msgid "names/iunionn20"
+msgstr "Sadi"
+
+msgid "names/iunionn21"
+msgstr "Sion"
+
+msgid "names/iunionn22"
+msgstr "Reff"
+
+msgid "names/iunionn23"
+msgstr "Ivon"
+
+msgid "names/iunionn24"
+msgstr "Rilos"
+
+msgid "names/iunionn25"
+msgstr "Amil"
+
+msgid "names/iunionn26"
+msgstr "Veil"
+
+msgid "names/iunionn27"
+msgstr "Vala"
+
+msgid "names/iunionn28"
+msgstr "Arel"
+
+msgid "names/iunionn29"
+msgstr "Tiren"
+
+msgid "names/iunionn3"
+msgstr "Dali"
+
+msgid "names/iunionn30"
+msgstr "Elmor"
+
+msgid "names/iunionn31"
+msgstr "Teren"
+
+msgid "names/iunionn32"
+msgstr "Renail"
+
+msgid "names/iunionn33"
+msgstr "Lion"
+
+msgid "names/iunionn34"
+msgstr "Ril"
+
+msgid "names/iunionn35"
+msgstr "Aganis"
+
+msgid "names/iunionn36"
+msgstr "Solan"
+
+msgid "names/iunionn37"
+msgstr "Lian"
+
+msgid "names/iunionn38"
+msgstr "Sao"
+
+msgid "names/iunionn39"
+msgstr "Ethan"
+
+msgid "names/iunionn4"
+msgstr "Sevrolde"
+
+msgid "names/iunionn40"
+msgstr "Roan"
+
+msgid "names/iunionn41"
+msgstr "Inov"
+
+msgid "names/iunionn42"
+msgstr "Noel"
+
+msgid "names/iunionn43"
+msgstr "Violet"
+
+msgid "names/iunionn5"
+msgstr "Kass"
+
+msgid "names/iunionn6"
+msgstr "Galins"
+
+msgid "names/iunionn7"
+msgstr "Seiman"
+
+msgid "names/iunionn8"
+msgstr "Feldor"
+
+msgid "names/iunionn9"
+msgstr "Sil"
+
+msgid "names/ny19_girl_L10"
+msgstr "Lydinskaya"
+
+msgid "names/ny19_girl_L10n"
+msgstr "Marina"
+
+msgid "names/ny19_girl_L4"
+msgstr "Morozova"
+
+msgid "names/ny19_girl_L4n"
+msgstr "Snezhana"
+
+msgid "names/ny19_girl_L6"
+msgstr "Snezhinskaya"
+
+msgid "names/ny19_girl_L6n"
+msgstr "Olga"
+
+msgid "names/ny19_girl_L8"
+msgstr "Zimnova"
+
+msgid "names/ny19_girl_L8n"
+msgstr "Tatyana"
+
+msgid "names/ny19_men1"
+msgstr "Morozov"
+
+msgid "names/ny19_menn1"
+msgstr "Nikolay"
+
+msgid "names/ny20_girl_Christmas"
+msgstr "Anderson"
+
+msgid "names/ny20_girl_Christmasn"
+msgstr "Omela"
+
+msgid "names/ny20_girl_Fairytale"
+msgstr "Snow"
+
+msgid "names/ny20_girl_Fairytalen"
+msgstr "Elsa"
+
+msgid "names/ny20_girl_NewYear"
+msgstr "Ostrovskaya"
+
+msgid "names/ny20_girl_NewYearn"
+msgstr "Alexandra"
+
+msgid "names/ny20_girl_Oriental"
+msgstr "Sugimura"
+
+msgid "names/ny20_girl_Orientaln"
+msgstr "Aida"
+
+msgid "names/ny20_men"
+msgstr "Vyugin"
+
+msgid "names/ny20_menn"
+msgstr "Vasiliy"
+
+msgid "names/ny20_snowmen"
+msgstr "Winnfield"
+
+msgid "names/ny20_snowmenn"
+msgstr "Julia"
+
+msgid "names/ny21_girl_1"
+msgstr "Metelskaya"
+
+msgid "names/ny21_girl_1n"
+msgstr "Violetta"
+
+msgid "names/ny21_girl_2"
+msgstr "Stuzhina"
+
+msgid "names/ny21_girl_2n"
+msgstr "Diana"
+
+msgid "names/ny21_girl_3"
+msgstr "Kholodkova"
+
+msgid "names/ny21_girl_3n"
+msgstr "Maria"
+
+msgid "names/ny21_girl_4"
+msgstr "Lednyova"
+
+msgid "names/ny21_girl_4n"
+msgstr "Evgenia"
+
+msgid "names/ny21_men"
+msgstr "Norris"
+
+msgid "names/ny21_menn"
+msgstr "Chuck"
+
+msgid "names/ny22_girl_1"
+msgstr "Zimina"
+
+msgid "names/ny22_girl_1n"
+msgstr "Karina"
+
+msgid "names/ny22_girl_2"
+msgstr "Vyuzhnaya"
+
+msgid "names/ny22_girl_2n"
+msgstr "Alice"
+
+msgid "names/ny22_girl_3"
+msgstr "Snegiryova"
+
+msgid "names/ny22_girl_3n"
+msgstr "Margarita"
+
+msgid "names/ny22_girl_4"
+msgstr "Ledovskaya"
+
+msgid "names/ny22_girl_4n"
+msgstr "Zhanna"
+
+msgid "names/ny22_men"
+msgstr "Schwarzenegger"
+
+msgid "names/ny22_men_A"
+msgstr "Pankov"
+
+msgid "names/ny22_men_An"
+msgstr "Anton"
+
+msgid "names/ny22_menn"
+msgstr "Arnold"
+
+msgid "names/ny23_girl_1"
+msgstr "Khan"
+
+msgid "names/ny23_girl_1n"
+msgstr "Wendy"
+
+msgid "names/ny23_girl_2"
+msgstr "Snezhina"
+
+msgid "names/ny23_girl_2n"
+msgstr "Darya"
+
+msgid "names/ny23_girl_3"
+msgstr "Aynfriren"
+
+msgid "names/ny23_girl_3n"
+msgstr "Maria"
+
+msgid "names/ny23_girl_4"
+msgstr "Snowfall"
+
+msgid "names/ny23_girl_4n"
+msgstr "Florence"
+
+msgid "names/ny23_girl_m"
+msgstr "?empty?"
+
+msgid "names/ny23_girl_mn"
+msgstr "?empty?"
+
+msgid "names/ny23ruby_girl_1"
+msgstr "Ostrovskaya"
+
+msgid "names/ny23ruby_girl_1n"
+msgstr "Alexandra"
+
+msgid "names/ny24_tankmen_1"
+msgstr "Yarokrylina"
+
+msgid "names/ny24_tankmen_1_n"
+msgstr "Elena"
+
+msgid "names/ny24_tankmen_2"
+msgstr "Zaitseva"
+
+msgid "names/ny24_tankmen_2_n"
+msgstr "Alexandra"
+
+msgid "names/ny24_tankmen_3"
+msgstr "Lisovskaya"
+
+msgid "names/ny24_tankmen_3_n"
+msgstr "Natalia"
+
+msgid "names/ny24_tankmen_4"
+msgstr "Pandina"
+
+msgid "names/ny24_tankmen_4_n"
+msgstr "Ekaterina"
+
+msgid "names/ny24_tankmen_procyon"
+msgstr "?empty?"
+
+msgid "names/ny24_tankmen_procyon_n"
+msgstr "Matras"
+
+msgid "names/ny25_hvataika"
+msgstr "?empty?"
+
+msgid "names/ny25_hvataika_n"
+msgstr "Galchonok"
+
+msgid "names/ny25_matroskin"
+msgstr "?empty?"
+
+msgid "names/ny25_matroskin_n"
+msgstr "Matroskin"
+
+msgid "names/ny25_sharik"
+msgstr "?empty?"
+
+msgid "names/ny25_sharik_n"
+msgstr "Sharik"
+
+msgid "names/ny25_tamatama"
+msgstr "?empty?"
+
+msgid "names/ny25_tamatama_n"
+msgstr "Tama-Tama"
+
+msgid "names/ny25_tankmen_1"
+msgstr "Chrysanthemum"
+
+msgid "names/ny25_tankmen_1_n"
+msgstr "Snow"
+
+msgid "names/ny25_tankmen_2"
+msgstr "Gerbera"
+
+msgid "names/ny25_tankmen_2_n"
+msgstr "Frosty"
+
+msgid "names/ny25_tankmen_3"
+msgstr "Lunaria"
+
+msgid "names/ny25_tankmen_3_n"
+msgstr "Icy"
+
+msgid "names/ny25_tankmen_4"
+msgstr "Lavender"
+
+msgid "names/ny25_tankmen_4_n"
+msgstr "Winter"
+
+msgid "names/ny25_tankmen_5"
+msgstr "Vallintin"
+
+msgid "names/ny25_tankmen_5_n"
+msgstr "?empty?"
+
+msgid "names/race19_commanderA"
+msgstr "Tetl"
+
+msgid "names/race19_commanderAn"
+msgstr "Abraham"
+
+msgid "names/race19_commanderB"
+msgstr "Moyskhen"
+
+msgid "names/race19_commanderBn"
+msgstr "Wilhelm"
+
+msgid "names/race19_commanderC"
+msgstr "Olenenko"
+
+msgid "names/race19_commanderCn"
+msgstr "Vitaliy"
+
+msgid "names/tankmen_2024_racer_1"
+msgstr "Vaidanen"
+
+msgid "names/tankmen_2024_racer_1_n"
+msgstr "Yussi"
+
+msgid "names/tankmen_2024_racer_2"
+msgstr "Berezka"
+
+msgid "names/tankmen_2024_racer_2_n"
+msgstr "Daria"
+
+msgid "names/tankmen_2024_racer_3"
+msgstr "Allendes"
+
+msgid "names/tankmen_2024_racer_3_n"
+msgstr "Natalia"
+
+msgid "names/tankmen_2024_racer_4"
+msgstr "Duval"
+
+msgid "names/tankmen_2024_racer_4_n"
+msgstr "Matthew"
+
+msgid "names/tankmen_Ar_Dubinin"
+msgstr "Dubinin"
+
+msgid "names/tankmen_Ar_Dubinin_n"
+msgstr "Vitaliy"
+
+msgid "names/tankmen_Ar_Holstinin"
+msgstr "Kholstinin"
+
+msgid "names/tankmen_Ar_Holstinin_n"
+msgstr "Vladimir"
+
+msgid "names/tankmen_Ar_Popov"
+msgstr "Popov"
+
+msgid "names/tankmen_Ar_Popov_n"
+msgstr "Sergey"
+
+msgid "names/tankmen_Ar_Udalov"
+msgstr "Udalov"
+
+msgid "names/tankmen_Ar_Udalov_n"
+msgstr "Maxim"
+
+msgid "names/tankmen_Ar_Zhitnyakov"
+msgstr "Zhitnyakov"
+
+msgid "names/tankmen_Ar_Zhitnyakov_n"
+msgstr "Mikhail"
+
+msgid "names/tankmen_Ar_Zhorik"
+msgstr "Zhorik"
+
+msgid "names/tankmen_Ar_Zhorik_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_BP13_1"
+msgstr "Smolsky"
+
+msgid "names/tankmen_BP13_1_n"
+msgstr "Dmitriy"
+
+msgid "names/tankmen_BP13_2"
+msgstr "Azargayev"
+
+msgid "names/tankmen_BP13_2_n"
+msgstr "Erdene"
+
+msgid "names/tankmen_BP13_3"
+msgstr "Korshunkov"
+
+msgid "names/tankmen_BP13_3_n"
+msgstr "Mikhail"
+
+msgid "names/tankmen_BP13_4"
+msgstr "Terentich"
+
+msgid "names/tankmen_BP13_4_n"
+msgstr "Vitaliy"
+
+msgid "names/tankmen_BP14_1"
+msgstr "Mels"
+
+msgid "names/tankmen_BP14_1_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_BP14_2"
+msgstr "Zolteridze"
+
+msgid "names/tankmen_BP14_2_n"
+msgstr "Artyom"
+
+msgid "names/tankmen_BP14_3"
+msgstr "Selitskaya"
+
+msgid "names/tankmen_BP14_3_n"
+msgstr "Lera"
+
+msgid "names/tankmen_BP14_4"
+msgstr "Stepankoff"
+
+msgid "names/tankmen_BP14_4_n"
+msgstr "Nik"
+
+msgid "names/tankmen_BP14_5"
+msgstr "Stepankov"
+
+msgid "names/tankmen_BP14_5_n"
+msgstr "Nikita"
+
+msgid "names/tankmen_BP14_AC_1"
+msgstr "Haksl"
+
+msgid "names/tankmen_BP14_AC_1_n"
+msgstr "Artur"
+
+msgid "names/tankmen_BP14_AC_2"
+msgstr "Donato"
+
+msgid "names/tankmen_BP14_AC_2_n"
+msgstr "Joshua"
+
+msgid "names/tankmen_BP14_AC_3"
+msgstr "Chaikina"
+
+msgid "names/tankmen_BP14_AC_3_n"
+msgstr "Nika"
+
+msgid "names/tankmen_BP14_AC_4"
+msgstr "Lemke"
+
+msgid "names/tankmen_BP14_AC_4_n"
+msgstr "Lotta"
+
+msgid "names/tankmen_BP14_AC_5"
+msgstr "Van"
+
+msgid "names/tankmen_BP14_AC_5_n"
+msgstr "Yan"
+
+msgid "names/tankmen_BP15_1"
+msgstr "Zhukovsky"
+
+msgid "names/tankmen_BP15_1_n"
+msgstr "Alexey"
+
+msgid "names/tankmen_BP15_2"
+msgstr "Kurkov"
+
+msgid "names/tankmen_BP15_2_n"
+msgstr "Vladislav"
+
+msgid "names/tankmen_BP15_3"
+msgstr "Tsudanov"
+
+msgid "names/tankmen_BP15_3_n"
+msgstr "Anton"
+
+msgid "names/tankmen_BP15_4"
+msgstr "Dogilyov"
+
+msgid "names/tankmen_BP15_4_n"
+msgstr "Artemiy"
+
+msgid "names/tankmen_BP15_5"
+msgstr "Novitskaya"
+
+msgid "names/tankmen_BP15_5_n"
+msgstr "Anna"
+
+msgid "names/tankmen_MF_1"
+msgstr "Tsygankov"
+
+msgid "names/tankmen_MF_1_n"
+msgstr "Yashka"
+
+msgid "names/tankmen_MF_2"
+msgstr "Shchus"
+
+msgid "names/tankmen_MF_2_n"
+msgstr "Ksanka"
+
+msgid "names/tankmen_MF_3"
+msgstr "Shchus"
+
+msgid "names/tankmen_MF_3_n"
+msgstr "Danka"
+
+msgid "names/tankmen_MF_4"
+msgstr "Meshcheryakov"
+
+msgid "names/tankmen_MF_4_n"
+msgstr "Valeriy"
+
+msgid "names/tankmen_MF_5_d_Vova"
+msgstr "Mashkov"
+
+msgid "names/tankmen_MF_5_d_Vova_n"
+msgstr "Vladimir"
+
+msgid "names/tankmen_MF_6_Scripach"
+msgstr "Alexidze"
+
+msgid "names/tankmen_MF_6_Scripach_n"
+msgstr "Gedevan"
+
+msgid "names/tankmen_MF_7_Uef"
+msgstr "?empty?"
+
+msgid "names/tankmen_MF_7_Uef_n"
+msgstr "Uef"
+
+msgid "names/tankmen_MF_8_Bi"
+msgstr "?empty?"
+
+msgid "names/tankmen_MF_8_Bi_n"
+msgstr "Bi"
+
+msgid "names/tankmen_T3_1"
+msgstr "Legate"
+
+msgid "names/tankmen_T3_1_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_T3_2"
+msgstr "Norna"
+
+msgid "names/tankmen_T3_2_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_T3_3"
+msgstr "Arrow"
+
+msgid "names/tankmen_T3_3_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_T3_4"
+msgstr "Orpheus"
+
+msgid "names/tankmen_T3_4_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_T3_5"
+msgstr "Fog"
+
+msgid "names/tankmen_T3_5_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_WT2024_Elisa"
+msgstr "Day"
+
+msgid "names/tankmen_WT2024_Elisa_n"
+msgstr "Eliza"
+
+msgid "names/tankmen_WT2024_Marat"
+msgstr "Salimgareev"
+
+msgid "names/tankmen_WT2024_Marat_n"
+msgstr "Marat"
+
+msgid "names/tankmen_bp10_1"
+msgstr "Montanari"
+
+msgid "names/tankmen_bp10_1_n"
+msgstr "Tony"
+
+msgid "names/tankmen_bp10_2"
+msgstr "Becker"
+
+msgid "names/tankmen_bp10_2_n"
+msgstr "Andreas"
+
+msgid "names/tankmen_bp10_3"
+msgstr "Friden"
+
+msgid "names/tankmen_bp10_3_n"
+msgstr "Greta"
+
+msgid "names/tankmen_bp11_1"
+msgstr "Harman"
+
+msgid "names/tankmen_bp11_1_n"
+msgstr "Ian"
+
+msgid "names/tankmen_bp11_2"
+msgstr "Buzho"
+
+msgid "names/tankmen_bp11_2_n"
+msgstr "Colette"
+
+msgid "names/tankmen_bp11_3"
+msgstr "Adashkevich"
+
+msgid "names/tankmen_bp11_3_n"
+msgstr "Stefan"
+
+msgid "names/tankmen_bp11_4"
+msgstr "Sanders"
+
+msgid "names/tankmen_bp11_4_n"
+msgstr "Catherine"
+
+msgid "names/tankmen_bp12MT_1"
+msgstr "Tsaryov"
+
+msgid "names/tankmen_bp12MT_1_n"
+msgstr "Ivan"
+
+msgid "names/tankmen_bp12MT_2"
+msgstr "Tao"
+
+msgid "names/tankmen_bp12MT_2_n"
+msgstr "Kan"
+
+msgid "names/tankmen_bp12MT_3"
+msgstr "Lando"
+
+msgid "names/tankmen_bp12MT_3_n"
+msgstr "Matilda"
+
+msgid "names/tankmen_bp12MT_4"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12MT_4_n"
+msgstr "ED-208"
+
+msgid "names/tankmen_bp12_1"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_1_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_2"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_2_n"
+msgstr "Maria"
+
+msgid "names/tankmen_bp12_3"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_3_n"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_4"
+msgstr "?empty?"
+
+msgid "names/tankmen_bp12_4_n"
+msgstr "Nadezhda"
+
+msgid "names/tankmen_bp3_1"
+msgstr "Badaev"
+
+msgid "names/tankmen_bp3_1_n"
+msgstr "Vasily"
+
+msgid "names/tankmen_bp3_2"
+msgstr "Lin"
+
+msgid "names/tankmen_bp3_2_n"
+msgstr "Chan"
+
+msgid "names/tankmen_bp3_3"
+msgstr "Barton"
+
+msgid "names/tankmen_bp3_3_n"
+msgstr "George"
+
+msgid "names/tankmen_bp5_1"
+msgstr "Lemarten"
+
+msgid "names/tankmen_bp5_1_n"
+msgstr "Jean-Marc"
+
+msgid "names/tankmen_bp5_2"
+msgstr "Hodkevich"
+
+msgid "names/tankmen_bp5_2_n"
+msgstr "Katarina"
+
+msgid "names/tankmen_bp5_3"
+msgstr "Macrid"
+
+msgid "names/tankmen_bp5_3_n"
+msgstr "Douglas"
+
+msgid "names/tankmen_bp6_1"
+msgstr "Lemarten"
+
+msgid "names/tankmen_bp6_1_n"
+msgstr "Christoph"
+
+msgid "names/tankmen_bp6_2"
+msgstr "Hamilton"
+
+msgid "names/tankmen_bp6_2_n"
+msgstr "Louise"
+
+msgid "names/tankmen_bp6_3"
+msgstr "Pokrovsky"
+
+msgid "names/tankmen_bp6_3_n"
+msgstr "Andrey"
+
+msgid "names/tankmen_bp7_1"
+msgstr "Willard"
+
+msgid "names/tankmen_bp7_1_n"
+msgstr "Benjamin"
+
+msgid "names/tankmen_bp7_2"
+msgstr "Fredriksson"
+
+msgid "names/tankmen_bp7_2_n"
+msgstr "Mari"
+
+msgid "names/tankmen_bp7_3"
+msgstr "Hammel"
+
+msgid "names/tankmen_bp7_3_n"
+msgstr "Zigfrid"
+
+msgid "names/tankmen_bp7_4"
+msgstr "Sokolovsky"
+
+msgid "names/tankmen_bp7_4_n"
+msgstr "Alexey"
+
+msgid "names/tankmen_bp8_6"
+msgstr "Sakovskaya"
+
+msgid "names/tankmen_bp8_6_n"
+msgstr "Alla"
+
+msgid "names/tankmen_bp8_7"
+msgstr "Ardane"
+
+msgid "names/tankmen_bp8_7_n"
+msgstr "Giselle"
+
+msgid "names/tankmen_bp8_8"
+msgstr "O'Ril"
+
+msgid "names/tankmen_bp8_8_n"
+msgstr "April"
+
+msgid "names/tankmen_bp9_1"
+msgstr "Ingannamorte"
+
+msgid "names/tankmen_bp9_1_n"
+msgstr "Marco"
+
+msgid "names/tankmen_bp9_2"
+msgstr "Matievsky"
+
+msgid "names/tankmen_bp9_2_n"
+msgstr "Jozef"
+
+msgid "names/tankmen_bp9_3"
+msgstr "Norett"
+
+msgid "names/tankmen_bp9_3_n"
+msgstr "Isabel"
+
+msgid "names/tankmen_hw_BabaYaga"
+msgstr "Yaga"
+
+msgid "names/tankmen_hw_BabaYaga_n"
+msgstr "Grandma"
+
+msgid "names/tankmen_hw_IvanCarevich"
+msgstr "Prince"
+
+msgid "names/tankmen_hw_IvanCarevich_n"
+msgstr "Tyrant"
+
+msgid "names/tankmen_hw_Kashchei"
+msgstr "Powerless"
+
+msgid "names/tankmen_hw_Kashchei_n"
+msgstr "Koschei"
+
+msgid "names/tankmen_hw_Katrina"
+msgstr "?empty?"
+
+msgid "names/tankmen_hw_Katrina_n"
+msgstr "Katrina"
+
+msgid "names/tankmen_hw_Vasilisa"
+msgstr "Disgusting"
+
+msgid "names/tankmen_hw_Vasilisa_n"
+msgstr "Vasilisa"
+
+msgid "names/twitch_girl1"
+msgstr "Wells"
+
+msgid "names/twitch_girln1"
+msgstr "Charlotte"
+
+msgid "names/twitch_guy1"
+msgstr "Duke"
+
+msgid "names/twitch_guyn1"
+msgstr "Alex «The Hunter»"
+
+msgid "names/wt22_boss_commander"
+msgstr "Jung"
+
+msgid "names/wt22_boss_commander_n"
+msgstr "Ermelinda"
+
+msgid "names/wt22_hunter_commander"
+msgstr "Rapier"
+
+msgid "names/wt22_hunter_commander_n"
+msgstr "Villanelle"
+
+msgid "names/yandex_1"
+msgstr "Belova"
+
+msgid "names/yandex_1n"
+msgstr "Yana"
+
+msgid "ranksIU/captain"
+msgstr "Captain"
+
+msgid "ranksIU/junior_lieutenant"
+msgstr "Ensign"
+
+msgid "ranksIU/junior_sergeant"
+msgstr "Corporal"
+
+msgid "ranksIU/lance_corporal"
+msgstr "Junior Corporal"
+
+msgid "ranksIU/lieutenant"
+msgstr "Lieutenant"
+
+msgid "ranksIU/major"
+msgstr "Major"
+
+msgid "ranksIU/private"
+msgstr "Private"
+
+msgid "ranksIU/senior_lieutenant"
+msgstr "Senior Lieutenant"
+
+msgid "ranksIU/senior_sergeant"
+msgstr "Senior Sergeant"
+
+msgid "ranksIU/sergeant"
+msgstr "Sergeant"
+
+msgid "ranksIU/sergeant_major"
+msgstr "Second Lieutenant"

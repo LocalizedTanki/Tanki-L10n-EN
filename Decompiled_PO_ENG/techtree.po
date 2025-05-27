@@ -1,0 +1,192 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-techtree\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "entryPoint/tooltip/announcement/comingSoon"
+msgstr "Soon in the game"
+
+msgid "entryPoint/tooltip/announcement/condition_1"
+msgstr "Thematic progression style;"
+
+msgid "entryPoint/tooltip/announcement/condition_2"
+msgstr ""
+"Crew members with \"zero\" skill \"Brotherhood in Arms\" and additional "
+"amount of unallocated experience;"
+
+msgid "entryPoint/tooltip/announcement/condition_3"
+msgstr "Premium vehicles of VIII-IX levels;"
+
+msgid "entryPoint/tooltip/announcement/condition_4"
+msgstr "Action vehicles of X level;"
+
+msgid "entryPoint/tooltip/announcement/condition_5"
+msgstr "Unique vehicles of XI level with new combat capabilities."
+
+msgid "entryPoint/tooltip/announcement/conditionsTitle"
+msgstr "Progress rewards:"
+
+msgid "entryPoint/tooltip/announcement/description"
+msgstr ""
+"You can reset the research progress of the vehicle branch from VI to X "
+"levels, then research it again. After completing the research, have a "
+"victorious battle on the re-researched vehicle to earn \"Orbit\" progression"
+" points. As you progress through the progression, you will receive rewards "
+"for each completed stage. All equipment, as well as the results and "
+"statistics achieved on the vehicles by the time of resetting the "
+"corresponding branch, will be saved."
+
+msgid "entryPoint/tooltip/announcement/point"
+msgstr "•"
+
+msgid "entryPoint/tooltip/title"
+msgstr "Project \"Orbit\""
+
+msgid "vehicle_tree/actionButton/recovery"
+msgstr "Restore"
+
+msgid "vehicle_tree/blueprints/node/tokenBalance"
+msgstr "%(earned)s / %(max)s"
+
+msgid "vehicle_tree/earlyAccessButton"
+msgstr "EARLY ACCESS"
+
+msgid "vehicle_tree/header/blueprintBalance"
+msgstr "In the Depot:"
+
+msgid "vehicle_tree/header/blueprintsSwitchTooltip"
+msgstr ""
+"Displays or hides information about the blueprints of researched vehicles."
+
+msgid "vehicle_tree/header/blueprintsSwitchTooltipDisabled"
+msgstr ""
+"Due to technical reasons, this functionality is disabled.\n"
+"We apologize."
+
+msgid "vehicle_tree/header/title/china"
+msgstr "Chinese vehicles"
+
+msgid "vehicle_tree/header/title/china_blueprints"
+msgstr "Blueprints of Chinese vehicles"
+
+msgid "vehicle_tree/header/title/czech"
+msgstr "Czechoslovakian vehicles"
+
+msgid "vehicle_tree/header/title/czech_blueprints"
+msgstr "Blueprints of Czechoslovakian vehicles"
+
+msgid "vehicle_tree/header/title/france"
+msgstr "French vehicles"
+
+msgid "vehicle_tree/header/title/france_blueprints"
+msgstr "Blueprints of French vehicles"
+
+msgid "vehicle_tree/header/title/germany"
+msgstr "German vehicles"
+
+msgid "vehicle_tree/header/title/germany_blueprints"
+msgstr "Blueprints of German vehicles"
+
+msgid "vehicle_tree/header/title/intunion"
+msgstr "Nation vehicles"
+
+msgid "vehicle_tree/header/title/intunion_blueprints"
+msgstr "Blueprints of Nation vehicles"
+
+msgid "vehicle_tree/header/title/italy"
+msgstr "Italian vehicles"
+
+msgid "vehicle_tree/header/title/italy_blueprints"
+msgstr "Blueprints of Italian vehicles"
+
+msgid "vehicle_tree/header/title/japan"
+msgstr "Japanese vehicles"
+
+msgid "vehicle_tree/header/title/japan_blueprints"
+msgstr "Blueprints of Japanese vehicles"
+
+msgid "vehicle_tree/header/title/poland"
+msgstr "Polish vehicles"
+
+msgid "vehicle_tree/header/title/poland_blueprints"
+msgstr "Blueprints of Polish vehicles"
+
+msgid "vehicle_tree/header/title/sweden"
+msgstr "Swedish vehicles"
+
+msgid "vehicle_tree/header/title/sweden_blueprints"
+msgstr "Blueprints of Swedish vehicles"
+
+msgid "vehicle_tree/header/title/uk"
+msgstr "British vehicles"
+
+msgid "vehicle_tree/header/title/uk_blueprints"
+msgstr "Blueprints of British vehicles"
+
+msgid "vehicle_tree/header/title/usa"
+msgstr "American vehicles"
+
+msgid "vehicle_tree/header/title/usa_blueprints"
+msgstr "Blueprints of American vehicles"
+
+msgid "vehicle_tree/header/title/ussr"
+msgstr "USSR vehicles"
+
+msgid "vehicle_tree/header/title/ussr_blueprints"
+msgstr "Blueprints of USSR vehicles"
+
+msgid "vehicle_tree/nationTooltip/china"
+msgstr "Go to Chinese vehicles"
+
+msgid "vehicle_tree/nationTooltip/czech"
+msgstr "Go to Czechoslovakian vehicles"
+
+msgid "vehicle_tree/nationTooltip/france"
+msgstr "Go to French vehicles"
+
+msgid "vehicle_tree/nationTooltip/germany"
+msgstr "Go to German vehicles"
+
+msgid "vehicle_tree/nationTooltip/intunion"
+msgstr "Go to Nation vehicles"
+
+msgid "vehicle_tree/nationTooltip/italy"
+msgstr "Go to Italian vehicles"
+
+msgid "vehicle_tree/nationTooltip/japan"
+msgstr "Go to Japanese vehicles"
+
+msgid "vehicle_tree/nationTooltip/poland"
+msgstr "Go to Polish vehicles"
+
+msgid "vehicle_tree/nationTooltip/sweden"
+msgstr "Go to Swedish vehicles"
+
+msgid "vehicle_tree/nationTooltip/uk"
+msgstr "Go to British vehicles"
+
+msgid "vehicle_tree/nationTooltip/usa"
+msgstr "Go to American vehicles"
+
+msgid "vehicle_tree/nationTooltip/ussr"
+msgstr "Go to USSR vehicles"
+
+msgid "vehicle_tree/paragonsLocked/tooltip/body"
+msgstr ""
+"To unlock the branch, complete stage %(level) of season %(stage)s of the "
+"\"Orbit\" project."
+
+msgid "vehicle_tree/paragonsLocked/tooltip/header"
+msgstr "Blocked branch"
+
+msgid "vehicle_tree/premium/title"
+msgstr "PREMIUM TECHNIQUE"
+
+msgid "vehicle_tree/tank_node/compareButtonTooltip/body"
+msgstr "Add to comparison"

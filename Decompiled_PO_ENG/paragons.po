@@ -1,0 +1,1008 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-paragons\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "allRewards/button/list"
+msgstr "List"
+
+msgid "allRewards/button/select"
+msgstr "Select"
+
+msgid "allRewards/subtitle"
+msgstr ""
+"Regular rewards are automatically credited upon reaching each stage.\n"
+"Level XI vehicles must be selected manually."
+
+msgid "allRewards/title"
+msgstr "SEASON REWARDS %(level)s"
+
+msgid "allRewards/tooltip/branchSelectBody_1"
+msgstr ""
+"This is where you gain access to research and purchase vehicles from the "
+"locked branch within the \"Orbit\" project."
+
+msgid "allRewards/tooltip/branchSelectHeader_1"
+msgstr "Access to vehicle branch"
+
+msgid "allRewards/tooltip/branchSelectHeader_2"
+msgstr "Vehicles from the locked branch:"
+
+msgid "allRewards/tooltip/count"
+msgstr "... и ещё машин: {white_Open}%(count)s{white_Close}"
+
+msgid "allRewards/tooltip/current/additionalText"
+msgstr ""
+"To progress through the progression, reset the branch of researched "
+"vehicles, re-research all vehicles, and win a battle with each of them."
+
+msgid "allRewards/tooltip/current/text"
+msgstr ""
+"Earn progression points in the \"Orbit\" project to receive rewards for "
+"completing the stage."
+
+msgid "allRewards/tooltip/current/title"
+msgstr "Current stage"
+
+msgid "allRewards/tooltip/finished/text"
+msgstr "Stage completed, rewards received."
+
+msgid "allRewards/tooltip/finished/title"
+msgstr "Completed stage"
+
+msgid "allRewards/tooltip/next/additionalText"
+msgstr ""
+"To progress through the progression, reset the branch of researched "
+"vehicles, re-research all vehicles, and win a battle with each of them."
+
+msgid "allRewards/tooltip/next/text"
+msgstr ""
+"Continue progressing through the progression to gain access to the rewards "
+"of this stage."
+
+msgid "allRewards/tooltip/next/title"
+msgstr "Stage unavailable"
+
+msgid "allRewards/tooltip/vehicleSelectBody_1"
+msgstr ""
+"Select a Level XI vehicle from the available list. The remaining vehicles "
+"can be obtained in the following progression stages."
+
+msgid "allRewards/tooltip/vehicleSelectBody_2"
+msgstr ""
+"The list of available vehicles will be updated as new seasons are released."
+
+msgid "allRewards/tooltip/vehicleSelectHeader_1"
+msgstr "Vehicles to choose from"
+
+msgid "allRewards/tooltip/vehicleSelectHeader_2"
+msgstr "Available for selection vehicles:"
+
+msgid "allStageRewards/subTitle"
+msgstr ""
+"Regular rewards are automatically credited upon reaching each stage.\n"
+"Level XI vehicles must be selected manually."
+
+msgid "allStageRewards/title"
+msgstr "REWARDS FOR ALL STAGES"
+
+msgid "battle/reward/coins"
+msgstr "Earned in battle: %(coins)s"
+
+msgid "branch/available/body"
+msgstr "Issue resolved, previously locked vehicle branch is accessible again."
+
+msgid "branch/available/header"
+msgstr "Locked branch restored"
+
+msgid "branch/reseted/body/first"
+msgstr "Branch reset to unresearched state."
+
+msgid "branch/reseted/body/second"
+msgstr "Property return:"
+
+msgid "branch/reseted/header"
+msgstr "Branch reset"
+
+msgid "branch/reseted/refund/ammunition"
+msgstr "Ammunition %(amounts)s."
+
+msgid "branch/reseted/refund/appearance"
+msgstr "Exterior elements %(amounts)s."
+
+msgid "branch/reseted/refund/credits"
+msgstr "Credits: %(amounts)s."
+
+msgid "branch/reseted/refund/crew"
+msgstr "Crew members %(amounts)s."
+
+msgid "branch/reseted/refund/equipment"
+msgstr "Equipment %(amounts)s."
+
+msgid "branch/reseted/refund/instruction"
+msgstr "Pre-battle instructions %(amounts)s."
+
+msgid "branch/reseted/refund/kit"
+msgstr "Gear %(amounts)s."
+
+msgid "branch/resetting/error/body/first"
+msgstr "An error occurred. Please try the operation again later."
+
+msgid "branch/resetting/error/body/second"
+msgstr "All vehicles and resources are saved."
+
+msgid "branch/resetting/error/header"
+msgstr "Reset error"
+
+msgid "branch/unavailable/body"
+msgstr ""
+"Something went wrong. We are working to resolve the issue, please try again "
+"later."
+
+msgid "branch/unavailable/header"
+msgstr "Locked branch unavailable"
+
+msgid "chapter/reward/header"
+msgstr "Stage completed! Reward:"
+
+msgid "chapter/reward/selector/button/text"
+msgstr "Select"
+
+msgid "chapter/reward/selector/text"
+msgstr "Choose rewards from available categories."
+
+msgid "chapterName/id_1"
+msgstr "Season \"Alpha\""
+
+msgid "chapterName/short/id_1"
+msgstr "Alpha"
+
+msgid "chapterName/shortUpperCase/id_1"
+msgstr "ALPHA"
+
+msgid "chapterName/upperCase/id_1"
+msgstr "SEASON \"ALPHA\""
+
+msgid "claimRewards/closeButton"
+msgstr "CLOSE"
+
+msgid "claimRewards/errorScreen/button"
+msgstr "Affirmative!"
+
+msgid "claimRewards/errorScreen/description"
+msgstr ""
+"Refresh the screen or try again later. We are working to identify and "
+"resolve the issue."
+
+msgid "claimRewards/errorScreen/title"
+msgstr "An error occurred"
+
+msgid "claimRewards/footer/claimButton"
+msgstr "Claim"
+
+msgid "claimRewards/footer/claimLaterButton"
+msgstr "Choose Later"
+
+msgid "claimRewards/footer/text/chose"
+msgstr "Rewards Selected: %(number)s"
+
+msgid "claimRewards/footer/text/notChosen"
+msgstr "Select rewards from the presented categories"
+
+msgid "claimRewards/footer/text/tooltip/description"
+msgstr "Press \"Claim\" to receive the chosen rewards."
+
+msgid "claimRewards/footer/text/tooltip/header"
+msgstr "Rewards Selected: %(number)s"
+
+msgid "claimRewards/footer/text/tooltip/vehicleDescription"
+msgstr "Level XI Vehicle"
+
+msgid "claimRewards/purchaseScreen/alert"
+msgstr "You cannot change your selection!"
+
+msgid "claimRewards/purchaseScreen/cancelButton"
+msgstr "Cancel"
+
+msgid "claimRewards/purchaseScreen/confirmButton"
+msgstr "Confirm"
+
+msgid "claimRewards/purchaseScreen/title"
+msgstr "Claim %(tankName)?"
+
+msgid "claimRewards/selectedRewards/number"
+msgstr "%(selected)s / %(all)s"
+
+msgid "claimRewards/selectedRewards/title"
+msgstr "Level XI Vehicle"
+
+msgid "claimRewards/selectedRewards/tooltip/body"
+msgstr "Choose a Level XI vehicle."
+
+msgid "claimRewards/selectedRewards/tooltip/header"
+msgstr "Level XI Equipment"
+
+msgid "claimRewards/title"
+msgstr "SELECT REWARD"
+
+msgid "claimRewards/titlePreview"
+msgstr "EQUIPMENT TO CHOOSE"
+
+msgid "entryPoint/tooltip/allChaptersCompleted"
+msgstr "ALL SEASONS COMPLETED"
+
+msgid "entryPoint/tooltip/chapterNotChosen"
+msgstr "CHOOSE THE NEXT STAGE"
+
+msgid "entryPoint/tooltip/currentLevel"
+msgstr "Current Stage"
+
+msgid "entryPoint/tooltip/currentLevelRewards"
+msgstr "Stage Rewards"
+
+msgid "entryPoint/tooltip/firstEntry/description"
+msgstr ""
+"Project \"Orbit\" launched! Progress through the ranks and earn valuable "
+"rewards."
+
+msgid "entryPoint/tooltip/firstEntry/rewards/point"
+msgstr "•"
+
+msgid "entryPoint/tooltip/firstEntry/rewards/reward_1"
+msgstr "Thematic progression style;"
+
+msgid "entryPoint/tooltip/firstEntry/rewards/reward_2"
+msgstr "Crew members;"
+
+msgid "entryPoint/tooltip/firstEntry/rewards/reward_3"
+msgstr "Premium Vehicles VIII - IX levels;"
+
+msgid "entryPoint/tooltip/firstEntry/rewards/reward_4"
+msgstr "Special X level vehicles;"
+
+msgid "entryPoint/tooltip/firstEntry/rewards/reward_5"
+msgstr "Unique Level XI vehicles with new combat capabilities."
+
+msgid "entryPoint/tooltip/firstEntry/rewards/subtitle"
+msgstr "Season Stage Rewards:"
+
+msgid "entryPoint/tooltip/firstEntry/steps/rewardsSubTitle"
+msgstr "Season Stage Rewards:"
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_1"
+msgstr "%(colored)s with unique rewards."
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_1_colored"
+msgstr "Choose a Season"
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_2"
+msgstr "%(colored)s of researched vehicles VI - X levels."
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_2_colored"
+msgstr "Reset Branch"
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_3"
+msgstr "%(colored)s researched vehicles."
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_3_colored"
+msgstr "Research this branch again and purchase"
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_4"
+msgstr "Complete %(colored)s on each of these vehicles in any suitable modes."
+
+msgid "entryPoint/tooltip/firstEntry/steps/step_4_colored"
+msgstr "victorious battle"
+
+msgid "entryPoint/tooltip/firstEntry/steps/subTitle"
+msgstr "How to progress through the ranks:"
+
+msgid "entryPoint/tooltip/howToEarnPoints1"
+msgstr ""
+"%(colored)s of researched vehicles VI - X levels. The same branch can be "
+"reset after re-researching it."
+
+msgid "entryPoint/tooltip/howToEarnPoints1_colored"
+msgstr "Reset Branch"
+
+msgid "entryPoint/tooltip/howToEarnPoints2"
+msgstr "%(colored)s researched equipment."
+
+msgid "entryPoint/tooltip/howToEarnPoints2_colored"
+msgstr "Research and repurchase"
+
+msgid "entryPoint/tooltip/howToEarnPoints3"
+msgstr ""
+"Complete %(colored)s on each re-researched vehicle in any of the following "
+"modes: Random Battle, Grand Battle, Assault, Ranked Battle, Frontline, "
+"Proving Grounds, Arcade, Strongholds, and Clan Battles."
+
+msgid "entryPoint/tooltip/howToEarnPoints3_colored"
+msgstr "victorious battle"
+
+msgid "entryPoint/tooltip/howToEarnPointsHeader"
+msgstr "How to earn progression points:"
+
+msgid "entryPoint/tooltip/message/allChaptersCompleted"
+msgstr "New seasons with rewards are already in development."
+
+msgid "entryPoint/tooltip/message/chapterNotChosen"
+msgstr "Choose a season to progress and earn valuable rewards."
+
+msgid "entryPoint/tooltip/paused/description"
+msgstr "Project temporarily suspended. We will inform you when work resumes."
+
+msgid "entryPoint/tooltip/paused/title"
+msgstr "Project \"Orbit\" suspended"
+
+msgid "entryPoint/tooltip/points/description"
+msgstr ""
+"Continue accumulating progression points\n"
+"for transfer to the next season."
+
+msgid "entryPoint/tooltip/stage"
+msgstr "Season %(stage)"
+
+msgid "entryPoint/tooltip/title"
+msgstr "Project \"Orbit\""
+
+msgid "entryPoint/tooltip/warning/needVehicleToReset"
+msgstr ""
+"To access the branch reset, you need to have at least %(count) researched "
+"vehicles of level X in the Garage."
+
+msgid "entryPoint/tooltip/warning/noResettedBranches"
+msgstr ""
+"To continue earning points, reset the progress of the vehicle branch "
+"research."
+
+msgid "introView/closeButton"
+msgstr "CLOSE"
+
+msgid "introView/description/first"
+msgstr ""
+"Reset the vehicle branch, research it again, and buy vehicles in the Garage."
+" All equipment and crew members will return to the Depot / Barracks. Combat "
+"experience, equipment, field upgrades, and all statistics will be preserved."
+
+msgid "introView/description/second"
+msgstr ""
+"Winning battles on a re-researched vehicle will earn progression points for "
+"the \"Orbit\" project."
+
+msgid "introView/description/third"
+msgstr ""
+"Completing stages of the active season of the project will reward you with "
+"unique visual elements, crew members, and high-level vehicles, including "
+"level XI machines."
+
+msgid "introView/goToFeatureButton"
+msgstr "To the \"Orbit\" project"
+
+msgid "introView/header/title"
+msgstr "PROJECT \"ORBIT\""
+
+msgid "introView/title/first"
+msgstr "Branch reset"
+
+msgid "introView/title/second"
+msgstr "Win in battle"
+
+msgid "introView/title/third"
+msgstr "Get rewards"
+
+msgid "level/reward/header"
+msgstr "Level passed! Reward:"
+
+msgid "navigation/about"
+msgstr "About the project"
+
+msgid "navigation/button/back"
+msgstr "BACK"
+
+msgid "navigation/button/close"
+msgstr "CLOSE"
+
+msgid "navigation/button/goto"
+msgstr "To Research Tree"
+
+msgid "navigation/chapters"
+msgstr "Seasons"
+
+msgid "navigation/progress"
+msgstr "Progression"
+
+msgid "navigation/progression/button/compare"
+msgstr "Add to comparison"
+
+msgid "navigation/progression/button/preview"
+msgstr "Preview"
+
+msgid "navigation/progression/button/selectVehicle"
+msgstr "Select"
+
+msgid "navigation/progression/button/toCurrentStage"
+msgstr "To current stage"
+
+msgid "navigation/progression/button/toRewards"
+msgstr "To rewards"
+
+msgid "navigation/progression/button/toStage"
+msgstr "To seasons"
+
+msgid "navigation/progression/button/viewBranch"
+msgstr "View vehicle branches"
+
+msgid "navigation/progression/button/viewVehicle"
+msgstr "View vehicles"
+
+msgid "navigation/progression/completedStages"
+msgstr "Seasons completed: "
+
+msgid "navigation/progression/level"
+msgstr "STAGE %(level)"
+
+msgid "navigation/progression/levelPoints"
+msgstr "STAGE POINTS"
+
+msgid "navigation/progression/noAccess/description"
+msgstr "Select a season of the \"Orbit\" project to unlock progression."
+
+msgid "navigation/progression/noAccess/title"
+msgstr "No access"
+
+msgid "navigation/progression/pointsInStorage"
+msgstr "STORAGE PROGRESSION POINTS"
+
+msgid "navigation/progression/progress"
+msgstr "SEASON PROGRESSION"
+
+msgid "navigation/progression/progressionCompleted/description_1"
+msgstr "There are currently no available seasons and rewards."
+
+msgid "navigation/progression/progressionCompleted/description_2"
+msgstr ""
+"You can continue to earn progression points, and they will carry over to the"
+" next selected season."
+
+msgid "navigation/progression/progressionCompleted/title"
+msgstr "All stages completed, rewards received"
+
+msgid "navigation/progression/text/splittedValue"
+msgstr " / %(value)"
+
+msgid "navigation/progression/tooltip/activeStoragePointsBody_1"
+msgstr ""
+"Progression points for the \"Orbit\" project: current amount / required for "
+"stage completion."
+
+msgid "navigation/progression/tooltip/activeStoragePointsBody_2"
+msgstr ""
+"Points are awarded for winning battles on re-researched and purchased "
+"vehicles from the reset branch."
+
+msgid "navigation/progression/tooltip/activeStoragePointsHeader_1"
+msgstr "Progression points for the \"Orbit\" project"
+
+msgid "navigation/progression/tooltip/activeStoragePointsHeader_2"
+msgstr "How to earn"
+
+msgid "navigation/progression/tooltip/nextStageRewards"
+msgstr "View rewards for the next stage."
+
+msgid "navigation/progression/tooltip/prevStageRewards"
+msgstr "View rewards for the previous stage."
+
+msgid "navigation/progression/tooltip/storagePointsBody"
+msgstr ""
+"All collected progression points will be automatically credited to the next "
+"selected season."
+
+msgid "navigation/progression/tooltip/storagePointsHeader"
+msgstr "Storage of \"Orbit\" project points"
+
+msgid "navigation/progression/vehicleSelect/label"
+msgstr "Level XI vehicles"
+
+msgid "navigation/progression/warning/claimRewards"
+msgstr ""
+"To complete the current season, claim all available rewards for selection."
+
+msgid "navigation/rewards"
+msgstr "Rewards"
+
+msgid "navigation/tooltip/body/about"
+msgstr "Here you can learn about earning progression points."
+
+msgid "navigation/tooltip/body/chapters"
+msgstr "Previously released and available seasons for selection."
+
+msgid "navigation/tooltip/body/progress"
+msgstr "Line of project stages \"Orbit\" and your current progress."
+
+msgid "navigation/tooltip/body/rewards"
+msgstr "Rewards for all stages of the selected season of project \"Orbit\"."
+
+msgid "navigation/tooltip/body/rewards_disabled"
+msgstr ""
+"Rewards for all stages of the selected season of project \"Orbit\". Will "
+"become available after selecting the season."
+
+msgid "navigation/tooltip/header/about"
+msgstr "About project \"Orbit\""
+
+msgid "navigation/tooltip/header/chapters"
+msgstr "All seasons"
+
+msgid "navigation/tooltip/header/progress"
+msgstr "Progress of project \"Orbit\""
+
+msgid "navigation/tooltip/header/rewards"
+msgstr "Season rewards"
+
+msgid "postBattle/extraCoins"
+msgstr "Progress points are stored in the repository:"
+
+msgid "postBattle/notification"
+msgstr "Project \"Orbit\". Progress points have been received in the repository:"
+
+msgid "postBattle/progress"
+msgstr "Stage progress: %(number)s"
+
+msgid "postBattle/subtitle"
+msgstr "Season %(name)s"
+
+msgid "postBattle/tooltip/btnlabel/active"
+msgstr "To the progress of project \"Orbit\""
+
+msgid "postBattle/tooltip/btnlabel/select"
+msgstr "To the selection of the season of project \"Orbit\""
+
+msgid "postBattle/tooltip/coins"
+msgstr "Points of project \"Orbit\""
+
+msgid "progressStylePreview/backButton"
+msgstr "TO PROJECT \"ORBIT\""
+
+msgid "progressStylePreview/progress/description"
+msgstr ""
+"Choose a style level and see how the vehicle will look at different stages "
+"of project \"Orbit\" progression."
+
+msgid "project/name"
+msgstr "Project \"Orbit\""
+
+msgid "project/select/reward/message"
+msgstr "Choose rewards from available categories."
+
+msgid "project/unavalable/body"
+msgstr ""
+"Something went wrong. We are working to fix the issue, please try again "
+"later."
+
+msgid "project/unavalable/header"
+msgstr "Project \"Orbit\" is unavailable"
+
+msgid "resetBranch/buttons/back"
+msgstr "Back"
+
+msgid "resetBranch/buttons/next"
+msgstr "Next"
+
+msgid "resetBranch/buttons/reset"
+msgstr "Reset"
+
+msgid "resetBranch/captcha/error"
+msgstr "An error occurred while entering a value."
+
+msgid "resetBranch/captcha/header"
+msgstr "Enter the selling price"
+
+msgid "resetBranch/close"
+msgstr "CLOSE"
+
+msgid "resetBranch/resultScreen/button"
+msgstr "Roger that!"
+
+msgid "resetBranch/resultScreen/subTitle/failed"
+msgstr "We apologize for the inconvenience, please try again later."
+
+msgid "resetBranch/resultScreen/subTitle/success"
+msgstr ""
+"Re-explore and purchase equipment from the reset branch, then engage in a "
+"victorious battle with it to earn project \"Orbit\" progression points."
+
+msgid "resetBranch/resultScreen/title/failed"
+msgstr "Branch reset error"
+
+msgid "resetBranch/resultScreen/title/success"
+msgstr "Branch successfully reset"
+
+msgid "resetBranch/returnBack/battleBoosters"
+msgstr "Pre-battle instructions"
+
+msgid "resetBranch/returnBack/crew"
+msgstr "Crew"
+
+msgid "resetBranch/returnBack/customization"
+msgstr "Exterior elements"
+
+msgid "resetBranch/returnBack/equipments"
+msgstr "Equipment"
+
+msgid "resetBranch/returnBack/header"
+msgstr "Will return to Warehouse / Barracks"
+
+msgid "resetBranch/returnBack/optionalDevices"
+msgstr "Gear"
+
+msgid "resetBranch/returnBack/shells"
+msgstr "Ammunition"
+
+msgid "resetBranch/step1/branchCount"
+msgstr "Currently reset branches: %(current)s / %(max)s"
+
+msgid "resetBranch/step1/description"
+msgstr ""
+"The vehicle will be marked as \"unresearched\", all accumulated combat "
+"experience will be retained. Victorious battles with this vehicle will earn "
+"you project \"Orbit\" progression points. For completing project stages, you"
+" will receive {cream_open}vehicles, progression style{cream_close}, and "
+"thematic {cream_open}crew members{cream_close}."
+
+msgid "resetBranch/step1/pointsDescription"
+msgstr "for a victorious battle"
+
+msgid "resetBranch/step1/total"
+msgstr ""
+"Total progression points will be received after victorious battles with the "
+"vehicle:"
+
+msgid "resetBranch/step2/creditsBack"
+msgstr "Credits will be refunded:"
+
+msgid "resetBranch/step2/description"
+msgstr ""
+"Compensated {cream_open}50%{cream_close} of the vehicle's cost. Equipment, "
+"instructions, ammunition, and gear will be unloaded to the Warehouse "
+"{cream_open}for free{cream_close}. All combat experience, game statistics, "
+"class marks, distinctive marks, elite status, field upgrade level, and its "
+"selected elements will be preserved."
+
+msgid "resetBranch/step2/details"
+msgstr "More details"
+
+msgid "resetBranch/step2/module"
+msgstr "Install basic modules from the Warehouse, if available."
+
+msgid "resetBranch/step2/notInHangar"
+msgstr "Not in Garage"
+
+msgid "resetBranch/step2/returnBack"
+msgstr "Will return to Warehouse"
+
+msgid "resetBranch/step3/confirmText"
+msgstr ""
+"The process is irreversible: to play with the reset vehicle, you will need "
+"to re-research and purchase it."
+
+msgid "resetBranch/subtitle"
+msgstr "Project \"Orbit\""
+
+msgid "resetBranch/title"
+msgstr "RESET VEHICLE BRANCH"
+
+msgid "resetBranch/tooltip/blueprint/count"
+msgstr "In the set\\n%(count)s %(countType)s"
+
+msgid "resetBranch/tooltip/blueprint/countType"
+msgstr "pcs."
+
+msgid "resetBranch/tooltip/blueprint/description"
+msgstr ""
+"Automatically completes the vehicle blueprint and provides a discount for "
+"its research."
+
+msgid "resetBranch/tooltip/blueprint/discount"
+msgstr ""
+"Research discount: %(discount)s or {bond_open}%(experience)s{bond_close}"
+
+msgid "resetBranch/tooltip/blueprint/discountValue"
+msgstr "%(discountValue)s%"
+
+msgid "resetBranch/tooltip/blueprint/header"
+msgstr "Blueprint Fragment"
+
+msgid "resetBranch/tooltip/bull"
+msgstr "•"
+
+msgid "resetBranch/tooltip/credits/description"
+msgstr ""
+"When resetting a vehicle branch, 50% of the cost of each vehicle and "
+"installed modules is compensated."
+
+msgid "resetBranch/tooltip/credits/header"
+msgstr "Credits"
+
+msgid "resetBranch/tooltip/listSeparator"
+msgstr ", "
+
+msgid "resetBranch/tooltip/modules/description"
+msgstr ""
+"When selling a vehicle, {cream_open}basic modules{cream_close} (initially "
+"installed when purchasing the vehicle) will be installed on it if available "
+"in the Depot. \\n\\n{cream_open}Researched{cream_close} modules will be "
+"removed from the vehicle and unloaded to the Depot for free."
+
+msgid "resetBranch/tooltip/modules/header"
+msgstr "Install Basic Modules"
+
+msgid "resetBranch/tooltip/progressionPoints/description"
+msgstr ""
+"Required for progressing through the project's progression. To earn points, "
+"you need to win a battle on a re-researched and acquired vehicle."
+
+msgid "resetBranch/tooltip/progressionPoints/header"
+msgstr "Orbit Project Points"
+
+msgid "resetBranch/tooltip/resetBranch/description"
+msgstr ""
+"The maximum number of simultaneously reset vehicle branches is {max_count}."
+
+msgid "resetBranch/tooltip/resetBranch/header"
+msgstr "Reset Branches"
+
+msgid "resetBranch/tooltip/resetButtonErrorHeader1"
+msgstr "Reached the limit of reset branches"
+
+msgid "resetBranch/tooltip/resetButtonErrorHeader2"
+msgstr "Insufficient level X vehicles"
+
+msgid "resetBranch/tooltip/resetButtonErrorHeader3"
+msgstr "Reset branch unavailable"
+
+msgid "resetBranch/tooltip/resetButtonErrorHeader4"
+msgstr "Orbit Project Suspended"
+
+msgid "resetBranch/tooltip/resetButtonErrorText1"
+msgstr ""
+"Currently %(resetBranchesCount)s vehicle branches have been reset. Collect "
+"all Orbit Project points from any reset branch to be able to reset a new "
+"one."
+
+msgid "resetBranch/tooltip/resetButtonErrorText10"
+msgstr ""
+"The project is temporarily suspended. We will inform you when work resumes."
+
+msgid "resetBranch/tooltip/resetButtonErrorText2"
+msgstr ""
+"To reset a branch, at least {cream_open}%(necessaryVehicleCount)s "
+"units{cream_close} of level X vehicles must be researched. Currently "
+"researched: {cream_open}%(vehicleCount)s units{cream_close}"
+
+msgid "resetBranch/tooltip/resetButtonErrorText3"
+msgstr ""
+"To reset a new branch, you need to research and collect progression points "
+"for the Orbit Project on all vehicles from the reset branch."
+
+msgid "resetBranch/tooltip/resetButtonErrorText5"
+msgstr "Vehicle with Progression Points: %(value)s"
+
+msgid "resetBranch/tooltip/resetButtonErrorText6"
+msgstr "Vehicle Needs Repair: %(value)s"
+
+msgid "resetBranch/tooltip/resetButtonErrorText7"
+msgstr "Vehicle in Battle: %(value)s"
+
+msgid "resetBranch/tooltip/resetButtonErrorText8"
+msgstr "Vehicle in Formation: %(value)s"
+
+msgid "resetBranch/tooltip/resetButtonErrorText9"
+msgstr "Vehicle Needs Research: %(value)s"
+
+msgid "resetBranch/tooltip/resetButtonHeader"
+msgstr "Reset Branch"
+
+msgid "resetBranch/tooltip/resetButtonList1"
+msgstr ""
+"Existing vehicles are sold for {brown_open}50%{brown_close} of their value."
+
+msgid "resetBranch/tooltip/resetButtonList2"
+msgstr "All reset vehicles become {brown_open}unresearched{brown_close}."
+
+msgid "resetBranch/tooltip/resetButtonList3"
+msgstr ""
+"Crew members are disembarked to the Barracks. If there is not enough space "
+"in the Barracks, crews will occupy temporary slots."
+
+msgid "resetBranch/tooltip/resetButtonList4"
+msgstr ""
+"Equipment, gear, ammunition, visual elements, and instructions are unloaded "
+"to the Depot {brown_open}for free{brown_close}."
+
+msgid "resetBranch/tooltip/resetButtonList5"
+msgstr ""
+"All combat experience, game statistics, class marks, distinctive marks, "
+"elite status, field upgrade level, and its selected elements are "
+"{brown_open}retained{brown_close}."
+
+msgid "resetBranch/tooltip/resetButtonList6"
+msgstr ""
+"Progression points for the Orbit Project are earned by winning battles on "
+"re-researched vehicles."
+
+msgid "resetBranch/tooltip/resetButtonSubHeader"
+msgstr "When resetting a branch:"
+
+msgid "resetBranch/tooltip/resetButtonText1"
+msgstr "Total branches reset: {cream_open}%(current)s{cream_close} / %(max)s"
+
+msgid "resetBranch/tooltip/resetButtonText2"
+msgstr ""
+"Очки проекта «Орбита»: {whiteSpanish_open}%(current)s{whiteSpanish_close}"
+
+msgid "resetBranch/tooltip/resetButtonText3"
+msgstr "Credits returned: {cred_open}%(current)s{cred_close}"
+
+msgid "resetBranch/tooltip/returnBack/additionalDescription"
+msgstr ""
+"All combat experience, game statistics, class marks, distinctive marks, "
+"elite status, field upgrade level, and its selected elements are retained."
+
+msgid "resetBranch/tooltip/returnBack/description"
+msgstr ""
+"Equipment, instructions, ammunition, and gear are unloaded to the Depot for "
+"free. Vehicle crew is disembarked to the Barracks."
+
+msgid "resetBranch/tooltip/returnBack/header"
+msgstr "Returned to Depot / Barracks"
+
+msgid "resetBranch/tooltip/step1/descr"
+msgstr "Orbit Project Progression Points."
+
+msgid "resetBranch/tooltip/step1/header"
+msgstr "Reset Vehicle Branch: Step 1"
+
+msgid "resetBranch/tooltip/step2/descr"
+msgstr "Returned in-game assets."
+
+msgid "resetBranch/tooltip/step2/header"
+msgstr "Reset Vehicle Branch: Step 2"
+
+msgid "resetBranch/tooltip/step3/descr"
+msgstr "Confirmation of branch reset."
+
+msgid "resetBranch/tooltip/step3/header"
+msgstr "Reset Vehicle Branch: Step 3"
+
+msgid "resetBranch/tooltip/totalProgressionPoints/description"
+msgstr ""
+"Required for progressing through the project. To earn, win a battle in any "
+"of the following modes: Random Battle, Grand Battle, Assault, Ranked Battle,"
+" Frontline, Proving Grounds, Arcade, Strongholds, and Clan Battles."
+
+msgid "resetBranch/tooltip/totalProgressionPoints/header"
+msgstr "Orbit Project Points"
+
+msgid "reward/branch"
+msgstr "Access to Vehicle Branch"
+
+msgid "reward/branches"
+msgstr "Crew member %(branch)s"
+
+msgid "reward/crew"
+msgstr "Crew member %(crews)s"
+
+msgid "reward/selector/level/eleven"
+msgstr "Level XI vehicle"
+
+msgid "reward/style"
+msgstr "Style %(styles)s"
+
+msgid "reward/vehicle"
+msgstr "Vehicle: \"%(vehicles)s\""
+
+msgid "rewards/header"
+msgstr "Congratulations!"
+
+msgid "rewards/notification"
+msgstr "Reward received for completing stage %(level)s of the \"Orbit\" project."
+
+msgid "rewards/paragonsUnlock"
+msgstr "Access to vehicle branch"
+
+msgid "rewards/tman"
+msgstr "Crew member \"%(tmanName)s\""
+
+msgid "rewardsView/footer/buttonText"
+msgstr "Affirmative!"
+
+msgid "rewardsView/footer/previewButtonText"
+msgstr "View in Garage"
+
+msgid "rewardsView/header/closeButtonText"
+msgstr "CLOSE"
+
+msgid "rewardsView/header/subTitle"
+msgstr "Reward received for completing stage %(level)s of the \"Orbit\" project."
+
+msgid "rewardsView/header/title"
+msgstr "Congratulations!"
+
+msgid "rewardsView/restRewardsTooltip/headerText"
+msgstr "Rewards"
+
+msgid "rewardsView/selectReward/button"
+msgstr "Select"
+
+msgid "rewardsView/selectReward/label"
+msgstr "Level XI vehicle"
+
+msgid "seasonsProgression/headerText"
+msgstr "Project \"Orbit\""
+
+msgid "seasonsProgression/selectedChapterRewardsOverlay/subTitle"
+msgstr ""
+"Regular rewards are automatically credited upon reaching each stage.\n"
+"Level XI vehicles must be manually selected."
+
+msgid "seasonsProgression/selectedChapterRewardsOverlay/title"
+msgstr "REWARDS FOR ALL STAGES"
+
+msgid "seasonsProgression/stageText/activeStage"
+msgstr "Active season"
+
+msgid "seasonsProgression/stageText/availableSoon"
+msgstr "In development"
+
+msgid "seasonsProgression/stageText/rewardStage"
+msgstr "Season rewards"
+
+msgid "seasonsProgression/stageText/selectStage"
+msgstr "Select season"
+
+msgid "seasonsProgression/subtitle/allStagesCompleted"
+msgstr ""
+"All seasons of the project have been completed and rewards received.\n"
+"We will notify you when a new season with additional rewards becomes available."
+
+msgid "seasonsProgression/subtitle/selectStageForGetReward"
+msgstr "Select a project season to receive rewards for completing its stages."
+
+msgid "seasonsProgression/title/projectStages"
+msgstr "SEASON SELECTION"
+
+msgid "seasonsProgression/tooltip/body/announcement"
+msgstr "A new season is already in progress and will be available soon."
+
+msgid "seasonsProgression/tooltip/body/default"
+msgstr "Select a season to receive rewards for completing its stages."
+
+msgid "seasonsProgression/tooltip/body/disabled"
+msgstr "Complete the currently active season to choose the next one."
+
+msgid "seasonsProgression/tooltip/body/finished"
+msgstr "All stages of this season have been completed, rewards received."
+
+msgid "seasonsProgression/tooltip/btnRewards"
+msgstr "View rewards of this season."
+
+msgid "seasonsProgression/tooltip/header/announcement"
+msgstr "Announcement of a new season of the \"Orbit\" project"
+
+msgid "seasonsProgression/tooltip/header/default"
+msgstr "Season of the \"Orbit\" project"
+
+msgid "seasonsProgression/tooltip/header/disabled"
+msgstr "Locked season of the \"Orbit\" project"
+
+msgid "seasonsProgression/tooltip/header/finished"
+msgstr "Completed season of the \"Orbit\" project"
+
+msgid "vehiclePreview/backButton"
+msgstr "TO THE \"ORBIT\" PROJECT"

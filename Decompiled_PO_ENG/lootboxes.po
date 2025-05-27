@@ -1,0 +1,731 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-lootboxes\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "autoOpenView/bottomLabel"
+msgstr "We opened all your Holiday Ops boxes."
+
+msgid "autoOpenView/congratsLabel"
+msgstr "Congratulations!"
+
+msgid "autoOpenView/dateOpen"
+msgstr "The set will open automatically on %(date)s"
+
+msgid "autoOpenView/okBtnLabel"
+msgstr "Affirmative!"
+
+msgid "buttonLabel/back"
+msgstr "Back to Garage"
+
+msgid "buttonLabel/buy"
+msgstr "Purchase"
+
+msgid "buttonLabel/buyMore"
+msgstr "Purchase Boxes"
+
+msgid "buttonLabel/close"
+msgstr "Close"
+
+msgid "buttonLabel/open"
+msgstr "Open"
+
+msgid "buttonLabel/openBox"
+msgstr "Open the Box"
+
+msgid "buttonLabel/quest"
+msgstr "To Missions"
+
+msgid "buttonLabel/videoOff"
+msgstr "SHOW ANIMATION"
+
+msgid "buttonLabel/videoOn"
+msgstr "DO NOT SHOW ANIMATION"
+
+msgid "compensationTooltip/after/header"
+msgstr "Compensation:"
+
+msgid "compensationTooltip/before/header"
+msgstr "Duplicate (x{count}):"
+
+msgid "compensationTooltip/crewSkin/header"
+msgstr "Compensation for a crew skin that you already have"
+
+msgid "compensationTooltip/vehicle/bottomText"
+msgstr "The reward that presents compensation for a vehicle you already have."
+
+msgid "compensationTooltip/vehicle/header"
+msgstr "Compensation for a vehicle that is already in your Garage."
+
+msgid "desctiptions/cosmic_2024_silver"
+msgstr ""
+"You can obtain \"Rare Ore\" randomly and only from the \"Martian Rock\" "
+"containers. With a certain amount of luck, you can get premium vehicles of "
+"VIII and IX levels, Tank Premium Account, gold, credits, free experience, "
+"personal reserves, thematic customization elements, and much more."
+
+msgid "desctiptions/cosmic_2024_silver_test"
+msgstr ""
+"A test container created to check the correct mechanics of the event. With a"
+" certain amount of luck, you can get premium vehicles, Tank Premium Account,"
+" gold, credits, free experience, personal reserves, thematic customization "
+"elements, and much more from the \"Rare Ore (test)\" container. The "
+"container's content will be changed after the event starts."
+
+msgid "desctiptions/cosmic_2024_standart"
+msgstr ""
+"Each container mined on the Red Planet (these boxes are called \"Martian "
+"Rock\" at the NPP \"Perspective\") hides rare artifacts. What will be inside"
+" - Tank Premium Account, credits, directives, equipment, or other valuable "
+"assets - will be decided by chance. Those who are luckiest will receive the "
+"coveted Martian souvenir: the premium IX level vehicle \"Ore Baron\". With a"
+" certain amount of luck, you can get \"Rare Ore\" containers from the "
+"\"Martian Rock\". There is a chance to find premium vehicles of VIII and IX "
+"levels, Tank Premium Account, gold, credits, free experience, personal "
+"reserves, thematic customization elements, and much more."
+
+msgid "desctiptions/cosmic_2024_standart_test"
+msgstr ""
+"A test container created to check the correct mechanics of the event. What "
+"will be inside - a unique premium vehicle, Tank Premium Account, gold, "
+"credits, directives, equipment, or other valuable assets - will be decided "
+"by chance. With a certain amount of luck, you may receive \"Rare Ore "
+"(test)\" containers. There is a chance to find premium vehicles, Tank "
+"Premium Account, gold, credits, free experience, personal reserves, thematic"
+" customization elements, and much more. The container's content will be "
+"changed after the event starts."
+
+msgid "desctiptions/cosmic_2025_silver"
+msgstr ""
+"Can be obtained randomly and only from the \"Martian Rock\" containers. With"
+" a certain amount of luck, you can get premium vehicles of VIII and IX "
+"levels, gold, credits, free experience, thematic customization elements, and"
+" much more from the \"Rare Ore\"."
+
+msgid "desctiptions/cosmic_2025_silver_test"
+msgstr ""
+"A test container created to check the correct mechanics of the event. With a"
+" certain amount of luck, you can get premium vehicles of VIII and IX levels,"
+" gold, credits, free experience, thematic customization elements, and much "
+"more from the \"Rare Ore\"."
+
+msgid "desctiptions/cosmic_2025_standart"
+msgstr ""
+"In each container, with a certain probability, you can find premium vehicles"
+" of VIII level, fairy-tale characters, and other valuable assets, including:"
+" 2D styles, decals, personal reserves, retraining manuals, Tank Premium "
+"Account, free experience, and credits. If after opening 69 containers you "
+"still haven't received a premium vehicle, rest assured - from the 70th "
+"container, you will guaranteedly receive a random premium vehicle of VIII "
+"level from the list that you don't have yet."
+
+msgid "desctiptions/cosmic_2025_standart_test"
+msgstr ""
+"In each container, with a certain probability, you can find assets: Tank "
+"Premium Account, credits, equipment, or directives."
+
+msgid "desctiptions/hw_2023_silver"
+msgstr ""
+"A container with assets that will be useful for both experienced players and"
+" newcomers. The \"Broadcast Trophy\" may contain Tank Premium Account, "
+"credits, personal reserves, training brochures, decals, as well as a wide "
+"range of premium vehicles VI-VIII levels for rent."
+
+msgid "desctiptions/hw_2023_standart"
+msgstr ""
+"A container with assets that will always come in handy for both experienced "
+"players and newcomers. The container's content may include Tank Premium "
+"Account, credits, personal reserves, equipment, various customization "
+"elements, as well as level VIII vehicles to suit any taste."
+
+msgid "desctiptions/mt_drops"
+msgstr ""
+"A container with assets that will always come in handy for both experienced "
+"players and newcomers. The container's content may include Tank Premium "
+"Account, credits, personal reserves, equipment, various customization "
+"elements, as well as level VIII-IX vehicles to suit any taste."
+
+msgid "desctiptions/mtl_1_24"
+msgstr ""
+"In this container, you will guaranteedly find a random decoration of I-V "
+"levels, as well as useful in-game assets from the provided list."
+
+msgid "desctiptions/mtl_1_25"
+msgstr ""
+"In the container, you will guaranteedly find one V-level decoration and one "
+"random level from the Christmas album, as well as useful in-game assets. "
+"Additionally, you have a chance to receive coveted rewards, including "
+"premium and promotional vehicles of III-X levels, familiar 3D styles, and "
+"perhaps something unusual and completely unexpected. May luck be on your "
+"side!"
+
+msgid "desctiptions/ny_2024_VI"
+msgstr ""
+"In the container, you will guaranteedly find one V-level decoration and one "
+"random level from the Eastern album, as well as useful in-game assets. "
+"Additionally, you have a chance to receive coveted rewards, including "
+"premium and promotional vehicles of III-X levels, familiar 3D styles, and "
+"perhaps something unusual and completely unexpected. May luck be on your "
+"side!"
+
+msgid "desctiptions/ny_2024_christmas"
+msgstr ""
+"In the container, you will guaranteedly find one V-level decoration and one "
+"random level from the Fairy Tale album, as well as useful in-game assets. "
+"Additionally, you have a chance to receive coveted rewards, including "
+"premium and promotional vehicles of III-X levels, familiar 3D styles, and "
+"perhaps something unusual and completely unexpected. May luck be on your "
+"side!"
+
+msgid "desctiptions/ny_2024_eastern"
+msgstr ""
+"In the container, you will guaranteedly find one V-level decoration and one "
+"random level from the Homeland album, as well as useful in-game assets. "
+"Additionally, you have a chance to receive coveted rewards, including "
+"premium and promotional vehicles of III-X levels, familiar 3D styles, and "
+"perhaps something unusual and completely unexpected. May luck be on your "
+"side!"
+
+msgid "desctiptions/ny_2024_magic"
+msgstr ""
+"In each container, with a certain probability, you can find premium or "
+"promotional vehicles of VIII-X levels, hangar decorations, and other assets,"
+" including: 3D styles, gold, premium account, free experience, credits, "
+"personal reserves, and educational materials. You can also get something "
+"truly legendary."
+
+msgid "desctiptions/ny_2024_newyear"
+msgstr ""
+"In the container, you will find equipment, directives, credits, bonuses, "
+"personal reserves, educational materials. And of course, tangerines!"
+
+msgid "desctiptions/ny_2025_big"
+msgstr ""
+"In the automaton rewards, you will find various thematic customization "
+"elements, premium account, credits, reserves, gold, educational materials..."
+" And perhaps something legendary."
+
+msgid "desctiptions/ny_2025_small"
+msgstr ""
+"And here it gets serious: you will receive a random vehicle from a huge "
+"selection of tanks. Cross your fingers - may you get the exact vehicle "
+"you've been dreaming of!"
+
+msgid "desctiptions/ny_2025_surprise"
+msgstr ""
+"A valuable container containing premium vehicles, including level VIII "
+"machines."
+
+msgid "desctiptions/ny_2025_tanks"
+msgstr ""
+"Significant assistance for any player at any stage of the game: the "
+"container contains a certain amount of valuable in-game assets."
+
+msgid "desctiptions/rp_2024_large"
+msgstr ""
+"A small help for beginner players: the container contains a certain amount "
+"of valuable in-game assets."
+
+msgid "desctiptions/rp_2024_medium"
+msgstr ""
+"A valuable referral program container containing premium level VI vehicles."
+
+msgid "desctiptions/rp_2024_small"
+msgstr ""
+"A valuable referral program container containing premium level VII vehicles."
+
+msgid "desctiptions/rp_2024_tanks_6"
+msgstr ""
+"A valuable referral program container containing premium level VIII "
+"vehicles."
+
+msgid "desctiptions/rp_2024_tanks_7"
+msgstr ""
+"In the container, with a certain probability, you can find assets that "
+"accelerate and facilitate development in the game. It may contain personal "
+"reserves, directives, gold, as well as equipment, credits, Tank Premium "
+"Account, training brochures, and collection items from the \"Birthday 12+1\""
+" collection."
+
+msgid "desctiptions/rp_2024_tanks_8"
+msgstr ""
+"In the container, with a certain probability, you can find assets that "
+"improve the vehicle's characteristics. It may contain equipment and standard"
+" equipment, as well as Tank Premium Account, disassembly kits, retraining "
+"manuals, credits, and crew members."
+
+msgid "desctiptions/tanks_birthday_2023_IX"
+msgstr ""
+"In the container, with a certain probability, you can find assets for "
+"changing the vehicle's appearance. It may contain inscriptions, emblems, and"
+" 2D styles, as well as equipment, Tank Premium Account, credits, and "
+"collection items from the \"Birthday 12+1\" collection."
+
+msgid "desctiptions/tanks_birthday_2023_VI"
+msgstr ""
+"In the container, with a certain probability, you can find premium vehicles "
+"of VIII level and other valuable assets, including: equipment, credits, "
+"directives, Tank Premium Account, free experience, educational materials, "
+"retraining manuals, as well as personal reserves and collection items from "
+"the \"Birthday 12+1\" collection. If after opening 99 containers you still "
+"haven't received a premium vehicle, rest assured - from the 100th container,"
+" you will guaranteedly receive a random premium vehicle of VIII level from "
+"the list that you don't have yet."
+
+msgid "desctiptions/tanks_birthday_2023_X"
+msgstr ""
+"A container with assets prepared specifically for such a significant event. "
+"The container's content may include Tank Premium Account, credits, personal "
+"reserves, equipment, various customization elements, as well as level VIII-"
+"IX vehicles to suit any taste, lockpicks for opening containers, and other "
+"useful assets."
+
+msgid "desctiptions/tanks_birthday_2023_premium"
+msgstr "The key opens the \"Birthday 2024\" container with a 100% probability."
+
+msgid "desctiptions/tanks_birthday_2024"
+msgstr ""
+"The lockpick opens the \"Birthday 2024\" container with a 10% probability."
+
+msgid "desctiptions/tanks_birthday_2024_key"
+msgstr "every %(count)s containers."
+
+msgid "desctiptions/tanks_birthday_2024_lockpick"
+msgstr "Includes exterior elements from the \"On Mars!\" event."
+
+msgid "entryDesc/boxesCount"
+msgstr "x{count}"
+
+msgid "entryDesc/buySlot"
+msgstr "You can purchase Large Boxes in the Premium Shop"
+
+msgid "entryDesc/newYear_premium"
+msgstr "Large Boxes"
+
+msgid "entryDesc/newYear_usual"
+msgstr "Small Boxes"
+
+msgid "entryDesc/questSlot"
+msgstr "You receive Small Boxes for completing missions."
+
+msgid "entryDesc/restrictedMode"
+msgstr ""
+"This functionality is temporarily unavailable. Please try again later."
+
+msgid "entryPoint/header"
+msgstr "Boxes"
+
+msgid "entryTooltip/body/h1"
+msgstr "Purchase Large Boxes:"
+
+msgid "entryTooltip/body/h2"
+msgstr "Earn Small Boxes:"
+
+msgid "entryTooltip/body/p1"
+msgstr ""
+"Purchase boxes with New Year decorations for yourself and your friends in "
+"the Premium Shop."
+
+msgid "entryTooltip/body/p2"
+msgstr "Awarded for the completion of Holiday Ops missions."
+
+msgid "entryTooltip/header"
+msgstr "Boxes"
+
+msgid "entryView/boxesCount"
+msgstr "{count} more boxes"
+
+msgid "entryView/buyLabel"
+msgstr "PURCHASE BOXES"
+
+msgid "entryView/ended/newYear_premium"
+msgstr ""
+"You have no Large Boxes in the Depot.\n"
+"Purchase more in the Premium Shop."
+
+msgid "entryView/ended/newYear_usual"
+msgstr ""
+"You have no Small Boxes.\n"
+"Earn more in battles."
+
+msgid "entryView/lootboxesCount"
+msgstr "x{count}"
+
+msgid "entryView/title"
+msgstr "Holiday Ops {year}"
+
+msgid "entryView/year"
+msgstr "2019"
+
+msgid "lootboxExtendedTooltip/containersCount"
+msgstr ""
+"1. One of the premium vehicles of %(level)s level. Probability of dropping: "
+"%(probability)s or %(containersCount)"
+
+msgid "lootboxExtendedTooltip/rewardExtraText"
+msgstr "Content:"
+
+msgid "lootboxExtendedTooltip/specialSlot"
+msgstr ""
+"To obtain containers, participate in specific events and complete related "
+"combat missions. Some containers can be purchased in the in-game Store."
+
+msgid "lootboxTooltip/slotTitle"
+msgstr "Container sales have resumed on all platforms."
+
+msgid "multiOpenView/applyLabel"
+msgstr "Affirmative!"
+
+msgid "multiOpenView/boxesInStorage"
+msgstr "Available boxes: {count}"
+
+msgid "multiOpenView/boxesNotAvailable"
+msgstr "No boxes available"
+
+msgid "multiOpenView/openBoxesLabel"
+msgstr "Open another {count} boxes"
+
+msgid "multiOpenView/openedCount"
+msgstr "x{count}"
+
+msgid "multiOpenView/title"
+msgstr "Congratulations!"
+
+msgid "noBoxes/default"
+msgstr ""
+"Container operations are temporarily available only in the Premium Store."
+
+msgid "notification/eventFinish/text"
+msgstr ""
+"All received supplyboxes will be opened. Their contents will be added to "
+"your account."
+
+msgid "notification/eventFinish/title"
+msgstr "The Warm Spring Supply Box event has ended"
+
+msgid "notification/eventStart/button"
+msgstr "Go to event"
+
+msgid "notification/eventStart/text"
+msgstr "Only until %(date)s: Premium vehicles and valuable in-game assets!"
+
+msgid "notification/eventStart/title"
+msgstr "The Warm Spring Supply Box event has started"
+
+msgid "notification/header"
+msgstr "Congratulations!"
+
+msgid "notification/lootBoxesAutoOpen/boxes"
+msgstr "Supplyboxes opened: %(boxes)s"
+
+msgid "notification/lootBoxesAutoOpen/counter"
+msgstr "%(boxName)s (x%(count)d)"
+
+msgid "notification/lootBoxesAutoOpen/rewards"
+msgstr ""
+"You received:\n"
+"%(rewards)s"
+
+msgid "notification/lootBoxesAutoOpen/text"
+msgstr ""
+"At the end of the event, we opened all of your supplyboxes and added their "
+"contents to your account."
+
+msgid "notification/lootBoxesAutoOpen/title"
+msgstr "Supplyboxes Opening"
+
+msgid "notification/lootBoxesBuy/resume/body"
+msgstr "Attention:"
+
+msgid "notification/lootBoxesBuy/suspend/body"
+msgstr "Big Box of Satisfaction"
+
+msgid "notification/lootBoxesBuy/suspend/header"
+msgstr "Rare Ore"
+
+msgid "notification/lootBoxesIsDisabled/text"
+msgstr ""
+"Operations with supplyboxes are temporarily unavailable due to maintenance."
+
+msgid "notification/lootBoxesIsDisabled/title"
+msgstr "Supplyboxes Opening"
+
+msgid "notification/lootBoxesIsEnabled/button"
+msgstr "Open"
+
+msgid "notification/lootBoxesIsEnabled/text"
+msgstr "Operations with supplyboxes are available again."
+
+msgid "notification/lootBoxesIsEnabled/title"
+msgstr "Supplyboxes Opening"
+
+msgid "notification/lootBoxesReceived/invoice"
+msgstr "Added"
+
+msgid "notification/ny19man"
+msgstr "A unique crew member: %(count)s"
+
+msgid "notification/rewards"
+msgstr "You received the following rewards:"
+
+msgid "restrictedMessage/body"
+msgstr ""
+"Operations with boxes are temporarily suspended. Keep calm and carry on."
+
+msgid "restrictedMessage/header"
+msgstr "Attention!"
+
+msgid "rewardView/boxesCount"
+msgstr "Boxes available: {count}"
+
+msgid "rewardView/closeBtnLabel"
+msgstr "Close"
+
+msgid "rewardView/congratsBtnLabel/style"
+msgstr "View Style"
+
+msgid "rewardView/congratsBtnLabel/tankman"
+msgstr "Recruit"
+
+msgid "rewardView/congratsBtnLabel/vehicle"
+msgstr "View in Garage"
+
+msgid "rewardView/congratsLabel/style"
+msgstr "A Unique Style for"
+
+msgid "rewardView/congratsLabel/tankman"
+msgstr "A Unique Crew Member"
+
+msgid "rewardView/congratsLabel/usual"
+msgstr "Congratulations!"
+
+msgid "rewardView/congratsLabel/vehicle"
+msgstr "WHAT A TWIST!"
+
+msgid "rewardView/nextOpenBtnLabel"
+msgstr "Open Next"
+
+msgid "rewardView/okOpenBtnLabel"
+msgstr "Affirmative!"
+
+msgid "rewardView/openBtnLabel"
+msgstr "Affirmative!"
+
+msgid "rewardView/rerollBtnLabel"
+msgstr "Reopen"
+
+msgid "rewardView/zeroBoxes"
+msgstr "No boxes available"
+
+msgid "specialReward/continueBtn"
+msgstr "Continue"
+
+msgid "specialReward/style/goToBtn"
+msgstr "View Style"
+
+msgid "specialReward/style/title"
+msgstr "A Unique Style for"
+
+msgid "specialReward/vehicle/goToBtn"
+msgstr "View in Garage"
+
+msgid "tooltip/category/header/Christmas"
+msgstr "Christmas Boxes"
+
+msgid "tooltip/category/header/Fairytale"
+msgstr "Magic Boxes"
+
+msgid "tooltip/category/header/NewYear"
+msgstr "New Year Boxes"
+
+msgid "tooltip/category/header/Oriental"
+msgstr "Lunar Boxes"
+
+msgid "tooltip/category/rewards/Christmas"
+msgstr "Christmas Collection"
+
+msgid "tooltip/category/rewards/Fairytale"
+msgstr "Magic Collection"
+
+msgid "tooltip/category/rewards/NewYear"
+msgstr "New Year Collection"
+
+msgid "tooltip/category/rewards/Oriental"
+msgstr "Lunar Collection"
+
+msgid "tooltip/category/rewards/description"
+msgstr ""
+"Boxes contain decorations from the {category} and other valuable rewards."
+
+msgid "tooltip/category/rewards/header"
+msgstr "Awards:"
+
+msgid "tooltip/entryView/buyBoxes"
+msgstr "Purchase additional boxes in the Premium Shop."
+
+msgid "tooltip/entryView/openBoxes"
+msgstr "Open several boxes at the same time."
+
+msgid "tooltip/restrictedMode"
+msgstr "Action is temporarily unavailable. Try again later."
+
+msgid "type/event_premium"
+msgstr "Dawn Supply Box"
+
+msgid "userName/big_referral"
+msgstr "Rare Ore (test)"
+
+msgid "userName/cosmic_2024_silver"
+msgstr "Martian Rock"
+
+msgid "userName/cosmic_2024_silver_test"
+msgstr "Martian Rock (test)"
+
+msgid "userName/cosmic_2024_standart"
+msgstr "Rare Ore"
+
+msgid "userName/cosmic_2024_standart_test"
+msgstr "Марсианская порода (тестовый)"
+
+msgid "userName/cosmic_2025_silver"
+msgstr "Редкая руда"
+
+msgid "userName/cosmic_2025_silver_test"
+msgstr "Rare ore (test)"
+
+msgid "userName/cosmic_2025_standart"
+msgstr "Martian rock"
+
+msgid "userName/cosmic_2025_standart_test"
+msgstr "Martian rock (test)"
+
+msgid "userName/default"
+msgstr "CONTAINER"
+
+msgid "userName/event_premium"
+msgstr "Commander's crate"
+
+msgid "userName/hw_2023_silver"
+msgstr "Realm of Shadows: treasures"
+
+msgid "userName/hw_2023_standart"
+msgstr "Realm of Shadows: supplies"
+
+msgid "userName/mt_drops"
+msgstr "Broadcast trophy"
+
+msgid "userName/mtl_1_24"
+msgstr "Warrior's path"
+
+msgid "userName/mtl_1_25"
+msgstr "Cache"
+
+msgid "userName/newYear_premium"
+msgstr "LARGE BOXES"
+
+msgid "userName/newYear_usual"
+msgstr "SMALL BOXES"
+
+msgid "userName/ny_2024_VI"
+msgstr "Christmas decorations"
+
+msgid "userName/ny_2024_christmas"
+msgstr "Christmas"
+
+msgid "userName/ny_2024_eastern"
+msgstr "Eastern New Year"
+
+msgid "userName/ny_2024_magic"
+msgstr "Fairytale New Year"
+
+msgid "userName/ny_2024_newyear"
+msgstr "Native New Year"
+
+msgid "userName/ny_2025_big"
+msgstr "New Year container"
+
+msgid "userName/ny_2025_small"
+msgstr "Box of tangerines"
+
+msgid "userName/ny_2025_surprise"
+msgstr "Luck machine"
+
+msgid "userName/ny_2025_tanks"
+msgstr "Legendary container"
+
+msgid "userName/rp_2024_large"
+msgstr ""
+"Special container\n"
+"with pleasure"
+
+msgid "userName/rp_2024_medium"
+msgstr ""
+"Big container\n"
+"with pleasure"
+
+msgid "userName/rp_2024_small"
+msgstr ""
+"Small container\n"
+"with pleasure"
+
+msgid "userName/rp_2024_tanks_6"
+msgstr ""
+"Special container\n"
+"with a level VI vehicle"
+
+msgid "userName/rp_2024_tanks_7"
+msgstr ""
+"Special container\n"
+"with a level VII vehicle"
+
+msgid "userName/rp_2024_tanks_8"
+msgstr ""
+"Special container\n"
+"with a level VIII vehicle"
+
+msgid "userName/small_referral"
+msgstr "Small box with pleasure"
+
+msgid "userName/special_referral"
+msgstr "Special box with pleasure"
+
+msgid "userName/tanks_birthday_2023_IX"
+msgstr "Birthday 12+1: economy"
+
+msgid "userName/tanks_birthday_2023_VI"
+msgstr "Birthday 12+1: equipment"
+
+msgid "userName/tanks_birthday_2023_X"
+msgstr "Birthday 12+1: appearance"
+
+msgid "userName/tanks_birthday_2023_premium"
+msgstr "Birthday 12+1: technology"
+
+msgid "userName/tanks_birthday_2024"
+msgstr "Birthday 2024"
+
+msgid "userName/tanks_birthday_2024_key"
+msgstr "Key to the \"Birthday 2024\" container"
+
+msgid "userName/tanks_birthday_2024_lockpick"
+msgstr "Lockpick for the \"Birthday 2024\" container"
+
+msgid "userName/wt_boss"
+msgstr "Engineer's starter"
+
+msgid "userName/wt_hunter"
+msgstr "Hound's starter"
+
+msgid "userName/wt_special"
+msgstr "Special energy blocks"

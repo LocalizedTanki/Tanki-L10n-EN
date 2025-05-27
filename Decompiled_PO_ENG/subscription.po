@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-subscription\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "awardView/badgeDescription"
+msgstr "Apply a unique badge that's exclusive for players with Subscription."
+
+msgid "awardView/button/affirmative"
+msgstr "Affirmative!"
+
+msgid "awardView/button/details"
+msgstr "Details"
+
+msgid "awardView/close"
+msgstr "CLOSE"
+
+msgid "awardView/dedicatedTank/label"
+msgstr "Exclusive access to a unique vehicle"
+
+msgid "awardView/dedicatedTank/tooltipBody"
+msgstr ""
+"Roll out in a Tier VIII Premium vehicle exclusive for players with "
+"Subscription."
+
+msgid "awardView/dedicatedTank/tooltipHeading"
+msgstr "Exclusive Vehicle"
+
+msgid "awardView/features/label"
+msgstr "Enjoy the bonuses and features the subscription provides!"
+
+msgid "awardView/footerDetails"
+msgstr ""
+"You can subscribe to continue using its bonuses after the trial period ends."
+
+msgid "awardView/goldCashback/label"
+msgstr "Cashback on Premium Shop purchases"
+
+msgid "awardView/goldCashback/tooltipBody"
+msgstr "Receive 3% cashback in gold for purchases in the Premium Shop."
+
+msgid "awardView/goldCashback/tooltipHeading"
+msgstr "Gold Cashback"
+
+msgid "awardView/goldReserve/tooltipBody"
+msgstr "Get up to 500 gold every 7 days."
+
+msgid "awardView/goldReserve/tooltipHeading"
+msgstr "Gold Reserve"
+
+msgid "awardView/heading"
+msgstr "SUBSCRIPTION ACTIVATED"
+
+msgid "awardView/headingTrial"
+msgstr "TRIAL PERIOD ACTIVE"
+
+msgid "awardView/idleCrewXp/label"
+msgstr "Bonus Crew XP"
+
+msgid "awardView/idleCrewXp/tooltipBody"
+msgstr ""
+"Select a crew that will constantly receive Crew XP, even when offline."
+
+msgid "awardView/idleCrewXp/tooltipHeading"
+msgstr "Intensive Crew Regimen"
+
+msgid "awardView/nextCharge"
+msgstr "Make your gaming experience more enjoyable!"
+
+msgid "awardView/subHeading"
+msgstr "Make your game more comfortable!"
+
+msgid "awardView/tankRental/label"
+msgstr "Vehicle Rental"
+
+msgid "awardView/tankRental/tooltipBody"
+msgstr "Rent a vehicle for free each month."
+
+msgid "awardView/tankRental/tooltipHeading"
+msgstr "Free Vehicle Rental"
+
+msgid "awardView/title"
+msgstr "SUBSCRIPTION"
+
+msgid "dailyQuestsDisabledReward/description"
+msgstr ""
+"With an active subscription, you can receive additional rewards for "
+"completing daily tasks."
+
+msgid "dailyQuestsDisabledReward/header"
+msgstr "Additional reward unavailable"
+
+msgid "dailyQuestsDisabledReward/subheader"
+msgstr "Subscription bonus"
+
+msgid "dailyQuestsIntro/button"
+msgstr "Affirmative!"
+
+msgid "dailyQuestsIntro/description"
+msgstr ""
+"During the subscription period, additional rewards will be given for "
+"completing both standard and bonus daily tasks."
+
+msgid "dailyQuestsIntro/title"
+msgstr "Subscription additional rewards"
+
+msgid "dailyQuestsLockedReward/body"
+msgstr ""
+"Rewards for tasks completed before subscription activation will not be "
+"recalculated. Access to the additional reward slot will be available after "
+"task refresh."
+
+msgid "dailyQuestsLockedReward/header"
+msgstr "Additional reward unavailable"
+
+msgid "dashboard/subscriptionCard/description"
+msgstr ""
+"A subscription is a pass that allows you to receive additional bonuses for a"
+" more comfortable game. Earn gold in every battle, play with the exclusive "
+"%(vehicleName)s vehicle, dismantle equipment for free, speed up crew "
+"training, and much more!"
+
+msgid "dashboard/subscriptionCard/label"
+msgstr "Subscription"
+
+msgid "dashboard/subscriptionCard/labelShort"
+msgstr "Subscription"
+
+msgid "dashboard/subscriptionCard/state/active/long"
+msgstr "Manage Subscription"
+
+msgid "dashboard/subscriptionCard/state/active/short"
+msgstr "Manage"
+
+msgid "dashboard/subscriptionCard/state/available"
+msgstr "Manage"
+
+msgid "dashboard/subscriptionCard/state/disable/long"
+msgstr "Temporarily unavailable"
+
+msgid "dashboard/subscriptionCard/state/disable/short"
+msgstr "Unavailable"
+
+msgid "headerButton/label"
+msgstr "Subscription"
+
+msgid "headerButton/state/active"
+msgstr "Manage"
+
+msgid "headerButton/state/available"
+msgstr "Activate"
+
+msgid "headerButton/state/cancelled"
+msgstr "Manage"
+
+msgid "headerButton/state/error"
+msgstr "Error"
+
+msgid "introView/affirmative"
+msgstr "Affirmative!"
+
+msgid "introView/checkRewardsButton"
+msgstr "?empty?"
+
+msgid "introView/cyclesInformation"
+msgstr "?empty?"
+
+msgid "introView/cyclesInformationContent"
+msgstr "?empty?"
+
+msgid "introView/generalInformation"
+msgstr "?empty?"
+
+msgid "introView/generalInformationContent"
+msgstr "?empty?"
+
+msgid "introView/heading"
+msgstr "SUBSCRIPTION REWARDS"
+
+msgid "introView/rewardsInformation"
+msgstr "?empty?"
+
+msgid "introView/rewardsInformationContent"
+msgstr "?empty?"
+
+msgid "introView/subHeading"
+msgstr "?empty?"
+
+msgid "introView/superHeading"
+msgstr "?empty?"
+
+msgid "notification/subscriptionExpiration/active/header"
+msgstr "Subscription renewal"
+
+msgid "notification/subscriptionExpiration/active/text"
+msgstr ""
+"The subscription will be automatically renewed on %(timeExpiration)s. "
+"Payment for the next 30-day subscription period will be deducted from your "
+"account."
+
+msgid "notification/subscriptionExpiration/cancel/header"
+msgstr "Subscription bonuses will soon become unavailable"
+
+msgid "notification/subscriptionExpiration/cancel/text"
+msgstr ""
+"The subscription was canceled earlier: all subscription bonuses will be "
+"disabled on %(timeExpiration)s."
+
+msgid "rentButton/label"
+msgstr "Rent"
+
+msgid "subscriptionCardTooltip/Active"
+msgstr "Active"
+
+msgid "subscriptionCardTooltip/Canceled"
+msgstr "Canceled"
+
+msgid "subscriptionCardTooltip/Error"
+msgstr "Technical error"
+
+msgid "subscriptionCardTooltip/Inactive"
+msgstr "Inactive"
+
+msgid "subscriptionCardTooltip/Trial"
+msgstr "Trial period"
+
+msgid "subscriptionCardTooltip/chargeTime/Active"
+msgstr "Next payment %(date)s"
+
+msgid "subscriptionCardTooltip/chargeTime/Canceled"
+msgstr ""
+"Your subscription has been canceled.\n"
+"Bonuses are valid until %(date)s"
+
+msgid "subscriptionCardTooltip/chargeTime/Error"
+msgstr ""
+"Subscription status information is temporarily unavailable.\n"
+"Bonuses will continue until the subscription expires."
+
+msgid "subscriptionCardTooltip/chargeTime/Trial"
+msgstr ""
+"You have an active free trial period.\n"
+"All subscription bonuses will be available until %(date)s"
+
+msgid "subscriptionCardTooltip/desc/available"
+msgstr "Subscribe to Subscription and get all special benefits!"
+
+msgid "subscriptionCardTooltip/headerDescription"
+msgstr "Improve your gaming experience!"
+
+msgid "subscriptionCardTooltip/headerTitle"
+msgstr "Subscription"
+
+msgid "subscriptionCardTooltip/title"
+msgstr "?empty?"

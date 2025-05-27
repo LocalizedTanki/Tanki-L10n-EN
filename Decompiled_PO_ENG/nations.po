@@ -1,0 +1,82 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-nations\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "china"
+msgstr "China"
+
+msgid "china/genetiveCase"
+msgstr "Chinese"
+
+msgid "czech"
+msgstr "Czechoslovakia"
+
+msgid "czech/genetiveCase"
+msgstr "Czechoslovakian"
+
+msgid "france"
+msgstr "France"
+
+msgid "france/genetiveCase"
+msgstr "French"
+
+msgid "germany"
+msgstr "Germany"
+
+msgid "germany/genetiveCase"
+msgstr "German"
+
+msgid "intunion"
+msgstr "National team"
+
+msgid "intunion/genetiveCase"
+msgstr "National team"
+
+msgid "italy"
+msgstr "Italy"
+
+msgid "italy/genetiveCase"
+msgstr "Italian"
+
+msgid "japan"
+msgstr "Japan"
+
+msgid "japan/genetiveCase"
+msgstr "Japanese"
+
+msgid "poland"
+msgstr "Poland"
+
+msgid "poland/genetiveCase"
+msgstr "Polish"
+
+msgid "sweden"
+msgstr "Sweden"
+
+msgid "sweden/genetiveCase"
+msgstr "Swedish"
+
+msgid "uk"
+msgstr "U.K."
+
+msgid "uk/genetiveCase"
+msgstr "British"
+
+msgid "usa"
+msgstr "U.S.A."
+
+msgid "usa/genetiveCase"
+msgstr "American"
+
+msgid "ussr"
+msgstr "U.S.S.R."
+
+msgid "ussr/genetiveCase"
+msgstr "Soviet"

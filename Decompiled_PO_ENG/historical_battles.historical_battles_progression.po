@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.historical_battles_progression\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "battleQuestAwards/button"
+msgstr "Roger that!"
+
+msgid "battleQuestAwards/goToShop"
+msgstr "Event Store"
+
+msgid "battleQuestAwards/header/subTitle/left"
+msgstr "EVENT \"HEROES' TIME\""
+
+msgid "battleQuestAwards/header/subTitle/right/defence"
+msgstr "DEFENSE MODE"
+
+msgid "battleQuestAwards/header/subTitle/right/offence"
+msgstr "BREAKTHROUGH MODE"
+
+msgid "battleQuestAwards/header/title/regular"
+msgstr "REWARD FOR COMPLETING LEVEL %(level)s"
+
+msgid "battleQuestAwards/header/title/special"
+msgstr "REWARD FOR COMPLETING EVENT"
+
+msgid "battleQuestAwards/mainRewardDescription"
+msgstr "Successfully complete the Path to Victory in the \"Heroes' Time\" event."
+
+msgid "battleQuestAwards/mainRewardTitle"
+msgstr "\"Winner\" Patch"
+
+msgid "battleQuestAwards/showInHangar"
+msgstr "Show in Hangar"
+
+msgid "battleQuestAwards/subTitle"
+msgstr "STEEL HUNTER"
+
+msgid "battleQuestAwards/title/completed"
+msgstr "FINAL STAGE COMPLETED!"
+
+msgid "battleQuestAwards/title/inProgress"
+msgstr "LEVEL %(level)s COMPLETED!"
+
+msgid "header/coinValue/maxAmount"
+msgstr " / %(value)"
+
+msgid "progressionView/battleQuests/multiConditions"
+msgstr "%(firstCondition)s or %(secondCondition)s"
+
+msgid "progressionView/battleQuests/oneCondition"
+msgstr "%(firstCondition)s"
+
+msgid "progressionView/battleQuests/questsTotal/text"
+msgstr "Completed tasks: "
+
+msgid "progressionView/battleQuests/timer/completed/text"
+msgstr "Tasks will appear in"
+
+msgid "progressionView/battleQuests/timer/inProgress/text"
+msgstr "Tasks will refresh in"
+
+msgid "progressionView/battleQuests/timer/title"
+msgstr "All daily tasks completed. Come back tomorrow."
+
+msgid "progressionView/card/points"
+msgstr ""
+"%(whiteSpanish_Open)s%(current)s/%(whiteSpanish_Close)s%(par_Open)s%(total)s%(par_Close)s"
+
+msgid "progressionView/discountFull"
+msgstr "(up to 100%)"
+
+msgid "progressionView/discountPercent"
+msgstr "25%"
+
+msgid "progressionView/rewardBuy"
+msgstr "Buy"
+
+msgid "progressionView/rewardBuyDesc"
+msgstr ""
+"Participate in the \"Heroes' Time\" event and earn victory points to "
+"eventually receive the Soviet medium premium tank at %(vehicleLevel)s level "
+"%(vehicleName)s %(free)s."
+
+msgid "progressionView/rewardBuyLabel"
+msgstr "Tank Acquisition"
+
+msgid "progressionView/rewardDiscount"
+msgstr "%s% Discount on %(vehicleLvl)s %(roleIcon)s %(vehicleName)s"
+
+msgid "progressionView/rewardForFree"
+msgstr "free"
+
+msgid "progressionView/rewardLevel"
+msgstr "VII"
+
+msgid "progressionView/rewardNoPersonalDiscount"
+msgstr "%s Personal tank discount unavailable"
+
+msgid "progressionView/rewardNoPersonalDiscountExist"
+msgstr "%s Your current discount: %(discount)s"
+
+msgid "progressionView/rewardPersonalDiscountInfo"
+msgstr ""
+"Can't keep up with progression? The vehicle can also be purchased at "
+"%(discount)s, which increases by %(discountPercent)s for every 2 stages "
+"completed %(discountFull)s."
+
+msgid "progressionView/rewardReceived"
+msgstr "Reward received!"
+
+msgid "progressionView/rewardWithDiscount"
+msgstr "with a discount"
+
+msgid "progressionView/subTitle/completed"
+msgstr "Earn steel stamps and acquire Steel Hunter styles"
+
+msgid "progressionView/subTitle/inProgress"
+msgstr "By completing combat tasks, you earn progression points"
+
+msgid "progressionView/title/completed"
+msgstr "PROGRESSION COMPLETED!"
+
+msgid "progressionView/title/inProgress"
+msgstr "PROGRESSION"
+
+msgid "serviceChannelMessages/awards"
+msgstr "Reward received:"
+
+msgid "serviceChannelMessages/body"
+msgstr ""
+"You have completed the %(stage)s stage of %(modeName)s event progression "
+"\"%(progressionName)s\"."
+
+msgid "serviceChannelMessages/discountAward"
+msgstr "Your discount on %(vehicle)s has increased"
+
+msgid "serviceChannelMessages/discountAwardPercentage"
+msgstr " to %(discount)d%%"
+
+msgid "serviceChannelMessages/header"
+msgstr "Congratulations!"
+
+msgid "serviceChannelMessages/modeName/defence"
+msgstr "Defense"
+
+msgid "serviceChannelMessages/modeName/offence"
+msgstr "Breakthrough"
+
+msgid "serviceChannelMessages/progressionButton"
+msgstr "Learn More"
+
+msgid "serviceChannelMessages/progressionName"
+msgstr "Heroes' Time"
+
+msgid "serviceChannelMessages/tankmanAward"
+msgstr "Added crew member \"%(name)s\""
+
+msgid "serviceChannelMessages/unlockedVehiclesAward"
+msgstr "Unlocked access to upgraded event vehicles: %(vehicles)s"

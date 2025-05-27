@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.waiting.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "hbUpdateVehicle"
+msgstr "Updating vehicles..."
+
+msgid "historical_battles/dioramaLoading"
+msgstr "Preparing for battle..."

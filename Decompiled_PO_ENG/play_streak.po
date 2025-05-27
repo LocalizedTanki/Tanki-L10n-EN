@@ -1,0 +1,198 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-play_streak\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "widget/content/quest"
+msgstr "Win in battle or get 350 units of base experience"
+
+msgid "widget/content/tooltip/blocked/body"
+msgstr ""
+"To restore the counter, you need to complete the combat task \"Victory "
+"Chain\" for %(redemptionMaxDayCount)s days in a row."
+
+msgid "widget/content/tooltip/blocked/head"
+msgstr "Victory chain interrupted"
+
+msgid "widget/content/tooltip/body"
+msgstr ""
+"Complete tasks every day and do not let the counter reset. The longer your "
+"chain of victories, the more rewards await you."
+
+msgid "widget/content/tooltip/head"
+msgstr "Victory chain"
+
+msgid "window/playStreakPreview/backBtnLabel"
+msgstr "IN VICTORY CHAIN"
+
+msgid "window/playStreakRewards/calendar/card/tooltip/monthly/body"
+msgstr ""
+"By extending your victory chain to a cell in an animated frame with a yellow"
+" glow, you will receive a special reward monthly."
+
+msgid "window/playStreakRewards/calendar/card/tooltip/monthly/head"
+msgstr "Monthly regular rewards"
+
+msgid "window/playStreakRewards/calendar/card/tooltip/multi/head"
+msgstr "Rewards"
+
+msgid "window/playStreakRewards/calendar/card/tooltip/periodic/body"
+msgstr ""
+"Rewards will be available to you until the victory chain is interrupted."
+
+msgid "window/playStreakRewards/calendar/card/tooltip/periodic/head"
+msgstr "Temporary use"
+
+msgid "window/playStreakRewards/calendar/card/tooltip/weekly/body"
+msgstr ""
+"By extending your victory chain to a cell in an animated frame, you will "
+"receive a special reward weekly. These rewards accumulate: upon reaching the"
+" next cell in the frame, you will receive two rewards. And so on, until the "
+"victory chain is broken."
+
+msgid "window/playStreakRewards/calendar/card/tooltip/weekly/head"
+msgstr "Weekly regular rewards"
+
+msgid "window/playStreakRewards/disabledMessage/title/body"
+msgstr "Try again later."
+
+msgid "window/playStreakRewards/disabledMessage/title/head"
+msgstr ""
+"Completing tasks for the \"Victory Chain\" event is temporarily unavailable."
+
+msgid "window/playStreakRewards/periodicRewards/empty"
+msgstr "Your victory chain has not reached the required length."
+
+msgid "window/playStreakRewards/periodicRewards/head"
+msgstr "REGULAR REWARDS"
+
+msgid "window/playStreakRewards/periodicRewards/tooltip/blocked/body"
+msgstr "Restore the victory chain."
+
+msgid "window/playStreakRewards/periodicRewards/tooltip/blocked/head"
+msgstr "Rewards are currently unavailable"
+
+msgid "window/playStreakRewards/periodicRewards/tooltip/body"
+msgstr ""
+"By extending your victory chain to a cell marked in the list of monthly "
+"accruals, you will receive a special reward weekly. These rewards "
+"accumulate: upon reaching the next cell in the frame, you will receive two "
+"rewards. And so on, until the victory chain is broken."
+
+msgid "window/playStreakRewards/periodicRewards/tooltip/head"
+msgstr "Regular rewards"
+
+msgid "window/playStreakRewards/postProgression/bestRewards/head"
+msgstr "Top rewards"
+
+msgid "window/playStreakRewards/postProgression/bestRewards/preview"
+msgstr "View in Hangar"
+
+msgid "window/playStreakRewards/postProgression/content/blocked/body"
+msgstr ""
+"To restore the counter, you need to complete the combat task \"Victory "
+"Chain\" for %(redemptionMaxDayCount)s days in a row."
+
+msgid "window/playStreakRewards/postProgression/content/blocked/head"
+msgstr "The victory chain will be restored in"
+
+msgid "window/playStreakRewards/postProgression/content/blocked/tooltip/body"
+msgstr ""
+"To restore the counter, you need to complete the combat task \"Victory "
+"Chain\" for %(redemptionMaxDayCount)s days in a row."
+
+msgid "window/playStreakRewards/postProgression/content/blocked/tooltip/head"
+msgstr "Victory chain interrupted"
+
+msgid "window/playStreakRewards/postProgression/content/body"
+msgstr ""
+"Continue to complete the combat task \"Victory Chain\" to avoid losing "
+"progress and receive additional rewards."
+
+msgid "window/playStreakRewards/postProgression/content/head"
+msgstr "All rewards received!"
+
+msgid "window/playStreakRewards/progressionLimit/body"
+msgstr " / %(maxDay)s"
+
+msgid "window/playStreakRewards/recoveryMessage/head/complete"
+msgstr "Victory chain restored"
+
+msgid "window/playStreakRewards/recoveryMessage/head/days"
+msgstr "%(day)s d."
+
+msgid "window/playStreakRewards/recoveryMessage/head/disable"
+msgstr "The victory chain will be restored in"
+
+msgid "window/playStreakRewards/recoveryMessage/tooltip/body"
+msgstr ""
+"To restore the counter, you need to complete the combat task \"Victory "
+"Chain\" for %(redemptionMaxDayCount)s days in a row."
+
+msgid "window/playStreakRewards/recoveryMessage/tooltip/head"
+msgstr "Victory chain interrupted."
+
+msgid "window/playStreakRewards/rewardProgression/body"
+msgstr "Keep it up! Continue to complete combat tasks and receive rewards."
+
+msgid "window/playStreakRewards/rewardProgression/hangar"
+msgstr "View in Hangar"
+
+msgid "window/playStreakRewards/rewardProgression/head"
+msgstr "Key rewards received: "
+
+msgid "window/playStreakRewards/rewardProgression/preview"
+msgstr "Preview"
+
+msgid "window/playStreakRewards/tab/content/complete"
+msgstr "Combat task completed.%(br)sCome back tomorrow."
+
+msgid "window/playStreakRewards/tab/content/disable"
+msgstr ""
+"Completing tasks for the \"Victory Chain\" event is temporarily unavailable."
+" Try again later."
+
+msgid "window/playStreakRewards/tab/content/pause"
+msgstr "Remaining skips: %(skipDayCount)s"
+
+msgid "window/playStreakRewards/tab/content/quest"
+msgstr "Win in battle or get 350 units of \"clean\" experience."
+
+msgid "window/playStreakRewards/tab/head"
+msgstr "Victory chain"
+
+msgid "window/playStreakRewards/tab/help/blocked/body"
+msgstr ""
+"To restore the counter, you need to complete the combat task \"Victory "
+"Chain\" for %(redemptionMaxDayCount)s days in a row."
+
+msgid "window/playStreakRewards/tab/help/blocked/head"
+msgstr "Victory chain interrupted."
+
+msgid "window/playStreakRewards/tab/help/body"
+msgstr ""
+"A pause allows you to skip the completion of a combat task without breaking "
+"your victory chain. Pauses are deducted automatically."
+
+msgid "window/playStreakRewards/tab/help/head"
+msgstr "Pause"
+
+msgid "window/playStreakRewards/tab/help/number"
+msgstr ""
+"Combat task: %(streakLength)s %(br)sCurrent number of victories: "
+"%(streakLengthWin)s"
+
+msgid "window/playStreakRewards/tab/redemptionMaxDayCount/body"
+msgstr " / %(redemptionMaxDayCount)s"
+
+msgid "window/playStreakRewards/tab/tooltip/body"
+msgstr "Click to learn more about the \"Victory Chain\" event."
+
+msgid "window/playStreakRewards/tab/tooltip/head"
+msgstr "About the Victory Chain"

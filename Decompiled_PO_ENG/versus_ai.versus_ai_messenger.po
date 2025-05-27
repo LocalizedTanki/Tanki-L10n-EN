@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-versus_ai.versus_ai_messenger\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "battleResults/progressionPoints"
+msgstr "Progression points received for %(progressionName)s: %(value)s"
+
+msgid "battleResults/progressionPoints/versus_ai_regular"
+msgstr "Polygon"
+
+msgid "battleResults/progressionPoints/versus_ai_winback"
+msgstr "“Back in Action”"

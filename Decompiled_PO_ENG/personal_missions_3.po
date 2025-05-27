@@ -1,0 +1,1175 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-personal_missions_3\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "OperationsView/completedLast"
+msgstr "Completed closing tasks with distinction:"
+
+msgid "OperationsView/completedTasks"
+msgstr "Tasks completed:"
+
+msgid "OperationsView/development"
+msgstr "In progress"
+
+msgid "OperationsView/divider"
+msgstr "/"
+
+msgid "OperationsView/hint"
+msgstr "OPEN THE OPERATION"
+
+msgid "OperationsView/info/tooltip"
+msgstr "Click to learn more about"
+
+msgid "OperationsView/operationName"
+msgstr "OPERATION"
+
+msgid "OperationsView/step"
+msgstr "%(name)s"
+
+msgid "OperationsView/takeRewards/title"
+msgstr "CLAIM REWARDS"
+
+msgid "OperationsView/takeRewards/tooltip"
+msgstr "Click to select suitable rewards and claim them."
+
+msgid "OperationsView/takeRewards/tooltipDisable"
+msgstr ""
+"Reward selection is temporarily unavailable, we apologize for the "
+"inconvenience."
+
+msgid "OperationsView/title"
+msgstr "New Horizons"
+
+msgid "OperationsView/unavailable"
+msgstr "Unavailable"
+
+msgid "OperationsView/warningOperation"
+msgstr "Complete the operation"
+
+msgid "OperationsView/warningOperationName"
+msgstr "«%(name)s»"
+
+msgid "QuestView/acceptButton/default"
+msgstr "Start"
+
+msgid "QuestView/acceptButton/done_basic"
+msgstr "Redo with distinction"
+
+msgid "QuestView/acceptButton/tooltip/body"
+msgstr ""
+"Click to accept the task for execution. Fulfill the conditions of this task "
+"and receive the corresponding reward."
+
+msgid "QuestView/acceptButton/tooltip/body/available"
+msgstr ""
+"Click to accept the task for execution. Fulfill the conditions of this task "
+"and receive the corresponding reward."
+
+msgid "QuestView/acceptButton/tooltip/body/done_basic"
+msgstr ""
+"Click to try to improve the result by completing the main and additional "
+"conditions."
+
+msgid "QuestView/acceptButton/tooltip/body/no_tech"
+msgstr "The necessary equipment is not available to complete the task."
+
+msgid "QuestView/acceptButton/tooltip/body/previous_progress"
+msgstr "To access the task, complete the required operation."
+
+msgid "QuestView/acceptButton/tooltip/body/previous_progress_all"
+msgstr "To access the task, you need to complete four preceding tasks."
+
+msgid "QuestView/acceptButton/tooltip/header/available"
+msgstr "Start execution"
+
+msgid "QuestView/acceptButton/tooltip/header/done_basic"
+msgstr "Redo with distinction"
+
+msgid "QuestView/acceptButton/tooltip/header/no_tech"
+msgstr "No suitable technique"
+
+msgid "QuestView/acceptButton/tooltip/header/previous_progress"
+msgstr "Preceding operation not completed"
+
+msgid "QuestView/acceptButton/tooltip/header/previous_progress_all"
+msgstr "Complete preceding tasks"
+
+msgid "QuestView/avgProgress"
+msgstr "Average damage: %(from)s / %(to)s"
+
+msgid "QuestView/backButton/backText"
+msgstr "BACK"
+
+msgid "QuestView/backButton/to"
+msgstr "TO OPERATION"
+
+msgid "QuestView/conditionProgress/avg"
+msgstr "Battles left: %(value)s"
+
+msgid "QuestView/conditionProgress/full"
+msgstr "Progress: %(from)s / %(to)s"
+
+msgid "QuestView/conditionProgress/short"
+msgstr "%(from)s / %(to)s"
+
+msgid "QuestView/content/btn/chooseReward"
+msgstr "Choose a reward"
+
+msgid "QuestView/infoText/default"
+msgstr "The task is performed on %(value)s level equipment"
+
+msgid "QuestView/infoText/done"
+msgstr "All rewards received"
+
+msgid "QuestView/infoText/tooltip/header"
+msgstr "Start execution"
+
+msgid "QuestView/orQuest"
+msgstr "OR"
+
+msgid "QuestView/pauseButton/name/pause"
+msgstr "Pause"
+
+msgid "QuestView/pauseButton/name/resume"
+msgstr "Resume"
+
+msgid "QuestView/pauseButton/tooltip/body/pause"
+msgstr "Press to pause the task completion progress."
+
+msgid "QuestView/pauseButton/tooltip/body/resume"
+msgstr "Press to continue task execution."
+
+msgid "QuestView/questTitle/available"
+msgstr "Main condition"
+
+msgid "QuestView/questTitle/done"
+msgstr "Completed"
+
+msgid "QuestView/questTitle/honor/available"
+msgstr "With distinction"
+
+msgid "QuestView/questTitle/honor/done"
+msgstr "Completed"
+
+msgid "QuestView/questTitle/honor/info/tooltip/body"
+msgstr ""
+"In order for the completion of an additional condition to count, you need to"
+" also fulfill the main condition along with it."
+
+msgid "QuestView/questTitle/honor/tooltip/body/available"
+msgstr ""
+"This is your goal that you need to achieve in battle along with the main one"
+" to receive an additional reward and complete the task with distinction."
+
+msgid "QuestView/questTitle/honor/tooltip/body/done"
+msgstr "Additional condition completed"
+
+msgid "QuestView/questTitle/honor/tooltip/header/available"
+msgstr "Additional condition"
+
+msgid "QuestView/questTitle/tooltip/body/available"
+msgstr ""
+"This is your goal that you need to achieve in battle to receive the main "
+"reward and complete the task."
+
+msgid "QuestView/questTitle/tooltip/body/done"
+msgstr "Main condition completed"
+
+msgid "QuestView/questTitle/tooltip/header/available"
+msgstr "Main condition"
+
+msgid "QuestView/repeatProgress/default"
+msgstr "Completed: %(from)s / %(to)s"
+
+msgid "QuestView/repeatProgress/done"
+msgstr "Finished"
+
+msgid "QuestView/repeatProgress/failed"
+msgstr "Failure"
+
+msgid "QuestView/repeatTitle/tooltip/biathlon"
+msgstr ""
+"For the specified number of attempts, a certain number of battles must be "
+"fought in which the set condition will be met. If the remaining number of "
+"attempts is less than the required number of conditions met, the progress "
+"will be automatically reset, and the task will start over."
+
+msgid "QuestView/repeatTitle/tooltip/counter"
+msgstr "Progress is counted if all conditions were met within the battle."
+
+msgid "QuestView/repeatTitle/tooltip/series"
+msgstr ""
+"Conditions must be met in each battle of the series in a row. Failure in one"
+" battle will break the series, and you will have to start over."
+
+msgid "QuestView/resetButton/name"
+msgstr "Reset"
+
+msgid "QuestView/resetButton/tooltip/body/disabled"
+msgstr "You cannot reset a task with missing progress in its completion."
+
+msgid "QuestView/resetButton/tooltip/body/enabled"
+msgstr "Click to reset all current progress on the task."
+
+msgid "QuestView/subtitle/available"
+msgstr "The task is available for completion on %(value)s level equipment"
+
+msgid "QuestView/subtitle/done"
+msgstr "Completed"
+
+msgid "QuestView/subtitle/done_basic"
+msgstr "Main condition met"
+
+msgid "QuestView/subtitle/done_honor"
+msgstr "Completed with distinction"
+
+msgid "QuestView/subtitle/in_progress"
+msgstr "In progress"
+
+msgid "QuestView/subtitle/in_progress_honor"
+msgstr "Main condition met: task is being completed with distinction"
+
+msgid "QuestView/subtitle/no_tech"
+msgstr "Unavailable: no suitable %(value)s level equipment"
+
+msgid "QuestView/subtitle/pause"
+msgstr "Task paused"
+
+msgid "QuestView/subtitle/previous_progress"
+msgstr "Unavailable: complete the \"%(value)s\" operation"
+
+msgid "QuestView/subtitle/previous_progress_all"
+msgstr "Unavailable: complete the four preceding tasks"
+
+msgid "QuestView/title"
+msgstr "%(name)s"
+
+msgid "QuestsLine/tooltip/subtitle/assist"
+msgstr ""
+"Suitable stealthy equipment with precise weapons, capable of confidently "
+"dealing damage from a distance while remaining unnoticed."
+
+msgid "QuestsLine/tooltip/subtitle/battle"
+msgstr ""
+"Suitable fast equipment with good visibility and/or camouflage, capable of "
+"detecting enemy forces and maintaining effective reconnaissance data "
+"transmission."
+
+msgid "QuestsLine/tooltip/subtitle/hit"
+msgstr ""
+"Suitable vehicles with high firepower, as well as equipment capable of long-"
+"term survival on the front line due to the use of armor."
+
+msgid "QuestsLine/tooltip/subtitle/kills"
+msgstr ""
+"Suitable support equipment, acting in a group with main combat forces, "
+"capable of effectively immobilizing the enemy and providing fire support."
+
+msgid "QuestsLine/tooltip/subtitle/master"
+msgstr ""
+"Any equipment is suitable, the effectiveness of which you can fully reveal "
+"by adapting to the battle situation."
+
+msgid "QuestsLine/tooltip/title/assist"
+msgstr "Flank of hidden presence"
+
+msgid "QuestsLine/tooltip/title/battle"
+msgstr "Reconnaissance flank"
+
+msgid "QuestsLine/tooltip/title/hit"
+msgstr "Active combat flank"
+
+msgid "QuestsLine/tooltip/title/kills"
+msgstr "Support flank"
+
+msgid "QuestsLine/tooltip/title/master"
+msgstr "Personal mastery flank"
+
+msgid "QuestsView/backButton/caption"
+msgstr "BACK"
+
+msgid "QuestsView/backButton/to"
+msgstr "TO OPERATIONS"
+
+msgid "QuestsView/footer/rewardBtn/text"
+msgstr "Operation Rewards"
+
+msgid "QuestsView/header/subtitle/active"
+msgstr ""
+"Can be completed using vehicles of levels %(minVehicleLevel) - "
+"%(maxVehicleLevel)"
+
+msgid "QuestsView/header/subtitle/alert"
+msgstr "Select a task to begin"
+
+msgid "QuestsView/header/subtitle/complete"
+msgstr "Select the fifth task to complete with distinction"
+
+msgid "QuestsView/header/subtitle/completeWithHonor"
+msgstr "All branch tasks completed with distinction"
+
+msgid "QuestsView/header/subtitle/locked"
+msgstr "Unavailable: complete the \"%(prevOperationName)\" operation first"
+
+msgid "QuestsView/header/subtitle/lockedNoVehicle"
+msgstr ""
+"Unavailable: no suitable vehicles of levels %(minVehicleLevel) - "
+"%(maxVehicleLevel)"
+
+msgid "QuestsView/header/title/text"
+msgstr "OPERATION \"%(operationName)\""
+
+msgid "QuestsView/lockProgress/text"
+msgstr "%(current)s / %(total)s"
+
+msgid "QuestsView/tab/divider"
+msgstr "/"
+
+msgid "QuestsView/tab/progress"
+msgstr "Levels %(minVehicleLevel) - %(maxVehicleLevel)"
+
+msgid "ResetView/applyButton"
+msgstr "Confirm"
+
+msgid "ResetView/cancelButton"
+msgstr "Cancel"
+
+msgid "ResetView/closeButton"
+msgstr "CLOSE"
+
+msgid "ResetView/subtitle"
+msgstr "All progress on task \"%(id)s\" will be reset."
+
+msgid "ResetView/title"
+msgstr "Reset progress?"
+
+msgid "ResetView/warning"
+msgstr "Attention! Current progress on the combat task will be lost."
+
+msgid "RewardsSelectionView/subtitle"
+msgstr "REWARD SELECTION"
+
+msgid "RewardsSelectionView/title"
+msgstr "CAMPAIGNS"
+
+msgid "RewardsView/content/awards/additional/bottom"
+msgstr "And also: %(count)s"
+
+msgid "RewardsView/content/btn/chooseReward"
+msgstr "Select reward"
+
+msgid "RewardsView/content/questCount/divider"
+msgstr "/"
+
+msgid "RewardsView/content/questCount/text"
+msgstr ""
+"Completed tasks with distinction to receive the \"Certification\" stage "
+"reward"
+
+msgid "RewardsView/footer/allFlagTasksComplete"
+msgstr ""
+"All %(type)s tasks for equipment levels %(questLevelFrom) - %(questLevelTo) "
+"are completed with distinction."
+
+msgid "RewardsView/footer/allTasksComplete"
+msgstr ""
+"All current operation tasks for equipment levels %(questLevelFrom) - "
+"%(questLevelTo) are completed with distinction."
+
+msgid "RewardsView/footer/btn/accept"
+msgstr "Affirmative!"
+
+msgid "RewardsView/footer/btn/continue"
+msgstr "Continue"
+
+msgid "RewardsView/footer/btn/nextTask"
+msgstr "Next task"
+
+msgid "RewardsView/footer/nextTask/improve"
+msgstr "You will automatically continue to improve the task result:"
+
+msgid "RewardsView/footer/nextTask/title"
+msgstr "Task automatically accepted for execution:"
+
+msgid "RewardsView/footer/type/assist"
+msgstr "Flank of covert presence"
+
+msgid "RewardsView/footer/type/battle"
+msgstr "Reconnaissance flank"
+
+msgid "RewardsView/footer/type/hit"
+msgstr "Active combat flank"
+
+msgid "RewardsView/footer/type/kills"
+msgstr "Support flank"
+
+msgid "RewardsView/footer/type/master"
+msgstr "Personal mastery flank"
+
+msgid "RewardsView/header/btn/close"
+msgstr "CLOSE"
+
+msgid "RewardsView/header/company"
+msgstr "CAMPAIGNS"
+
+msgid "RewardsView/header/gotOneReward"
+msgstr "REWARD RECEIVED!"
+
+msgid "RewardsView/header/gotRewards"
+msgstr "REWARDS RECEIVED"
+
+msgid "RewardsView/header/subtitle"
+msgstr "Task %(questID) COMPLETED!"
+
+msgid "RewardsView/header/taskStatus/complete"
+msgstr "Main condition fulfilled"
+
+msgid "RewardsView/header/taskStatus/completeAdd"
+msgstr "Additional condition met"
+
+msgid "RewardsView/header/taskStatus/completeWithHonor"
+msgstr "Completed with distinction"
+
+msgid "RewardsView/header/title"
+msgstr "OPERATION \"%(operationName)\""
+
+msgid "RewardsView/header/titleWithHonor"
+msgstr "OPERATION \"%(operationName)\" COMPLETED WITH DISTINCTION"
+
+msgid "VehicleTabs/tooltip/subtitle"
+msgstr ""
+"Branch tasks are available for completion on any "
+"%(minVehicleLevel)s-%(maxVehicleLevel)s level vehicle."
+
+msgid "VehicleTabs/tooltip/title"
+msgstr "Branch %(minVehicleLevel)s-%(maxVehicleLevel)s level"
+
+msgid "VehicleView/additionalRewards/body/default"
+msgstr "For completing the operation"
+
+msgid "VehicleView/additionalRewards/body/honor"
+msgstr "For completing the operation with distinction"
+
+msgid "VehicleView/additionalRewards/header"
+msgstr "OTHER REWARDS"
+
+msgid "VehicleView/backButton"
+msgstr "BACK"
+
+msgid "VehicleView/compare/label"
+msgstr "Add to comparison"
+
+msgid "VehicleView/description/A161_ARMT"
+msgstr ""
+"A light tank with modest armor but impressive firepower. The autoloading gun"
+" of the vehicle, with a huge number of shells, can significantly damage any "
+"same-tier opponent, while outstanding dynamics allow for scouting potential "
+"targets across the entire map."
+
+msgid "VehicleView/description/A173_TF_2_CLARK"
+msgstr ""
+"The vehicle is well-protected, promoting an aggressive frontline gameplay "
+"strategy. Mobility is rather limited, so it's better to plan the direction "
+"of attack in advance, as well as possible retreat paths in case the battle "
+"situation changes. The flamethrower gun can effectively engage any target at"
+" close range, but long-range combat is inefficient due to shooting "
+"characteristics."
+
+msgid "VehicleView/description/F119_Projet_Murat"
+msgstr ""
+"A French medium tank with strong frontal armor (except for the vulnerable "
+"lower glacis), good mobility, and a close-range gun with a 3-shell magazine."
+" The exceptionally comfortable gun depression angle of 12 degrees allows for"
+" confident positioning in positional battles, making folds in terrain and "
+"relief features the best allies. The vehicle is equipped with a multi-track "
+"mover, indirectly affecting survivability."
+
+msgid "VehicleView/goTo"
+msgstr "TO THE OPERATION"
+
+msgid "VehicleView/preview/label"
+msgstr "Preview"
+
+msgid "VehicleView/researchCondition/body"
+msgstr ""
+"To obtain the vehicle, all tasks of the %(name)s operation must be completed"
+
+msgid "VehicleView/researchCondition/header"
+msgstr "CONDITIONS FOR OBTAINING VEHICLES"
+
+msgid "VehicleView/researchCondition/progress"
+msgstr "%(from)s / %(to)s"
+
+msgid "VehicleView/restoreButton"
+msgstr "Restore"
+
+msgid "VehicleView/restoreTooltip/body"
+msgstr "Restoration of this vehicle will be available in %(value)s"
+
+msgid "VehicleView/restoreTooltip/daysHours"
+msgstr "%(days)sd %(hours)sh"
+
+msgid "VehicleView/restoreTooltip/header"
+msgstr "Restoration"
+
+msgid "VehicleView/restoreTooltip/hoursMinutes"
+msgstr "%(hours)sh %(minutes)smin"
+
+msgid "VehicleView/restoreTooltip/minutes"
+msgstr "%(minutes)smin"
+
+msgid "VehicleView/restoreTooltip/seconds"
+msgstr "< 1m"
+
+msgid "VehicleView/title"
+msgstr "OPERATION REWARDS %(name)s"
+
+msgid "VehicleView/vehicleInfo/body/inHangar"
+msgstr "In the Hangar"
+
+msgid "VehicleView/vehicleInfo/body/inHangarButton"
+msgstr "View in the Hangar"
+
+msgid "VehicleView/vehiclePreviewBack"
+msgstr "To the Operation"
+
+msgid "VideoRewardsView/btn/accept"
+msgstr "Affirmative!"
+
+msgid "VideoRewardsView/btn/showInHangar"
+msgstr "View in the Hangar"
+
+msgid "VideoRewardsView/header/title/companyComplete"
+msgstr "CAMPAIGN COMPLETED!"
+
+msgid "VideoRewardsView/header/title/complete"
+msgstr "OPERATION COMPLETED!"
+
+msgid "VideoRewardsView/header/title/completeWithHonor"
+msgstr "OPERATION COMPLETED WITH DISTINCTION!"
+
+msgid "VideoRewardsView/received/text"
+msgstr "Also received:"
+
+msgid "introView/acceptButton"
+msgstr "Affirmative!"
+
+msgid "introView/closeButton"
+msgstr "CLOSE"
+
+msgid "introView/header"
+msgstr "CAMPAIGN \"NEW HORIZONS\""
+
+msgid "introView/infoButton"
+msgstr "More details"
+
+msgid "introView/infoCard/first"
+msgstr "Three consecutive operations with new tasks."
+
+msgid "introView/infoCard/second"
+msgstr "New tanks of VII-X levels: ARMT, TF-2 CLARK, and Projet Murat."
+
+msgid "introView/infoCard/third"
+msgstr ""
+"The cherry on top: a super-heavy double-barreled tank of XI level (in "
+"development)."
+
+msgid "introView/videoButton/buttonText"
+msgstr "ABOUT THE CAMPAIGN"
+
+msgid "introView/videoButton/lbzName"
+msgstr "\"NEW HORIZONS\""
+
+msgid "newCampaignHint"
+msgstr "A NEW CAMPAIGN IS AVAILABLE"
+
+msgid "selectBonus/error"
+msgstr "Selection is temporarily unavailable."
+
+msgid "selectBonus/etc"
+msgstr "...and other equipment."
+
+msgid "selectBonus/expequipments_gift"
+msgstr "Experimental equipment to choose from."
+
+msgid "selectBonus/new_device_pm3_gift"
+msgstr "Equipment to choose from."
+
+msgid "selectBonus/point"
+msgstr "• %(item)s"
+
+msgid "tooltips/IntroVideoView/body"
+msgstr "Click to skip the video."
+
+msgid "tooltips/OperationsView/lastOperation/active/body"
+msgstr ""
+"To obtain the vehicles, you need to excellently complete all fifth (closing)"
+" tasks of the \"New Horizons\" campaign."
+
+msgid "tooltips/OperationsView/lastOperation/active/completedText"
+msgstr "Fifth tasks completed with excellence:"
+
+msgid "tooltips/OperationsView/lastOperation/active/footer"
+msgstr "In progress"
+
+msgid "tooltips/OperationsView/lastOperation/active/rewards"
+msgstr "Rewards for completing the stage:"
+
+msgid "tooltips/OperationsView/lastOperation/active/subtitle"
+msgstr "Stage completion condition"
+
+msgid "tooltips/OperationsView/lastOperation/completed/footer"
+msgstr "Completed"
+
+msgid "tooltips/OperationsView/lastOperation/completed/footerSubtitle"
+msgstr "All stage conditions met, rewards received."
+
+msgid "tooltips/OperationsView/lastOperation/development/bgText"
+msgstr "In development"
+
+msgid "tooltips/OperationsView/lastOperation/development/body"
+msgstr ""
+"To obtain the vehicles, you need to excellently complete all fifth (closing)"
+" tasks of the \"New Horizons\" campaign."
+
+msgid "tooltips/OperationsView/lastOperation/development/bodyDescription"
+msgstr ""
+"You have the opportunity to receive a unique patch by excellently completing"
+" all fifth (closing) tasks of the \"New Horizons\" campaign before the "
+"\"%(name)s\" stage becomes available."
+
+msgid "tooltips/OperationsView/lastOperation/development/footer"
+msgstr "Coming soon in the game"
+
+msgid "tooltips/OperationsView/lastOperation/development/header"
+msgstr "Stage \"%(name)s\" (in development)"
+
+msgid "tooltips/OperationsView/lastOperation/development/rewards"
+msgstr "Reward for early completion of the stage:"
+
+msgid "tooltips/OperationsView/lastOperation/development/subtitle"
+msgstr "Reward for completing the stage:"
+
+msgid "tooltips/OperationsView/lastOperation/header"
+msgstr "Stage \"%(name)s\""
+
+msgid "tooltips/OperationsView/operation/active/body"
+msgstr "To obtain the car, complete all operation tasks."
+
+msgid "tooltips/OperationsView/operation/active/header"
+msgstr "In progress"
+
+msgid "tooltips/OperationsView/operation/available/body"
+msgstr "Select a task to complete."
+
+msgid "tooltips/OperationsView/operation/available/header"
+msgstr "Available"
+
+msgid "tooltips/OperationsView/operation/branch"
+msgstr "%(name)s level"
+
+msgid "tooltips/OperationsView/operation/completed/body"
+msgstr "Complete all campaign closing tasks with distinction."
+
+msgid "tooltips/OperationsView/operation/completed/header"
+msgstr "In progress with distinction"
+
+msgid "tooltips/OperationsView/operation/completedPerfectly/body"
+msgstr "All operation tasks completed with distinction, rewards received."
+
+msgid "tooltips/OperationsView/operation/completedPerfectly/header"
+msgstr "Completed with distinction"
+
+msgid "tooltips/OperationsView/operation/disabled/body"
+msgstr "Complete operation \"%(name)s\"."
+
+msgid "tooltips/OperationsView/operation/disabled/header"
+msgstr "Unavailable"
+
+msgid "tooltips/OperationsView/operation/disabledLevel/body"
+msgstr "No suitable %(from)s - %(to)s level equipment."
+
+msgid "tooltips/OperationsView/operation/divider"
+msgstr "/"
+
+msgid "tooltips/OperationsView/operation/header"
+msgstr "Operation \"%(name)s\""
+
+msgid "tooltips/OperationsView/operation/rewards"
+msgstr "Rewards for completing the operation:"
+
+msgid "tooltips/OperationsView/operation/rewardsCompleted"
+msgstr "Rewards for completing with distinction:"
+
+msgid "tooltips/OperationsView/operation/simple/disabled/body"
+msgstr ""
+"The operation is temporarily unavailable due to technical reasons. We are "
+"working on fixing the issue."
+
+msgid "tooltips/OperationsView/operation/simple/disabled/header"
+msgstr "Operation \"%(name)s\" is unavailable."
+
+msgid "tooltips/OperationsView/operation/tasks"
+msgstr "Operation tasks:"
+
+msgid "tooltips/OperationsView/operation/tasksCompleted"
+msgstr "Tasks completed with distinction:"
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/content/type11"
+msgstr ""
+"Consists of cumulative conditions: you need to fulfill the conditions in the"
+" specified number of battles, not necessarily consecutively. Only successful"
+" battles where all conditions of the block are met will be counted, with an "
+"infinite number of attempts allowed."
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/content/type5"
+msgstr ""
+"Consists of a single cumulative condition: you have an unlimited number of "
+"battles, and the result of each battle will contribute to the overall "
+"\"piggy bank\" until it is full."
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/content/type6"
+msgstr ""
+"Consists of cumulative conditions: you need to fulfill the conditions in the"
+" specified number of battles, not necessarily consecutively. Only successful"
+" battles where all conditions of the block are met will be counted, with an "
+"infinite number of attempts allowed."
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/content/type7"
+msgstr ""
+"Consists of a cumulative condition by vehicle types: you have an unlimited "
+"number of battles where you need to accumulate a specific progress for each "
+"vehicle type. The result of each battle will contribute to the \"piggy "
+"bank\" for vehicle types until they are fully filled."
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/title/type11"
+msgstr "Segment 1"
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/title/type5"
+msgstr "Segment 1"
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/title/type6"
+msgstr "Segment 1"
+
+msgid "tooltips/QuestInfoTooltip/firstBlock/title/type7"
+msgstr "Segment 1"
+
+msgid "tooltips/QuestInfoTooltip/firstCondition/type20"
+msgstr ""
+"%(condition) must be completed consecutively in each battle of the series. "
+"Failure in one battle will break the series, and you will have to start "
+"over."
+
+msgid "tooltips/QuestInfoTooltip/firstCondition/type22"
+msgstr ""
+"%(condition) within the specified number of attempts, you need to conduct a "
+"certain number of battles where the set condition will be met. If the "
+"remaining attempts are less than the required number of conditions met, the "
+"progress will be automatically reset, and the task will start over."
+
+msgid "tooltips/QuestInfoTooltip/firstCondition/type23"
+msgstr "%(condition) needs to fulfill the set condition in one battle."
+
+msgid "tooltips/QuestInfoTooltip/firstCondition/type24"
+msgstr ""
+"%(condition) after the allocated number of battles, you need to accumulate a"
+" specific average result. If the final result obtained is less than "
+"expected, the progress will be automatically reset, and the task will start "
+"over."
+
+msgid "tooltips/QuestInfoTooltip/firstCondition/type25"
+msgstr ""
+"%(condition) after the allocated number of battles, you need to accumulate a"
+" specific average result. If the final result obtained is less than "
+"expected, the progress will be automatically reset, and the task will start "
+"over."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type1"
+msgstr "Tasks of this type consist of a single cumulative condition."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type10"
+msgstr ""
+"Tasks of this type consist of several complementary conditions: cumulative "
+"and limiting."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type11"
+msgstr ""
+"Tasks of this type consist of two segments that are executed in parallel. To"
+" complete the task, all conditions must be met."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type2"
+msgstr ""
+"This type of task consists of several cumulative conditions that are "
+"executed in parallel. To complete the task, all conditions must be met."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type20"
+msgstr ""
+"Each task of this type has a limited number of attempts to meet the "
+"specified condition."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type21"
+msgstr ""
+"In tasks of this type, it is required to meet the specified condition in a "
+"single battle."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type22"
+msgstr ""
+"Each task of this type has a limited number of attempts to meet the "
+"specified condition."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type23"
+msgstr ""
+"Each task of this type has a limited number of attempts to meet the "
+"specified condition."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type24"
+msgstr ""
+"Tasks of this type are cumulative, meaning they require the player to meet "
+"conditions over several battles."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type25"
+msgstr ""
+"Tasks of this type are cumulative, meaning they require the player to meet "
+"conditions over several battles."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type3"
+msgstr ""
+"Tasks of this type are cumulative, meaning they require the player to meet "
+"conditions over several battles (not necessarily consecutively)."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type4"
+msgstr ""
+"Tasks of this type are cumulative, meaning they require the player to meet "
+"conditions over several battles (not necessarily consecutively)."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type5"
+msgstr ""
+"This type of task consists of two segments that are executed in parallel. "
+"The segments are separated by the \"or\" construction: to complete the task,"
+" all conditions in either of the two segments must be met."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type6"
+msgstr ""
+"This type of task consists of two segments that are executed in parallel. "
+"The segments are separated by the \"or\" construction: to complete the task,"
+" all conditions in either of the two segments must be met."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type7"
+msgstr ""
+"This type of task consists of two segments that are executed in parallel. "
+"The segments are separated by the \"or\" construction: to complete the task,"
+" all conditions in either of the two segments must be met."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type8"
+msgstr ""
+"This type of task consists of a cumulative condition for each type of "
+"vehicle."
+
+msgid "tooltips/QuestInfoTooltip/firstText/type9"
+msgstr ""
+"This type of task consists of several complementary conditions: cumulative "
+"by vehicle types and limiting."
+
+msgid "tooltips/QuestInfoTooltip/mainCondition"
+msgstr "Main condition:"
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/content/type11"
+msgstr ""
+"Consists of a cumulative condition: you need to meet the condition in the "
+"specified number of battles, not necessarily consecutively. Only successful "
+"battles will count, with an infinite number of attempts allowed."
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/content/type5"
+msgstr ""
+"Consists of a cumulative condition: you need to meet the condition in the "
+"specified number of battles, not necessarily consecutively. Only successful "
+"battles will count, with an infinite number of attempts allowed."
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/content/type6"
+msgstr ""
+"Consists of a cumulative condition: you need to meet the condition in the "
+"specified number of battles, not necessarily consecutively. Only successful "
+"battles will count, with an infinite number of attempts allowed."
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/content/type7"
+msgstr ""
+"Consists of a single cumulative condition: you have an unlimited number of "
+"battles, and the result of each battle will contribute to the overall "
+"\"pool\" until it is fully filled."
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/title/type11"
+msgstr "Segment 2"
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/title/type5"
+msgstr "Segment 2"
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/title/type6"
+msgstr "Segment 2"
+
+msgid "tooltips/QuestInfoTooltip/secondBlock/title/type7"
+msgstr "Segment 2"
+
+msgid "tooltips/QuestInfoTooltip/secondCondition/type20"
+msgstr ""
+"%(condition) is similar to the main one, and progress on it runs parallel. "
+"The condition itself is more complex, and a different number of attempts may"
+" be allocated for its completion. The additional condition may fail even if "
+"the main one is successfully completed. In this case, the additional "
+"condition will become unavailable for reattempt until a new series of "
+"attempts begins."
+
+msgid "tooltips/QuestInfoTooltip/secondCondition/type22"
+msgstr ""
+"%(condition) is similar to the main one, and progress on it runs parallel. "
+"The condition itself is more complex, and a different number of attempts may"
+" be allocated for its completion. The additional condition may fail even if "
+"the main one is successfully completed. In this case, the additional "
+"condition will become unavailable for reattempt until a new series of "
+"attempts begins."
+
+msgid "tooltips/QuestInfoTooltip/secondCondition/type23"
+msgstr ""
+"%(condition) requires a certain number of battles to be fought within a "
+"specified number of attempts, in which the set condition will be met. If the"
+" remaining attempts are fewer than the required number of conditions met, "
+"the progress will automatically reset, and the task will start anew."
+
+msgid "tooltips/QuestInfoTooltip/secondCondition/type24"
+msgstr ""
+"%(condition) is similar to the main one, and progress on it runs parallel. "
+"The condition itself is more complex, and a different number of attempts may"
+" be allocated for its completion. The additional condition may fail even if "
+"the main one is successfully completed. In this case, the additional "
+"condition will become unavailable for reattempt until a new series of "
+"attempts begins."
+
+msgid "tooltips/QuestInfoTooltip/secondCondition/type25"
+msgstr ""
+"%(condition) is similar to the main one, and progress on it runs parallel. "
+"The condition itself is more complex, and a different number of attempts may"
+" be allocated for its completion. The additional condition may fail even if "
+"the main one is successfully completed. In this case, the additional "
+"condition will become unavailable for reattempt until a new series of "
+"attempts begins."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type1"
+msgstr ""
+"You have an unlimited number of battles, and the result of each will "
+"contribute to a common \"pool\" until it is fully filled."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type10"
+msgstr ""
+"Cumulative condition: you have an unlimited number of battles, and the "
+"result of each will contribute to a common \"pool\" until it is fully "
+"filled. Only successful battles where progress was accumulated and limiting "
+"conditions were met will count, with an infinite number of attempts."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type11"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type2"
+msgstr ""
+"You have an unlimited number of battles, and the result of each will "
+"contribute to a common \"pool\" until it is fully filled."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type20"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type21"
+msgstr ""
+"To fulfill the additional condition (simultaneously with the main one or "
+"improving the result), it is mandatory to also fulfill the main condition; "
+"otherwise, the task will not be counted, and the reward for the additional "
+"condition will not be received."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type22"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type23"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type24"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type25"
+msgstr ""
+"When switching tasks, all accumulated progress on the current task will be "
+"saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type3"
+msgstr ""
+"You need to fulfill the condition within the specified number of battles, "
+"and not necessarily consecutively. Only successful battles will count, with "
+"an infinite number of attempts."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type4"
+msgstr ""
+"You need to fulfill the condition within the specified number of battles, "
+"and not necessarily consecutively. Only successful battles where all task "
+"conditions were met will count, with an infinite number of attempts."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type5"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type6"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type7"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type8"
+msgstr ""
+"You have an unlimited number of battles where you need to accumulate a "
+"certain progress on each type of vehicle. The result of each battle will go "
+"into the \"bank\" for each type of vehicle until it is filled."
+
+msgid "tooltips/QuestInfoTooltip/secondText/type9"
+msgstr ""
+"Cumulative condition for vehicle types: you have an unlimited number of "
+"battles where you need to accumulate a certain progress on each type of "
+"vehicle. The result of each battle will go into the \"bank\" for each type "
+"of vehicle until it is filled. Only successful battles where progress was "
+"accumulated and the limiting conditions of the task were met will be "
+"counted, with an infinite number of attempts."
+
+msgid "tooltips/QuestInfoTooltip/secondaryCondition"
+msgstr "Additional condition:"
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type1"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type10"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type2"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type3"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type4"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type8"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/thirdText/type9"
+msgstr ""
+"When switching tasks to another one, all accumulated progress on the current"
+" task will be saved and put on hold."
+
+msgid "tooltips/QuestInfoTooltip/title"
+msgstr "Description and tips"
+
+msgid "tooltips/RestRewards/header"
+msgstr "Rewards"
+
+msgid "tooltips/questCard/Or"
+msgstr "or"
+
+msgid "tooltips/questCard/body/switch"
+msgstr "The task is temporarily unavailable for completion."
+
+msgid "tooltips/questCard/content/rewardForMainCondition"
+msgstr "Reward for completion:"
+
+msgid "tooltips/questCard/footer/additional/noTech"
+msgstr ""
+"No suitable vehicles at levels %(minVehicleLevel) - %(maxVehicleLevel)."
+
+msgid "tooltips/questCard/footer/additional/notAvailablePrevQuestNotCompleted"
+msgstr "Complete the operation \"%(operationName)\"."
+
+msgid "tooltips/questCard/footer/additional/pause"
+msgstr "Available for execution"
+
+msgid "tooltips/questCard/footer/additional/previousProgress"
+msgstr "Complete the \"%(prevOperationName)s\" operation"
+
+msgid "tooltips/questCard/footer/additional/previousProgressAll"
+msgstr "Complete all previous subtasks."
+
+msgid "tooltips/questCard/footer/available"
+msgstr "Available for execution"
+
+msgid "tooltips/questCard/footer/done"
+msgstr "Completed"
+
+msgid "tooltips/questCard/footer/doneBasic"
+msgstr "Main condition met"
+
+msgid "tooltips/questCard/footer/doneHonor"
+msgstr "Completed with distinction"
+
+msgid "tooltips/questCard/footer/inProgress"
+msgstr "In progress"
+
+msgid "tooltips/questCard/footer/inProgressHonor"
+msgstr "In progress with distinction"
+
+msgid "tooltips/questCard/footer/lock"
+msgstr "Unavailable"
+
+msgid "tooltips/questCard/footer/noTech"
+msgstr "Unavailable"
+
+msgid "tooltips/questCard/footer/pause"
+msgstr "Task on pause"
+
+msgid "tooltips/questCard/footer/previousProgress"
+msgstr "Unavailable"
+
+msgid "tooltips/questCard/footer/previousProgressAll"
+msgstr "Unavailable"
+
+msgid "tooltips/questCard/header/addCondition"
+msgstr "To be completed with distinction:"
+
+msgid "tooltips/questCard/header/condition"
+msgstr "Condition:"
+
+msgid "tooltips/questCard/header/mainCondition"
+msgstr "Main condition:"
+
+msgid "tooltips/questCard/header/switch"
+msgstr "%(questName)s"

@@ -1,0 +1,610 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-winback.winback\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "battleQuestAwards/button"
+msgstr "Yes, sir!"
+
+msgid "battleQuestAwards/showInHangar"
+msgstr "View in Hangar"
+
+msgid "battleQuestAwards/subTitle"
+msgstr "BACK IN LINE"
+
+msgid "battleQuestAwards/title/completed"
+msgstr "FINAL STAGE PASSED!"
+
+msgid "battleQuestAwards/title/inProgress"
+msgstr "STAGE %(level)s PASSED!"
+
+msgid "compensation/tooltip/footer/discount"
+msgstr ""
+"Compensation for a discount on a vehicle that is already in the Hangar."
+
+msgid "compensation/tooltip/footer/gift"
+msgstr "Compensation for a vehicle that is already in the Hangar."
+
+msgid "compensation/tooltip/header/discount"
+msgstr "Compensation for a vehicle discount"
+
+msgid "compensation/tooltip/header/gift"
+msgstr "Compensation for a vehicle"
+
+msgid "compensation/tooltip/vehicle/discount"
+msgstr "Discount on a level %(level)s vehicle"
+
+msgid "compensation/tooltip/vehicle/gift"
+msgstr "Level %(level)s vehicle"
+
+msgid "hint/text"
+msgstr "YOU CAN CHANGE BATTLE MODE\\nAT ANY TIME"
+
+msgid "leaveBattleView/confirmation/cancel"
+msgstr "Stay"
+
+msgid "leaveBattleView/confirmation/submit"
+msgstr "Run"
+
+msgid "leaveBattleView/description"
+msgstr ""
+"Your vehicle can still fight. If you leave the battle now, you will not "
+"receive rewards for participating in it. Are you sure you want to leave the "
+"battle?"
+
+msgid "leaveBattleView/title"
+msgstr "Fleeing the battlefield"
+
+msgid "leaveBattleView/warning"
+msgstr "You will not receive rewards!"
+
+msgid "progression/battleQuests/timer/completed/text"
+msgstr "Choose the appropriate rewards and claim them."
+
+msgid "progression/battleQuests/timer/completed/title"
+msgstr "All tasks completed"
+
+msgid "progression/battleQuests/timer/inProgress/text"
+msgstr "Tasks will appear in"
+
+msgid "progression/battleQuests/timer/inProgress/title"
+msgstr "All daily tasks are completed. Come back later."
+
+msgid "progression/cards/points"
+msgstr ""
+"%(whiteSpanish_Open)s%(current)s/%(whiteSpanish_Close)s%(par_Open)s%(total)s%(par_Close)s"
+
+msgid "progression/counter"
+msgstr "%(completed)s / %(total)s"
+
+msgid "progression/description"
+msgstr ""
+"Each completed standard, premium, or bonus task brings you closer to a "
+"reward."
+
+msgid "progression/header/aboutBtn/regular/label"
+msgstr "ABOUT THE EVENT"
+
+msgid "progression/header/aboutBtn/winback/label"
+msgstr "ABOUT TASKS"
+
+msgid "progression/header/closeBtn/regular/label"
+msgstr "CLOSE"
+
+msgid "progression/header/closeBtn/winback/label"
+msgstr "CLOSE"
+
+msgid "progression/subtitle/regular/inProgress"
+msgstr "By completing combat tasks, you earn progression points"
+
+msgid "progression/subtitle/winback/inProgress"
+msgstr "By completing combat tasks, you earn progression points"
+
+msgid "progression/takeRewardsBtn/countdown"
+msgstr "Available: %(leftTime)s"
+
+msgid "progression/takeRewardsBtn/title"
+msgstr "CLAIM REWARDS"
+
+msgid "progression/takeRewardsBtn/tooltip"
+msgstr "Click to select and claim rewards."
+
+msgid "progression/takeRewardsBtn/tooltipDisable"
+msgstr ""
+"Rewards are temporarily unavailable, we apologize for the inconvenience."
+
+msgid "progression/timer"
+msgstr "Tasks will refresh in"
+
+msgid "progression/title"
+msgstr "Tasks completed: %(counter)s"
+
+msgid "progression/title/regular/complete"
+msgstr "POLYGON PROGRESSION"
+
+msgid "progression/title/regular/inProgress"
+msgstr "POLYGON PROGRESSION"
+
+msgid "progression/title/winback/complete"
+msgstr "BACK IN LINE!"
+
+msgid "progression/title/winback/inProgress"
+msgstr "BACK IN LINE"
+
+msgid "progressionView/battleQuests/multiConditions"
+msgstr "%(firstCondition)s or %(secondCondition)s"
+
+msgid "progressionView/battleQuests/oneCondition"
+msgstr "%(firstCondition)s"
+
+msgid "quests/bonuses/progressionToken/regular/body"
+msgstr ""
+"Awarded for completing daily tasks in \"Polygon\" mode. Required to progress"
+" towards new rewards."
+
+msgid "quests/bonuses/progressionToken/regular/header"
+msgstr "Polygon Progression Points"
+
+msgid "quests/bonuses/progressionToken/winback/body"
+msgstr ""
+"Needed to progress through the \"Back in Line\" event, awarded for "
+"completing corresponding combat tasks."
+
+msgid "quests/bonuses/progressionToken/winback/header"
+msgstr "Back in Line Event Points"
+
+msgid "quests/tooltipHeader/regular"
+msgstr "Polygon Tasks"
+
+msgid "quests/tooltipHeader/winback"
+msgstr "Back in Line Event Tasks"
+
+msgid "selectableRewardTooltip/basic/description"
+msgstr ""
+"A researched level %(level)s vehicle of your choice is available. It comes "
+"with researched modules, a slot in the Hangar, 100% crew with learned skills"
+" \"Brothers in Arms\" and \"Repair\"."
+
+msgid "selectableRewardTooltip/basic/title"
+msgstr "Level %(level)s vehicle"
+
+msgid "selectableRewardTooltip/discount/description"
+msgstr ""
+"%(researchDiscount)s discount on research and %(purchaseDiscount)s discount "
+"on purchasing a level %(level)s vehicle. A researched vehicle is available "
+"for selection."
+
+msgid "selectableRewardTooltip/discount/footer"
+msgstr ""
+"The {whiteSpanish_Open}research{whiteSpanish_Close} discount is cumulative "
+"with the discount from existing vehicle blueprint fragments. The "
+"{whiteSpanish_Open}purchase{whiteSpanish_Close} discount applies the highest"
+" available discount."
+
+msgid "selectableRewardTooltip/discount/title"
+msgstr "Discount on a level %(level)s vehicle"
+
+msgid "serviceChannelMessages/awards/compensation/discount"
+msgstr "Discount on a %(level)s level vehicle (of your choice) with credits "
+
+msgid "serviceChannelMessages/awards/compensation/header"
+msgstr "Compensation:"
+
+msgid "serviceChannelMessages/awards/compensation/vehicle"
+msgstr "%(level)s level vehicle (of your choice) with credits "
+
+msgid "serviceChannelMessages/awards/discount"
+msgstr "Discount available on a %(level)s level vehicle of your choice"
+
+msgid "serviceChannelMessages/awards/discountConcrete"
+msgstr "%(name)s (%(expDiscount)d%% и %(creditDiscount)d%%)"
+
+msgid "serviceChannelMessages/awards/discountHeader"
+msgstr "Discount added for research and purchase: "
+
+msgid "serviceChannelMessages/awards/tankman"
+msgstr "Crew member: %(name)s (x%(count)d)"
+
+msgid "serviceChannelMessages/awards/tankman/header"
+msgstr "Added: "
+
+msgid "serviceChannelMessages/awards/vehicle"
+msgstr "%(level)s level vehicle of your choice available"
+
+msgid "serviceChannelMessages/header"
+msgstr "Congratulations!"
+
+msgid "serviceChannelMessages/progressionButton"
+msgstr "More details"
+
+msgid "serviceChannelMessages/progressionName/regular"
+msgstr "Polygon"
+
+msgid "serviceChannelMessages/progressionName/winback"
+msgstr "“Back in Action”"
+
+msgid "serviceChannelMessages/progressionStage"
+msgstr ""
+"You have completed stage %(stage)s of the %(progressionName)s progression."
+
+msgid "serviceChannelMessages/selectRewardButton"
+msgstr "Select Reward"
+
+msgid "serviceChannelMessages/selectableRewardReminder/body"
+msgstr "Choose rewards from available categories."
+
+msgid "serviceChannelMessages/selectableRewardReminder/button"
+msgstr "Select"
+
+msgid "serviceChannelMessages/selectableRewardReminder/header"
+msgstr "Rewards available"
+
+msgid "takeReward/buttonText"
+msgstr "Claim Reward"
+
+msgid "vehicleDiscountRewardTooltip/description"
+msgstr ""
+"The research discount is cumulative with the discount from existing vehicle "
+"blueprint fragments. The purchase discount applied will be the highest "
+"available."
+
+msgid "widget/tooltip/description/regular/complete"
+msgstr ""
+"Complete combat tasks to earn progression points. You will receive valuable "
+"rewards for completing each stage."
+
+msgid "widget/tooltip/description/regular/inProgress"
+msgstr ""
+"Complete combat tasks to earn progression points. You will receive valuable "
+"rewards for completing each stage."
+
+msgid "widget/tooltip/description/winback/complete"
+msgstr ""
+"You have completed all available tasks, choose suitable rewards and claim "
+"them."
+
+msgid "widget/tooltip/description/winback/inProgress"
+msgstr ""
+"Complete combat tasks to earn progression points. You will receive valuable "
+"rewards for completing each stage."
+
+msgid "widget/tooltip/disable/regular/subtitle"
+msgstr ""
+"Currently, the Polygon progression tasks are unavailable due to technical "
+"reasons. We apologize for the temporary inconvenience."
+
+msgid "widget/tooltip/disable/regular/title"
+msgstr "Unavailable"
+
+msgid "widget/tooltip/disable/winback/subtitle"
+msgstr ""
+"Currently, the “Back in Action” event tasks are unavailable due to technical"
+" reasons. We apologize for the temporary inconvenience."
+
+msgid "widget/tooltip/disable/winback/title"
+msgstr "Unavailable"
+
+msgid "widget/tooltip/progression/regular/complete"
+msgstr "Progression completed"
+
+msgid "widget/tooltip/progression/winback/complete"
+msgstr "Progression completed"
+
+msgid "widget/tooltip/regular/timer"
+msgstr "Tasks will refresh in:"
+
+msgid "widget/tooltip/title/description/regular/complete"
+msgstr "Daily tasks system in “Polygon” mode."
+
+msgid "widget/tooltip/title/description/regular/inProgress"
+msgstr "Daily tasks system in “Polygon” mode."
+
+msgid "widget/tooltip/title/description/winback/complete"
+msgstr "Special progression for a comfortable return to the game."
+
+msgid "widget/tooltip/title/description/winback/inProgress"
+msgstr "Special progression for a comfortable return to the game."
+
+msgid "widget/tooltip/title/regular/complete"
+msgstr "Progression"
+
+msgid "widget/tooltip/title/regular/inProgress"
+msgstr "Progression"
+
+msgid "widget/tooltip/title/winback/complete"
+msgstr "Welcome back to action!"
+
+msgid "widget/tooltip/title/winback/inProgress"
+msgstr "Back in Action"
+
+msgid "widget/tooltip/winback/timer"
+msgstr "Tasks will refresh in:"
+
+msgid "winbackIntro/buttonClose"
+msgstr "CLOSE"
+
+msgid "winbackIntro/buttonContinue"
+msgstr "Affirmative!"
+
+msgid "winbackIntro/cardDescription/first"
+msgstr ""
+"You have been automatically switched to “Polygon” mode: battles against AI-"
+"controlled vehicles. You can switch modes at any time."
+
+msgid "winbackIntro/cardDescription/second"
+msgstr ""
+"In “Polygon” mode, you will have access to the “Back in Action” tasks "
+"progression, completing which will earn you valuable rewards."
+
+msgid "winbackIntro/cardDescription/third"
+msgstr ""
+"As a reward, you can receive a researched VI level vehicle of your choice, "
+"discounts on researching and purchasing VII-X level vehicles, credits, crew "
+"members, and other valuable rewards."
+
+msgid "winbackIntro/cardTitle/first"
+msgstr "Polygon"
+
+msgid "winbackIntro/cardTitle/second"
+msgstr "Back in Action"
+
+msgid "winbackIntro/cardTitle/third"
+msgstr "Rewards"
+
+msgid "winbackIntro/subtitle"
+msgstr ""
+"We are glad to see you back in action! During your absence from the game, "
+"some changes have occurred, the most significant of which you can learn "
+"about in the “What's New?” section in the Field Mail."
+
+msgid "winbackIntro/title"
+msgstr "WELCOME BACK, SOLDIER!"
+
+msgid "winbackRewardView/buttons/close"
+msgstr "CLOSE"
+
+msgid "winbackRewardView/buttons/confirm"
+msgstr "Yes, sir!"
+
+msgid "winbackRewardView/buttons/selectReward"
+msgstr "Select Reward"
+
+msgid "winbackRewardView/buttons/showQuests"
+msgstr "To tasks"
+
+msgid "winbackRewardView/buttons/showVehicle"
+msgstr "View in Hangar"
+
+msgid "winbackRewardView/finalStage/regular/complete"
+msgstr "Final stage completed: progression cycle has started over."
+
+msgid "winbackRewardView/premiumPlus"
+msgstr "Tank Premium Account"
+
+msgid "winbackRewardView/secondRowTitle"
+msgstr "Also received:"
+
+msgid "winbackRewardView/selectableReward/discount"
+msgstr ""
+"%(expDiscount)s discount on research and %(priceDiscount)s discount on "
+"purchasing a %(level)s level vehicle"
+
+msgid "winbackRewardView/selectableReward/expDiscount"
+msgstr "{white_Open}%(expDiscount)s%{white_Close}"
+
+msgid "winbackRewardView/selectableReward/gift"
+msgstr "%(level)s level vehicle"
+
+msgid "winbackRewardView/selectableReward/priceDiscount"
+msgstr "{cream_Open}%(priceDiscount)s%{cream_Close}"
+
+msgid "winbackRewardView/selectableReward/reserveDiscount"
+msgstr "Discount on a %(level)s level vehicle"
+
+msgid "winbackRewardView/subtitle/regular/complete"
+msgstr "Polygon Progression"
+
+msgid "winbackRewardView/subtitle/regular/inProgress"
+msgstr "STAGE %(level)s COMPLETED!"
+
+msgid "winbackRewardView/subtitle/regularProgressionCompleted"
+msgstr "For completing the chain of daily tasks"
+
+msgid "winbackRewardView/subtitle/winback/complete"
+msgstr "CONGRATULATIONS, YOU ARE BACK IN ACTION!"
+
+msgid "winbackRewardView/subtitle/winback/inProgress"
+msgstr "STAGE %(level)s COMPLETED!"
+
+msgid "winbackRewardView/title/progressionStep"
+msgstr "REWARDS FOR TASK COMPLETION"
+
+msgid "winbackRewardView/title/regular/inProgress"
+msgstr "Polygon Progression"
+
+msgid "winbackRewardView/title/selectedRewards"
+msgstr "REWARDS RECEIVED"
+
+msgid "winbackRewardView/title/welcome"
+msgstr "WELCOME BACK, SOLDIER!"
+
+msgid "winbackRewardView/title/winback/complete"
+msgstr "FINAL STAGE COMPLETED!"
+
+msgid "winbackRewardView/title/winback/inProgress"
+msgstr "BACK IN ACTION"
+
+msgid "winbackRewardView/title/winbackProgressionCompleted"
+msgstr "PROGRESSION COMPLETED"
+
+msgid "winbackRewardView/vehicleReward/discount"
+msgstr ""
+"%(expDiscount)s discount on research and %(priceDiscount)s discount on "
+"purchasing"
+
+msgid "winbackRewardView/vehicleReward/exp/discount"
+msgstr ""
+"%(expDiscount)s discount on vehicle research and %(priceDiscount)s discount "
+"on vehicle purchase"
+
+msgid "winbackRewardView/vehicleReward/expDiscount"
+msgstr "{white_Open}%(expDiscount)s%{white_Close}"
+
+msgid "winbackRewardView/vehicleReward/price/discount"
+msgstr "%(priceDiscount)s discount on vehicle purchase"
+
+msgid "winbackRewardView/vehicleReward/priceDiscount"
+msgstr "{cream_Open}%(priceDiscount)s%{cream_Close}"
+
+msgid "winbackRewardView/vehicleReward/rent"
+msgstr "Rental days: %(days)s"
+
+msgid "winbackRewardView/vehicleReward/reserveDiscount"
+msgstr "Discount on research and purchase"
+
+msgid "winbackSelectableRewardView/bluePrintReward/value"
+msgstr "x%(value)s"
+
+msgid "winbackSelectableRewardView/buttons/cancel"
+msgstr "Select Later"
+
+msgid "winbackSelectableRewardView/buttons/close"
+msgstr "CLOSE"
+
+msgid "winbackSelectableRewardView/buttons/confirm"
+msgstr "Claim"
+
+msgid "winbackSelectableRewardView/buttons/reset"
+msgstr "Reset Filter"
+
+msgid "winbackSelectableRewardView/category/rewardsAvailabilityCounter"
+msgstr "%(rewardsSelected)s/%(rewardsAvailable)s"
+
+msgid "winbackSelectableRewardView/category/title"
+msgstr "Discount on vehicle"
+
+msgid "winbackSelectableRewardView/category/titleDiscount"
+msgstr "Vehicle %(vehicleLevel)s level"
+
+msgid "winbackSelectableRewardView/error/button"
+msgstr "Yes, sir!"
+
+msgid "winbackSelectableRewardView/error/description"
+msgstr ""
+"Information is temporarily unavailable. We apologize for the inconvenience, "
+"please try again later."
+
+msgid "winbackSelectableRewardView/error/title"
+msgstr "Failed to open reward selection window"
+
+msgid "winbackSelectableRewardView/filter/allTheVehiclesHaveBeenExplored"
+msgstr ""
+"You have researched all %(vehicleLevel)s level vehicles, as a reward you "
+"have access to national blueprint fragments."
+
+msgid "winbackSelectableRewardView/filter/placeholder"
+msgstr "Search by name"
+
+msgid "winbackSelectableRewardView/filter/searchResult"
+msgstr "%(itemsShown)s {par_Open}/ %(itemsAvailable)s{par_Close}"
+
+msgid "winbackSelectableRewardView/filter/shown"
+msgstr "Displayed:"
+
+msgid "winbackSelectableRewardView/filter/tooltip/body"
+msgstr "Click to reset filter settings to default."
+
+msgid "winbackSelectableRewardView/filter/tooltip/header"
+msgstr "Set as Default"
+
+msgid "winbackSelectableRewardView/footer/actionText/active"
+msgstr "Selected Rewards: %(amountRewards)s %(infoIcon)s"
+
+msgid "winbackSelectableRewardView/footer/actionText/disable"
+msgstr "Choose rewards from the presented categories"
+
+msgid "winbackSelectableRewardView/resetInf/text"
+msgstr "Nothing found. Change settings or reset the filter."
+
+msgid "winbackSelectableRewardView/selectedReward/tooltip/blueprint/subtitle"
+msgstr ""
+"{white_Open}x%(bluePrintsAmount)s National Blueprint Fragment{white_Close} "
+"(%(countryName)s)"
+
+msgid ""
+"winbackSelectableRewardView/selectedReward/tooltip/rewardDiscount/subtitle"
+msgstr ""
+"{white_Open}%(name)s{white_Close} (Скидка %(expDiscount)s% на исследование и"
+" %(priceDiscount)s% на покупку)"
+
+msgid ""
+"winbackSelectableRewardView/selectedReward/tooltip/rewardDiscount/title"
+msgstr "Скидка на машину %(level)s уровня"
+
+msgid ""
+"winbackSelectableRewardView/selectedReward/tooltip/rewardForGift/subtitle"
+msgstr ""
+"{white_Open}%(name)s{white_Close} исследованы все модули, есть слот в "
+"Ангаре, 100% экипаж с изученными навыками «Боевое братство» и «Ремонт»."
+
+msgid "winbackSelectableRewardView/selectedReward/tooltip/rewardForGift/title"
+msgstr "Vehicle %(level)s level"
+
+msgid "winbackSelectableRewardView/selectedReward/tooltip/rewardVehicle/crew"
+msgstr "Crew%(skills)s"
+
+msgid ""
+"winbackSelectableRewardView/selectedReward/tooltip/rewardVehicle/crew/level"
+msgstr "%(value)s%%-й экипаж%(skills)s"
+
+msgid ""
+"winbackSelectableRewardView/selectedReward/tooltip/rewardVehicle/crew/skills"
+msgstr " с изученными навыками «Боевое братство» и «Ремонт»."
+
+msgid "winbackSelectableRewardView/selectedReward/tooltip/subtitle"
+msgstr "Click \"Claim\" to receive selected rewards."
+
+msgid "winbackSelectableRewardView/selectedReward/tooltip/title"
+msgstr "Selected Rewards: %(amountRewards)s"
+
+msgid "winbackSelectableRewardView/tabs/buy"
+msgstr "Purchase"
+
+msgid "winbackSelectableRewardView/tabs/exp"
+msgstr "Research"
+
+msgid "winbackSelectableRewardView/title/regular/additionText"
+msgstr "POLYGON PROGRESSION"
+
+msgid "winbackSelectableRewardView/title/text"
+msgstr "CHOOSE A REWARD"
+
+msgid "winbackSelectableRewardView/title/winback/additionText"
+msgstr "BACK IN FORMATION"
+
+msgid "winbackSelectableRewardView/vehicleName"
+msgstr "%(type)s {cream_Open}%(level)s{cream_Close} %(name)s"
+
+msgid "winbackSelectableRewardView/vehicleType/AT-SPG"
+msgstr "TD-SPG"
+
+msgid "winbackSelectableRewardView/vehicleType/SPG"
+msgstr "SPG"
+
+msgid "winbackSelectableRewardView/vehicleType/heavyTank"
+msgstr "Heavy tank"
+
+msgid "winbackSelectableRewardView/vehicleType/lightTank"
+msgstr "Light tank"
+
+msgid "winbackSelectableRewardView/vehicleType/mediumTank"
+msgstr "Medium tank"
+
+msgid "winbackTab"
+msgstr "Back in formation"

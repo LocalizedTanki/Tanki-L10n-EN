@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-pm_announce\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "#PluralForms"
+msgstr ""
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);"
+
+msgid "newTooltip/active/footer"
+msgstr "In progress"
+
+msgid "newTooltip/active/subtitle"
+msgstr "Progress on operations:"
+
+msgid "newTooltip/completed/footer"
+msgstr "Performed excellently"
+
+msgid "newTooltip/completed/footerDescription"
+msgstr "Complete tasks with distinction to receive all campaign rewards."
+
+msgid "newTooltip/completed/subtitle"
+msgstr "Tasks completed with distinction: "
+
+msgid "newTooltip/completedPerfect/footer"
+msgstr "Completed with distinction"
+
+msgid "newTooltip/completedPerfect/footerDescription"
+msgstr "All campaign tasks completed with distinction, rewards received."
+
+msgid "newTooltip/disabled/subtitle"
+msgstr "Campaign temporarily unavailable due to technical reasons."
+
+msgid "newTooltip/divider"
+msgstr "/"
+
+msgid "newTooltip/header"
+msgstr "Campaign \"New Horizons\""
+
+msgid "newTooltip/operation"
+msgstr "Operation \"%(title)s\":"
+
+msgid "newTooltip/operations/third"
+msgstr "Projet Murat"
+
+msgid "newTooltip/rewardTitle"
+msgstr "Campaign rewards:"
+
+msgid "newTooltip/vehicles/last"
+msgstr "In development"
+
+msgid "newTooltip/vehicles/third"
+msgstr "Projet Murat"
+
+msgid "oldTooltip/collectVehicle"
+msgstr "Vehicle received"
+
+msgid "oldTooltip/complete"
+msgstr "In progress"
+
+msgid "oldTooltip/completed/body"
+msgstr "Complete tasks with distinction to receive all campaign rewards."
+
+msgid "oldTooltip/completed/header"
+msgstr "Performed excellently"
+
+msgid "oldTooltip/completedPerfect/body"
+msgstr "All campaign tasks completed with distinction, rewards received."
+
+msgid "oldTooltip/completedPerfect/header"
+msgstr "Completed with distinction"
+
+msgid "oldTooltip/disabled/subtitle"
+msgstr "Campaigns temporarily unavailable due to technical reasons."
+
+msgid "oldTooltip/divider"
+msgstr "/"
+
+msgid "oldTooltip/header"
+msgstr "Campaigns \"Long-awaited Reinforcement\" and \"Second Front\""
+
+msgid "oldTooltip/operation"
+msgstr "Operation \"%(title)s\":"
+
+msgid "oldTooltip/rewardTitle"
+msgstr "Campaign rewards:"
+
+msgid "oldTooltip/subtitle"
+msgstr "Progress on operations:"
+
+msgid "oldTooltip/subtitlePerfect"
+msgstr "Tasks completed with distinction:"

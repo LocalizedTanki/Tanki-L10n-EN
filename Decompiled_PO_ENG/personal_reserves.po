@@ -1,0 +1,275 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-personal_reserves\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "activation/ActivateConfirm"
+msgstr "Activate"
+
+msgid "activation/BuyAndActivateConfirm"
+msgstr "Purchase and Activate"
+
+msgid "activation/activateBonus"
+msgstr "Activate Reserve: %(bonusDescription)s"
+
+msgid "activation/activateButton"
+msgstr "Activate Reserve"
+
+msgid "activation/activateButtonClan"
+msgstr "To Stronghold"
+
+msgid "activation/battleXPDescription"
+msgstr "Bonus to Combat XP for 1 h"
+
+msgid "activation/battleXPTitle"
+msgstr "Combat XP"
+
+msgid "activation/bonus"
+msgstr "+%(bonus)%"
+
+msgid "activation/buyAndActivateBoosterTitle"
+msgstr ""
+"Purchase and activate the Improved Personal Reserve that provides "
+"%(boosterBonus)s to %(boosterTerm)s?"
+
+msgid "activation/buyGoldConfirm"
+msgstr "Purchase Gold"
+
+msgid "activation/buyGoldTitle"
+msgstr ""
+"Purchase gold required for the Improved Personal Reserve that provides "
+"%(boosterBonus)s to %(boosterTerm)s?"
+
+msgid "activation/buyGoldWarning"
+msgstr ""
+"{orange_Open}Gold required to purchase the Improved Personal "
+"Reserve:{orange_Close}"
+
+msgid "activation/clanBoostersDescription"
+msgstr "Credits and Combat XP"
+
+msgid "activation/clanBoostersDescriptionCrewAndFree"
+msgstr "Crew XP and Free XP"
+
+msgid "activation/clanBoostersTitle"
+msgstr "Clan Reserves"
+
+msgid "activation/clanLeaderActivateBonus"
+msgstr "Activate Reserve in Stronghold"
+
+msgid "activation/clanMemberViewBonus"
+msgstr "View in Stronghold"
+
+msgid "activation/comboXPDescription"
+msgstr "Bonus to Free and Crew XP for 1 h"
+
+msgid "activation/comboXPTitle"
+msgstr "Free & Crew XP"
+
+msgid "activation/creditsDescription"
+msgstr "Bonus to credits for 1 h"
+
+msgid "activation/creditsTitle"
+msgstr "Credits"
+
+msgid "activation/frontLineXPDescription"
+msgstr "Bonus to Frontline XP for 1 h"
+
+msgid "activation/frontLineXPTitle"
+msgstr "Frontline XP"
+
+msgid "activation/informationButton"
+msgstr "INFORMATION"
+
+msgid "activation/onlyOnceHint"
+msgstr "Choose a bonus"
+
+msgid "activation/price"
+msgstr "Price:"
+
+msgid "activation/subTitle/main"
+msgstr ""
+"Activate {whiteSpanish_Open}up to 3 Personal Reserves{whiteSpanish_Close} to"
+" earn more credits and experience in battles. Purchase more Personal "
+"Reserves in the %(store)s."
+
+msgid "activation/subTitle/store"
+msgstr "Store"
+
+msgid "activation/terms/booster_credits"
+msgstr "credits"
+
+msgid "activation/terms/booster_fl_xp"
+msgstr "Frontline XP"
+
+msgid "activation/terms/booster_free_xp_and_crew_xp"
+msgstr "Free & Crew XP"
+
+msgid "activation/terms/booster_xp"
+msgstr "Combat XP"
+
+msgid "activation/title"
+msgstr "PERSONAL RESERVES"
+
+msgid "activation/upgradeBoosterDescription"
+msgstr ""
+"{yellow_Open}The activated Standard Personal Reserve that provides "
+"%(previousBoosterBonus)s to %(previousBoosterTerm)s will be "
+"lost.{yellow_Close}"
+
+msgid "activation/upgradeBoosterTitle"
+msgstr ""
+"Do you want to activate the Improved Personal Reserve that provides "
+"%(boosterBonus)s to %(boosterTerm)s instead of the activated Standard "
+"Personal Reserve?"
+
+msgid "battleView/notice"
+msgstr ""
+"Personal Reserves can be activated at any time in battle. You will receive "
+"the bonus even if the Reserve expires during battle."
+
+msgid "battleView/title"
+msgstr "Personal Reserves Activation"
+
+msgid "booster/useby/timeLeft/days"
+msgstr "%(d)s days"
+
+msgid "booster/useby/timeLeft/hours"
+msgstr "%(d)s hours"
+
+msgid "booster/useby/timeLeft/minutes"
+msgstr "%(d)s minutes"
+
+msgid "conversionView/battleXPSubtitle"
+msgstr "Battle Experience Conversion"
+
+msgid "conversionView/battleXPTitle"
+msgstr "Battle Experience"
+
+msgid "conversionView/boosterDescription"
+msgstr "%(value)s for %(effectTime)s"
+
+msgid "conversionView/creditsSubtitle"
+msgstr "Credit Conversion"
+
+msgid "conversionView/creditsTitle"
+msgstr "Credits"
+
+msgid "conversionView/crewAndFreeXPSubtitle"
+msgstr "Crew Experience and Free Experience Conversion"
+
+msgid "conversionView/crewFreeXPTitle"
+msgstr "Combined Experience"
+
+msgid "conversionView/crewXPSubtitle"
+msgstr "Crew Experience Conversion"
+
+msgid "conversionView/freeXPSubtitle"
+msgstr "Free Experience Conversion"
+
+msgid "conversionView/mainDescription"
+msgstr ""
+"Your previous personal reserves have been converted into new ones. The "
+"duration of all new personal reserves is 1 hour. Here you can find out more "
+"details about the conversion."
+
+msgid "conversionView/mainTitle"
+msgstr "CONVERSION"
+
+msgid "conversionView/noConversion"
+msgstr "You have no personal reserves to convert"
+
+msgid "depot/buyButton"
+msgstr "To Purchase"
+
+msgid "disabledReserveTooltip/text"
+msgstr "Another Reserve of this type is already activated."
+
+msgid "finishedReserveTooltip/text"
+msgstr ""
+"This Personal Reserve expired during the battle. The bonus from the Personal"
+" Reserve still applies to this battle."
+
+msgid "hangarEntry/minute"
+msgstr "%(minutesLeft)min"
+
+msgid "hangarEntry/onlyOnceHint"
+msgstr "ACTIVATION OF PERSONAL RESERVES"
+
+msgid "hangarEntryTooltip/bonus"
+msgstr "+%(bonus)%"
+
+msgid "hangarEntryTooltip/tooltipDisabled"
+msgstr "Activated Personal Reserves do not apply in this mode."
+
+msgid "intro/buttons/close"
+msgstr "Affirmative!"
+
+msgid "intro/buttons/conversionInfo"
+msgstr "About Conversion"
+
+msgid "intro/pages/description1"
+msgstr ""
+"Activate personal reserves right in the Garage. Now you can activate all "
+"three types of reserves simultaneously. Bonuses to free experience and crew "
+"experience have been combined into one, which provides a bonus to both free "
+"experience and crew experience per battle."
+
+msgid "intro/pages/description2"
+msgstr ""
+"Improved personal reserves provide an increased bonus to credits and "
+"experience per battle. You can purchase them for gold."
+
+msgid "intro/pages/description3"
+msgstr ""
+"Available for activation for a certain period of time. After this period, personal reserves will be deducted from your account.\n"
+"{yellow_Open}Standard reserves cannot be activated during this period.{yellow_Close}"
+
+msgid "intro/pages/description4"
+msgstr ""
+"Press the TAB or B key to activate personal reserves in battle.\n"
+"{yellow_Open}If a personal reserve expires during battle, you will receive a bonus from that reserve for the resources earned in that battle.{yellow_Close}"
+
+msgid "intro/pages/description5"
+msgstr ""
+"Within the new system, all your previous personal reserves have been "
+"converted into new ones. They come in two types: standard and improved, with"
+" a duration of 1 hour. Personal reserves with bonuses to free experience and"
+" crew experience have been combined into one type, which provides a bonus to"
+" both free experience and crew experience per battle."
+
+msgid "intro/pages/title1"
+msgstr "THREE TYPES OF PERSONAL RESERVES"
+
+msgid "intro/pages/title2"
+msgstr "LARGER BONUS"
+
+msgid "intro/pages/title3"
+msgstr "PERSONAL RESERVES WITH LIMITED ACTIVATION PERIOD"
+
+msgid "intro/pages/title4"
+msgstr "ACTIVATION DURING BATTLE"
+
+msgid "intro/pages/title5"
+msgstr "CONVERSION"
+
+msgid "intro/title"
+msgstr "EXPIRABLE PERSONAL RESERVES"
+
+msgid "noPaidReserveTooltip/text"
+msgstr ""
+"No Personal Reserves of this type in the Depot. You can purchase them later "
+"or activate them in the Garage."
+
+msgid "noReserveTooltip/infoText"
+msgstr ""
+"Complete missions and participate in game events to earn Personal Reserves."
+
+msgid "noReserveTooltip/text"
+msgstr "No Personal Reserves of this type in the Depot."

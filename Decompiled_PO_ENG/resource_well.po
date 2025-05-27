@@ -1,0 +1,423 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-resource_well\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "awardView/end"
+msgstr "Event completed"
+
+msgid "awardView/info"
+msgstr "Style number"
+
+msgid "awardView/toHangar"
+msgstr "View in Hangar"
+
+msgid "awardView/vehicleNumberTitle"
+msgstr "%(vehicleInfo) С НОМЕРНЫМ СТИЛЕМ"
+
+msgid "awardView/vehicleNumberedTitle"
+msgstr "VEHICLE RECEIVED"
+
+msgid "awardView/vehicleTitle"
+msgstr "VEHICLE RECEIVED"
+
+msgid "commonTexts/aboutButton"
+msgstr "About the event"
+
+msgid "commonTexts/closeBtn"
+msgstr "Close"
+
+msgid "commonTexts/eventTitle"
+msgstr "Design Bureau"
+
+msgid "confirm/NoSerialVehicles/buttonCancel/title"
+msgstr "Cancel"
+
+msgid "confirm/NoSerialVehicles/buttonConfirm/title"
+msgstr ""
+"Vehicles with numbered style are out, you will receive %(vehicleName)s without a number.\n"
+"Still want to invest resources?"
+
+msgid "confirm/NoSerialVehicles/description"
+msgstr "You will receive %(vehicleName)s without a number"
+
+msgid "confirm/NoSerialVehicles/title"
+msgstr "Return to Hangar"
+
+msgid "confirm/NoVehicles/buttonCancel/title"
+msgstr "Invested resources will soon be returned to your account."
+
+msgid "confirm/NoVehicles/description"
+msgstr "Unfortunately, vehicles are out of stock"
+
+msgid "confirm/NoVehicles/title"
+msgstr "Cancel"
+
+msgid "confirm/buttonCancel/title"
+msgstr "Invest"
+
+msgid "confirm/resourcesContribute/buttonConfirm/title"
+msgstr "Progress after investment: %(percent)"
+
+msgid "confirm/resourcesContribute/description/text"
+msgstr "Invest resources?"
+
+msgid "confirm/resourcesContribute/title"
+msgstr "Return resources"
+
+msgid "confirm/resourcesReturn/buttonConfirm/title"
+msgstr ""
+"All invested resources will be returned to your account, and the assembly "
+"progress will be reset. While the event is active, you can reinvest "
+"resources to receive the vehicle."
+
+msgid "confirm/resourcesReturn/description/text"
+msgstr "Return all invested resources?"
+
+msgid "confirm/resourcesReturn/title"
+msgstr ""
+"The first %(styleTanksCount) players will receive a vehicle with a 3D-style number,\n"
+"then %(withoutStyleTanksCount) vehicles without a 3D-style number will be shipped."
+
+msgid "eventInfo/description"
+msgstr "OUT OF STOCK"
+
+msgid "eventInfo/tanksOver"
+msgstr "With number"
+
+msgid "eventInfo/top/styleText"
+msgstr "Vehicles with number left"
+
+msgid "eventInfo/top/tanksLeftText"
+msgstr ""
+"Shipment of %(regularRewardVehiclesCount) vehicles in standard configuration"
+" will start after the numbered vehicles are out of stock."
+
+msgid "eventInfo/withoutStyle/blocked/textInfo"
+msgstr "In standard configuration"
+
+msgid "eventInfo/withoutStyle/styleText"
+msgstr "Vehicles left"
+
+msgid "eventInfo/withoutStyle/tanksLeftText"
+msgstr "Affirmative!"
+
+msgid "introView/button"
+msgstr "MORE ABOUT THE BUREAU"
+
+msgid "introView/buttonVideo"
+msgstr ""
+"To create a vehicle instance, collect and invest 100% of the required "
+"resources. The ratio of different types of resources can be changed."
+
+msgid "introView/resDescription"
+msgstr "Collect resources"
+
+msgid "introView/resTitle"
+msgstr ""
+"The first %(topPlayers) players who collect 100% of the resources will "
+"receive a tank with a unique 3D-style number, then %(basePlayers) more "
+"vehicles without a number will be shipped."
+
+msgid "introView/vehDescription"
+msgstr "Receive %(vehicleInfo) with a unique number"
+
+msgid "introView/vehTitle"
+msgstr "Return resources"
+
+msgid "mainView/footer/activeState/buttonReturn/text"
+msgstr "Resources collected:"
+
+msgid "mainView/footer/activeState/progression/smallTitle/text"
+msgstr "Return to Hangar"
+
+msgid "mainView/footer/backToHangar/button/text"
+msgstr "Select resources"
+
+msgid "mainView/footer/buttonChoose/text"
+msgstr "If vehicles run out, all invested resources will be returned."
+
+msgid "mainView/footer/description/text"
+msgstr "Your account type is not eligible to participate in the event."
+
+msgid "mainView/footer/forbidden/subTitle"
+msgstr "You cannot participate"
+
+msgid "mainView/footer/forbidden/title"
+msgstr ""
+"Hurry up to invest the resources needed for assembly and receive "
+"%(vehicleName)!"
+
+msgid "mainView/footer/noProgress/title"
+msgstr "Invested resources will soon be returned to your account."
+
+msgid "mainView/footer/noVehicles/subTitle"
+msgstr "Unfortunately, vehicles are out of stock"
+
+msgid "mainView/footer/noVehicles/title"
+msgstr "In Hangar"
+
+msgid "mainView/paused/button"
+msgstr "Temporarily unavailable"
+
+msgid "mainView/paused/header"
+msgstr ""
+"Design Bureau is temporarily unavailable due to technical reasons.\n"
+"All progress is saved. We apologize for the inconvenience."
+
+msgid "mainView/paused/text"
+msgstr "Preview"
+
+msgid "mainView/preview/label"
+msgstr "Until"
+
+msgid "mainView/timer/dayEnd"
+msgstr "%(day)s %(month)s %(time)s"
+
+msgid "mainView/timer/lastUntil"
+msgstr "До"
+
+msgid "mainView/timer/leftTime"
+msgstr ""
+"Remaining|||Close|||Invest resources|||Data temporarily unavailable "
+"%(icon)s|||Vehicles out of stock|||%(days)s d|||Remaining vehicles with "
+"number: %(counter)d|||Remaining vehicles: %(counter)d|||Universal|||Maximum "
+"reached %(iconMax)|||Maximum %(maxValue)d %(iconInfo)|||Resources collected "
+"%(iconLoaded)|||Blueprint fragments|||Currency|||Premium account "
+"days|||RESOURCE COLLECTION|||You can view and return invested resources to "
+"your account at any time by clicking the %(buttonName)s button. The assembly"
+" progress will be reset, but you can reinvest these or other resources to "
+"get a vehicle.|||Return resources|||\"Return resources\"|||Data temporarily "
+"unavailable. We are already working on the issue.|||The number is displayed "
+"with a delay and may differ from the actual number of vehicles.|||This "
+"account type is not eligible for the event.|||Design Bureau|||Vehicles "
+"without numbers|||Participate in the event, invest resources, and receive "
+"%(vehicleName) %(uniqVehicleText). The number of vehicles is limited.|||with"
+" a 3D-style number|||Event temporarily unavailable|||Remaining "
+"vehicles|||Vehicle received!|||Lasts until:|||Remaining:|||Event will "
+"start|||Remaining vehicles with number|||Vehicle with number "
+"received!|||Remaining %(leftTime)s|||To assemble a vehicle instance, invest "
+"100% of the required resources. The ratio of different types of resources "
+"can be adjusted.|||If vehicles run out, all invested resources will be "
+"returned.|||Selected|||Invested|||Resource collection|||The limit of "
+"investable resources has been exceeded. The difference will be returned "
+"within some time.|||Limit exceeded|||Investing resources is temporarily "
+"unavailable, please try again later.|||Universal and national blueprint "
+"fragments.|||Blueprint fragments|||Accumulated for active actions in battle."
+" Also available for purchase with real money.|||Currency|||Tank Premium "
+"account days.|||Premium account days|||Invested:"
+
+msgid "resourcesLoadingView/buttons/close"
+msgstr "Закрыть"
+
+msgid "resourcesLoadingView/buttons/load"
+msgstr "Вложить ресурсы"
+
+msgid "resourcesLoadingView/counter/current"
+msgstr "%(current)d%"
+
+msgid "resourcesLoadingView/counter/currentWithDelta"
+msgstr "%(current)d %(delta)d"
+
+msgid "resourcesLoadingView/counter/delta"
+msgstr "+%(delta)d%"
+
+msgid "resourcesLoadingView/noVehicleData"
+msgstr "Данные временно недоступны %(icon)s"
+
+msgid "resourcesLoadingView/noVehiclesRemains"
+msgstr "Машины закончились"
+
+msgid "resourcesLoadingView/premium"
+msgstr "%(days)s д"
+
+msgid "resourcesLoadingView/remainTopVehicles"
+msgstr "Осталось машин с номером: %(counter)d"
+
+msgid "resourcesLoadingView/remainVehicles"
+msgstr "Осталось машин:%(counter)d"
+
+msgid "resourcesLoadingView/resourceCard/intelligenceBlueprints"
+msgstr "Универсальные"
+
+msgid "resourcesLoadingView/resourceRate/maxReachedText"
+msgstr "Достигнут максимум %(iconMax)"
+
+msgid "resourcesLoadingView/resourceRate/maxText"
+msgstr "Максимум %(maxValue)d %(iconInfo)"
+
+msgid "resourcesLoadingView/resourceRate/minValue"
+msgstr "%(minValue)d%"
+
+msgid "resourcesLoadingView/resourceRate/resourceLoadedText"
+msgstr "Ресурсы собраны %(iconLoaded)"
+
+msgid "resourcesLoadingView/resourceRate/text"
+msgstr "%(icon)%(rate)d %(equals) %(minValue)"
+
+msgid "resourcesLoadingView/resourcesHeader/blueprints"
+msgstr "Фрагменты чертежей"
+
+msgid "resourcesLoadingView/resourcesHeader/currency"
+msgstr "Валюты"
+
+msgid "resourcesLoadingView/resourcesHeader/premiums"
+msgstr "Дни премиум аккаунта"
+
+msgid "resourcesLoadingView/subtitle"
+msgstr "СБОР РЕСУРСОВ"
+
+msgid "tooltips/button/returnResources/description/text"
+msgstr ""
+"Вложенные ресурсы в любой момент можно просмотреть и при необходимости вернуть на ваш аккаунт, нажав кнопку %(buttonName)s.\n"
+"Прогресс сборки при этом обнулится, однако вы сможете заново вложить эти или другие ресурсы для получения машины."
+
+msgid "tooltips/button/returnResources/header/text"
+msgstr "Возврат ресурсов"
+
+msgid "tooltips/button/returnResources/title/text"
+msgstr "«Вернуть ресурсы»"
+
+msgid "tooltips/counter/error/text"
+msgstr ""
+"Данные временно недоступны.\n"
+"Мы уже решаем проблему."
+
+msgid "tooltips/counter/warning/text"
+msgstr ""
+"Число отображается с задержкой и может отличаться от фактического количества"
+" машин."
+
+msgid "tooltips/entryPoint/forbidden/text"
+msgstr "Данный тип аккаунта не может участвовать в событии."
+
+msgid "tooltips/entryPoint/mainTitle/text"
+msgstr "Конструкторское Бюро"
+
+msgid "tooltips/entryPoint/noRewards/text"
+msgstr "Машины без номера"
+
+msgid "tooltips/entryPoint/notStartedEvent/text"
+msgstr ""
+"Участвуйте в событии, вкладывайте ресурсы и получите %(vehicleName) "
+"%(uniqVehicleText). Количество машин ограничено."
+
+msgid "tooltips/entryPoint/notStartedEvent/vehicleString/text"
+msgstr "с номерным 3D-стилем"
+
+msgid "tooltips/entryPoint/paused/text"
+msgstr "Событие временно недоступно"
+
+msgid "tooltips/entryPoint/regularAvailable/text"
+msgstr "Осталось машин"
+
+msgid "tooltips/entryPoint/regularReceived/text"
+msgstr "Машина получена!"
+
+msgid "tooltips/entryPoint/timer/lastUntil"
+msgstr "Продлится до:"
+
+msgid "tooltips/entryPoint/timer/leftTime"
+msgstr "Осталось:"
+
+msgid "tooltips/entryPoint/timer/timeToStart"
+msgstr "Событие начнётся"
+
+msgid "tooltips/entryPoint/topAvailable/text"
+msgstr "Осталось машин с номером"
+
+msgid "tooltips/entryPoint/topReceived/text"
+msgstr "Машина с номером получена!"
+
+msgid "tooltips/mainView/timer/leftTime"
+msgstr "Осталось %(leftTime)s"
+
+msgid "tooltips/progressbar/description"
+msgstr ""
+"Для сборки экземпляра машины вложите 100% необходимых ресурсов. Соотношение "
+"разных видов ресурсов можно изменять."
+
+msgid "tooltips/progressbar/moreInfo"
+msgstr "Если машины закончатся, все вложенные ресурсы будут возвращены."
+
+msgid "tooltips/progressbar/resourcesChosen/label"
+msgstr "Выбрано"
+
+msgid "tooltips/progressbar/resourcesLoaded/label"
+msgstr "Вложено"
+
+msgid "tooltips/progressbar/title"
+msgstr "Сбор ресурсов"
+
+msgid "tooltips/resourcesLoadingView/alert/body"
+msgstr ""
+"Превышен лимит вкладываемых ресурсов. Разница будет возвращена в течение "
+"некоторого времени."
+
+msgid "tooltips/resourcesLoadingView/alert/header"
+msgstr "Превышение лимита"
+
+msgid "tooltips/resourcesLoadingView/buttonDisabled/body"
+msgstr "Вложить ресурсы временно невозможно, попробуйте позже."
+
+msgid "tooltips/resourcesLoadingView/header/blueprints_description"
+msgstr "Универсальные и национальные фрагменты чертежей."
+
+msgid "tooltips/resourcesLoadingView/header/blueprints_title"
+msgstr "Фрагменты чертежей"
+
+msgid "tooltips/resourcesLoadingView/header/currency_description"
+msgstr ""
+"Начисляются за активные действия в бою. Также приобретаются за реальные "
+"деньги."
+
+msgid "tooltips/resourcesLoadingView/header/currency_title"
+msgstr "Валюты"
+
+msgid "tooltips/resourcesLoadingView/header/premiums_description"
+msgstr "Дни Танкового премиум аккаунта."
+
+msgid "tooltips/resourcesLoadingView/header/premiums_title"
+msgstr "Дни премиум аккаунта"
+
+msgid "tooltips/resourcesLoadingView/limitCounter/amount"
+msgstr "%(icon)s %(amount)d / %(maxAmount)d"
+
+msgid "tooltips/resourcesLoadingView/limitCounter/body"
+msgstr "Вложено:"
+
+msgid "tooltips/resourcesLoadingView/limitCounter/header"
+msgstr "Maximum amount of this resource for investment - %(maxAmount)d units"
+
+msgid "tooltips/resourcesLoadingView/resourcesLoaded/body"
+msgstr ""
+"The required amount of resources has been collected to obtain the vehicle. "
+"You can decline one type of resource to choose another."
+
+msgid "tooltips/resourcesLoadingView/resourcesLoaded/header"
+msgstr "Resources collected"
+
+msgid "tooltips/uniq_style/description/firstPart"
+msgstr ""
+"This is a unique instance of the vehicle with its own number and special "
+"visual modification."
+
+msgid "tooltips/uniq_style/description/secondPart"
+msgstr ""
+"The number is located on both sides of the barrel and on the rear part of "
+"the body. Numbers on identical vehicles never repeat, and their quantity is "
+"limited."
+
+msgid "tooltips/uniq_style/moreInfo"
+msgstr ""
+"Distinctive features of the vehicle can be hidden. To do this, remove the "
+"3D-style number from the external view screen."
+
+msgid "tooltips/uniq_style/title"
+msgstr "Vehicle with number"

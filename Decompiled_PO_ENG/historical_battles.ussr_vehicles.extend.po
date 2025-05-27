@@ -1,0 +1,224 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tanki-L10n-historical_battles.ussr_vehicles.extend\n"
+"Last-Translator: LocalizedTanki <localizedtanki@outlook.com>\n"
+"Language-Team: LocalizedTanki\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-20_SE22_Player_LT2__0_hb"
+msgstr "A-20"
+
+msgid "A-20_descr_SE22_Player_LT2__0_hb"
+msgstr ""
+"In December 1937, the development of the A-20 tank was started at the "
+"Kharkov Plant No. 138. This project was a further development of the BT-7 "
+"tank and became the predecessor of the legendary T-34. The work on this "
+"machine was led by Mikhail Koshkin. On May 18, 1938, the technical "
+"specifications for the tank under the index BT-20 were approved. A small "
+"number of specimens of this version (with a wheeled-caterpillar suspension) "
+"were built for training purposes."
+
+msgid "A-20_mod_1938_SE22_Player_LT2__0_hb"
+msgstr "A-20 model 1938"
+
+msgid "A-20_mod_1941_SE22_Player_LT2__0_hb"
+msgstr "A-20 model 1940"
+
+msgid "Chassis_KV1_2_SE22_Player_HT2_hb"
+msgstr "KV-1 model 1941"
+
+msgid "Chassis_KV1_2_SE22_Player_HT3_hb"
+msgstr "KV-1 model 1941"
+
+msgid "Chassis_R185_T_34_L_11_1941_SE22_Player_MT1_hb"
+msgstr "T-34 model 1941"
+
+msgid "Chassis_T-50_2_SE22_Player_LT3_hb"
+msgstr "T-50M"
+
+msgid "KRSTB_SE22_Player_LT3_hb"
+msgstr "KRSTB"
+
+msgid "KV1_SE22_Player_HT2_hb"
+msgstr "KV-1"
+
+msgid "KV1_SE22_Player_HT3_hb"
+msgstr "KV-1"
+
+msgid "KV1_descr_SE22_Player_HT2_hb"
+msgstr ""
+"The development started at the end of 1938. The prototype was released in "
+"August 1939. It was first used in December 1939 during the battles on the "
+"Mannerheim Line. It was serially produced from March 1940 to August 1942. A "
+"total of 2769 machines of this type were produced."
+
+msgid "KV1_descr_SE22_Player_HT3_hb"
+msgstr ""
+"The development started at the end of 1938. The prototype was released in "
+"August 1939. It was first used in December 1939 during the battles on the "
+"Mannerheim Line. It was serially produced from March 1940 to August 1942. A "
+"total of 2769 machines of this type were produced."
+
+msgid "M-17F_hb"
+msgstr "M-17T"
+
+msgid "R185_T_34_L_11_1941_SE22_Player_MT1_hb"
+msgstr "T-34 with L-11"
+
+msgid "R185_T_34_L_11_1941_descr_SE22_Player_MT1_hb"
+msgstr ""
+"Developed by the design bureau of the Kharkov Plant No. 183 under the "
+"leadership of Mikhail Koshkin. When creating the machine, the designers "
+"managed to achieve an optimal combination of the main combat characteristics"
+" - firepower, protection, and mobility. The T-34 was armed with a powerful "
+"long-barreled 76mm gun L-11 (1938-1939 model), had anti-projectile armor "
+"protection, and had good mobility. In terms of combat characteristics, it "
+"surpassed all similar foreign tanks of the early period of World War II. The"
+" T-34 tank subsequently had a huge influence on the development of Soviet "
+"and global tank building."
+
+msgid "R185_T_34_L_11_1941_short_SE22_Player_MT1_hb"
+msgstr "T-34 1941"
+
+msgid "SU-8Bis_hb"
+msgstr "SU-8 BIS"
+
+msgid "SU-8_descr_hb"
+msgstr ""
+"Developed in 1934-1935 in Leningrad at the Experimental Plant of the Special"
+" Machinery Trust named after S.M. Kirov. Variants with front and rear combat"
+" compartment arrangements were considered. It was not in service and was not"
+" serially produced."
+
+msgid "SU-8_hb"
+msgstr "SU-8"
+
+msgid "T-34_SE22_Player_MT2_hb"
+msgstr "T-34"
+
+msgid "T-34_descr_SE22_Player_MT2_hb"
+msgstr ""
+"A legend of the Soviet armored forces. The most mass-produced Soviet tank of"
+" World War II. From 1940 to 1944, 33,805 machines of three modifications "
+"were manufactured at various plants in the USSR."
+
+msgid "T-34_mod_1940_SE22_Player_MT2_hb"
+msgstr "T-34 model 1940"
+
+msgid "T-34_mod_1943_SE22_Player_MT2_hb"
+msgstr "T-34 model 1943"
+
+msgid "T-34_mod_1943_short_SE22_Player_MT2_hb"
+msgstr "T-34 model 1943"
+
+msgid "T-50_SE22_Player_LT3_hb"
+msgstr "T-50"
+
+msgid "T-50_descr_SE22_Player_LT3_hb"
+msgstr ""
+"Developed in the early 1940s to replace the outdated T-26, but due to the "
+"war and complex production technology, it did not receive wide distribution."
+" A total of 75 machines of various modifications were produced."
+
+msgid "T-50_short_SE22_Player_LT3_hb"
+msgstr "T-50"
+
+msgid "Turret_1_KV1_SE22_Player_HT2_hb"
+msgstr "KV-1 LKZ model 1941"
+
+msgid "Turret_1_KV1_short_SE22_Player_HT2_hb"
+msgstr "KV-1 LKZ"
+
+msgid "Turret_1_R185_T_34_L_11_1941_SE22_Player_MT1_hb"
+msgstr "T-34 model 1941"
+
+msgid "Turret_1_T-50_SE22_Player_LT3_hb"
+msgstr "T-50"
+
+msgid "Turret_2_KV1_SE22_Player_HT3_hb"
+msgstr "KV-1 CHTZ model 1942"
+
+msgid "Turret_2_KV1_short_SE22_Player_HT3_hb"
+msgstr "KV-1 CHTZ"
+
+msgid "V-2-34_SE22_Player_LT2__0_hb"
+msgstr "V-2-34"
+
+msgid "V-2-34_SE22_Player_MT2_hb"
+msgstr "V-2-34"
+
+msgid "V-2K_SE22_Player_HT2_hb"
+msgstr "V-2K"
+
+msgid "V-2K_SE22_Player_HT3_hb"
+msgstr "V-2K"
+
+msgid "V-2_SE22_Player_MT1_hb"
+msgstr "V-2"
+
+msgid "V-4M_SE22_Player_LT3_hb"
+msgstr "V-4M"
+
+msgid "_10RK_SE22_Player_HT2_hb"
+msgstr "10RK"
+
+msgid "_10RK_SE22_Player_HT3_hb"
+msgstr "10RK"
+
+msgid "_10R_SE22_Player_MT1_hb"
+msgstr "10R"
+
+msgid "_12LL_SE22_Player_LT2__0_hb"
+msgstr "12LL"
+
+msgid "_12RT_hb"
+msgstr "12RT"
+
+msgid "_152mm_53-OF-531_hb"
+msgstr "53-OF-531"
+
+msgid "_152mm_howitzer_ML-20_mod_1931_hb"
+msgstr "152mm Howitzer ML-20 model 1931"
+
+msgid "_45mm_20K_SE22_Player_LT2__0_hb"
+msgstr "45mm 20K"
+
+msgid "_45mm_UBR-240A_SE22_Player_LT2_hb"
+msgstr "UBR-240A"
+
+msgid "_45mm_UBR-243SPU_SE22_Player_LT3_hb"
+msgstr "UBR-243SPU"
+
+msgid "_45mm_VT-43M_SE22_Player_LT3_hb"
+msgstr "45mm VT-43M"
+
+msgid "_76mm_BR_350A_1_SE22_Player_MT1_hb"
+msgstr "Ш-354Т"
+
+msgid "_76mm_F-34_SE22_Player_MT2_hb"
+msgstr "76 mm F-34"
+
+msgid "_76mm_L-11_SE22_Player_MT1_hb"
+msgstr "76 mm L-11"
+
+msgid "_76mm_UBR-354A_SE22_Player_HT2_hb"
+msgstr "UBR-354A"
+
+msgid "_76mm_UBR-354A_SE22_Player_MT2_hb"
+msgstr "UBR-354A"
+
+msgid "_76mm_ZiS-5_SE22_Player_HT2_hb"
+msgstr "76 mm ZiS-5"
+
+msgid "_85mm_F-30_SE22_Player_HT3_hb"
+msgstr "85 mm F-30"
+
+msgid "_85mm_UBR-365K_SE22_Player_HT3_hb"
+msgstr "UBR-365K"
+
+msgid "_9RM_SE22_Player_MT2_hb"
+msgstr "9RM"
