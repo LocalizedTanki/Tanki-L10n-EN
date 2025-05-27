@@ -58,7 +58,7 @@ A utility to merge English and Russian `.po` files efficiently.
 
 ## Contributing
 
-Contributions are welcome! Open a pull request if you wanna contribute.
+Contributions are welcome! Open a pull request if you wanna contribute. You can edit .po files which have wrong translations.
 
 ---
 
