@@ -18,33 +18,24 @@ This repository contains:
 
 ---
 
-## Tools Included
+## External Tools
 
-### 1. `merge_po.py` (Python)
-A tool to merge updated Russian `.po` files with the current English translation, preserving all existing English translations and adding any new Russian entries.
-
-**Usage:**
-```bash
-python merger.po
-```
+### 🔗 [PO_AI_Translate](https://github.com/GtafanWRLD/PO_AI_Translate)
+A Python-based tool uses OpenAI's GPT-3.5 API to automatically translate `.po` files to other languages.
 
 **Features:**
-- Preserves all existing English translations
-- Adds new English `.po` strings to alrady existing Russian `.po` to reduce amount of translation needed
+- Skips strings already in English or empty
+- Preserves placeholders and formatting (`\n`, `%d`, `{0}`, etc.)
+- Parallel batch processing for faster translation
 
-### 2. `po_translator_gpt3.5` (Python)
-Uses chat GPT 3.5 Turbo to translate Russian exclusively lines. Program will ignore English lines itself
+---
 
-**Usage:**
-```bash
-python po_translator_gpt3.5
-```
+### 🔗 [PO_En_Ru_Merger](https://github.com/GtafanWRLD/PO_En_Ru_Merger)
+A utility to merge English and Russian `.po` files efficiently.
 
 **Features:**
-- Splits one `.po` into `n` smaller files
-- Puts fragmented strings into batches to speed up the translation speed
-- Saving your time by reducing amount of Russian text you have to translate :)
-
+- Replaces Russian `msgstr` with counterparts in other languages.
+- Useful for syncing updated files to have less work.
 
 ---
 
@@ -55,36 +46,24 @@ python po_translator_gpt3.5
    git clone https://github.com/LocalizedTanki/Tanki-L10n-EN.git
    cd Tanki-L10n-EN
    ```
+
 2. **Install dependencies**
-   - Requires Python 3
-   - Install `polib` for Python:
-     ```bash
-     pip install polib
-     ```
-3. **Use the tools**
-   - All tools are located in the `tools/` directory. Run as shown in the usage examples above.
+   ```bash
+   pip install polib openai tqdm langdetect
+   ```
+
+3. **Place `.po` files in `input/` and run your tool of choice.**
 
 ---
 
 ## Contributing
 
-Contributions are welcome! To contribute:
-1. Fork this repository
-2. Create a new branch for your feature or fix
-3. Submit a pull request with a clear description
-
-Please follow existing code style and add docstrings/comments if you add or modify a  tool.
+Contributions are welcome! Open a pull request if you wanna contribute.
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-## Contact
-
-For questions, open an issue at [https://github.com/LocalizedTanki/Tanki-L10n-EN/issues](https://github.com/LocalizedTanki/Tanki-L10n-EN/issues)
+This project is licensed under the MIT License.
 
 ---
